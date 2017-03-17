@@ -1,0 +1,3 @@
+flip the block on edge [0, 3, 3]
+flip the book on edge [0, 3, 3]
+flip the blackboard on edge [0, 2, 3]

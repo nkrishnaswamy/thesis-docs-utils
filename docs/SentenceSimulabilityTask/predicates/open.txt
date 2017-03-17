@@ -1,0 +1,4 @@
+open the cup [1, 2, 3]
+open the book [3, 3, 3]
+open the bottle [3, 3, 3]
+open the banana [3, 1, 3]

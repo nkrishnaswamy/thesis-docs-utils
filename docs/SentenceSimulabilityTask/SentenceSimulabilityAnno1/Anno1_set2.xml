@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SentenceSimulabilityTask>
+<TEXT><![CDATA[put the block touching the block
+put the block touching the ball
+put the block touching the plate
+put the block touching the cup
+put the block touching the disc
+put the block touching the spoon
+put the block touching the book
+put the block touching the blackboard
+put the block touching the bottle
+put the block touching the grape
+put the block touching the apple
+put the block touching the banana
+put the block touching the table
+put the block touching the bowl
+put the block touching the knife
+put the block touching the pencil
+put the block touching the paper sheet
+put the ball touching the block
+put the ball touching the ball
+put the ball touching the plate
+put the ball touching the cup
+put the ball touching the disc
+put the ball touching the spoon
+put the ball touching the book
+put the ball touching the blackboard
+put the ball touching the bottle
+put the ball touching the grape
+put the ball touching the apple
+put the ball touching the banana
+put the ball touching the table
+put the ball touching the bowl
+put the ball touching the knife
+put the ball touching the pencil
+put the ball touching the paper sheet
+put the plate touching the block
+put the plate touching the ball
+put the plate touching the plate
+put the plate touching the cup
+put the plate touching the disc
+put the plate touching the spoon
+put the plate touching the book
+put the plate touching the blackboard
+put the plate touching the bottle
+put the plate touching the grape
+put the plate touching the apple
+put the plate touching the banana
+put the plate touching the table
+put the plate touching the bowl
+put the plate touching the knife
+put the plate touching the pencil
+put the plate touching the paper sheet
+put the cup touching the block
+put the cup touching the ball
+put the cup touching the plate
+put the cup touching the cup
+put the cup touching the disc
+put the cup touching the spoon
+put the cup touching the book
+put the cup touching the blackboard
+put the cup touching the bottle
+put the cup touching the grape
+put the cup touching the apple
+put the cup touching the banana
+put the cup touching the table
+put the cup touching the bowl
+put the cup touching the knife
+put the cup touching the pencil
+put the cup touching the paper sheet
+put the disc touching the block
+put the disc touching the ball
+put the disc touching the plate
+put the disc touching the cup
+put the disc touching the disc
+put the disc touching the spoon
+put the disc touching the book
+put the disc touching the blackboard
+put the disc touching the bottle
+put the disc touching the grape
+put the disc touching the apple
+put the disc touching the banana
+put the disc touching the table
+put the disc touching the bowl
+put the disc touching the knife
+put the disc touching the pencil
+put the disc touching the paper sheet
+put the spoon touching the block
+put the spoon touching the ball
+put the spoon touching the plate
+put the spoon touching the cup
+put the spoon touching the disc
+put the spoon touching the spoon
+put the spoon touching the book
+put the spoon touching the blackboard
+put the spoon touching the bottle
+put the spoon touching the grape
+put the spoon touching the apple
+put the spoon touching the banana
+put the spoon touching the table
+put the spoon touching the bowl
+put the spoon touching the knife
+put the spoon touching the pencil
+put the spoon touching the paper sheet
+put the book touching the block
+put the book touching the ball
+put the book touching the plate
+put the book touching the cup
+put the book touching the disc
+put the book touching the spoon
+put the book touching the book
+put the book touching the blackboard
+put the book touching the bottle
+put the book touching the grape
+put the book touching the apple
+put the book touching the banana
+put the book touching the table
+put the book touching the bowl
+put the book touching the knife
+put the book touching the pencil
+put the book touching the paper sheet
+put the blackboard touching the block
+put the blackboard touching the ball
+put the blackboard touching the plate
+put the blackboard touching the cup
+put the blackboard touching the disc
+put the blackboard touching the spoon
+put the blackboard touching the book
+put the blackboard touching the blackboard
+put the blackboard touching the bottle
+put the blackboard touching the grape
+put the blackboard touching the apple
+put the blackboard touching the banana
+put the blackboard touching the table
+put the blackboard touching the bowl
+put the blackboard touching the knife
+put the blackboard touching the pencil
+put the blackboard touching the paper sheet
+put the bottle touching the block
+put the bottle touching the ball
+put the bottle touching the plate
+put the bottle touching the cup
+put the bottle touching the disc
+put the bottle touching the spoon
+put the bottle touching the book
+put the bottle touching the blackboard
+put the bottle touching the bottle
+put the bottle touching the grape
+put the bottle touching the apple
+put the bottle touching the banana
+put the bottle touching the table
+put the bottle touching the bowl
+put the bottle touching the knife
+put the bottle touching the pencil
+put the bottle touching the paper sheet
+put the grape touching the block
+put the grape touching the ball
+put the grape touching the plate
+put the grape touching the cup
+put the grape touching the disc
+put the grape touching the spoon
+put the grape touching the book
+put the grape touching the blackboard
+put the grape touching the bottle
+put the grape touching the grape
+put the grape touching the apple
+put the grape touching the banana
+put the grape touching the table
+put the grape touching the bowl
+put the grape touching the knife
+put the grape touching the pencil
+put the grape touching the paper sheet
+put the apple touching the block
+put the apple touching the ball
+put the apple touching the plate
+put the apple touching the cup
+put the apple touching the disc
+put the apple touching the spoon
+put the apple touching the book
+put the apple touching the blackboard
+put the apple touching the bottle
+put the apple touching the grape
+put the apple touching the apple
+put the apple touching the banana
+put the apple touching the table
+put the apple touching the bowl
+put the apple touching the knife
+put the apple touching the pencil
+put the apple touching the paper sheet
+put the banana touching the block
+put the banana touching the ball
+put the banana touching the plate
+put the banana touching the cup
+put the banana touching the disc
+put the banana touching the spoon
+put the banana touching the book
+put the banana touching the blackboard
+put the banana touching the bottle
+put the banana touching the grape
+put the banana touching the apple
+put the banana touching the banana
+put the banana touching the table
+put the banana touching the bowl
+put the banana touching the knife
+put the banana touching the pencil
+put the banana touching the paper sheet
+put the table touching the block
+put the table touching the ball
+put the table touching the plate
+put the table touching the cup
+put the table touching the disc
+put the table touching the spoon
+put the table touching the book
+put the table touching the blackboard
+put the table touching the bottle
+put the table touching the grape
+put the table touching the apple
+put the table touching the banana
+put the table touching the table
+put the table touching the bowl
+put the table touching the knife
+put the table touching the pencil
+put the table touching the paper sheet
+put the bowl touching the block
+put the bowl touching the ball
+put the bowl touching the plate
+put the bowl touching the cup
+put the bowl touching the disc
+put the bowl touching the spoon
+put the bowl touching the book
+put the bowl touching the blackboard
+put the bowl touching the bottle
+put the bowl touching the grape
+put the bowl touching the apple
+put the bowl touching the banana
+put the bowl touching the table
+put the bowl touching the bowl
+put the bowl touching the knife
+put the bowl touching the pencil
+put the bowl touching the paper sheet
+put the knife touching the block
+put the knife touching the ball
+put the knife touching the plate
+put the knife touching the cup
+put the knife touching the disc
+put the knife touching the spoon
+put the knife touching the book
+put the knife touching the blackboard
+put the knife touching the bottle
+put the knife touching the grape
+put the knife touching the apple
+put the knife touching the banana
+put the knife touching the table
+put the knife touching the bowl
+put the knife touching the knife
+put the knife touching the pencil
+put the knife touching the paper sheet
+put the pencil touching the block
+put the pencil touching the ball
+put the pencil touching the plate
+put the pencil touching the cup
+put the pencil touching the disc
+put the pencil touching the spoon
+put the pencil touching the book
+put the pencil touching the blackboard
+put the pencil touching the bottle
+put the pencil touching the grape
+put the pencil touching the apple
+put the pencil touching the banana
+put the pencil touching the table
+put the pencil touching the bowl
+put the pencil touching the knife
+put the pencil touching the pencil
+put the pencil touching the paper sheet
+put the paper sheet touching the block
+put the paper sheet touching the ball
+put the paper sheet touching the plate
+put the paper sheet touching the cup
+put the paper sheet touching the disc
+put the paper sheet touching the spoon
+put the paper sheet touching the book
+put the paper sheet touching the blackboard
+put the paper sheet touching the bottle
+put the paper sheet touching the grape
+put the paper sheet touching the apple
+put the paper sheet touching the banana
+put the paper sheet touching the table
+put the paper sheet touching the bowl
+put the paper sheet touching the knife
+put the paper sheet touching the pencil
+put the paper sheet touching the paper sheet
+]]></TEXT>
+<TAGS>
+<SENTENCE id="S0" spans="0~32" text="put the block touching the block" judgement="ungrammatical" />
+<SENTENCE id="S1" spans="33~64" text="put the block touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S2" spans="65~97" text="put the block touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S3" spans="98~128" text="put the block touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S4" spans="129~160" text="put the block touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S5" spans="161~193" text="put the block touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S6" spans="194~225" text="put the block touching the book" judgement="ungrammatical" />
+<SENTENCE id="S7" spans="226~263" text="put the block touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S8" spans="264~297" text="put the block touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S9" spans="298~330" text="put the block touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S10" spans="331~363" text="put the block touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S11" spans="364~397" text="put the block touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S12" spans="398~430" text="put the block touching the table" judgement="ungrammatical" />
+<SENTENCE id="S13" spans="431~462" text="put the block touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S14" spans="463~495" text="put the block touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S15" spans="496~529" text="put the block touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S16" spans="530~568" text="put the block touching the paper sheet" judgement="ungrammatical" />
+<SENTENCE id="S17" spans="569~600" text="put the ball touching the block" judgement="ungrammatical" />
+<SENTENCE id="S18" spans="601~631" text="put the ball touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S19" spans="632~663" text="put the ball touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S20" spans="664~693" text="put the ball touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S21" spans="694~724" text="put the ball touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S22" spans="725~756" text="put the ball touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S23" spans="757~787" text="put the ball touching the book" judgement="ungrammatical" />
+<SENTENCE id="S24" spans="788~824" text="put the ball touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S25" spans="825~857" text="put the ball touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S26" spans="858~889" text="put the ball touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S27" spans="890~921" text="put the ball touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S28" spans="922~954" text="put the ball touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S29" spans="955~986" text="put the ball touching the table" judgement="ungrammatical" />
+<SENTENCE id="S30" spans="987~1017" text="put the ball touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S31" spans="1018~1049" text="put the ball touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S32" spans="1050~1082" text="put the ball touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S33" spans="1083~1120" text="put the ball touching the paper sheet" judgement="ungrammatical" />
+<SENTENCE id="S34" spans="1121~1153" text="put the plate touching the block" judgement="ungrammatical" />
+<SENTENCE id="S35" spans="1154~1185" text="put the plate touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S36" spans="1186~1218" text="put the plate touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S37" spans="1219~1249" text="put the plate touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S38" spans="1250~1281" text="put the plate touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S39" spans="1282~1314" text="put the plate touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S40" spans="1315~1346" text="put the plate touching the book" judgement="ungrammatical" />
+<SENTENCE id="S41" spans="1347~1384" text="put the plate touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S42" spans="1385~1418" text="put the plate touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S43" spans="1419~1451" text="put the plate touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S44" spans="1452~1484" text="put the plate touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S45" spans="1485~1518" text="put the plate touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S46" spans="1519~1551" text="put the plate touching the table" judgement="ungrammatical" />
+<SENTENCE id="S47" spans="1552~1583" text="put the plate touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S48" spans="1584~1616" text="put the plate touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S49" spans="1617~1650" text="put the plate touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S50" spans="1651~1689" text="put the plate touching the paper sheet" judgement="ungrammatical" />
+<SENTENCE id="S51" spans="1690~1720" text="put the cup touching the block" judgement="ungrammatical" />
+<SENTENCE id="S52" spans="1721~1750" text="put the cup touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S53" spans="1751~1781" text="put the cup touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S54" spans="1782~1810" text="put the cup touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S55" spans="1811~1840" text="put the cup touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S56" spans="1841~1871" text="put the cup touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S57" spans="1872~1901" text="put the cup touching the book" judgement="ungrammatical" />
+<SENTENCE id="S58" spans="1902~1937" text="put the cup touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S59" spans="1938~1969" text="put the cup touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S60" spans="1970~2000" text="put the cup touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S61" spans="2001~2031" text="put the cup touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S62" spans="2032~2063" text="put the cup touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S63" spans="2064~2094" text="put the cup touching the table" judgement="ungrammatical" />
+<SENTENCE id="S64" spans="2095~2124" text="put the cup touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S65" spans="2125~2155" text="put the cup touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S66" spans="2156~2187" text="put the cup touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S67" spans="2188~2224" text="put the cup touching the paper sheet" judgement="ungrammatical" />
+<SENTENCE id="S68" spans="2225~2256" text="put the disc touching the block" judgement="ungrammatical" />
+<SENTENCE id="S69" spans="2257~2287" text="put the disc touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S70" spans="2288~2319" text="put the disc touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S71" spans="2320~2349" text="put the disc touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S72" spans="2350~2380" text="put the disc touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S73" spans="2381~2412" text="put the disc touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S74" spans="2413~2443" text="put the disc touching the book" judgement="ungrammatical" />
+<SENTENCE id="S75" spans="2444~2480" text="put the disc touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S76" spans="2481~2513" text="put the disc touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S77" spans="2514~2545" text="put the disc touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S78" spans="2546~2577" text="put the disc touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S79" spans="2578~2610" text="put the disc touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S80" spans="2611~2642" text="put the disc touching the table" judgement="ungrammatical" />
+<SENTENCE id="S81" spans="2643~2673" text="put the disc touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S82" spans="2674~2705" text="put the disc touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S83" spans="2706~2738" text="put the disc touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S84" spans="2739~2776" text="put the disc touching the paper sheet" judgement="ungrammatical" />
+<SENTENCE id="S85" spans="2777~2809" text="put the spoon touching the block" judgement="ungrammatical" />
+<SENTENCE id="S86" spans="2810~2841" text="put the spoon touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S87" spans="2842~2874" text="put the spoon touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S88" spans="2875~2905" text="put the spoon touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S89" spans="2906~2937" text="put the spoon touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S90" spans="2938~2970" text="put the spoon touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S91" spans="2971~3002" text="put the spoon touching the book" judgement="ungrammatical" />
+<SENTENCE id="S92" spans="3003~3040" text="put the spoon touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S93" spans="3041~3074" text="put the spoon touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S94" spans="3075~3107" text="put the spoon touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S95" spans="3108~3140" text="put the spoon touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S96" spans="3141~3174" text="put the spoon touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S97" spans="3175~3207" text="put the spoon touching the table" judgement="ungrammatical" />
+<SENTENCE id="S98" spans="3208~3239" text="put the spoon touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S99" spans="3240~3272" text="put the spoon touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S100" spans="3273~3306" text="put the spoon touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S101" spans="3307~3345" text="put the spoon touching the paper sheet" judgement="ungrammatical" />
+<SENTENCE id="S102" spans="3346~3377" text="put the book touching the block" judgement="ungrammatical" />
+<SENTENCE id="S103" spans="3378~3408" text="put the book touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S104" spans="3409~3440" text="put the book touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S105" spans="3441~3470" text="put the book touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S106" spans="3471~3501" text="put the book touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S107" spans="3502~3533" text="put the book touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S108" spans="3534~3564" text="put the book touching the book" judgement="ungrammatical" />
+<SENTENCE id="S109" spans="3565~3601" text="put the book touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S110" spans="3602~3634" text="put the book touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S111" spans="3635~3666" text="put the book touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S112" spans="3667~3698" text="put the book touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S113" spans="3699~3731" text="put the book touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S114" spans="3732~3763" text="put the book touching the table" judgement="ungrammatical" />
+<SENTENCE id="S115" spans="3764~3794" text="put the book touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S116" spans="3795~3826" text="put the book touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S117" spans="3827~3859" text="put the book touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S118" spans="3860~3897" text="put the book touching the paper sheet" judgement="ungrammatical" />
+<SENTENCE id="S119" spans="3898~3935" text="put the blackboard touching the block" judgement="ungrammatical" />
+<SENTENCE id="S120" spans="3936~3972" text="put the blackboard touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S121" spans="3973~4010" text="put the blackboard touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S122" spans="4011~4046" text="put the blackboard touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S123" spans="4047~4083" text="put the blackboard touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S124" spans="4084~4121" text="put the blackboard touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S125" spans="4122~4158" text="put the blackboard touching the book" judgement="ungrammatical" />
+<SENTENCE id="S126" spans="4159~4201" text="put the blackboard touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S127" spans="4202~4240" text="put the blackboard touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S128" spans="4241~4278" text="put the blackboard touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S129" spans="4279~4316" text="put the blackboard touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S130" spans="4317~4355" text="put the blackboard touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S131" spans="4356~4393" text="put the blackboard touching the table" judgement="ungrammatical" />
+<SENTENCE id="S132" spans="4394~4430" text="put the blackboard touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S133" spans="4431~4468" text="put the blackboard touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S134" spans="4469~4507" text="put the blackboard touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S135" spans="4508~4551" text="put the blackboard touching the paper sheet" judgement="ungrammatical" />
+<SENTENCE id="S136" spans="4552~4585" text="put the bottle touching the block" judgement="ungrammatical" />
+<SENTENCE id="S137" spans="4586~4618" text="put the bottle touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S138" spans="4619~4652" text="put the bottle touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S139" spans="4653~4684" text="put the bottle touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S140" spans="4685~4717" text="put the bottle touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S141" spans="4718~4751" text="put the bottle touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S142" spans="4752~4784" text="put the bottle touching the book" judgement="ungrammatical" />
+<SENTENCE id="S143" spans="4785~4823" text="put the bottle touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S144" spans="4824~4858" text="put the bottle touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S145" spans="4859~4892" text="put the bottle touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S146" spans="4893~4926" text="put the bottle touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S147" spans="4927~4961" text="put the bottle touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S148" spans="4962~4995" text="put the bottle touching the table" judgement="ungrammatical" />
+<SENTENCE id="S149" spans="4996~5028" text="put the bottle touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S150" spans="5029~5062" text="put the bottle touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S151" spans="5063~5097" text="put the bottle touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S152" spans="5098~5137" text="put the bottle touching the paper sheet" judgement="ungrammatical" />
+<SENTENCE id="S153" spans="5138~5170" text="put the grape touching the block" judgement="ungrammatical" />
+<SENTENCE id="S154" spans="5171~5202" text="put the grape touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S155" spans="5203~5235" text="put the grape touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S156" spans="5236~5266" text="put the grape touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S157" spans="5267~5298" text="put the grape touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S158" spans="5299~5331" text="put the grape touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S159" spans="5332~5363" text="put the grape touching the book" judgement="ungrammatical" />
+<SENTENCE id="S160" spans="5364~5401" text="put the grape touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S161" spans="5402~5435" text="put the grape touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S162" spans="5436~5468" text="put the grape touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S163" spans="5469~5501" text="put the grape touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S164" spans="5502~5535" text="put the grape touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S165" spans="5536~5568" text="put the grape touching the table" judgement="ungrammatical" />
+<SENTENCE id="S166" spans="5569~5600" text="put the grape touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S167" spans="5601~5633" text="put the grape touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S168" spans="5634~5667" text="put the grape touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S169" spans="5668~5706" text="put the grape touching the paper sheet" judgement="ungrammatical" />
+<SENTENCE id="S170" spans="5707~5739" text="put the apple touching the block" judgement="ungrammatical" />
+<SENTENCE id="S171" spans="5740~5771" text="put the apple touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S172" spans="5772~5804" text="put the apple touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S173" spans="5805~5835" text="put the apple touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S174" spans="5836~5867" text="put the apple touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S175" spans="5868~5900" text="put the apple touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S176" spans="5901~5932" text="put the apple touching the book" judgement="ungrammatical" />
+<SENTENCE id="S177" spans="5933~5970" text="put the apple touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S178" spans="5971~6004" text="put the apple touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S179" spans="6005~6037" text="put the apple touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S180" spans="6038~6070" text="put the apple touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S181" spans="6071~6104" text="put the apple touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S182" spans="6105~6137" text="put the apple touching the table" judgement="ungrammatical" />
+<SENTENCE id="S183" spans="6138~6169" text="put the apple touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S184" spans="6170~6202" text="put the apple touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S185" spans="6203~6236" text="put the apple touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S186" spans="6237~6275" text="put the apple touching the paper sheet" judgement="ungrammatical" />
+<SENTENCE id="S187" spans="6276~6309" text="put the banana touching the block" judgement="ungrammatical" />
+<SENTENCE id="S188" spans="6310~6342" text="put the banana touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S189" spans="6343~6376" text="put the banana touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S190" spans="6377~6408" text="put the banana touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S191" spans="6409~6441" text="put the banana touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S192" spans="6442~6475" text="put the banana touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S193" spans="6476~6508" text="put the banana touching the book" judgement="ungrammatical" />
+<SENTENCE id="S194" spans="6509~6547" text="put the banana touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S195" spans="6548~6582" text="put the banana touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S196" spans="6583~6616" text="put the banana touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S197" spans="6617~6650" text="put the banana touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S198" spans="6651~6685" text="put the banana touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S199" spans="6686~6719" text="put the banana touching the table" judgement="ungrammatical" />
+<SENTENCE id="S200" spans="6720~6752" text="put the banana touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S201" spans="6753~6786" text="put the banana touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S202" spans="6787~6821" text="put the banana touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S203" spans="6822~6861" text="put the banana touching the paper sheet" judgement="ungrammatical" />
+<SENTENCE id="S204" spans="6862~6894" text="put the table touching the block" judgement="ungrammatical" />
+<SENTENCE id="S205" spans="6895~6926" text="put the table touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S206" spans="6927~6959" text="put the table touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S207" spans="6960~6990" text="put the table touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S208" spans="6991~7022" text="put the table touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S209" spans="7023~7055" text="put the table touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S210" spans="7056~7087" text="put the table touching the book" judgement="ungrammatical" />
+<SENTENCE id="S211" spans="7088~7125" text="put the table touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S212" spans="7126~7159" text="put the table touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S213" spans="7160~7192" text="put the table touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S214" spans="7193~7225" text="put the table touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S215" spans="7226~7259" text="put the table touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S216" spans="7260~7292" text="put the table touching the table" judgement="ungrammatical" />
+<SENTENCE id="S217" spans="7293~7324" text="put the table touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S218" spans="7325~7357" text="put the table touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S219" spans="7358~7391" text="put the table touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S220" spans="7392~7430" text="put the table touching the paper sheet" judgement="ungrammatical" />
+<SENTENCE id="S221" spans="7431~7462" text="put the bowl touching the block" judgement="ungrammatical" />
+<SENTENCE id="S222" spans="7463~7493" text="put the bowl touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S223" spans="7494~7525" text="put the bowl touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S224" spans="7526~7555" text="put the bowl touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S225" spans="7556~7586" text="put the bowl touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S226" spans="7587~7618" text="put the bowl touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S227" spans="7619~7649" text="put the bowl touching the book" judgement="ungrammatical" />
+<SENTENCE id="S228" spans="7650~7686" text="put the bowl touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S229" spans="7687~7719" text="put the bowl touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S230" spans="7720~7751" text="put the bowl touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S231" spans="7752~7783" text="put the bowl touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S232" spans="7784~7816" text="put the bowl touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S233" spans="7817~7848" text="put the bowl touching the table" judgement="ungrammatical" />
+<SENTENCE id="S234" spans="7849~7879" text="put the bowl touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S235" spans="7880~7911" text="put the bowl touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S236" spans="7912~7944" text="put the bowl touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S237" spans="7945~7982" text="put the bowl touching the paper sheet" judgement="ungrammatical" />
+<SENTENCE id="S238" spans="7983~8015" text="put the knife touching the block" judgement="ungrammatical" />
+<SENTENCE id="S239" spans="8016~8047" text="put the knife touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S240" spans="8048~8080" text="put the knife touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S241" spans="8081~8111" text="put the knife touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S242" spans="8112~8143" text="put the knife touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S243" spans="8144~8176" text="put the knife touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S244" spans="8177~8208" text="put the knife touching the book" judgement="ungrammatical" />
+<SENTENCE id="S245" spans="8209~8246" text="put the knife touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S246" spans="8247~8280" text="put the knife touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S247" spans="8281~8313" text="put the knife touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S248" spans="8314~8346" text="put the knife touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S249" spans="8347~8380" text="put the knife touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S250" spans="8381~8413" text="put the knife touching the table" judgement="ungrammatical" />
+<SENTENCE id="S251" spans="8414~8445" text="put the knife touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S252" spans="8446~8478" text="put the knife touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S253" spans="8479~8512" text="put the knife touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S254" spans="8513~8551" text="put the knife touching the paper sheet" judgement="ungrammatical" />
+<SENTENCE id="S255" spans="8552~8585" text="put the pencil touching the block" judgement="ungrammatical" />
+<SENTENCE id="S256" spans="8586~8618" text="put the pencil touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S257" spans="8619~8652" text="put the pencil touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S258" spans="8653~8684" text="put the pencil touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S259" spans="8685~8717" text="put the pencil touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S260" spans="8718~8751" text="put the pencil touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S261" spans="8752~8784" text="put the pencil touching the book" judgement="ungrammatical" />
+<SENTENCE id="S262" spans="8785~8823" text="put the pencil touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S263" spans="8824~8858" text="put the pencil touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S264" spans="8859~8892" text="put the pencil touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S265" spans="8893~8926" text="put the pencil touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S266" spans="8927~8961" text="put the pencil touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S267" spans="8962~8995" text="put the pencil touching the table" judgement="ungrammatical" />
+<SENTENCE id="S268" spans="8996~9028" text="put the pencil touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S269" spans="9029~9062" text="put the pencil touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S270" spans="9063~9097" text="put the pencil touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S271" spans="9098~9137" text="put the pencil touching the paper sheet" judgement="ungrammatical" />
+<SENTENCE id="S272" spans="9138~9176" text="put the paper sheet touching the block" judgement="ungrammatical" />
+<SENTENCE id="S273" spans="9177~9214" text="put the paper sheet touching the ball" judgement="ungrammatical" />
+<SENTENCE id="S274" spans="9215~9253" text="put the paper sheet touching the plate" judgement="ungrammatical" />
+<SENTENCE id="S275" spans="9254~9290" text="put the paper sheet touching the cup" judgement="ungrammatical" />
+<SENTENCE id="S276" spans="9291~9328" text="put the paper sheet touching the disc" judgement="ungrammatical" />
+<SENTENCE id="S277" spans="9329~9367" text="put the paper sheet touching the spoon" judgement="ungrammatical" />
+<SENTENCE id="S278" spans="9368~9405" text="put the paper sheet touching the book" judgement="ungrammatical" />
+<SENTENCE id="S279" spans="9406~9449" text="put the paper sheet touching the blackboard" judgement="ungrammatical" />
+<SENTENCE id="S280" spans="9450~9489" text="put the paper sheet touching the bottle" judgement="ungrammatical" />
+<SENTENCE id="S281" spans="9490~9528" text="put the paper sheet touching the grape" judgement="ungrammatical" />
+<SENTENCE id="S282" spans="9529~9567" text="put the paper sheet touching the apple" judgement="ungrammatical" />
+<SENTENCE id="S283" spans="9568~9607" text="put the paper sheet touching the banana" judgement="ungrammatical" />
+<SENTENCE id="S284" spans="9608~9646" text="put the paper sheet touching the table" judgement="ungrammatical" />
+<SENTENCE id="S285" spans="9647~9684" text="put the paper sheet touching the bowl" judgement="ungrammatical" />
+<SENTENCE id="S286" spans="9685~9723" text="put the paper sheet touching the knife" judgement="ungrammatical" />
+<SENTENCE id="S287" spans="9724~9763" text="put the paper sheet touching the pencil" judgement="ungrammatical" />
+<SENTENCE id="S288" spans="9764~9808" text="put the paper sheet touching the paper sheet" judgement="ungrammatical" />
+</TAGS>
+</SentenceSimulabilityTask>

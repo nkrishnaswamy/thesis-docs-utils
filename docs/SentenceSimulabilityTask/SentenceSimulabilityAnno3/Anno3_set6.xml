@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SentenceSimulabilityTask>
+<TEXT><![CDATA[put the block in front of the block
+put the block in front of the ball
+put the block in front of the plate
+put the block in front of the cup
+put the block in front of the disc
+put the block in front of the spoon
+put the block in front of the book
+put the block in front of the blackboard
+put the block in front of the bottle
+put the block in front of the grape
+put the block in front of the apple
+put the block in front of the banana
+put the block in front of the table
+put the block in front of the bowl
+put the block in front of the knife
+put the block in front of the pencil
+put the block in front of the paper sheet
+put the ball in front of the block
+put the ball in front of the ball
+put the ball in front of the plate
+put the ball in front of the cup
+put the ball in front of the disc
+put the ball in front of the spoon
+put the ball in front of the book
+put the ball in front of the blackboard
+put the ball in front of the bottle
+put the ball in front of the grape
+put the ball in front of the apple
+put the ball in front of the banana
+put the ball in front of the table
+put the ball in front of the bowl
+put the ball in front of the knife
+put the ball in front of the pencil
+put the ball in front of the paper sheet
+put the plate in front of the block
+put the plate in front of the ball
+put the plate in front of the plate
+put the plate in front of the cup
+put the plate in front of the disc
+put the plate in front of the spoon
+put the plate in front of the book
+put the plate in front of the blackboard
+put the plate in front of the bottle
+put the plate in front of the grape
+put the plate in front of the apple
+put the plate in front of the banana
+put the plate in front of the table
+put the plate in front of the bowl
+put the plate in front of the knife
+put the plate in front of the pencil
+put the plate in front of the paper sheet
+put the cup in front of the block
+put the cup in front of the ball
+put the cup in front of the plate
+put the cup in front of the cup
+put the cup in front of the disc
+put the cup in front of the spoon
+put the cup in front of the book
+put the cup in front of the blackboard
+put the cup in front of the bottle
+put the cup in front of the grape
+put the cup in front of the apple
+put the cup in front of the banana
+put the cup in front of the table
+put the cup in front of the bowl
+put the cup in front of the knife
+put the cup in front of the pencil
+put the cup in front of the paper sheet
+put the disc in front of the block
+put the disc in front of the ball
+put the disc in front of the plate
+put the disc in front of the cup
+put the disc in front of the disc
+put the disc in front of the spoon
+put the disc in front of the book
+put the disc in front of the blackboard
+put the disc in front of the bottle
+put the disc in front of the grape
+put the disc in front of the apple
+put the disc in front of the banana
+put the disc in front of the table
+put the disc in front of the bowl
+put the disc in front of the knife
+put the disc in front of the pencil
+put the disc in front of the paper sheet
+put the spoon in front of the block
+put the spoon in front of the ball
+put the spoon in front of the plate
+put the spoon in front of the cup
+put the spoon in front of the disc
+put the spoon in front of the spoon
+put the spoon in front of the book
+put the spoon in front of the blackboard
+put the spoon in front of the bottle
+put the spoon in front of the grape
+put the spoon in front of the apple
+put the spoon in front of the banana
+put the spoon in front of the table
+put the spoon in front of the bowl
+put the spoon in front of the knife
+put the spoon in front of the pencil
+put the spoon in front of the paper sheet
+put the book in front of the block
+put the book in front of the ball
+put the book in front of the plate
+put the book in front of the cup
+put the book in front of the disc
+put the book in front of the spoon
+put the book in front of the book
+put the book in front of the blackboard
+put the book in front of the bottle
+put the book in front of the grape
+put the book in front of the apple
+put the book in front of the banana
+put the book in front of the table
+put the book in front of the bowl
+put the book in front of the knife
+put the book in front of the pencil
+put the book in front of the paper sheet
+put the blackboard in front of the block
+put the blackboard in front of the ball
+put the blackboard in front of the plate
+put the blackboard in front of the cup
+put the blackboard in front of the disc
+put the blackboard in front of the spoon
+put the blackboard in front of the book
+put the blackboard in front of the blackboard
+put the blackboard in front of the bottle
+put the blackboard in front of the grape
+put the blackboard in front of the apple
+put the blackboard in front of the banana
+put the blackboard in front of the table
+put the blackboard in front of the bowl
+put the blackboard in front of the knife
+put the blackboard in front of the pencil
+put the blackboard in front of the paper sheet
+put the bottle in front of the block
+put the bottle in front of the ball
+put the bottle in front of the plate
+put the bottle in front of the cup
+put the bottle in front of the disc
+put the bottle in front of the spoon
+put the bottle in front of the book
+put the bottle in front of the blackboard
+put the bottle in front of the bottle
+put the bottle in front of the grape
+put the bottle in front of the apple
+put the bottle in front of the banana
+put the bottle in front of the table
+put the bottle in front of the bowl
+put the bottle in front of the knife
+put the bottle in front of the pencil
+put the bottle in front of the paper sheet
+put the grape in front of the block
+put the grape in front of the ball
+put the grape in front of the plate
+put the grape in front of the cup
+put the grape in front of the disc
+put the grape in front of the spoon
+put the grape in front of the book
+put the grape in front of the blackboard
+put the grape in front of the bottle
+put the grape in front of the grape
+put the grape in front of the apple
+put the grape in front of the banana
+put the grape in front of the table
+put the grape in front of the bowl
+put the grape in front of the knife
+put the grape in front of the pencil
+put the grape in front of the paper sheet
+put the apple in front of the block
+put the apple in front of the ball
+put the apple in front of the plate
+put the apple in front of the cup
+put the apple in front of the disc
+put the apple in front of the spoon
+put the apple in front of the book
+put the apple in front of the blackboard
+put the apple in front of the bottle
+put the apple in front of the grape
+put the apple in front of the apple
+put the apple in front of the banana
+put the apple in front of the table
+put the apple in front of the bowl
+put the apple in front of the knife
+put the apple in front of the pencil
+put the apple in front of the paper sheet
+put the banana in front of the block
+put the banana in front of the ball
+put the banana in front of the plate
+put the banana in front of the cup
+put the banana in front of the disc
+put the banana in front of the spoon
+put the banana in front of the book
+put the banana in front of the blackboard
+put the banana in front of the bottle
+put the banana in front of the grape
+put the banana in front of the apple
+put the banana in front of the banana
+put the banana in front of the table
+put the banana in front of the bowl
+put the banana in front of the knife
+put the banana in front of the pencil
+put the banana in front of the paper sheet
+put the table in front of the block
+put the table in front of the ball
+put the table in front of the plate
+put the table in front of the cup
+put the table in front of the disc
+put the table in front of the spoon
+put the table in front of the book
+put the table in front of the blackboard
+put the table in front of the bottle
+put the table in front of the grape
+put the table in front of the apple
+put the table in front of the banana
+put the table in front of the table
+put the table in front of the bowl
+put the table in front of the knife
+put the table in front of the pencil
+put the table in front of the paper sheet
+put the bowl in front of the block
+put the bowl in front of the ball
+put the bowl in front of the plate
+put the bowl in front of the cup
+put the bowl in front of the disc
+put the bowl in front of the spoon
+put the bowl in front of the book
+put the bowl in front of the blackboard
+put the bowl in front of the bottle
+put the bowl in front of the grape
+put the bowl in front of the apple
+put the bowl in front of the banana
+put the bowl in front of the table
+put the bowl in front of the bowl
+put the bowl in front of the knife
+put the bowl in front of the pencil
+put the bowl in front of the paper sheet
+put the knife in front of the block
+put the knife in front of the ball
+put the knife in front of the plate
+put the knife in front of the cup
+put the knife in front of the disc
+put the knife in front of the spoon
+put the knife in front of the book
+put the knife in front of the blackboard
+put the knife in front of the bottle
+put the knife in front of the grape
+put the knife in front of the apple
+put the knife in front of the banana
+put the knife in front of the table
+put the knife in front of the bowl
+put the knife in front of the knife
+put the knife in front of the pencil
+put the knife in front of the paper sheet
+put the pencil in front of the block
+put the pencil in front of the ball
+put the pencil in front of the plate
+put the pencil in front of the cup
+put the pencil in front of the disc
+put the pencil in front of the spoon
+put the pencil in front of the book
+put the pencil in front of the blackboard
+put the pencil in front of the bottle
+put the pencil in front of the grape
+put the pencil in front of the apple
+put the pencil in front of the banana
+put the pencil in front of the table
+put the pencil in front of the bowl
+put the pencil in front of the knife
+put the pencil in front of the pencil
+put the pencil in front of the paper sheet
+put the paper sheet in front of the block
+put the paper sheet in front of the ball
+put the paper sheet in front of the plate
+put the paper sheet in front of the cup
+put the paper sheet in front of the disc
+put the paper sheet in front of the spoon
+put the paper sheet in front of the book
+put the paper sheet in front of the blackboard
+put the paper sheet in front of the bottle
+put the paper sheet in front of the grape
+put the paper sheet in front of the apple
+put the paper sheet in front of the banana
+put the paper sheet in front of the table
+put the paper sheet in front of the bowl
+put the paper sheet in front of the knife
+put the paper sheet in front of the pencil
+put the paper sheet in front of the paper sheet
+]]></TEXT>
+<TAGS>
+<SENTENCE id="S0" spans="0~35" text="put the block in front of the block" judgement="fine" />
+<SENTENCE id="S1" spans="36~70" text="put the block in front of the ball" judgement="fine" />
+<SENTENCE id="S2" spans="71~106" text="put the block in front of the plate" judgement="fine" />
+<SENTENCE id="S3" spans="107~140" text="put the block in front of the cup" judgement="fine" />
+<SENTENCE id="S4" spans="141~175" text="put the block in front of the disc" judgement="fine" />
+<SENTENCE id="S5" spans="176~211" text="put the block in front of the spoon" judgement="fine" />
+<SENTENCE id="S6" spans="212~246" text="put the block in front of the book" judgement="fine" />
+<SENTENCE id="S7" spans="247~287" text="put the block in front of the blackboard" judgement="fine" />
+<SENTENCE id="S8" spans="288~324" text="put the block in front of the bottle" judgement="fine" />
+<SENTENCE id="S9" spans="325~360" text="put the block in front of the grape" judgement="fine" />
+<SENTENCE id="S10" spans="361~396" text="put the block in front of the apple" judgement="fine" />
+<SENTENCE id="S11" spans="397~433" text="put the block in front of the banana" judgement="fine" />
+<SENTENCE id="S12" spans="434~469" text="put the block in front of the table" judgement="fine" />
+<SENTENCE id="S13" spans="470~504" text="put the block in front of the bowl" judgement="fine" />
+<SENTENCE id="S14" spans="505~540" text="put the block in front of the knife" judgement="fine" />
+<SENTENCE id="S15" spans="541~577" text="put the block in front of the pencil" judgement="fine" />
+<SENTENCE id="S16" spans="578~619" text="put the block in front of the paper sheet" judgement="fine" />
+<SENTENCE id="S17" spans="620~654" text="put the ball in front of the block" judgement="fine" />
+<SENTENCE id="S18" spans="655~688" text="put the ball in front of the ball" judgement="fine" />
+<SENTENCE id="S19" spans="689~723" text="put the ball in front of the plate" judgement="fine" />
+<SENTENCE id="S20" spans="724~756" text="put the ball in front of the cup" judgement="fine" />
+<SENTENCE id="S21" spans="757~790" text="put the ball in front of the disc" judgement="fine" />
+<SENTENCE id="S22" spans="791~825" text="put the ball in front of the spoon" judgement="fine" />
+<SENTENCE id="S23" spans="826~859" text="put the ball in front of the book" judgement="fine" />
+<SENTENCE id="S24" spans="860~899" text="put the ball in front of the blackboard" judgement="fine" />
+<SENTENCE id="S25" spans="900~935" text="put the ball in front of the bottle" judgement="fine" />
+<SENTENCE id="S26" spans="936~970" text="put the ball in front of the grape" judgement="fine" />
+<SENTENCE id="S27" spans="971~1005" text="put the ball in front of the apple" judgement="fine" />
+<SENTENCE id="S28" spans="1006~1041" text="put the ball in front of the banana" judgement="fine" />
+<SENTENCE id="S29" spans="1042~1076" text="put the ball in front of the table" judgement="fine" />
+<SENTENCE id="S30" spans="1077~1110" text="put the ball in front of the bowl" judgement="fine" />
+<SENTENCE id="S31" spans="1111~1145" text="put the ball in front of the knife" judgement="fine" />
+<SENTENCE id="S32" spans="1146~1181" text="put the ball in front of the pencil" judgement="fine" />
+<SENTENCE id="S33" spans="1182~1222" text="put the ball in front of the paper sheet" judgement="fine" />
+<SENTENCE id="S34" spans="1223~1258" text="put the plate in front of the block" judgement="fine" />
+<SENTENCE id="S35" spans="1259~1293" text="put the plate in front of the ball" judgement="fine" />
+<SENTENCE id="S36" spans="1294~1329" text="put the plate in front of the plate" judgement="fine" />
+<SENTENCE id="S37" spans="1330~1363" text="put the plate in front of the cup" judgement="fine" />
+<SENTENCE id="S38" spans="1364~1398" text="put the plate in front of the disc" judgement="fine" />
+<SENTENCE id="S39" spans="1399~1434" text="put the plate in front of the spoon" judgement="fine" />
+<SENTENCE id="S40" spans="1435~1469" text="put the plate in front of the book" judgement="fine" />
+<SENTENCE id="S41" spans="1470~1510" text="put the plate in front of the blackboard" judgement="fine" />
+<SENTENCE id="S42" spans="1511~1547" text="put the plate in front of the bottle" judgement="fine" />
+<SENTENCE id="S43" spans="1548~1583" text="put the plate in front of the grape" judgement="fine" />
+<SENTENCE id="S44" spans="1584~1619" text="put the plate in front of the apple" judgement="fine" />
+<SENTENCE id="S45" spans="1620~1656" text="put the plate in front of the banana" judgement="fine" />
+<SENTENCE id="S46" spans="1657~1692" text="put the plate in front of the table" judgement="fine" />
+<SENTENCE id="S47" spans="1693~1727" text="put the plate in front of the bowl" judgement="fine" />
+<SENTENCE id="S48" spans="1728~1763" text="put the plate in front of the knife" judgement="fine" />
+<SENTENCE id="S49" spans="1764~1800" text="put the plate in front of the pencil" judgement="fine" />
+<SENTENCE id="S50" spans="1801~1842" text="put the plate in front of the paper sheet" judgement="fine" />
+<SENTENCE id="S51" spans="1843~1876" text="put the cup in front of the block" judgement="fine" />
+<SENTENCE id="S52" spans="1877~1909" text="put the cup in front of the ball" judgement="fine" />
+<SENTENCE id="S53" spans="1910~1943" text="put the cup in front of the plate" judgement="fine" />
+<SENTENCE id="S54" spans="1944~1975" text="put the cup in front of the cup" judgement="fine" />
+<SENTENCE id="S55" spans="1976~2008" text="put the cup in front of the disc" judgement="fine" />
+<SENTENCE id="S56" spans="2009~2042" text="put the cup in front of the spoon" judgement="fine" />
+<SENTENCE id="S57" spans="2043~2075" text="put the cup in front of the book" judgement="fine" />
+<SENTENCE id="S58" spans="2076~2114" text="put the cup in front of the blackboard" judgement="fine" />
+<SENTENCE id="S59" spans="2115~2149" text="put the cup in front of the bottle" judgement="fine" />
+<SENTENCE id="S60" spans="2150~2183" text="put the cup in front of the grape" judgement="fine" />
+<SENTENCE id="S61" spans="2184~2217" text="put the cup in front of the apple" judgement="fine" />
+<SENTENCE id="S62" spans="2218~2252" text="put the cup in front of the banana" judgement="fine" />
+<SENTENCE id="S63" spans="2253~2286" text="put the cup in front of the table" judgement="fine" />
+<SENTENCE id="S64" spans="2287~2319" text="put the cup in front of the bowl" judgement="fine" />
+<SENTENCE id="S65" spans="2320~2353" text="put the cup in front of the knife" judgement="fine" />
+<SENTENCE id="S66" spans="2354~2388" text="put the cup in front of the pencil" judgement="fine" />
+<SENTENCE id="S67" spans="2389~2428" text="put the cup in front of the paper sheet" judgement="fine" />
+<SENTENCE id="S68" spans="2429~2463" text="put the disc in front of the block" judgement="fine" />
+<SENTENCE id="S69" spans="2464~2497" text="put the disc in front of the ball" judgement="fine" />
+<SENTENCE id="S70" spans="2498~2532" text="put the disc in front of the plate" judgement="fine" />
+<SENTENCE id="S71" spans="2533~2565" text="put the disc in front of the cup" judgement="fine" />
+<SENTENCE id="S72" spans="2566~2599" text="put the disc in front of the disc" judgement="fine" />
+<SENTENCE id="S73" spans="2600~2634" text="put the disc in front of the spoon" judgement="fine" />
+<SENTENCE id="S74" spans="2635~2668" text="put the disc in front of the book" judgement="fine" />
+<SENTENCE id="S75" spans="2669~2708" text="put the disc in front of the blackboard" judgement="fine" />
+<SENTENCE id="S76" spans="2709~2744" text="put the disc in front of the bottle" judgement="fine" />
+<SENTENCE id="S77" spans="2745~2779" text="put the disc in front of the grape" judgement="fine" />
+<SENTENCE id="S78" spans="2780~2814" text="put the disc in front of the apple" judgement="fine" />
+<SENTENCE id="S79" spans="2815~2850" text="put the disc in front of the banana" judgement="fine" />
+<SENTENCE id="S80" spans="2851~2885" text="put the disc in front of the table" judgement="fine" />
+<SENTENCE id="S81" spans="2886~2919" text="put the disc in front of the bowl" judgement="fine" />
+<SENTENCE id="S82" spans="2920~2954" text="put the disc in front of the knife" judgement="fine" />
+<SENTENCE id="S83" spans="2955~2990" text="put the disc in front of the pencil" judgement="fine" />
+<SENTENCE id="S84" spans="2991~3031" text="put the disc in front of the paper sheet" judgement="fine" />
+<SENTENCE id="S85" spans="3032~3067" text="put the spoon in front of the block" judgement="fine" />
+<SENTENCE id="S86" spans="3068~3102" text="put the spoon in front of the ball" judgement="fine" />
+<SENTENCE id="S87" spans="3103~3138" text="put the spoon in front of the plate" judgement="fine" />
+<SENTENCE id="S88" spans="3139~3172" text="put the spoon in front of the cup" judgement="fine" />
+<SENTENCE id="S89" spans="3173~3207" text="put the spoon in front of the disc" judgement="fine" />
+<SENTENCE id="S90" spans="3208~3243" text="put the spoon in front of the spoon" judgement="fine" />
+<SENTENCE id="S91" spans="3244~3278" text="put the spoon in front of the book" judgement="fine" />
+<SENTENCE id="S92" spans="3279~3319" text="put the spoon in front of the blackboard" judgement="fine" />
+<SENTENCE id="S93" spans="3320~3356" text="put the spoon in front of the bottle" judgement="fine" />
+<SENTENCE id="S94" spans="3357~3392" text="put the spoon in front of the grape" judgement="fine" />
+<SENTENCE id="S95" spans="3393~3428" text="put the spoon in front of the apple" judgement="fine" />
+<SENTENCE id="S96" spans="3429~3465" text="put the spoon in front of the banana" judgement="fine" />
+<SENTENCE id="S97" spans="3466~3501" text="put the spoon in front of the table" judgement="fine" />
+<SENTENCE id="S98" spans="3502~3536" text="put the spoon in front of the bowl" judgement="fine" />
+<SENTENCE id="S99" spans="3537~3572" text="put the spoon in front of the knife" judgement="fine" />
+<SENTENCE id="S100" spans="3573~3609" text="put the spoon in front of the pencil" judgement="fine" />
+<SENTENCE id="S101" spans="3610~3651" text="put the spoon in front of the paper sheet" judgement="fine" />
+<SENTENCE id="S102" spans="3652~3686" text="put the book in front of the block" judgement="fine" />
+<SENTENCE id="S103" spans="3687~3720" text="put the book in front of the ball" judgement="fine" />
+<SENTENCE id="S104" spans="3721~3755" text="put the book in front of the plate" judgement="fine" />
+<SENTENCE id="S105" spans="3756~3788" text="put the book in front of the cup" judgement="fine" />
+<SENTENCE id="S106" spans="3789~3822" text="put the book in front of the disc" judgement="fine" />
+<SENTENCE id="S107" spans="3823~3857" text="put the book in front of the spoon" judgement="fine" />
+<SENTENCE id="S108" spans="3858~3891" text="put the book in front of the book" judgement="fine" />
+<SENTENCE id="S109" spans="3892~3931" text="put the book in front of the blackboard" judgement="fine" />
+<SENTENCE id="S110" spans="3932~3967" text="put the book in front of the bottle" judgement="fine" />
+<SENTENCE id="S111" spans="3968~4002" text="put the book in front of the grape" judgement="fine" />
+<SENTENCE id="S112" spans="4003~4037" text="put the book in front of the apple" judgement="fine" />
+<SENTENCE id="S113" spans="4038~4073" text="put the book in front of the banana" judgement="fine" />
+<SENTENCE id="S114" spans="4074~4108" text="put the book in front of the table" judgement="fine" />
+<SENTENCE id="S115" spans="4109~4142" text="put the book in front of the bowl" judgement="fine" />
+<SENTENCE id="S116" spans="4143~4177" text="put the book in front of the knife" judgement="fine" />
+<SENTENCE id="S117" spans="4178~4213" text="put the book in front of the pencil" judgement="fine" />
+<SENTENCE id="S118" spans="4214~4254" text="put the book in front of the paper sheet" judgement="fine" />
+<SENTENCE id="S119" spans="4255~4295" text="put the blackboard in front of the block" judgement="fine" />
+<SENTENCE id="S120" spans="4296~4335" text="put the blackboard in front of the ball" judgement="fine" />
+<SENTENCE id="S121" spans="4336~4376" text="put the blackboard in front of the plate" judgement="fine" />
+<SENTENCE id="S122" spans="4377~4415" text="put the blackboard in front of the cup" judgement="fine" />
+<SENTENCE id="S123" spans="4416~4455" text="put the blackboard in front of the disc" judgement="fine" />
+<SENTENCE id="S124" spans="4456~4496" text="put the blackboard in front of the spoon" judgement="fine" />
+<SENTENCE id="S125" spans="4497~4536" text="put the blackboard in front of the book" judgement="fine" />
+<SENTENCE id="S126" spans="4537~4582" text="put the blackboard in front of the blackboard" judgement="fine" />
+<SENTENCE id="S127" spans="4583~4624" text="put the blackboard in front of the bottle" judgement="fine" />
+<SENTENCE id="S128" spans="4625~4665" text="put the blackboard in front of the grape" judgement="fine" />
+<SENTENCE id="S129" spans="4666~4706" text="put the blackboard in front of the apple" judgement="fine" />
+<SENTENCE id="S130" spans="4707~4748" text="put the blackboard in front of the banana" judgement="fine" />
+<SENTENCE id="S131" spans="4749~4789" text="put the blackboard in front of the table" judgement="fine" />
+<SENTENCE id="S132" spans="4790~4829" text="put the blackboard in front of the bowl" judgement="fine" />
+<SENTENCE id="S133" spans="4830~4870" text="put the blackboard in front of the knife" judgement="fine" />
+<SENTENCE id="S134" spans="4871~4912" text="put the blackboard in front of the pencil" judgement="fine" />
+<SENTENCE id="S135" spans="4913~4959" text="put the blackboard in front of the paper sheet" judgement="fine" />
+<SENTENCE id="S136" spans="4960~4996" text="put the bottle in front of the block" judgement="fine" />
+<SENTENCE id="S137" spans="4997~5032" text="put the bottle in front of the ball" judgement="fine" />
+<SENTENCE id="S138" spans="5033~5069" text="put the bottle in front of the plate" judgement="fine" />
+<SENTENCE id="S139" spans="5070~5104" text="put the bottle in front of the cup" judgement="fine" />
+<SENTENCE id="S140" spans="5105~5140" text="put the bottle in front of the disc" judgement="fine" />
+<SENTENCE id="S141" spans="5141~5177" text="put the bottle in front of the spoon" judgement="fine" />
+<SENTENCE id="S142" spans="5178~5213" text="put the bottle in front of the book" judgement="fine" />
+<SENTENCE id="S143" spans="5214~5255" text="put the bottle in front of the blackboard" judgement="fine" />
+<SENTENCE id="S144" spans="5256~5293" text="put the bottle in front of the bottle" judgement="fine" />
+<SENTENCE id="S145" spans="5294~5330" text="put the bottle in front of the grape" judgement="fine" />
+<SENTENCE id="S146" spans="5331~5367" text="put the bottle in front of the apple" judgement="fine" />
+<SENTENCE id="S147" spans="5368~5405" text="put the bottle in front of the banana" judgement="fine" />
+<SENTENCE id="S148" spans="5406~5442" text="put the bottle in front of the table" judgement="fine" />
+<SENTENCE id="S149" spans="5443~5478" text="put the bottle in front of the bowl" judgement="fine" />
+<SENTENCE id="S150" spans="5479~5515" text="put the bottle in front of the knife" judgement="fine" />
+<SENTENCE id="S151" spans="5516~5553" text="put the bottle in front of the pencil" judgement="fine" />
+<SENTENCE id="S152" spans="5554~5596" text="put the bottle in front of the paper sheet" judgement="fine" />
+<SENTENCE id="S153" spans="5597~5632" text="put the grape in front of the block" judgement="fine" />
+<SENTENCE id="S154" spans="5633~5667" text="put the grape in front of the ball" judgement="fine" />
+<SENTENCE id="S155" spans="5668~5703" text="put the grape in front of the plate" judgement="fine" />
+<SENTENCE id="S156" spans="5704~5737" text="put the grape in front of the cup" judgement="fine" />
+<SENTENCE id="S157" spans="5738~5772" text="put the grape in front of the disc" judgement="fine" />
+<SENTENCE id="S158" spans="5773~5808" text="put the grape in front of the spoon" judgement="fine" />
+<SENTENCE id="S159" spans="5809~5843" text="put the grape in front of the book" judgement="fine" />
+<SENTENCE id="S160" spans="5844~5884" text="put the grape in front of the blackboard" judgement="fine" />
+<SENTENCE id="S161" spans="5885~5921" text="put the grape in front of the bottle" judgement="fine" />
+<SENTENCE id="S162" spans="5922~5957" text="put the grape in front of the grape" judgement="fine" />
+<SENTENCE id="S163" spans="5958~5993" text="put the grape in front of the apple" judgement="fine" />
+<SENTENCE id="S164" spans="5994~6030" text="put the grape in front of the banana" judgement="fine" />
+<SENTENCE id="S165" spans="6031~6066" text="put the grape in front of the table" judgement="fine" />
+<SENTENCE id="S166" spans="6067~6101" text="put the grape in front of the bowl" judgement="fine" />
+<SENTENCE id="S167" spans="6102~6137" text="put the grape in front of the knife" judgement="fine" />
+<SENTENCE id="S168" spans="6138~6174" text="put the grape in front of the pencil" judgement="fine" />
+<SENTENCE id="S169" spans="6175~6216" text="put the grape in front of the paper sheet" judgement="fine" />
+<SENTENCE id="S170" spans="6217~6252" text="put the apple in front of the block" judgement="fine" />
+<SENTENCE id="S171" spans="6253~6287" text="put the apple in front of the ball" judgement="fine" />
+<SENTENCE id="S172" spans="6288~6323" text="put the apple in front of the plate" judgement="fine" />
+<SENTENCE id="S173" spans="6324~6357" text="put the apple in front of the cup" judgement="fine" />
+<SENTENCE id="S174" spans="6358~6392" text="put the apple in front of the disc" judgement="fine" />
+<SENTENCE id="S175" spans="6393~6428" text="put the apple in front of the spoon" judgement="fine" />
+<SENTENCE id="S176" spans="6429~6463" text="put the apple in front of the book" judgement="fine" />
+<SENTENCE id="S177" spans="6464~6504" text="put the apple in front of the blackboard" judgement="fine" />
+<SENTENCE id="S178" spans="6505~6541" text="put the apple in front of the bottle" judgement="fine" />
+<SENTENCE id="S179" spans="6542~6577" text="put the apple in front of the grape" judgement="fine" />
+<SENTENCE id="S180" spans="6578~6613" text="put the apple in front of the apple" judgement="fine" />
+<SENTENCE id="S181" spans="6614~6650" text="put the apple in front of the banana" judgement="fine" />
+<SENTENCE id="S182" spans="6651~6686" text="put the apple in front of the table" judgement="fine" />
+<SENTENCE id="S183" spans="6687~6721" text="put the apple in front of the bowl" judgement="fine" />
+<SENTENCE id="S184" spans="6722~6757" text="put the apple in front of the knife" judgement="fine" />
+<SENTENCE id="S185" spans="6758~6794" text="put the apple in front of the pencil" judgement="fine" />
+<SENTENCE id="S186" spans="6795~6836" text="put the apple in front of the paper sheet" judgement="fine" />
+<SENTENCE id="S187" spans="6837~6873" text="put the banana in front of the block" judgement="fine" />
+<SENTENCE id="S188" spans="6874~6909" text="put the banana in front of the ball" judgement="fine" />
+<SENTENCE id="S189" spans="6910~6946" text="put the banana in front of the plate" judgement="fine" />
+<SENTENCE id="S190" spans="6947~6981" text="put the banana in front of the cup" judgement="fine" />
+<SENTENCE id="S191" spans="6982~7017" text="put the banana in front of the disc" judgement="fine" />
+<SENTENCE id="S192" spans="7018~7054" text="put the banana in front of the spoon" judgement="fine" />
+<SENTENCE id="S193" spans="7055~7090" text="put the banana in front of the book" judgement="fine" />
+<SENTENCE id="S194" spans="7091~7132" text="put the banana in front of the blackboard" judgement="fine" />
+<SENTENCE id="S195" spans="7133~7170" text="put the banana in front of the bottle" judgement="fine" />
+<SENTENCE id="S196" spans="7171~7207" text="put the banana in front of the grape" judgement="fine" />
+<SENTENCE id="S197" spans="7208~7244" text="put the banana in front of the apple" judgement="fine" />
+<SENTENCE id="S198" spans="7245~7282" text="put the banana in front of the banana" judgement="fine" />
+<SENTENCE id="S199" spans="7283~7319" text="put the banana in front of the table" judgement="fine" />
+<SENTENCE id="S200" spans="7320~7355" text="put the banana in front of the bowl" judgement="fine" />
+<SENTENCE id="S201" spans="7356~7392" text="put the banana in front of the knife" judgement="fine" />
+<SENTENCE id="S202" spans="7393~7430" text="put the banana in front of the pencil" judgement="fine" />
+<SENTENCE id="S203" spans="7431~7473" text="put the banana in front of the paper sheet" judgement="fine" />
+<SENTENCE id="S204" spans="7474~7509" text="put the table in front of the block" judgement="fine" />
+<SENTENCE id="S205" spans="7510~7544" text="put the table in front of the ball" judgement="fine" />
+<SENTENCE id="S206" spans="7545~7580" text="put the table in front of the plate" judgement="fine" />
+<SENTENCE id="S207" spans="7581~7614" text="put the table in front of the cup" judgement="fine" />
+<SENTENCE id="S208" spans="7615~7649" text="put the table in front of the disc" judgement="fine" />
+<SENTENCE id="S209" spans="7650~7685" text="put the table in front of the spoon" judgement="fine" />
+<SENTENCE id="S210" spans="7686~7720" text="put the table in front of the book" judgement="fine" />
+<SENTENCE id="S211" spans="7721~7761" text="put the table in front of the blackboard" judgement="fine" />
+<SENTENCE id="S212" spans="7762~7798" text="put the table in front of the bottle" judgement="fine" />
+<SENTENCE id="S213" spans="7799~7834" text="put the table in front of the grape" judgement="fine" />
+<SENTENCE id="S214" spans="7835~7870" text="put the table in front of the apple" judgement="fine" />
+<SENTENCE id="S215" spans="7871~7907" text="put the table in front of the banana" judgement="fine" />
+<SENTENCE id="S216" spans="7908~7943" text="put the table in front of the table" judgement="fine" />
+<SENTENCE id="S217" spans="7944~7978" text="put the table in front of the bowl" judgement="fine" />
+<SENTENCE id="S218" spans="7979~8014" text="put the table in front of the knife" judgement="fine" />
+<SENTENCE id="S219" spans="8015~8051" text="put the table in front of the pencil" judgement="fine" />
+<SENTENCE id="S220" spans="8052~8093" text="put the table in front of the paper sheet" judgement="fine" />
+<SENTENCE id="S221" spans="8094~8128" text="put the bowl in front of the block" judgement="fine" />
+<SENTENCE id="S222" spans="8129~8162" text="put the bowl in front of the ball" judgement="fine" />
+<SENTENCE id="S223" spans="8163~8197" text="put the bowl in front of the plate" judgement="fine" />
+<SENTENCE id="S224" spans="8198~8230" text="put the bowl in front of the cup" judgement="fine" />
+<SENTENCE id="S225" spans="8231~8264" text="put the bowl in front of the disc" judgement="fine" />
+<SENTENCE id="S226" spans="8265~8299" text="put the bowl in front of the spoon" judgement="fine" />
+<SENTENCE id="S227" spans="8300~8333" text="put the bowl in front of the book" judgement="fine" />
+<SENTENCE id="S228" spans="8334~8373" text="put the bowl in front of the blackboard" judgement="fine" />
+<SENTENCE id="S229" spans="8374~8409" text="put the bowl in front of the bottle" judgement="fine" />
+<SENTENCE id="S230" spans="8410~8444" text="put the bowl in front of the grape" judgement="fine" />
+<SENTENCE id="S231" spans="8445~8479" text="put the bowl in front of the apple" judgement="fine" />
+<SENTENCE id="S232" spans="8480~8515" text="put the bowl in front of the banana" judgement="fine" />
+<SENTENCE id="S233" spans="8516~8550" text="put the bowl in front of the table" judgement="fine" />
+<SENTENCE id="S234" spans="8551~8584" text="put the bowl in front of the bowl" judgement="fine" />
+<SENTENCE id="S235" spans="8585~8619" text="put the bowl in front of the knife" judgement="fine" />
+<SENTENCE id="S236" spans="8620~8655" text="put the bowl in front of the pencil" judgement="fine" />
+<SENTENCE id="S237" spans="8656~8696" text="put the bowl in front of the paper sheet" judgement="fine" />
+<SENTENCE id="S238" spans="8697~8732" text="put the knife in front of the block" judgement="fine" />
+<SENTENCE id="S239" spans="8733~8767" text="put the knife in front of the ball" judgement="fine" />
+<SENTENCE id="S240" spans="8768~8803" text="put the knife in front of the plate" judgement="fine" />
+<SENTENCE id="S241" spans="8804~8837" text="put the knife in front of the cup" judgement="fine" />
+<SENTENCE id="S242" spans="8838~8872" text="put the knife in front of the disc" judgement="fine" />
+<SENTENCE id="S243" spans="8873~8908" text="put the knife in front of the spoon" judgement="fine" />
+<SENTENCE id="S244" spans="8909~8943" text="put the knife in front of the book" judgement="fine" />
+<SENTENCE id="S245" spans="8944~8984" text="put the knife in front of the blackboard" judgement="fine" />
+<SENTENCE id="S246" spans="8985~9021" text="put the knife in front of the bottle" judgement="fine" />
+<SENTENCE id="S247" spans="9022~9057" text="put the knife in front of the grape" judgement="fine" />
+<SENTENCE id="S248" spans="9058~9093" text="put the knife in front of the apple" judgement="fine" />
+<SENTENCE id="S249" spans="9094~9130" text="put the knife in front of the banana" judgement="fine" />
+<SENTENCE id="S250" spans="9131~9166" text="put the knife in front of the table" judgement="fine" />
+<SENTENCE id="S251" spans="9167~9201" text="put the knife in front of the bowl" judgement="fine" />
+<SENTENCE id="S252" spans="9202~9237" text="put the knife in front of the knife" judgement="fine" />
+<SENTENCE id="S253" spans="9238~9274" text="put the knife in front of the pencil" judgement="fine" />
+<SENTENCE id="S254" spans="9275~9316" text="put the knife in front of the paper sheet" judgement="fine" />
+<SENTENCE id="S255" spans="9317~9353" text="put the pencil in front of the block" judgement="fine" />
+<SENTENCE id="S256" spans="9354~9389" text="put the pencil in front of the ball" judgement="fine" />
+<SENTENCE id="S257" spans="9390~9426" text="put the pencil in front of the plate" judgement="fine" />
+<SENTENCE id="S258" spans="9427~9461" text="put the pencil in front of the cup" judgement="fine" />
+<SENTENCE id="S259" spans="9462~9497" text="put the pencil in front of the disc" judgement="fine" />
+<SENTENCE id="S260" spans="9498~9534" text="put the pencil in front of the spoon" judgement="fine" />
+<SENTENCE id="S261" spans="9535~9570" text="put the pencil in front of the book" judgement="fine" />
+<SENTENCE id="S262" spans="9571~9612" text="put the pencil in front of the blackboard" judgement="fine" />
+<SENTENCE id="S263" spans="9613~9650" text="put the pencil in front of the bottle" judgement="fine" />
+<SENTENCE id="S264" spans="9651~9687" text="put the pencil in front of the grape" judgement="fine" />
+<SENTENCE id="S265" spans="9688~9724" text="put the pencil in front of the apple" judgement="fine" />
+<SENTENCE id="S266" spans="9725~9762" text="put the pencil in front of the banana" judgement="fine" />
+<SENTENCE id="S267" spans="9763~9799" text="put the pencil in front of the table" judgement="fine" />
+<SENTENCE id="S268" spans="9800~9835" text="put the pencil in front of the bowl" judgement="fine" />
+<SENTENCE id="S269" spans="9836~9872" text="put the pencil in front of the knife" judgement="fine" />
+<SENTENCE id="S270" spans="9873~9910" text="put the pencil in front of the pencil" judgement="fine" />
+<SENTENCE id="S271" spans="9911~9953" text="put the pencil in front of the paper sheet" judgement="fine" />
+<SENTENCE id="S272" spans="9954~9995" text="put the paper sheet in front of the block" judgement="fine" />
+<SENTENCE id="S273" spans="9996~10036" text="put the paper sheet in front of the ball" judgement="fine" />
+<SENTENCE id="S274" spans="10037~10078" text="put the paper sheet in front of the plate" judgement="fine" />
+<SENTENCE id="S275" spans="10079~10118" text="put the paper sheet in front of the cup" judgement="fine" />
+<SENTENCE id="S276" spans="10119~10159" text="put the paper sheet in front of the disc" judgement="fine" />
+<SENTENCE id="S277" spans="10160~10201" text="put the paper sheet in front of the spoon" judgement="fine" />
+<SENTENCE id="S278" spans="10202~10242" text="put the paper sheet in front of the book" judgement="fine" />
+<SENTENCE id="S279" spans="10243~10289" text="put the paper sheet in front of the blackboard" judgement="fine" />
+<SENTENCE id="S280" spans="10290~10332" text="put the paper sheet in front of the bottle" judgement="fine" />
+<SENTENCE id="S281" spans="10333~10374" text="put the paper sheet in front of the grape" judgement="fine" />
+<SENTENCE id="S282" spans="10375~10416" text="put the paper sheet in front of the apple" judgement="fine" />
+<SENTENCE id="S283" spans="10417~10459" text="put the paper sheet in front of the banana" judgement="fine" />
+<SENTENCE id="S284" spans="10460~10501" text="put the paper sheet in front of the table" judgement="fine" />
+<SENTENCE id="S285" spans="10502~10542" text="put the paper sheet in front of the bowl" judgement="fine" />
+<SENTENCE id="S286" spans="10543~10584" text="put the paper sheet in front of the knife" judgement="fine" />
+<SENTENCE id="S287" spans="10585~10627" text="put the paper sheet in front of the pencil" judgement="fine" />
+<SENTENCE id="S288" spans="10628~10675" text="put the paper sheet in front of the paper sheet" judgement="fine" />
+</TAGS>
+</SentenceSimulabilityTask>

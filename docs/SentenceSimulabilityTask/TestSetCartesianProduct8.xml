@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SentenceSimulabilityTask>
+<TEXT><![CDATA[put the block left of the block
+put the block left of the ball
+put the block left of the plate
+put the block left of the cup
+put the block left of the disc
+put the block left of the spoon
+put the block left of the book
+put the block left of the blackboard
+put the block left of the bottle
+put the block left of the grape
+put the block left of the apple
+put the block left of the banana
+put the block left of the table
+put the block left of the bowl
+put the block left of the knife
+put the block left of the pencil
+put the block left of the paper sheet
+put the ball left of the block
+put the ball left of the ball
+put the ball left of the plate
+put the ball left of the cup
+put the ball left of the disc
+put the ball left of the spoon
+put the ball left of the book
+put the ball left of the blackboard
+put the ball left of the bottle
+put the ball left of the grape
+put the ball left of the apple
+put the ball left of the banana
+put the ball left of the table
+put the ball left of the bowl
+put the ball left of the knife
+put the ball left of the pencil
+put the ball left of the paper sheet
+put the plate left of the block
+put the plate left of the ball
+put the plate left of the plate
+put the plate left of the cup
+put the plate left of the disc
+put the plate left of the spoon
+put the plate left of the book
+put the plate left of the blackboard
+put the plate left of the bottle
+put the plate left of the grape
+put the plate left of the apple
+put the plate left of the banana
+put the plate left of the table
+put the plate left of the bowl
+put the plate left of the knife
+put the plate left of the pencil
+put the plate left of the paper sheet
+put the cup left of the block
+put the cup left of the ball
+put the cup left of the plate
+put the cup left of the cup
+put the cup left of the disc
+put the cup left of the spoon
+put the cup left of the book
+put the cup left of the blackboard
+put the cup left of the bottle
+put the cup left of the grape
+put the cup left of the apple
+put the cup left of the banana
+put the cup left of the table
+put the cup left of the bowl
+put the cup left of the knife
+put the cup left of the pencil
+put the cup left of the paper sheet
+put the disc left of the block
+put the disc left of the ball
+put the disc left of the plate
+put the disc left of the cup
+put the disc left of the disc
+put the disc left of the spoon
+put the disc left of the book
+put the disc left of the blackboard
+put the disc left of the bottle
+put the disc left of the grape
+put the disc left of the apple
+put the disc left of the banana
+put the disc left of the table
+put the disc left of the bowl
+put the disc left of the knife
+put the disc left of the pencil
+put the disc left of the paper sheet
+put the spoon left of the block
+put the spoon left of the ball
+put the spoon left of the plate
+put the spoon left of the cup
+put the spoon left of the disc
+put the spoon left of the spoon
+put the spoon left of the book
+put the spoon left of the blackboard
+put the spoon left of the bottle
+put the spoon left of the grape
+put the spoon left of the apple
+put the spoon left of the banana
+put the spoon left of the table
+put the spoon left of the bowl
+put the spoon left of the knife
+put the spoon left of the pencil
+put the spoon left of the paper sheet
+put the book left of the block
+put the book left of the ball
+put the book left of the plate
+put the book left of the cup
+put the book left of the disc
+put the book left of the spoon
+put the book left of the book
+put the book left of the blackboard
+put the book left of the bottle
+put the book left of the grape
+put the book left of the apple
+put the book left of the banana
+put the book left of the table
+put the book left of the bowl
+put the book left of the knife
+put the book left of the pencil
+put the book left of the paper sheet
+put the blackboard left of the block
+put the blackboard left of the ball
+put the blackboard left of the plate
+put the blackboard left of the cup
+put the blackboard left of the disc
+put the blackboard left of the spoon
+put the blackboard left of the book
+put the blackboard left of the blackboard
+put the blackboard left of the bottle
+put the blackboard left of the grape
+put the blackboard left of the apple
+put the blackboard left of the banana
+put the blackboard left of the table
+put the blackboard left of the bowl
+put the blackboard left of the knife
+put the blackboard left of the pencil
+put the blackboard left of the paper sheet
+put the bottle left of the block
+put the bottle left of the ball
+put the bottle left of the plate
+put the bottle left of the cup
+put the bottle left of the disc
+put the bottle left of the spoon
+put the bottle left of the book
+put the bottle left of the blackboard
+put the bottle left of the bottle
+put the bottle left of the grape
+put the bottle left of the apple
+put the bottle left of the banana
+put the bottle left of the table
+put the bottle left of the bowl
+put the bottle left of the knife
+put the bottle left of the pencil
+put the bottle left of the paper sheet
+put the grape left of the block
+put the grape left of the ball
+put the grape left of the plate
+put the grape left of the cup
+put the grape left of the disc
+put the grape left of the spoon
+put the grape left of the book
+put the grape left of the blackboard
+put the grape left of the bottle
+put the grape left of the grape
+put the grape left of the apple
+put the grape left of the banana
+put the grape left of the table
+put the grape left of the bowl
+put the grape left of the knife
+put the grape left of the pencil
+put the grape left of the paper sheet
+put the apple left of the block
+put the apple left of the ball
+put the apple left of the plate
+put the apple left of the cup
+put the apple left of the disc
+put the apple left of the spoon
+put the apple left of the book
+put the apple left of the blackboard
+put the apple left of the bottle
+put the apple left of the grape
+put the apple left of the apple
+put the apple left of the banana
+put the apple left of the table
+put the apple left of the bowl
+put the apple left of the knife
+put the apple left of the pencil
+put the apple left of the paper sheet
+put the banana left of the block
+put the banana left of the ball
+put the banana left of the plate
+put the banana left of the cup
+put the banana left of the disc
+put the banana left of the spoon
+put the banana left of the book
+put the banana left of the blackboard
+put the banana left of the bottle
+put the banana left of the grape
+put the banana left of the apple
+put the banana left of the banana
+put the banana left of the table
+put the banana left of the bowl
+put the banana left of the knife
+put the banana left of the pencil
+put the banana left of the paper sheet
+put the table left of the block
+put the table left of the ball
+put the table left of the plate
+put the table left of the cup
+put the table left of the disc
+put the table left of the spoon
+put the table left of the book
+put the table left of the blackboard
+put the table left of the bottle
+put the table left of the grape
+put the table left of the apple
+put the table left of the banana
+put the table left of the table
+put the table left of the bowl
+put the table left of the knife
+put the table left of the pencil
+put the table left of the paper sheet
+put the bowl left of the block
+put the bowl left of the ball
+put the bowl left of the plate
+put the bowl left of the cup
+put the bowl left of the disc
+put the bowl left of the spoon
+put the bowl left of the book
+put the bowl left of the blackboard
+put the bowl left of the bottle
+put the bowl left of the grape
+put the bowl left of the apple
+put the bowl left of the banana
+put the bowl left of the table
+put the bowl left of the bowl
+put the bowl left of the knife
+put the bowl left of the pencil
+put the bowl left of the paper sheet
+put the knife left of the block
+put the knife left of the ball
+put the knife left of the plate
+put the knife left of the cup
+put the knife left of the disc
+put the knife left of the spoon
+put the knife left of the book
+put the knife left of the blackboard
+put the knife left of the bottle
+put the knife left of the grape
+put the knife left of the apple
+put the knife left of the banana
+put the knife left of the table
+put the knife left of the bowl
+put the knife left of the knife
+put the knife left of the pencil
+put the knife left of the paper sheet
+put the pencil left of the block
+put the pencil left of the ball
+put the pencil left of the plate
+put the pencil left of the cup
+put the pencil left of the disc
+put the pencil left of the spoon
+put the pencil left of the book
+put the pencil left of the blackboard
+put the pencil left of the bottle
+put the pencil left of the grape
+put the pencil left of the apple
+put the pencil left of the banana
+put the pencil left of the table
+put the pencil left of the bowl
+put the pencil left of the knife
+put the pencil left of the pencil
+put the pencil left of the paper sheet
+put the paper sheet left of the block
+put the paper sheet left of the ball
+put the paper sheet left of the plate
+put the paper sheet left of the cup
+put the paper sheet left of the disc
+put the paper sheet left of the spoon
+put the paper sheet left of the book
+put the paper sheet left of the blackboard
+put the paper sheet left of the bottle
+put the paper sheet left of the grape
+put the paper sheet left of the apple
+put the paper sheet left of the banana
+put the paper sheet left of the table
+put the paper sheet left of the bowl
+put the paper sheet left of the knife
+put the paper sheet left of the pencil
+put the paper sheet left of the paper sheet
+]]></TEXT>
+<TAGS>
+<SENTENCE id="S0" spans="0~31" text="put the block left of the block" judgement="fine" />
+<SENTENCE id="S1" spans="32~62" text="put the block left of the ball" judgement="fine" />
+<SENTENCE id="S2" spans="63~94" text="put the block left of the plate" judgement="fine" />
+<SENTENCE id="S3" spans="95~124" text="put the block left of the cup" judgement="fine" />
+<SENTENCE id="S4" spans="125~155" text="put the block left of the disc" judgement="fine" />
+<SENTENCE id="S5" spans="156~187" text="put the block left of the spoon" judgement="fine" />
+<SENTENCE id="S6" spans="188~218" text="put the block left of the book" judgement="fine" />
+<SENTENCE id="S7" spans="219~255" text="put the block left of the blackboard" judgement="fine" />
+<SENTENCE id="S8" spans="256~288" text="put the block left of the bottle" judgement="fine" />
+<SENTENCE id="S9" spans="289~320" text="put the block left of the grape" judgement="fine" />
+<SENTENCE id="S10" spans="321~352" text="put the block left of the apple" judgement="fine" />
+<SENTENCE id="S11" spans="353~385" text="put the block left of the banana" judgement="fine" />
+<SENTENCE id="S12" spans="386~417" text="put the block left of the table" judgement="fine" />
+<SENTENCE id="S13" spans="418~448" text="put the block left of the bowl" judgement="fine" />
+<SENTENCE id="S14" spans="449~480" text="put the block left of the knife" judgement="fine" />
+<SENTENCE id="S15" spans="481~513" text="put the block left of the pencil" judgement="fine" />
+<SENTENCE id="S16" spans="514~551" text="put the block left of the paper sheet" judgement="fine" />
+<SENTENCE id="S17" spans="552~582" text="put the ball left of the block" judgement="fine" />
+<SENTENCE id="S18" spans="583~612" text="put the ball left of the ball" judgement="fine" />
+<SENTENCE id="S19" spans="613~643" text="put the ball left of the plate" judgement="fine" />
+<SENTENCE id="S20" spans="644~672" text="put the ball left of the cup" judgement="fine" />
+<SENTENCE id="S21" spans="673~702" text="put the ball left of the disc" judgement="fine" />
+<SENTENCE id="S22" spans="703~733" text="put the ball left of the spoon" judgement="fine" />
+<SENTENCE id="S23" spans="734~763" text="put the ball left of the book" judgement="fine" />
+<SENTENCE id="S24" spans="764~799" text="put the ball left of the blackboard" judgement="fine" />
+<SENTENCE id="S25" spans="800~831" text="put the ball left of the bottle" judgement="fine" />
+<SENTENCE id="S26" spans="832~862" text="put the ball left of the grape" judgement="fine" />
+<SENTENCE id="S27" spans="863~893" text="put the ball left of the apple" judgement="fine" />
+<SENTENCE id="S28" spans="894~925" text="put the ball left of the banana" judgement="fine" />
+<SENTENCE id="S29" spans="926~956" text="put the ball left of the table" judgement="fine" />
+<SENTENCE id="S30" spans="957~986" text="put the ball left of the bowl" judgement="fine" />
+<SENTENCE id="S31" spans="987~1017" text="put the ball left of the knife" judgement="fine" />
+<SENTENCE id="S32" spans="1018~1049" text="put the ball left of the pencil" judgement="fine" />
+<SENTENCE id="S33" spans="1050~1086" text="put the ball left of the paper sheet" judgement="fine" />
+<SENTENCE id="S34" spans="1087~1118" text="put the plate left of the block" judgement="fine" />
+<SENTENCE id="S35" spans="1119~1149" text="put the plate left of the ball" judgement="fine" />
+<SENTENCE id="S36" spans="1150~1181" text="put the plate left of the plate" judgement="fine" />
+<SENTENCE id="S37" spans="1182~1211" text="put the plate left of the cup" judgement="fine" />
+<SENTENCE id="S38" spans="1212~1242" text="put the plate left of the disc" judgement="fine" />
+<SENTENCE id="S39" spans="1243~1274" text="put the plate left of the spoon" judgement="fine" />
+<SENTENCE id="S40" spans="1275~1305" text="put the plate left of the book" judgement="fine" />
+<SENTENCE id="S41" spans="1306~1342" text="put the plate left of the blackboard" judgement="fine" />
+<SENTENCE id="S42" spans="1343~1375" text="put the plate left of the bottle" judgement="fine" />
+<SENTENCE id="S43" spans="1376~1407" text="put the plate left of the grape" judgement="fine" />
+<SENTENCE id="S44" spans="1408~1439" text="put the plate left of the apple" judgement="fine" />
+<SENTENCE id="S45" spans="1440~1472" text="put the plate left of the banana" judgement="fine" />
+<SENTENCE id="S46" spans="1473~1504" text="put the plate left of the table" judgement="fine" />
+<SENTENCE id="S47" spans="1505~1535" text="put the plate left of the bowl" judgement="fine" />
+<SENTENCE id="S48" spans="1536~1567" text="put the plate left of the knife" judgement="fine" />
+<SENTENCE id="S49" spans="1568~1600" text="put the plate left of the pencil" judgement="fine" />
+<SENTENCE id="S50" spans="1601~1638" text="put the plate left of the paper sheet" judgement="fine" />
+<SENTENCE id="S51" spans="1639~1668" text="put the cup left of the block" judgement="fine" />
+<SENTENCE id="S52" spans="1669~1697" text="put the cup left of the ball" judgement="fine" />
+<SENTENCE id="S53" spans="1698~1727" text="put the cup left of the plate" judgement="fine" />
+<SENTENCE id="S54" spans="1728~1755" text="put the cup left of the cup" judgement="fine" />
+<SENTENCE id="S55" spans="1756~1784" text="put the cup left of the disc" judgement="fine" />
+<SENTENCE id="S56" spans="1785~1814" text="put the cup left of the spoon" judgement="fine" />
+<SENTENCE id="S57" spans="1815~1843" text="put the cup left of the book" judgement="fine" />
+<SENTENCE id="S58" spans="1844~1878" text="put the cup left of the blackboard" judgement="fine" />
+<SENTENCE id="S59" spans="1879~1909" text="put the cup left of the bottle" judgement="fine" />
+<SENTENCE id="S60" spans="1910~1939" text="put the cup left of the grape" judgement="fine" />
+<SENTENCE id="S61" spans="1940~1969" text="put the cup left of the apple" judgement="fine" />
+<SENTENCE id="S62" spans="1970~2000" text="put the cup left of the banana" judgement="fine" />
+<SENTENCE id="S63" spans="2001~2030" text="put the cup left of the table" judgement="fine" />
+<SENTENCE id="S64" spans="2031~2059" text="put the cup left of the bowl" judgement="fine" />
+<SENTENCE id="S65" spans="2060~2089" text="put the cup left of the knife" judgement="fine" />
+<SENTENCE id="S66" spans="2090~2120" text="put the cup left of the pencil" judgement="fine" />
+<SENTENCE id="S67" spans="2121~2156" text="put the cup left of the paper sheet" judgement="fine" />
+<SENTENCE id="S68" spans="2157~2187" text="put the disc left of the block" judgement="fine" />
+<SENTENCE id="S69" spans="2188~2217" text="put the disc left of the ball" judgement="fine" />
+<SENTENCE id="S70" spans="2218~2248" text="put the disc left of the plate" judgement="fine" />
+<SENTENCE id="S71" spans="2249~2277" text="put the disc left of the cup" judgement="fine" />
+<SENTENCE id="S72" spans="2278~2307" text="put the disc left of the disc" judgement="fine" />
+<SENTENCE id="S73" spans="2308~2338" text="put the disc left of the spoon" judgement="fine" />
+<SENTENCE id="S74" spans="2339~2368" text="put the disc left of the book" judgement="fine" />
+<SENTENCE id="S75" spans="2369~2404" text="put the disc left of the blackboard" judgement="fine" />
+<SENTENCE id="S76" spans="2405~2436" text="put the disc left of the bottle" judgement="fine" />
+<SENTENCE id="S77" spans="2437~2467" text="put the disc left of the grape" judgement="fine" />
+<SENTENCE id="S78" spans="2468~2498" text="put the disc left of the apple" judgement="fine" />
+<SENTENCE id="S79" spans="2499~2530" text="put the disc left of the banana" judgement="fine" />
+<SENTENCE id="S80" spans="2531~2561" text="put the disc left of the table" judgement="fine" />
+<SENTENCE id="S81" spans="2562~2591" text="put the disc left of the bowl" judgement="fine" />
+<SENTENCE id="S82" spans="2592~2622" text="put the disc left of the knife" judgement="fine" />
+<SENTENCE id="S83" spans="2623~2654" text="put the disc left of the pencil" judgement="fine" />
+<SENTENCE id="S84" spans="2655~2691" text="put the disc left of the paper sheet" judgement="fine" />
+<SENTENCE id="S85" spans="2692~2723" text="put the spoon left of the block" judgement="fine" />
+<SENTENCE id="S86" spans="2724~2754" text="put the spoon left of the ball" judgement="fine" />
+<SENTENCE id="S87" spans="2755~2786" text="put the spoon left of the plate" judgement="fine" />
+<SENTENCE id="S88" spans="2787~2816" text="put the spoon left of the cup" judgement="fine" />
+<SENTENCE id="S89" spans="2817~2847" text="put the spoon left of the disc" judgement="fine" />
+<SENTENCE id="S90" spans="2848~2879" text="put the spoon left of the spoon" judgement="fine" />
+<SENTENCE id="S91" spans="2880~2910" text="put the spoon left of the book" judgement="fine" />
+<SENTENCE id="S92" spans="2911~2947" text="put the spoon left of the blackboard" judgement="fine" />
+<SENTENCE id="S93" spans="2948~2980" text="put the spoon left of the bottle" judgement="fine" />
+<SENTENCE id="S94" spans="2981~3012" text="put the spoon left of the grape" judgement="fine" />
+<SENTENCE id="S95" spans="3013~3044" text="put the spoon left of the apple" judgement="fine" />
+<SENTENCE id="S96" spans="3045~3077" text="put the spoon left of the banana" judgement="fine" />
+<SENTENCE id="S97" spans="3078~3109" text="put the spoon left of the table" judgement="fine" />
+<SENTENCE id="S98" spans="3110~3140" text="put the spoon left of the bowl" judgement="fine" />
+<SENTENCE id="S99" spans="3141~3172" text="put the spoon left of the knife" judgement="fine" />
+<SENTENCE id="S100" spans="3173~3205" text="put the spoon left of the pencil" judgement="fine" />
+<SENTENCE id="S101" spans="3206~3243" text="put the spoon left of the paper sheet" judgement="fine" />
+<SENTENCE id="S102" spans="3244~3274" text="put the book left of the block" judgement="fine" />
+<SENTENCE id="S103" spans="3275~3304" text="put the book left of the ball" judgement="fine" />
+<SENTENCE id="S104" spans="3305~3335" text="put the book left of the plate" judgement="fine" />
+<SENTENCE id="S105" spans="3336~3364" text="put the book left of the cup" judgement="fine" />
+<SENTENCE id="S106" spans="3365~3394" text="put the book left of the disc" judgement="fine" />
+<SENTENCE id="S107" spans="3395~3425" text="put the book left of the spoon" judgement="fine" />
+<SENTENCE id="S108" spans="3426~3455" text="put the book left of the book" judgement="fine" />
+<SENTENCE id="S109" spans="3456~3491" text="put the book left of the blackboard" judgement="fine" />
+<SENTENCE id="S110" spans="3492~3523" text="put the book left of the bottle" judgement="fine" />
+<SENTENCE id="S111" spans="3524~3554" text="put the book left of the grape" judgement="fine" />
+<SENTENCE id="S112" spans="3555~3585" text="put the book left of the apple" judgement="fine" />
+<SENTENCE id="S113" spans="3586~3617" text="put the book left of the banana" judgement="fine" />
+<SENTENCE id="S114" spans="3618~3648" text="put the book left of the table" judgement="fine" />
+<SENTENCE id="S115" spans="3649~3678" text="put the book left of the bowl" judgement="fine" />
+<SENTENCE id="S116" spans="3679~3709" text="put the book left of the knife" judgement="fine" />
+<SENTENCE id="S117" spans="3710~3741" text="put the book left of the pencil" judgement="fine" />
+<SENTENCE id="S118" spans="3742~3778" text="put the book left of the paper sheet" judgement="fine" />
+<SENTENCE id="S119" spans="3779~3815" text="put the blackboard left of the block" judgement="fine" />
+<SENTENCE id="S120" spans="3816~3851" text="put the blackboard left of the ball" judgement="fine" />
+<SENTENCE id="S121" spans="3852~3888" text="put the blackboard left of the plate" judgement="fine" />
+<SENTENCE id="S122" spans="3889~3923" text="put the blackboard left of the cup" judgement="fine" />
+<SENTENCE id="S123" spans="3924~3959" text="put the blackboard left of the disc" judgement="fine" />
+<SENTENCE id="S124" spans="3960~3996" text="put the blackboard left of the spoon" judgement="fine" />
+<SENTENCE id="S125" spans="3997~4032" text="put the blackboard left of the book" judgement="fine" />
+<SENTENCE id="S126" spans="4033~4074" text="put the blackboard left of the blackboard" judgement="fine" />
+<SENTENCE id="S127" spans="4075~4112" text="put the blackboard left of the bottle" judgement="fine" />
+<SENTENCE id="S128" spans="4113~4149" text="put the blackboard left of the grape" judgement="fine" />
+<SENTENCE id="S129" spans="4150~4186" text="put the blackboard left of the apple" judgement="fine" />
+<SENTENCE id="S130" spans="4187~4224" text="put the blackboard left of the banana" judgement="fine" />
+<SENTENCE id="S131" spans="4225~4261" text="put the blackboard left of the table" judgement="fine" />
+<SENTENCE id="S132" spans="4262~4297" text="put the blackboard left of the bowl" judgement="fine" />
+<SENTENCE id="S133" spans="4298~4334" text="put the blackboard left of the knife" judgement="fine" />
+<SENTENCE id="S134" spans="4335~4372" text="put the blackboard left of the pencil" judgement="fine" />
+<SENTENCE id="S135" spans="4373~4415" text="put the blackboard left of the paper sheet" judgement="fine" />
+<SENTENCE id="S136" spans="4416~4448" text="put the bottle left of the block" judgement="fine" />
+<SENTENCE id="S137" spans="4449~4480" text="put the bottle left of the ball" judgement="fine" />
+<SENTENCE id="S138" spans="4481~4513" text="put the bottle left of the plate" judgement="fine" />
+<SENTENCE id="S139" spans="4514~4544" text="put the bottle left of the cup" judgement="fine" />
+<SENTENCE id="S140" spans="4545~4576" text="put the bottle left of the disc" judgement="fine" />
+<SENTENCE id="S141" spans="4577~4609" text="put the bottle left of the spoon" judgement="fine" />
+<SENTENCE id="S142" spans="4610~4641" text="put the bottle left of the book" judgement="fine" />
+<SENTENCE id="S143" spans="4642~4679" text="put the bottle left of the blackboard" judgement="fine" />
+<SENTENCE id="S144" spans="4680~4713" text="put the bottle left of the bottle" judgement="fine" />
+<SENTENCE id="S145" spans="4714~4746" text="put the bottle left of the grape" judgement="fine" />
+<SENTENCE id="S146" spans="4747~4779" text="put the bottle left of the apple" judgement="fine" />
+<SENTENCE id="S147" spans="4780~4813" text="put the bottle left of the banana" judgement="fine" />
+<SENTENCE id="S148" spans="4814~4846" text="put the bottle left of the table" judgement="fine" />
+<SENTENCE id="S149" spans="4847~4878" text="put the bottle left of the bowl" judgement="fine" />
+<SENTENCE id="S150" spans="4879~4911" text="put the bottle left of the knife" judgement="fine" />
+<SENTENCE id="S151" spans="4912~4945" text="put the bottle left of the pencil" judgement="fine" />
+<SENTENCE id="S152" spans="4946~4984" text="put the bottle left of the paper sheet" judgement="fine" />
+<SENTENCE id="S153" spans="4985~5016" text="put the grape left of the block" judgement="fine" />
+<SENTENCE id="S154" spans="5017~5047" text="put the grape left of the ball" judgement="fine" />
+<SENTENCE id="S155" spans="5048~5079" text="put the grape left of the plate" judgement="fine" />
+<SENTENCE id="S156" spans="5080~5109" text="put the grape left of the cup" judgement="fine" />
+<SENTENCE id="S157" spans="5110~5140" text="put the grape left of the disc" judgement="fine" />
+<SENTENCE id="S158" spans="5141~5172" text="put the grape left of the spoon" judgement="fine" />
+<SENTENCE id="S159" spans="5173~5203" text="put the grape left of the book" judgement="fine" />
+<SENTENCE id="S160" spans="5204~5240" text="put the grape left of the blackboard" judgement="fine" />
+<SENTENCE id="S161" spans="5241~5273" text="put the grape left of the bottle" judgement="fine" />
+<SENTENCE id="S162" spans="5274~5305" text="put the grape left of the grape" judgement="fine" />
+<SENTENCE id="S163" spans="5306~5337" text="put the grape left of the apple" judgement="fine" />
+<SENTENCE id="S164" spans="5338~5370" text="put the grape left of the banana" judgement="fine" />
+<SENTENCE id="S165" spans="5371~5402" text="put the grape left of the table" judgement="fine" />
+<SENTENCE id="S166" spans="5403~5433" text="put the grape left of the bowl" judgement="fine" />
+<SENTENCE id="S167" spans="5434~5465" text="put the grape left of the knife" judgement="fine" />
+<SENTENCE id="S168" spans="5466~5498" text="put the grape left of the pencil" judgement="fine" />
+<SENTENCE id="S169" spans="5499~5536" text="put the grape left of the paper sheet" judgement="fine" />
+<SENTENCE id="S170" spans="5537~5568" text="put the apple left of the block" judgement="fine" />
+<SENTENCE id="S171" spans="5569~5599" text="put the apple left of the ball" judgement="fine" />
+<SENTENCE id="S172" spans="5600~5631" text="put the apple left of the plate" judgement="fine" />
+<SENTENCE id="S173" spans="5632~5661" text="put the apple left of the cup" judgement="fine" />
+<SENTENCE id="S174" spans="5662~5692" text="put the apple left of the disc" judgement="fine" />
+<SENTENCE id="S175" spans="5693~5724" text="put the apple left of the spoon" judgement="fine" />
+<SENTENCE id="S176" spans="5725~5755" text="put the apple left of the book" judgement="fine" />
+<SENTENCE id="S177" spans="5756~5792" text="put the apple left of the blackboard" judgement="fine" />
+<SENTENCE id="S178" spans="5793~5825" text="put the apple left of the bottle" judgement="fine" />
+<SENTENCE id="S179" spans="5826~5857" text="put the apple left of the grape" judgement="fine" />
+<SENTENCE id="S180" spans="5858~5889" text="put the apple left of the apple" judgement="fine" />
+<SENTENCE id="S181" spans="5890~5922" text="put the apple left of the banana" judgement="fine" />
+<SENTENCE id="S182" spans="5923~5954" text="put the apple left of the table" judgement="fine" />
+<SENTENCE id="S183" spans="5955~5985" text="put the apple left of the bowl" judgement="fine" />
+<SENTENCE id="S184" spans="5986~6017" text="put the apple left of the knife" judgement="fine" />
+<SENTENCE id="S185" spans="6018~6050" text="put the apple left of the pencil" judgement="fine" />
+<SENTENCE id="S186" spans="6051~6088" text="put the apple left of the paper sheet" judgement="fine" />
+<SENTENCE id="S187" spans="6089~6121" text="put the banana left of the block" judgement="fine" />
+<SENTENCE id="S188" spans="6122~6153" text="put the banana left of the ball" judgement="fine" />
+<SENTENCE id="S189" spans="6154~6186" text="put the banana left of the plate" judgement="fine" />
+<SENTENCE id="S190" spans="6187~6217" text="put the banana left of the cup" judgement="fine" />
+<SENTENCE id="S191" spans="6218~6249" text="put the banana left of the disc" judgement="fine" />
+<SENTENCE id="S192" spans="6250~6282" text="put the banana left of the spoon" judgement="fine" />
+<SENTENCE id="S193" spans="6283~6314" text="put the banana left of the book" judgement="fine" />
+<SENTENCE id="S194" spans="6315~6352" text="put the banana left of the blackboard" judgement="fine" />
+<SENTENCE id="S195" spans="6353~6386" text="put the banana left of the bottle" judgement="fine" />
+<SENTENCE id="S196" spans="6387~6419" text="put the banana left of the grape" judgement="fine" />
+<SENTENCE id="S197" spans="6420~6452" text="put the banana left of the apple" judgement="fine" />
+<SENTENCE id="S198" spans="6453~6486" text="put the banana left of the banana" judgement="fine" />
+<SENTENCE id="S199" spans="6487~6519" text="put the banana left of the table" judgement="fine" />
+<SENTENCE id="S200" spans="6520~6551" text="put the banana left of the bowl" judgement="fine" />
+<SENTENCE id="S201" spans="6552~6584" text="put the banana left of the knife" judgement="fine" />
+<SENTENCE id="S202" spans="6585~6618" text="put the banana left of the pencil" judgement="fine" />
+<SENTENCE id="S203" spans="6619~6657" text="put the banana left of the paper sheet" judgement="fine" />
+<SENTENCE id="S204" spans="6658~6689" text="put the table left of the block" judgement="fine" />
+<SENTENCE id="S205" spans="6690~6720" text="put the table left of the ball" judgement="fine" />
+<SENTENCE id="S206" spans="6721~6752" text="put the table left of the plate" judgement="fine" />
+<SENTENCE id="S207" spans="6753~6782" text="put the table left of the cup" judgement="fine" />
+<SENTENCE id="S208" spans="6783~6813" text="put the table left of the disc" judgement="fine" />
+<SENTENCE id="S209" spans="6814~6845" text="put the table left of the spoon" judgement="fine" />
+<SENTENCE id="S210" spans="6846~6876" text="put the table left of the book" judgement="fine" />
+<SENTENCE id="S211" spans="6877~6913" text="put the table left of the blackboard" judgement="fine" />
+<SENTENCE id="S212" spans="6914~6946" text="put the table left of the bottle" judgement="fine" />
+<SENTENCE id="S213" spans="6947~6978" text="put the table left of the grape" judgement="fine" />
+<SENTENCE id="S214" spans="6979~7010" text="put the table left of the apple" judgement="fine" />
+<SENTENCE id="S215" spans="7011~7043" text="put the table left of the banana" judgement="fine" />
+<SENTENCE id="S216" spans="7044~7075" text="put the table left of the table" judgement="fine" />
+<SENTENCE id="S217" spans="7076~7106" text="put the table left of the bowl" judgement="fine" />
+<SENTENCE id="S218" spans="7107~7138" text="put the table left of the knife" judgement="fine" />
+<SENTENCE id="S219" spans="7139~7171" text="put the table left of the pencil" judgement="fine" />
+<SENTENCE id="S220" spans="7172~7209" text="put the table left of the paper sheet" judgement="fine" />
+<SENTENCE id="S221" spans="7210~7240" text="put the bowl left of the block" judgement="fine" />
+<SENTENCE id="S222" spans="7241~7270" text="put the bowl left of the ball" judgement="fine" />
+<SENTENCE id="S223" spans="7271~7301" text="put the bowl left of the plate" judgement="fine" />
+<SENTENCE id="S224" spans="7302~7330" text="put the bowl left of the cup" judgement="fine" />
+<SENTENCE id="S225" spans="7331~7360" text="put the bowl left of the disc" judgement="fine" />
+<SENTENCE id="S226" spans="7361~7391" text="put the bowl left of the spoon" judgement="fine" />
+<SENTENCE id="S227" spans="7392~7421" text="put the bowl left of the book" judgement="fine" />
+<SENTENCE id="S228" spans="7422~7457" text="put the bowl left of the blackboard" judgement="fine" />
+<SENTENCE id="S229" spans="7458~7489" text="put the bowl left of the bottle" judgement="fine" />
+<SENTENCE id="S230" spans="7490~7520" text="put the bowl left of the grape" judgement="fine" />
+<SENTENCE id="S231" spans="7521~7551" text="put the bowl left of the apple" judgement="fine" />
+<SENTENCE id="S232" spans="7552~7583" text="put the bowl left of the banana" judgement="fine" />
+<SENTENCE id="S233" spans="7584~7614" text="put the bowl left of the table" judgement="fine" />
+<SENTENCE id="S234" spans="7615~7644" text="put the bowl left of the bowl" judgement="fine" />
+<SENTENCE id="S235" spans="7645~7675" text="put the bowl left of the knife" judgement="fine" />
+<SENTENCE id="S236" spans="7676~7707" text="put the bowl left of the pencil" judgement="fine" />
+<SENTENCE id="S237" spans="7708~7744" text="put the bowl left of the paper sheet" judgement="fine" />
+<SENTENCE id="S238" spans="7745~7776" text="put the knife left of the block" judgement="fine" />
+<SENTENCE id="S239" spans="7777~7807" text="put the knife left of the ball" judgement="fine" />
+<SENTENCE id="S240" spans="7808~7839" text="put the knife left of the plate" judgement="fine" />
+<SENTENCE id="S241" spans="7840~7869" text="put the knife left of the cup" judgement="fine" />
+<SENTENCE id="S242" spans="7870~7900" text="put the knife left of the disc" judgement="fine" />
+<SENTENCE id="S243" spans="7901~7932" text="put the knife left of the spoon" judgement="fine" />
+<SENTENCE id="S244" spans="7933~7963" text="put the knife left of the book" judgement="fine" />
+<SENTENCE id="S245" spans="7964~8000" text="put the knife left of the blackboard" judgement="fine" />
+<SENTENCE id="S246" spans="8001~8033" text="put the knife left of the bottle" judgement="fine" />
+<SENTENCE id="S247" spans="8034~8065" text="put the knife left of the grape" judgement="fine" />
+<SENTENCE id="S248" spans="8066~8097" text="put the knife left of the apple" judgement="fine" />
+<SENTENCE id="S249" spans="8098~8130" text="put the knife left of the banana" judgement="fine" />
+<SENTENCE id="S250" spans="8131~8162" text="put the knife left of the table" judgement="fine" />
+<SENTENCE id="S251" spans="8163~8193" text="put the knife left of the bowl" judgement="fine" />
+<SENTENCE id="S252" spans="8194~8225" text="put the knife left of the knife" judgement="fine" />
+<SENTENCE id="S253" spans="8226~8258" text="put the knife left of the pencil" judgement="fine" />
+<SENTENCE id="S254" spans="8259~8296" text="put the knife left of the paper sheet" judgement="fine" />
+<SENTENCE id="S255" spans="8297~8329" text="put the pencil left of the block" judgement="fine" />
+<SENTENCE id="S256" spans="8330~8361" text="put the pencil left of the ball" judgement="fine" />
+<SENTENCE id="S257" spans="8362~8394" text="put the pencil left of the plate" judgement="fine" />
+<SENTENCE id="S258" spans="8395~8425" text="put the pencil left of the cup" judgement="fine" />
+<SENTENCE id="S259" spans="8426~8457" text="put the pencil left of the disc" judgement="fine" />
+<SENTENCE id="S260" spans="8458~8490" text="put the pencil left of the spoon" judgement="fine" />
+<SENTENCE id="S261" spans="8491~8522" text="put the pencil left of the book" judgement="fine" />
+<SENTENCE id="S262" spans="8523~8560" text="put the pencil left of the blackboard" judgement="fine" />
+<SENTENCE id="S263" spans="8561~8594" text="put the pencil left of the bottle" judgement="fine" />
+<SENTENCE id="S264" spans="8595~8627" text="put the pencil left of the grape" judgement="fine" />
+<SENTENCE id="S265" spans="8628~8660" text="put the pencil left of the apple" judgement="fine" />
+<SENTENCE id="S266" spans="8661~8694" text="put the pencil left of the banana" judgement="fine" />
+<SENTENCE id="S267" spans="8695~8727" text="put the pencil left of the table" judgement="fine" />
+<SENTENCE id="S268" spans="8728~8759" text="put the pencil left of the bowl" judgement="fine" />
+<SENTENCE id="S269" spans="8760~8792" text="put the pencil left of the knife" judgement="fine" />
+<SENTENCE id="S270" spans="8793~8826" text="put the pencil left of the pencil" judgement="fine" />
+<SENTENCE id="S271" spans="8827~8865" text="put the pencil left of the paper sheet" judgement="fine" />
+<SENTENCE id="S272" spans="8866~8903" text="put the paper sheet left of the block" judgement="fine" />
+<SENTENCE id="S273" spans="8904~8940" text="put the paper sheet left of the ball" judgement="fine" />
+<SENTENCE id="S274" spans="8941~8978" text="put the paper sheet left of the plate" judgement="fine" />
+<SENTENCE id="S275" spans="8979~9014" text="put the paper sheet left of the cup" judgement="fine" />
+<SENTENCE id="S276" spans="9015~9051" text="put the paper sheet left of the disc" judgement="fine" />
+<SENTENCE id="S277" spans="9052~9089" text="put the paper sheet left of the spoon" judgement="fine" />
+<SENTENCE id="S278" spans="9090~9126" text="put the paper sheet left of the book" judgement="fine" />
+<SENTENCE id="S279" spans="9127~9169" text="put the paper sheet left of the blackboard" judgement="fine" />
+<SENTENCE id="S280" spans="9170~9208" text="put the paper sheet left of the bottle" judgement="fine" />
+<SENTENCE id="S281" spans="9209~9246" text="put the paper sheet left of the grape" judgement="fine" />
+<SENTENCE id="S282" spans="9247~9284" text="put the paper sheet left of the apple" judgement="fine" />
+<SENTENCE id="S283" spans="9285~9323" text="put the paper sheet left of the banana" judgement="fine" />
+<SENTENCE id="S284" spans="9324~9361" text="put the paper sheet left of the table" judgement="fine" />
+<SENTENCE id="S285" spans="9362~9398" text="put the paper sheet left of the bowl" judgement="fine" />
+<SENTENCE id="S286" spans="9399~9436" text="put the paper sheet left of the knife" judgement="fine" />
+<SENTENCE id="S287" spans="9437~9475" text="put the paper sheet left of the pencil" judgement="fine" />
+<SENTENCE id="S288" spans="9476~9519" text="put the paper sheet left of the paper sheet" judgement="fine" />
+</TAGS>
+</SentenceSimulabilityTask>

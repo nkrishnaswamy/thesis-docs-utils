@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SentenceSimulabilityTask>
+<TEXT><![CDATA[put the block near the block
+put the block near the ball
+put the block near the plate
+put the block near the cup
+put the block near the disc
+put the block near the spoon
+put the block near the book
+put the block near the blackboard
+put the block near the bottle
+put the block near the grape
+put the block near the apple
+put the block near the banana
+put the block near the table
+put the block near the bowl
+put the block near the knife
+put the block near the pencil
+put the block near the paper sheet
+put the ball near the block
+put the ball near the ball
+put the ball near the plate
+put the ball near the cup
+put the ball near the disc
+put the ball near the spoon
+put the ball near the book
+put the ball near the blackboard
+put the ball near the bottle
+put the ball near the grape
+put the ball near the apple
+put the ball near the banana
+put the ball near the table
+put the ball near the bowl
+put the ball near the knife
+put the ball near the pencil
+put the ball near the paper sheet
+put the plate near the block
+put the plate near the ball
+put the plate near the plate
+put the plate near the cup
+put the plate near the disc
+put the plate near the spoon
+put the plate near the book
+put the plate near the blackboard
+put the plate near the bottle
+put the plate near the grape
+put the plate near the apple
+put the plate near the banana
+put the plate near the table
+put the plate near the bowl
+put the plate near the knife
+put the plate near the pencil
+put the plate near the paper sheet
+put the cup near the block
+put the cup near the ball
+put the cup near the plate
+put the cup near the cup
+put the cup near the disc
+put the cup near the spoon
+put the cup near the book
+put the cup near the blackboard
+put the cup near the bottle
+put the cup near the grape
+put the cup near the apple
+put the cup near the banana
+put the cup near the table
+put the cup near the bowl
+put the cup near the knife
+put the cup near the pencil
+put the cup near the paper sheet
+put the disc near the block
+put the disc near the ball
+put the disc near the plate
+put the disc near the cup
+put the disc near the disc
+put the disc near the spoon
+put the disc near the book
+put the disc near the blackboard
+put the disc near the bottle
+put the disc near the grape
+put the disc near the apple
+put the disc near the banana
+put the disc near the table
+put the disc near the bowl
+put the disc near the knife
+put the disc near the pencil
+put the disc near the paper sheet
+put the spoon near the block
+put the spoon near the ball
+put the spoon near the plate
+put the spoon near the cup
+put the spoon near the disc
+put the spoon near the spoon
+put the spoon near the book
+put the spoon near the blackboard
+put the spoon near the bottle
+put the spoon near the grape
+put the spoon near the apple
+put the spoon near the banana
+put the spoon near the table
+put the spoon near the bowl
+put the spoon near the knife
+put the spoon near the pencil
+put the spoon near the paper sheet
+put the book near the block
+put the book near the ball
+put the book near the plate
+put the book near the cup
+put the book near the disc
+put the book near the spoon
+put the book near the book
+put the book near the blackboard
+put the book near the bottle
+put the book near the grape
+put the book near the apple
+put the book near the banana
+put the book near the table
+put the book near the bowl
+put the book near the knife
+put the book near the pencil
+put the book near the paper sheet
+put the blackboard near the block
+put the blackboard near the ball
+put the blackboard near the plate
+put the blackboard near the cup
+put the blackboard near the disc
+put the blackboard near the spoon
+put the blackboard near the book
+put the blackboard near the blackboard
+put the blackboard near the bottle
+put the blackboard near the grape
+put the blackboard near the apple
+put the blackboard near the banana
+put the blackboard near the table
+put the blackboard near the bowl
+put the blackboard near the knife
+put the blackboard near the pencil
+put the blackboard near the paper sheet
+put the bottle near the block
+put the bottle near the ball
+put the bottle near the plate
+put the bottle near the cup
+put the bottle near the disc
+put the bottle near the spoon
+put the bottle near the book
+put the bottle near the blackboard
+put the bottle near the bottle
+put the bottle near the grape
+put the bottle near the apple
+put the bottle near the banana
+put the bottle near the table
+put the bottle near the bowl
+put the bottle near the knife
+put the bottle near the pencil
+put the bottle near the paper sheet
+put the grape near the block
+put the grape near the ball
+put the grape near the plate
+put the grape near the cup
+put the grape near the disc
+put the grape near the spoon
+put the grape near the book
+put the grape near the blackboard
+put the grape near the bottle
+put the grape near the grape
+put the grape near the apple
+put the grape near the banana
+put the grape near the table
+put the grape near the bowl
+put the grape near the knife
+put the grape near the pencil
+put the grape near the paper sheet
+put the apple near the block
+put the apple near the ball
+put the apple near the plate
+put the apple near the cup
+put the apple near the disc
+put the apple near the spoon
+put the apple near the book
+put the apple near the blackboard
+put the apple near the bottle
+put the apple near the grape
+put the apple near the apple
+put the apple near the banana
+put the apple near the table
+put the apple near the bowl
+put the apple near the knife
+put the apple near the pencil
+put the apple near the paper sheet
+put the banana near the block
+put the banana near the ball
+put the banana near the plate
+put the banana near the cup
+put the banana near the disc
+put the banana near the spoon
+put the banana near the book
+put the banana near the blackboard
+put the banana near the bottle
+put the banana near the grape
+put the banana near the apple
+put the banana near the banana
+put the banana near the table
+put the banana near the bowl
+put the banana near the knife
+put the banana near the pencil
+put the banana near the paper sheet
+put the table near the block
+put the table near the ball
+put the table near the plate
+put the table near the cup
+put the table near the disc
+put the table near the spoon
+put the table near the book
+put the table near the blackboard
+put the table near the bottle
+put the table near the grape
+put the table near the apple
+put the table near the banana
+put the table near the table
+put the table near the bowl
+put the table near the knife
+put the table near the pencil
+put the table near the paper sheet
+put the bowl near the block
+put the bowl near the ball
+put the bowl near the plate
+put the bowl near the cup
+put the bowl near the disc
+put the bowl near the spoon
+put the bowl near the book
+put the bowl near the blackboard
+put the bowl near the bottle
+put the bowl near the grape
+put the bowl near the apple
+put the bowl near the banana
+put the bowl near the table
+put the bowl near the bowl
+put the bowl near the knife
+put the bowl near the pencil
+put the bowl near the paper sheet
+put the knife near the block
+put the knife near the ball
+put the knife near the plate
+put the knife near the cup
+put the knife near the disc
+put the knife near the spoon
+put the knife near the book
+put the knife near the blackboard
+put the knife near the bottle
+put the knife near the grape
+put the knife near the apple
+put the knife near the banana
+put the knife near the table
+put the knife near the bowl
+put the knife near the knife
+put the knife near the pencil
+put the knife near the paper sheet
+put the pencil near the block
+put the pencil near the ball
+put the pencil near the plate
+put the pencil near the cup
+put the pencil near the disc
+put the pencil near the spoon
+put the pencil near the book
+put the pencil near the blackboard
+put the pencil near the bottle
+put the pencil near the grape
+put the pencil near the apple
+put the pencil near the banana
+put the pencil near the table
+put the pencil near the bowl
+put the pencil near the knife
+put the pencil near the pencil
+put the pencil near the paper sheet
+put the paper sheet near the block
+put the paper sheet near the ball
+put the paper sheet near the plate
+put the paper sheet near the cup
+put the paper sheet near the disc
+put the paper sheet near the spoon
+put the paper sheet near the book
+put the paper sheet near the blackboard
+put the paper sheet near the bottle
+put the paper sheet near the grape
+put the paper sheet near the apple
+put the paper sheet near the banana
+put the paper sheet near the table
+put the paper sheet near the bowl
+put the paper sheet near the knife
+put the paper sheet near the pencil
+put the paper sheet near the paper sheet
+]]></TEXT>
+<TAGS>
+<SENTENCE id="S0" spans="0~28" text="put the block near the block" judgement="fine" />
+<SENTENCE id="S1" spans="29~56" text="put the block near the ball" judgement="fine" />
+<SENTENCE id="S2" spans="57~85" text="put the block near the plate" judgement="fine" />
+<SENTENCE id="S3" spans="86~112" text="put the block near the cup" judgement="fine" />
+<SENTENCE id="S4" spans="113~140" text="put the block near the disc" judgement="fine" />
+<SENTENCE id="S5" spans="141~169" text="put the block near the spoon" judgement="fine" />
+<SENTENCE id="S6" spans="170~197" text="put the block near the book" judgement="fine" />
+<SENTENCE id="S7" spans="198~231" text="put the block near the blackboard" judgement="fine" />
+<SENTENCE id="S8" spans="232~261" text="put the block near the bottle" judgement="fine" />
+<SENTENCE id="S9" spans="262~290" text="put the block near the grape" judgement="fine" />
+<SENTENCE id="S10" spans="291~319" text="put the block near the apple" judgement="fine" />
+<SENTENCE id="S11" spans="320~349" text="put the block near the banana" judgement="fine" />
+<SENTENCE id="S12" spans="350~378" text="put the block near the table" judgement="fine" />
+<SENTENCE id="S13" spans="379~406" text="put the block near the bowl" judgement="fine" />
+<SENTENCE id="S14" spans="407~435" text="put the block near the knife" judgement="fine" />
+<SENTENCE id="S15" spans="436~465" text="put the block near the pencil" judgement="fine" />
+<SENTENCE id="S16" spans="466~500" text="put the block near the paper sheet" judgement="fine" />
+<SENTENCE id="S17" spans="501~528" text="put the ball near the block" judgement="fine" />
+<SENTENCE id="S18" spans="529~555" text="put the ball near the ball" judgement="fine" />
+<SENTENCE id="S19" spans="556~583" text="put the ball near the plate" judgement="fine" />
+<SENTENCE id="S20" spans="584~609" text="put the ball near the cup" judgement="fine" />
+<SENTENCE id="S21" spans="610~636" text="put the ball near the disc" judgement="fine" />
+<SENTENCE id="S22" spans="637~664" text="put the ball near the spoon" judgement="fine" />
+<SENTENCE id="S23" spans="665~691" text="put the ball near the book" judgement="fine" />
+<SENTENCE id="S24" spans="692~724" text="put the ball near the blackboard" judgement="fine" />
+<SENTENCE id="S25" spans="725~753" text="put the ball near the bottle" judgement="fine" />
+<SENTENCE id="S26" spans="754~781" text="put the ball near the grape" judgement="fine" />
+<SENTENCE id="S27" spans="782~809" text="put the ball near the apple" judgement="fine" />
+<SENTENCE id="S28" spans="810~838" text="put the ball near the banana" judgement="fine" />
+<SENTENCE id="S29" spans="839~866" text="put the ball near the table" judgement="fine" />
+<SENTENCE id="S30" spans="867~893" text="put the ball near the bowl" judgement="fine" />
+<SENTENCE id="S31" spans="894~921" text="put the ball near the knife" judgement="fine" />
+<SENTENCE id="S32" spans="922~950" text="put the ball near the pencil" judgement="fine" />
+<SENTENCE id="S33" spans="951~984" text="put the ball near the paper sheet" judgement="fine" />
+<SENTENCE id="S34" spans="985~1013" text="put the plate near the block" judgement="fine" />
+<SENTENCE id="S35" spans="1014~1041" text="put the plate near the ball" judgement="fine" />
+<SENTENCE id="S36" spans="1042~1070" text="put the plate near the plate" judgement="fine" />
+<SENTENCE id="S37" spans="1071~1097" text="put the plate near the cup" judgement="fine" />
+<SENTENCE id="S38" spans="1098~1125" text="put the plate near the disc" judgement="fine" />
+<SENTENCE id="S39" spans="1126~1154" text="put the plate near the spoon" judgement="fine" />
+<SENTENCE id="S40" spans="1155~1182" text="put the plate near the book" judgement="fine" />
+<SENTENCE id="S41" spans="1183~1216" text="put the plate near the blackboard" judgement="fine" />
+<SENTENCE id="S42" spans="1217~1246" text="put the plate near the bottle" judgement="fine" />
+<SENTENCE id="S43" spans="1247~1275" text="put the plate near the grape" judgement="fine" />
+<SENTENCE id="S44" spans="1276~1304" text="put the plate near the apple" judgement="fine" />
+<SENTENCE id="S45" spans="1305~1334" text="put the plate near the banana" judgement="fine" />
+<SENTENCE id="S46" spans="1335~1363" text="put the plate near the table" judgement="fine" />
+<SENTENCE id="S47" spans="1364~1391" text="put the plate near the bowl" judgement="fine" />
+<SENTENCE id="S48" spans="1392~1420" text="put the plate near the knife" judgement="fine" />
+<SENTENCE id="S49" spans="1421~1450" text="put the plate near the pencil" judgement="fine" />
+<SENTENCE id="S50" spans="1451~1485" text="put the plate near the paper sheet" judgement="fine" />
+<SENTENCE id="S51" spans="1486~1512" text="put the cup near the block" judgement="fine" />
+<SENTENCE id="S52" spans="1513~1538" text="put the cup near the ball" judgement="fine" />
+<SENTENCE id="S53" spans="1539~1565" text="put the cup near the plate" judgement="fine" />
+<SENTENCE id="S54" spans="1566~1590" text="put the cup near the cup" judgement="fine" />
+<SENTENCE id="S55" spans="1591~1616" text="put the cup near the disc" judgement="fine" />
+<SENTENCE id="S56" spans="1617~1643" text="put the cup near the spoon" judgement="fine" />
+<SENTENCE id="S57" spans="1644~1669" text="put the cup near the book" judgement="fine" />
+<SENTENCE id="S58" spans="1670~1701" text="put the cup near the blackboard" judgement="fine" />
+<SENTENCE id="S59" spans="1702~1729" text="put the cup near the bottle" judgement="fine" />
+<SENTENCE id="S60" spans="1730~1756" text="put the cup near the grape" judgement="fine" />
+<SENTENCE id="S61" spans="1757~1783" text="put the cup near the apple" judgement="fine" />
+<SENTENCE id="S62" spans="1784~1811" text="put the cup near the banana" judgement="fine" />
+<SENTENCE id="S63" spans="1812~1838" text="put the cup near the table" judgement="fine" />
+<SENTENCE id="S64" spans="1839~1864" text="put the cup near the bowl" judgement="fine" />
+<SENTENCE id="S65" spans="1865~1891" text="put the cup near the knife" judgement="fine" />
+<SENTENCE id="S66" spans="1892~1919" text="put the cup near the pencil" judgement="fine" />
+<SENTENCE id="S67" spans="1920~1952" text="put the cup near the paper sheet" judgement="fine" />
+<SENTENCE id="S68" spans="1953~1980" text="put the disc near the block" judgement="fine" />
+<SENTENCE id="S69" spans="1981~2007" text="put the disc near the ball" judgement="fine" />
+<SENTENCE id="S70" spans="2008~2035" text="put the disc near the plate" judgement="fine" />
+<SENTENCE id="S71" spans="2036~2061" text="put the disc near the cup" judgement="fine" />
+<SENTENCE id="S72" spans="2062~2088" text="put the disc near the disc" judgement="fine" />
+<SENTENCE id="S73" spans="2089~2116" text="put the disc near the spoon" judgement="fine" />
+<SENTENCE id="S74" spans="2117~2143" text="put the disc near the book" judgement="fine" />
+<SENTENCE id="S75" spans="2144~2176" text="put the disc near the blackboard" judgement="fine" />
+<SENTENCE id="S76" spans="2177~2205" text="put the disc near the bottle" judgement="fine" />
+<SENTENCE id="S77" spans="2206~2233" text="put the disc near the grape" judgement="fine" />
+<SENTENCE id="S78" spans="2234~2261" text="put the disc near the apple" judgement="fine" />
+<SENTENCE id="S79" spans="2262~2290" text="put the disc near the banana" judgement="fine" />
+<SENTENCE id="S80" spans="2291~2318" text="put the disc near the table" judgement="fine" />
+<SENTENCE id="S81" spans="2319~2345" text="put the disc near the bowl" judgement="fine" />
+<SENTENCE id="S82" spans="2346~2373" text="put the disc near the knife" judgement="fine" />
+<SENTENCE id="S83" spans="2374~2402" text="put the disc near the pencil" judgement="fine" />
+<SENTENCE id="S84" spans="2403~2436" text="put the disc near the paper sheet" judgement="fine" />
+<SENTENCE id="S85" spans="2437~2465" text="put the spoon near the block" judgement="fine" />
+<SENTENCE id="S86" spans="2466~2493" text="put the spoon near the ball" judgement="fine" />
+<SENTENCE id="S87" spans="2494~2522" text="put the spoon near the plate" judgement="fine" />
+<SENTENCE id="S88" spans="2523~2549" text="put the spoon near the cup" judgement="fine" />
+<SENTENCE id="S89" spans="2550~2577" text="put the spoon near the disc" judgement="fine" />
+<SENTENCE id="S90" spans="2578~2606" text="put the spoon near the spoon" judgement="fine" />
+<SENTENCE id="S91" spans="2607~2634" text="put the spoon near the book" judgement="fine" />
+<SENTENCE id="S92" spans="2635~2668" text="put the spoon near the blackboard" judgement="fine" />
+<SENTENCE id="S93" spans="2669~2698" text="put the spoon near the bottle" judgement="fine" />
+<SENTENCE id="S94" spans="2699~2727" text="put the spoon near the grape" judgement="fine" />
+<SENTENCE id="S95" spans="2728~2756" text="put the spoon near the apple" judgement="fine" />
+<SENTENCE id="S96" spans="2757~2786" text="put the spoon near the banana" judgement="fine" />
+<SENTENCE id="S97" spans="2787~2815" text="put the spoon near the table" judgement="fine" />
+<SENTENCE id="S98" spans="2816~2843" text="put the spoon near the bowl" judgement="fine" />
+<SENTENCE id="S99" spans="2844~2872" text="put the spoon near the knife" judgement="fine" />
+<SENTENCE id="S100" spans="2873~2902" text="put the spoon near the pencil" judgement="fine" />
+<SENTENCE id="S101" spans="2903~2937" text="put the spoon near the paper sheet" judgement="fine" />
+<SENTENCE id="S102" spans="2938~2965" text="put the book near the block" judgement="fine" />
+<SENTENCE id="S103" spans="2966~2992" text="put the book near the ball" judgement="fine" />
+<SENTENCE id="S104" spans="2993~3020" text="put the book near the plate" judgement="fine" />
+<SENTENCE id="S105" spans="3021~3046" text="put the book near the cup" judgement="fine" />
+<SENTENCE id="S106" spans="3047~3073" text="put the book near the disc" judgement="fine" />
+<SENTENCE id="S107" spans="3074~3101" text="put the book near the spoon" judgement="fine" />
+<SENTENCE id="S108" spans="3102~3128" text="put the book near the book" judgement="fine" />
+<SENTENCE id="S109" spans="3129~3161" text="put the book near the blackboard" judgement="fine" />
+<SENTENCE id="S110" spans="3162~3190" text="put the book near the bottle" judgement="fine" />
+<SENTENCE id="S111" spans="3191~3218" text="put the book near the grape" judgement="fine" />
+<SENTENCE id="S112" spans="3219~3246" text="put the book near the apple" judgement="fine" />
+<SENTENCE id="S113" spans="3247~3275" text="put the book near the banana" judgement="fine" />
+<SENTENCE id="S114" spans="3276~3303" text="put the book near the table" judgement="fine" />
+<SENTENCE id="S115" spans="3304~3330" text="put the book near the bowl" judgement="fine" />
+<SENTENCE id="S116" spans="3331~3358" text="put the book near the knife" judgement="fine" />
+<SENTENCE id="S117" spans="3359~3387" text="put the book near the pencil" judgement="fine" />
+<SENTENCE id="S118" spans="3388~3421" text="put the book near the paper sheet" judgement="fine" />
+<SENTENCE id="S119" spans="3422~3455" text="put the blackboard near the block" judgement="fine" />
+<SENTENCE id="S120" spans="3456~3488" text="put the blackboard near the ball" judgement="fine" />
+<SENTENCE id="S121" spans="3489~3522" text="put the blackboard near the plate" judgement="fine" />
+<SENTENCE id="S122" spans="3523~3554" text="put the blackboard near the cup" judgement="fine" />
+<SENTENCE id="S123" spans="3555~3587" text="put the blackboard near the disc" judgement="fine" />
+<SENTENCE id="S124" spans="3588~3621" text="put the blackboard near the spoon" judgement="fine" />
+<SENTENCE id="S125" spans="3622~3654" text="put the blackboard near the book" judgement="fine" />
+<SENTENCE id="S126" spans="3655~3693" text="put the blackboard near the blackboard" judgement="fine" />
+<SENTENCE id="S127" spans="3694~3728" text="put the blackboard near the bottle" judgement="fine" />
+<SENTENCE id="S128" spans="3729~3762" text="put the blackboard near the grape" judgement="fine" />
+<SENTENCE id="S129" spans="3763~3796" text="put the blackboard near the apple" judgement="fine" />
+<SENTENCE id="S130" spans="3797~3831" text="put the blackboard near the banana" judgement="fine" />
+<SENTENCE id="S131" spans="3832~3865" text="put the blackboard near the table" judgement="fine" />
+<SENTENCE id="S132" spans="3866~3898" text="put the blackboard near the bowl" judgement="fine" />
+<SENTENCE id="S133" spans="3899~3932" text="put the blackboard near the knife" judgement="fine" />
+<SENTENCE id="S134" spans="3933~3967" text="put the blackboard near the pencil" judgement="fine" />
+<SENTENCE id="S135" spans="3968~4007" text="put the blackboard near the paper sheet" judgement="fine" />
+<SENTENCE id="S136" spans="4008~4037" text="put the bottle near the block" judgement="fine" />
+<SENTENCE id="S137" spans="4038~4066" text="put the bottle near the ball" judgement="fine" />
+<SENTENCE id="S138" spans="4067~4096" text="put the bottle near the plate" judgement="fine" />
+<SENTENCE id="S139" spans="4097~4124" text="put the bottle near the cup" judgement="fine" />
+<SENTENCE id="S140" spans="4125~4153" text="put the bottle near the disc" judgement="fine" />
+<SENTENCE id="S141" spans="4154~4183" text="put the bottle near the spoon" judgement="fine" />
+<SENTENCE id="S142" spans="4184~4212" text="put the bottle near the book" judgement="fine" />
+<SENTENCE id="S143" spans="4213~4247" text="put the bottle near the blackboard" judgement="fine" />
+<SENTENCE id="S144" spans="4248~4278" text="put the bottle near the bottle" judgement="fine" />
+<SENTENCE id="S145" spans="4279~4308" text="put the bottle near the grape" judgement="fine" />
+<SENTENCE id="S146" spans="4309~4338" text="put the bottle near the apple" judgement="fine" />
+<SENTENCE id="S147" spans="4339~4369" text="put the bottle near the banana" judgement="fine" />
+<SENTENCE id="S148" spans="4370~4399" text="put the bottle near the table" judgement="fine" />
+<SENTENCE id="S149" spans="4400~4428" text="put the bottle near the bowl" judgement="fine" />
+<SENTENCE id="S150" spans="4429~4458" text="put the bottle near the knife" judgement="fine" />
+<SENTENCE id="S151" spans="4459~4489" text="put the bottle near the pencil" judgement="fine" />
+<SENTENCE id="S152" spans="4490~4525" text="put the bottle near the paper sheet" judgement="fine" />
+<SENTENCE id="S153" spans="4526~4554" text="put the grape near the block" judgement="fine" />
+<SENTENCE id="S154" spans="4555~4582" text="put the grape near the ball" judgement="fine" />
+<SENTENCE id="S155" spans="4583~4611" text="put the grape near the plate" judgement="fine" />
+<SENTENCE id="S156" spans="4612~4638" text="put the grape near the cup" judgement="fine" />
+<SENTENCE id="S157" spans="4639~4666" text="put the grape near the disc" judgement="fine" />
+<SENTENCE id="S158" spans="4667~4695" text="put the grape near the spoon" judgement="fine" />
+<SENTENCE id="S159" spans="4696~4723" text="put the grape near the book" judgement="fine" />
+<SENTENCE id="S160" spans="4724~4757" text="put the grape near the blackboard" judgement="fine" />
+<SENTENCE id="S161" spans="4758~4787" text="put the grape near the bottle" judgement="fine" />
+<SENTENCE id="S162" spans="4788~4816" text="put the grape near the grape" judgement="fine" />
+<SENTENCE id="S163" spans="4817~4845" text="put the grape near the apple" judgement="fine" />
+<SENTENCE id="S164" spans="4846~4875" text="put the grape near the banana" judgement="fine" />
+<SENTENCE id="S165" spans="4876~4904" text="put the grape near the table" judgement="fine" />
+<SENTENCE id="S166" spans="4905~4932" text="put the grape near the bowl" judgement="fine" />
+<SENTENCE id="S167" spans="4933~4961" text="put the grape near the knife" judgement="fine" />
+<SENTENCE id="S168" spans="4962~4991" text="put the grape near the pencil" judgement="fine" />
+<SENTENCE id="S169" spans="4992~5026" text="put the grape near the paper sheet" judgement="fine" />
+<SENTENCE id="S170" spans="5027~5055" text="put the apple near the block" judgement="fine" />
+<SENTENCE id="S171" spans="5056~5083" text="put the apple near the ball" judgement="fine" />
+<SENTENCE id="S172" spans="5084~5112" text="put the apple near the plate" judgement="fine" />
+<SENTENCE id="S173" spans="5113~5139" text="put the apple near the cup" judgement="fine" />
+<SENTENCE id="S174" spans="5140~5167" text="put the apple near the disc" judgement="fine" />
+<SENTENCE id="S175" spans="5168~5196" text="put the apple near the spoon" judgement="fine" />
+<SENTENCE id="S176" spans="5197~5224" text="put the apple near the book" judgement="fine" />
+<SENTENCE id="S177" spans="5225~5258" text="put the apple near the blackboard" judgement="fine" />
+<SENTENCE id="S178" spans="5259~5288" text="put the apple near the bottle" judgement="fine" />
+<SENTENCE id="S179" spans="5289~5317" text="put the apple near the grape" judgement="fine" />
+<SENTENCE id="S180" spans="5318~5346" text="put the apple near the apple" judgement="fine" />
+<SENTENCE id="S181" spans="5347~5376" text="put the apple near the banana" judgement="fine" />
+<SENTENCE id="S182" spans="5377~5405" text="put the apple near the table" judgement="fine" />
+<SENTENCE id="S183" spans="5406~5433" text="put the apple near the bowl" judgement="fine" />
+<SENTENCE id="S184" spans="5434~5462" text="put the apple near the knife" judgement="fine" />
+<SENTENCE id="S185" spans="5463~5492" text="put the apple near the pencil" judgement="fine" />
+<SENTENCE id="S186" spans="5493~5527" text="put the apple near the paper sheet" judgement="fine" />
+<SENTENCE id="S187" spans="5528~5557" text="put the banana near the block" judgement="fine" />
+<SENTENCE id="S188" spans="5558~5586" text="put the banana near the ball" judgement="fine" />
+<SENTENCE id="S189" spans="5587~5616" text="put the banana near the plate" judgement="fine" />
+<SENTENCE id="S190" spans="5617~5644" text="put the banana near the cup" judgement="fine" />
+<SENTENCE id="S191" spans="5645~5673" text="put the banana near the disc" judgement="fine" />
+<SENTENCE id="S192" spans="5674~5703" text="put the banana near the spoon" judgement="fine" />
+<SENTENCE id="S193" spans="5704~5732" text="put the banana near the book" judgement="fine" />
+<SENTENCE id="S194" spans="5733~5767" text="put the banana near the blackboard" judgement="fine" />
+<SENTENCE id="S195" spans="5768~5798" text="put the banana near the bottle" judgement="fine" />
+<SENTENCE id="S196" spans="5799~5828" text="put the banana near the grape" judgement="fine" />
+<SENTENCE id="S197" spans="5829~5858" text="put the banana near the apple" judgement="fine" />
+<SENTENCE id="S198" spans="5859~5889" text="put the banana near the banana" judgement="fine" />
+<SENTENCE id="S199" spans="5890~5919" text="put the banana near the table" judgement="fine" />
+<SENTENCE id="S200" spans="5920~5948" text="put the banana near the bowl" judgement="fine" />
+<SENTENCE id="S201" spans="5949~5978" text="put the banana near the knife" judgement="fine" />
+<SENTENCE id="S202" spans="5979~6009" text="put the banana near the pencil" judgement="fine" />
+<SENTENCE id="S203" spans="6010~6045" text="put the banana near the paper sheet" judgement="fine" />
+<SENTENCE id="S204" spans="6046~6074" text="put the table near the block" judgement="fine" />
+<SENTENCE id="S205" spans="6075~6102" text="put the table near the ball" judgement="fine" />
+<SENTENCE id="S206" spans="6103~6131" text="put the table near the plate" judgement="fine" />
+<SENTENCE id="S207" spans="6132~6158" text="put the table near the cup" judgement="fine" />
+<SENTENCE id="S208" spans="6159~6186" text="put the table near the disc" judgement="fine" />
+<SENTENCE id="S209" spans="6187~6215" text="put the table near the spoon" judgement="fine" />
+<SENTENCE id="S210" spans="6216~6243" text="put the table near the book" judgement="fine" />
+<SENTENCE id="S211" spans="6244~6277" text="put the table near the blackboard" judgement="fine" />
+<SENTENCE id="S212" spans="6278~6307" text="put the table near the bottle" judgement="fine" />
+<SENTENCE id="S213" spans="6308~6336" text="put the table near the grape" judgement="fine" />
+<SENTENCE id="S214" spans="6337~6365" text="put the table near the apple" judgement="fine" />
+<SENTENCE id="S215" spans="6366~6395" text="put the table near the banana" judgement="fine" />
+<SENTENCE id="S216" spans="6396~6424" text="put the table near the table" judgement="fine" />
+<SENTENCE id="S217" spans="6425~6452" text="put the table near the bowl" judgement="fine" />
+<SENTENCE id="S218" spans="6453~6481" text="put the table near the knife" judgement="fine" />
+<SENTENCE id="S219" spans="6482~6511" text="put the table near the pencil" judgement="fine" />
+<SENTENCE id="S220" spans="6512~6546" text="put the table near the paper sheet" judgement="fine" />
+<SENTENCE id="S221" spans="6547~6574" text="put the bowl near the block" judgement="fine" />
+<SENTENCE id="S222" spans="6575~6601" text="put the bowl near the ball" judgement="fine" />
+<SENTENCE id="S223" spans="6602~6629" text="put the bowl near the plate" judgement="fine" />
+<SENTENCE id="S224" spans="6630~6655" text="put the bowl near the cup" judgement="fine" />
+<SENTENCE id="S225" spans="6656~6682" text="put the bowl near the disc" judgement="fine" />
+<SENTENCE id="S226" spans="6683~6710" text="put the bowl near the spoon" judgement="fine" />
+<SENTENCE id="S227" spans="6711~6737" text="put the bowl near the book" judgement="fine" />
+<SENTENCE id="S228" spans="6738~6770" text="put the bowl near the blackboard" judgement="fine" />
+<SENTENCE id="S229" spans="6771~6799" text="put the bowl near the bottle" judgement="fine" />
+<SENTENCE id="S230" spans="6800~6827" text="put the bowl near the grape" judgement="fine" />
+<SENTENCE id="S231" spans="6828~6855" text="put the bowl near the apple" judgement="fine" />
+<SENTENCE id="S232" spans="6856~6884" text="put the bowl near the banana" judgement="fine" />
+<SENTENCE id="S233" spans="6885~6912" text="put the bowl near the table" judgement="fine" />
+<SENTENCE id="S234" spans="6913~6939" text="put the bowl near the bowl" judgement="fine" />
+<SENTENCE id="S235" spans="6940~6967" text="put the bowl near the knife" judgement="fine" />
+<SENTENCE id="S236" spans="6968~6996" text="put the bowl near the pencil" judgement="fine" />
+<SENTENCE id="S237" spans="6997~7030" text="put the bowl near the paper sheet" judgement="fine" />
+<SENTENCE id="S238" spans="7031~7059" text="put the knife near the block" judgement="fine" />
+<SENTENCE id="S239" spans="7060~7087" text="put the knife near the ball" judgement="fine" />
+<SENTENCE id="S240" spans="7088~7116" text="put the knife near the plate" judgement="fine" />
+<SENTENCE id="S241" spans="7117~7143" text="put the knife near the cup" judgement="fine" />
+<SENTENCE id="S242" spans="7144~7171" text="put the knife near the disc" judgement="fine" />
+<SENTENCE id="S243" spans="7172~7200" text="put the knife near the spoon" judgement="fine" />
+<SENTENCE id="S244" spans="7201~7228" text="put the knife near the book" judgement="fine" />
+<SENTENCE id="S245" spans="7229~7262" text="put the knife near the blackboard" judgement="fine" />
+<SENTENCE id="S246" spans="7263~7292" text="put the knife near the bottle" judgement="fine" />
+<SENTENCE id="S247" spans="7293~7321" text="put the knife near the grape" judgement="fine" />
+<SENTENCE id="S248" spans="7322~7350" text="put the knife near the apple" judgement="fine" />
+<SENTENCE id="S249" spans="7351~7380" text="put the knife near the banana" judgement="fine" />
+<SENTENCE id="S250" spans="7381~7409" text="put the knife near the table" judgement="fine" />
+<SENTENCE id="S251" spans="7410~7437" text="put the knife near the bowl" judgement="fine" />
+<SENTENCE id="S252" spans="7438~7466" text="put the knife near the knife" judgement="fine" />
+<SENTENCE id="S253" spans="7467~7496" text="put the knife near the pencil" judgement="fine" />
+<SENTENCE id="S254" spans="7497~7531" text="put the knife near the paper sheet" judgement="fine" />
+<SENTENCE id="S255" spans="7532~7561" text="put the pencil near the block" judgement="fine" />
+<SENTENCE id="S256" spans="7562~7590" text="put the pencil near the ball" judgement="fine" />
+<SENTENCE id="S257" spans="7591~7620" text="put the pencil near the plate" judgement="fine" />
+<SENTENCE id="S258" spans="7621~7648" text="put the pencil near the cup" judgement="fine" />
+<SENTENCE id="S259" spans="7649~7677" text="put the pencil near the disc" judgement="fine" />
+<SENTENCE id="S260" spans="7678~7707" text="put the pencil near the spoon" judgement="fine" />
+<SENTENCE id="S261" spans="7708~7736" text="put the pencil near the book" judgement="fine" />
+<SENTENCE id="S262" spans="7737~7771" text="put the pencil near the blackboard" judgement="fine" />
+<SENTENCE id="S263" spans="7772~7802" text="put the pencil near the bottle" judgement="fine" />
+<SENTENCE id="S264" spans="7803~7832" text="put the pencil near the grape" judgement="fine" />
+<SENTENCE id="S265" spans="7833~7862" text="put the pencil near the apple" judgement="fine" />
+<SENTENCE id="S266" spans="7863~7893" text="put the pencil near the banana" judgement="fine" />
+<SENTENCE id="S267" spans="7894~7923" text="put the pencil near the table" judgement="fine" />
+<SENTENCE id="S268" spans="7924~7952" text="put the pencil near the bowl" judgement="fine" />
+<SENTENCE id="S269" spans="7953~7982" text="put the pencil near the knife" judgement="fine" />
+<SENTENCE id="S270" spans="7983~8013" text="put the pencil near the pencil" judgement="fine" />
+<SENTENCE id="S271" spans="8014~8049" text="put the pencil near the paper sheet" judgement="fine" />
+<SENTENCE id="S272" spans="8050~8084" text="put the paper sheet near the block" judgement="fine" />
+<SENTENCE id="S273" spans="8085~8118" text="put the paper sheet near the ball" judgement="fine" />
+<SENTENCE id="S274" spans="8119~8153" text="put the paper sheet near the plate" judgement="fine" />
+<SENTENCE id="S275" spans="8154~8186" text="put the paper sheet near the cup" judgement="fine" />
+<SENTENCE id="S276" spans="8187~8220" text="put the paper sheet near the disc" judgement="fine" />
+<SENTENCE id="S277" spans="8221~8255" text="put the paper sheet near the spoon" judgement="fine" />
+<SENTENCE id="S278" spans="8256~8289" text="put the paper sheet near the book" judgement="fine" />
+<SENTENCE id="S279" spans="8290~8329" text="put the paper sheet near the blackboard" judgement="fine" />
+<SENTENCE id="S280" spans="8330~8365" text="put the paper sheet near the bottle" judgement="fine" />
+<SENTENCE id="S281" spans="8366~8400" text="put the paper sheet near the grape" judgement="fine" />
+<SENTENCE id="S282" spans="8401~8435" text="put the paper sheet near the apple" judgement="fine" />
+<SENTENCE id="S283" spans="8436~8471" text="put the paper sheet near the banana" judgement="fine" />
+<SENTENCE id="S284" spans="8472~8506" text="put the paper sheet near the table" judgement="fine" />
+<SENTENCE id="S285" spans="8507~8540" text="put the paper sheet near the bowl" judgement="fine" />
+<SENTENCE id="S286" spans="8541~8575" text="put the paper sheet near the knife" judgement="fine" />
+<SENTENCE id="S287" spans="8576~8611" text="put the paper sheet near the pencil" judgement="fine" />
+<SENTENCE id="S288" spans="8612~8652" text="put the paper sheet near the paper sheet" judgement="fine" />
+</TAGS>
+</SentenceSimulabilityTask>

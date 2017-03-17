@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SentenceSimulabilityTask>
+<TEXT><![CDATA[flip the block on edge
+flip the ball on edge
+flip the plate on edge
+flip the cup on edge
+flip the disc on edge
+flip the spoon on edge
+flip the book on edge
+flip the blackboard on edge
+flip the bottle on edge
+flip the grape on edge
+flip the apple on edge
+flip the banana on edge
+flip the table on edge
+flip the bowl on edge
+flip the knife on edge
+flip the pencil on edge
+flip the paper sheet on edge
+flip the block at center
+flip the ball at center
+flip the plate at center
+flip the cup at center
+flip the disc at center
+flip the spoon at center
+flip the book at center
+flip the blackboard at center
+flip the bottle at center
+flip the grape at center
+flip the apple at center
+flip the banana at center
+flip the table at center
+flip the bowl at center
+flip the knife at center
+flip the pencil at center
+flip the paper sheet at center
+close the block
+close the ball
+close the plate
+close the cup
+close the disc
+close the spoon
+close the book
+close the blackboard
+close the bottle
+close the grape
+close the apple
+close the banana
+close the table
+close the bowl
+close the knife
+close the pencil
+close the paper sheet
+open the block
+open the ball
+open the plate
+open the cup
+open the disc
+open the spoon
+open the book
+open the blackboard
+open the bottle
+open the grape
+open the apple
+open the banana
+open the table
+open the bowl
+open the knife
+open the pencil
+open the paper sheet
+]]></TEXT>
+<TAGS>
+<SENTENCE id="S0" spans="0~22" text="flip the block on edge" judgement="fine" />
+<SENTENCE id="S1" spans="23~44" text="flip the ball on edge" judgement="nonsense" />
+<SENTENCE id="S2" spans="45~67" text="flip the plate on edge" judgement="nonsense" />
+<SENTENCE id="S3" spans="68~88" text="flip the cup on edge" judgement="nonsense" />
+<SENTENCE id="S4" spans="89~110" text="flip the disc on edge" judgement="nonsense" />
+<SENTENCE id="S5" spans="111~133" text="flip the spoon on edge" judgement="nonsense" />
+<SENTENCE id="S6" spans="134~155" text="flip the book on edge" judgement="fine" />
+<SENTENCE id="S7" spans="156~183" text="flip the blackboard on edge" judgement="fine" />
+<SENTENCE id="S8" spans="184~207" text="flip the bottle on edge" judgement="nonsense" />
+<SENTENCE id="S9" spans="208~230" text="flip the grape on edge" judgement="nonsense" />
+<SENTENCE id="S10" spans="231~253" text="flip the apple on edge" judgement="nonsense" />
+<SENTENCE id="S11" spans="254~277" text="flip the banana on edge" judgement="nonsense" />
+<SENTENCE id="S12" spans="278~300" text="flip the table on edge" judgement="fine" />
+<SENTENCE id="S13" spans="301~322" text="flip the bowl on edge" judgement="nonsense" />
+<SENTENCE id="S14" spans="323~345" text="flip the knife on edge" judgement="nonsense" />
+<SENTENCE id="S15" spans="346~369" text="flip the pencil on edge" judgement="nonsense" />
+<SENTENCE id="S16" spans="370~398" text="flip the paper sheet on edge" judgement="nonsense" />
+<SENTENCE id="S17" spans="399~423" text="flip the block at center" judgement="awkward" />
+<SENTENCE id="S18" spans="424~447" text="flip the ball at center" judgement="nonsense" />
+<SENTENCE id="S19" spans="448~472" text="flip the plate at center" judgement="awkward" />
+<SENTENCE id="S20" spans="473~495" text="flip the cup at center" judgement="awkward" />
+<SENTENCE id="S21" spans="496~519" text="flip the disc at center" judgement="fine" />
+<SENTENCE id="S22" spans="520~544" text="flip the spoon at center" judgement="fine" />
+<SENTENCE id="S23" spans="545~568" text="flip the book at center" judgement="fine" />
+<SENTENCE id="S24" spans="569~598" text="flip the blackboard at center" judgement="awkward" />
+<SENTENCE id="S25" spans="599~624" text="flip the bottle at center" judgement="fine" />
+<SENTENCE id="S26" spans="625~649" text="flip the grape at center" judgement="awkward" />
+<SENTENCE id="S27" spans="650~674" text="flip the apple at center" judgement="awkward" />
+<SENTENCE id="S28" spans="675~700" text="flip the banana at center" judgement="fine" />
+<SENTENCE id="S29" spans="701~725" text="flip the table at center" judgement="fine" />
+<SENTENCE id="S30" spans="726~749" text="flip the bowl at center" judgement="awkward" />
+<SENTENCE id="S31" spans="750~774" text="flip the knife at center" judgement="fine" />
+<SENTENCE id="S32" spans="775~800" text="flip the pencil at center" judgement="fine" />
+<SENTENCE id="S33" spans="801~831" text="flip the paper sheet at center" judgement="awkward" />
+<SENTENCE id="S34" spans="832~847" text="close the block" judgement="awkward" />
+<SENTENCE id="S35" spans="848~862" text="close the ball" judgement="nonsense" />
+<SENTENCE id="S36" spans="863~878" text="close the plate" judgement="nonsense" />
+<SENTENCE id="S37" spans="879~892" text="close the cup" judgement="fine" />
+<SENTENCE id="S38" spans="893~907" text="close the disc" judgement="awkward" />
+<SENTENCE id="S39" spans="908~923" text="close the spoon" judgement="nonsense" />
+<SENTENCE id="S40" spans="924~938" text="close the book" judgement="fine" />
+<SENTENCE id="S41" spans="939~959" text="close the blackboard" judgement="awkward" />
+<SENTENCE id="S42" spans="960~976" text="close the bottle" judgement="fine" />
+<SENTENCE id="S43" spans="977~992" text="close the grape" judgement="nonsense" />
+<SENTENCE id="S44" spans="993~1008" text="close the apple" judgement="nonsense" />
+<SENTENCE id="S45" spans="1009~1025" text="close the banana" judgement="nonsense" />
+<SENTENCE id="S46" spans="1026~1041" text="close the table" judgement="fine" />
+<SENTENCE id="S47" spans="1042~1056" text="close the bowl" judgement="awkward" />
+<SENTENCE id="S48" spans="1057~1072" text="close the knife" judgement="nonsense" />
+<SENTENCE id="S49" spans="1073~1089" text="close the pencil" judgement="awkward" />
+<SENTENCE id="S50" spans="1090~1111" text="close the paper sheet" judgement="awkward" />
+<SENTENCE id="S51" spans="1112~1126" text="open the block" judgement="awkward" />
+<SENTENCE id="S52" spans="1127~1140" text="open the ball" judgement="awkward" />
+<SENTENCE id="S53" spans="1141~1155" text="open the plate" judgement="awkward" />
+<SENTENCE id="S54" spans="1156~1168" text="open the cup" judgement="fine" />
+<SENTENCE id="S55" spans="1169~1182" text="open the disc" judgement="awkward" />
+<SENTENCE id="S56" spans="1183~1197" text="open the spoon" judgement="nonsense" />
+<SENTENCE id="S57" spans="1198~1211" text="open the book" judgement="fine" />
+<SENTENCE id="S58" spans="1212~1231" text="open the blackboard" judgement="awkward" />
+<SENTENCE id="S59" spans="1232~1247" text="open the bottle" judgement="fine" />
+<SENTENCE id="S60" spans="1248~1262" text="open the grape" judgement="awkward" />
+<SENTENCE id="S61" spans="1263~1277" text="open the apple" judgement="awkward" />
+<SENTENCE id="S62" spans="1278~1293" text="open the banana" judgement="fine" />
+<SENTENCE id="S63" spans="1294~1308" text="open the table" judgement="awkward" />
+<SENTENCE id="S64" spans="1309~1322" text="open the bowl" judgement="awkward" />
+<SENTENCE id="S65" spans="1323~1337" text="open the knife" judgement="nonsense" />
+<SENTENCE id="S66" spans="1338~1353" text="open the pencil" judgement="fine" />
+<SENTENCE id="S67" spans="1354~1374" text="open the paper sheet" judgement="fine" />
+</TAGS>
+</SentenceSimulabilityTask>

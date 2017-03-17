@@ -1,0 +1,25 @@
+3381 sentences, unvetted, were submitted to 3 annotators.
+
+Annotator 1: Asian-American female, fluent or native English speaker, 20-29 y/o, 3+ yrs post-secondary education
+Annotator 2: Asian-American female, fluent or native English speaker, 20-29 y/o, 4+ yrs post-secondary education, bachelor's degree
+Annotator 3: European-American female, fluent or native English speaker, 20-29 y/o, 6+ yrs post-secondary education, bachelor's + master's degree
+
+All 3 annotators were American females (2 Asian-American, 1 European-American) who are all fluent or native English speakers, between 20-29 years of age, with at least 3 or more years of post-secondary education, and who are working toward or possess a bachelor's or master's degree.
+
+Guidelines:
+Annotates were asked to judge each sentence according to the following criteria:
+-fine: Nothing wrong with this sentence.  It's properly formed and makes sense.
+-ungrammatical: The sentence is incorrectly structured, and not grammatical English.
+-nonsense: The sentence is well-formed but doesn't make sense.  Given a sentence of the form "VERB the NOUN," if the answer to the question "Can the NOUN be VERBed?" is a firm "no," the sentence should be judged as "nonsense."  For example, "close the spoon"--a spoon typically can't be closed.
+-awkward: Catch-all for everything else.  The sentence is well-formed and not obviously nonsense, but there's still something off about it.  For example, may the result of executing the command given in the sentence would result in a structure that's physically unstable, like trying to balance a block on top of a grape.  There may be other cases, but if a sentence is not obviously "fine," obviously "ungrammatical," or obviously "nonsense," it may belong here.
+
+Evaluation:
+Each judgment option was given a corresponding score:
+ungrammatical = 0
+nonsense = 1
+awkward = 2
+fine = 3
+Annotators' scores for each sentence were totaled, for a raw score of 0-9.  Accepted sentences were those that scored 5 or greater.  This allowed for the inclusion of some marginal sentences that were evaluated as "awkward" by two annotators and "nonsense" by one.  Since the 5 score would also admit sentences judged as "nonsense" by two annotators and "fine" by one, which would violate the principle of majority rule, an additional constraint was enforced that eliminated sentences scoring 5 that received more than one evaluation as "nonsense."  Thus, in the 0-9 range, the 5 score was divided into two partitions based on the modal value of the sentences raw individual scores.
+
+Total accepted:  2993
+Total rejected:  388

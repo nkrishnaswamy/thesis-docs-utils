@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SentenceSimulabilityTask>
+<TEXT><![CDATA[lean the block against the block
+lean the block against the ball
+lean the block against the plate
+lean the block against the cup
+lean the block against the disc
+lean the block against the spoon
+lean the block against the book
+lean the block against the blackboard
+lean the block against the bottle
+lean the block against the grape
+lean the block against the apple
+lean the block against the banana
+lean the block against the table
+lean the block against the bowl
+lean the block against the knife
+lean the block against the pencil
+lean the block against the paper sheet
+lean the ball against the block
+lean the ball against the ball
+lean the ball against the plate
+lean the ball against the cup
+lean the ball against the disc
+lean the ball against the spoon
+lean the ball against the book
+lean the ball against the blackboard
+lean the ball against the bottle
+lean the ball against the grape
+lean the ball against the apple
+lean the ball against the banana
+lean the ball against the table
+lean the ball against the bowl
+lean the ball against the knife
+lean the ball against the pencil
+lean the ball against the paper sheet
+lean the plate against the block
+lean the plate against the ball
+lean the plate against the plate
+lean the plate against the cup
+lean the plate against the disc
+lean the plate against the spoon
+lean the plate against the book
+lean the plate against the blackboard
+lean the plate against the bottle
+lean the plate against the grape
+lean the plate against the apple
+lean the plate against the banana
+lean the plate against the table
+lean the plate against the bowl
+lean the plate against the knife
+lean the plate against the pencil
+lean the plate against the paper sheet
+lean the cup against the block
+lean the cup against the ball
+lean the cup against the plate
+lean the cup against the cup
+lean the cup against the disc
+lean the cup against the spoon
+lean the cup against the book
+lean the cup against the blackboard
+lean the cup against the bottle
+lean the cup against the grape
+lean the cup against the apple
+lean the cup against the banana
+lean the cup against the table
+lean the cup against the bowl
+lean the cup against the knife
+lean the cup against the pencil
+lean the cup against the paper sheet
+lean the disc against the block
+lean the disc against the ball
+lean the disc against the plate
+lean the disc against the cup
+lean the disc against the disc
+lean the disc against the spoon
+lean the disc against the book
+lean the disc against the blackboard
+lean the disc against the bottle
+lean the disc against the grape
+lean the disc against the apple
+lean the disc against the banana
+lean the disc against the table
+lean the disc against the bowl
+lean the disc against the knife
+lean the disc against the pencil
+lean the disc against the paper sheet
+lean the spoon against the block
+lean the spoon against the ball
+lean the spoon against the plate
+lean the spoon against the cup
+lean the spoon against the disc
+lean the spoon against the spoon
+lean the spoon against the book
+lean the spoon against the blackboard
+lean the spoon against the bottle
+lean the spoon against the grape
+lean the spoon against the apple
+lean the spoon against the banana
+lean the spoon against the table
+lean the spoon against the bowl
+lean the spoon against the knife
+lean the spoon against the pencil
+lean the spoon against the paper sheet
+lean the book against the block
+lean the book against the ball
+lean the book against the plate
+lean the book against the cup
+lean the book against the disc
+lean the book against the spoon
+lean the book against the book
+lean the book against the blackboard
+lean the book against the bottle
+lean the book against the grape
+lean the book against the apple
+lean the book against the banana
+lean the book against the table
+lean the book against the bowl
+lean the book against the knife
+lean the book against the pencil
+lean the book against the paper sheet
+lean the blackboard against the block
+lean the blackboard against the ball
+lean the blackboard against the plate
+lean the blackboard against the cup
+lean the blackboard against the disc
+lean the blackboard against the spoon
+lean the blackboard against the book
+lean the blackboard against the blackboard
+lean the blackboard against the bottle
+lean the blackboard against the grape
+lean the blackboard against the apple
+lean the blackboard against the banana
+lean the blackboard against the table
+lean the blackboard against the bowl
+lean the blackboard against the knife
+lean the blackboard against the pencil
+lean the blackboard against the paper sheet
+lean the bottle against the block
+lean the bottle against the ball
+lean the bottle against the plate
+lean the bottle against the cup
+lean the bottle against the disc
+lean the bottle against the spoon
+lean the bottle against the book
+lean the bottle against the blackboard
+lean the bottle against the bottle
+lean the bottle against the grape
+lean the bottle against the apple
+lean the bottle against the banana
+lean the bottle against the table
+lean the bottle against the bowl
+lean the bottle against the knife
+lean the bottle against the pencil
+lean the bottle against the paper sheet
+lean the grape against the block
+lean the grape against the ball
+lean the grape against the plate
+lean the grape against the cup
+lean the grape against the disc
+lean the grape against the spoon
+lean the grape against the book
+lean the grape against the blackboard
+lean the grape against the bottle
+lean the grape against the grape
+lean the grape against the apple
+lean the grape against the banana
+lean the grape against the table
+lean the grape against the bowl
+lean the grape against the knife
+lean the grape against the pencil
+lean the grape against the paper sheet
+lean the apple against the block
+lean the apple against the ball
+lean the apple against the plate
+lean the apple against the cup
+lean the apple against the disc
+lean the apple against the spoon
+lean the apple against the book
+lean the apple against the blackboard
+lean the apple against the bottle
+lean the apple against the grape
+lean the apple against the apple
+lean the apple against the banana
+lean the apple against the table
+lean the apple against the bowl
+lean the apple against the knife
+lean the apple against the pencil
+lean the apple against the paper sheet
+lean the banana against the block
+lean the banana against the ball
+lean the banana against the plate
+lean the banana against the cup
+lean the banana against the disc
+lean the banana against the spoon
+lean the banana against the book
+lean the banana against the blackboard
+lean the banana against the bottle
+lean the banana against the grape
+lean the banana against the apple
+lean the banana against the banana
+lean the banana against the table
+lean the banana against the bowl
+lean the banana against the knife
+lean the banana against the pencil
+lean the banana against the paper sheet
+lean the table against the block
+lean the table against the ball
+lean the table against the plate
+lean the table against the cup
+lean the table against the disc
+lean the table against the spoon
+lean the table against the book
+lean the table against the blackboard
+lean the table against the bottle
+lean the table against the grape
+lean the table against the apple
+lean the table against the banana
+lean the table against the table
+lean the table against the bowl
+lean the table against the knife
+lean the table against the pencil
+lean the table against the paper sheet
+lean the bowl against the block
+lean the bowl against the ball
+lean the bowl against the plate
+lean the bowl against the cup
+lean the bowl against the disc
+lean the bowl against the spoon
+lean the bowl against the book
+lean the bowl against the blackboard
+lean the bowl against the bottle
+lean the bowl against the grape
+lean the bowl against the apple
+lean the bowl against the banana
+lean the bowl against the table
+lean the bowl against the bowl
+lean the bowl against the knife
+lean the bowl against the pencil
+lean the bowl against the paper sheet
+lean the knife against the block
+lean the knife against the ball
+lean the knife against the plate
+lean the knife against the cup
+lean the knife against the disc
+lean the knife against the spoon
+lean the knife against the book
+lean the knife against the blackboard
+lean the knife against the bottle
+lean the knife against the grape
+lean the knife against the apple
+lean the knife against the banana
+lean the knife against the table
+lean the knife against the bowl
+lean the knife against the knife
+lean the knife against the pencil
+lean the knife against the paper sheet
+lean the pencil against the block
+lean the pencil against the ball
+lean the pencil against the plate
+lean the pencil against the cup
+lean the pencil against the disc
+lean the pencil against the spoon
+lean the pencil against the book
+lean the pencil against the blackboard
+lean the pencil against the bottle
+lean the pencil against the grape
+lean the pencil against the apple
+lean the pencil against the banana
+lean the pencil against the table
+lean the pencil against the bowl
+lean the pencil against the knife
+lean the pencil against the pencil
+lean the pencil against the paper sheet
+lean the paper sheet against the block
+lean the paper sheet against the ball
+lean the paper sheet against the plate
+lean the paper sheet against the cup
+lean the paper sheet against the disc
+lean the paper sheet against the spoon
+lean the paper sheet against the book
+lean the paper sheet against the blackboard
+lean the paper sheet against the bottle
+lean the paper sheet against the grape
+lean the paper sheet against the apple
+lean the paper sheet against the banana
+lean the paper sheet against the table
+lean the paper sheet against the bowl
+lean the paper sheet against the knife
+lean the paper sheet against the pencil
+lean the paper sheet against the paper sheet
+]]></TEXT>
+<TAGS>
+<SENTENCE id="S0" spans="0~32" text="lean the block against the block" judgement="fine" />
+<SENTENCE id="S1" spans="33~64" text="lean the block against the ball" judgement="fine" />
+<SENTENCE id="S2" spans="65~97" text="lean the block against the plate" judgement="fine" />
+<SENTENCE id="S3" spans="98~128" text="lean the block against the cup" judgement="fine" />
+<SENTENCE id="S4" spans="129~160" text="lean the block against the disc" judgement="nonsense" />
+<SENTENCE id="S5" spans="161~193" text="lean the block against the spoon" judgement="awkward" />
+<SENTENCE id="S6" spans="194~225" text="lean the block against the book" judgement="fine" />
+<SENTENCE id="S7" spans="226~263" text="lean the block against the blackboard" judgement="fine" />
+<SENTENCE id="S8" spans="264~297" text="lean the block against the bottle" judgement="fine" />
+<SENTENCE id="S9" spans="298~330" text="lean the block against the grape" judgement="nonsense" />
+<SENTENCE id="S10" spans="331~363" text="lean the block against the apple" judgement="awkward" />
+<SENTENCE id="S11" spans="364~397" text="lean the block against the banana" judgement="awkward" />
+<SENTENCE id="S12" spans="398~430" text="lean the block against the table" judgement="fine" />
+<SENTENCE id="S13" spans="431~462" text="lean the block against the bowl" judgement="fine" />
+<SENTENCE id="S14" spans="463~495" text="lean the block against the knife" judgement="nonsense" />
+<SENTENCE id="S15" spans="496~529" text="lean the block against the pencil" judgement="nonsense" />
+<SENTENCE id="S16" spans="530~568" text="lean the block against the paper sheet" judgement="nonsense" />
+<SENTENCE id="S17" spans="569~600" text="lean the ball against the block" judgement="nonsense" />
+<SENTENCE id="S18" spans="601~631" text="lean the ball against the ball" judgement="nonsense" />
+<SENTENCE id="S19" spans="632~663" text="lean the ball against the plate" judgement="nonsense" />
+<SENTENCE id="S20" spans="664~693" text="lean the ball against the cup" judgement="nonsense" />
+<SENTENCE id="S21" spans="694~724" text="lean the ball against the disc" judgement="nonsense" />
+<SENTENCE id="S22" spans="725~756" text="lean the ball against the spoon" judgement="nonsense" />
+<SENTENCE id="S23" spans="757~787" text="lean the ball against the book" judgement="nonsense" />
+<SENTENCE id="S24" spans="788~824" text="lean the ball against the blackboard" judgement="nonsense" />
+<SENTENCE id="S25" spans="825~857" text="lean the ball against the bottle" judgement="nonsense" />
+<SENTENCE id="S26" spans="858~889" text="lean the ball against the grape" judgement="nonsense" />
+<SENTENCE id="S27" spans="890~921" text="lean the ball against the apple" judgement="nonsense" />
+<SENTENCE id="S28" spans="922~954" text="lean the ball against the banana" judgement="nonsense" />
+<SENTENCE id="S29" spans="955~986" text="lean the ball against the table" judgement="nonsense" />
+<SENTENCE id="S30" spans="987~1017" text="lean the ball against the bowl" judgement="nonsense" />
+<SENTENCE id="S31" spans="1018~1049" text="lean the ball against the knife" judgement="nonsense" />
+<SENTENCE id="S32" spans="1050~1082" text="lean the ball against the pencil" judgement="nonsense" />
+<SENTENCE id="S33" spans="1083~1120" text="lean the ball against the paper sheet" judgement="nonsense" />
+<SENTENCE id="S34" spans="1121~1153" text="lean the plate against the block" judgement="fine" />
+<SENTENCE id="S35" spans="1154~1185" text="lean the plate against the ball" judgement="awkward" />
+<SENTENCE id="S36" spans="1186~1218" text="lean the plate against the plate" judgement="fine" />
+<SENTENCE id="S37" spans="1219~1249" text="lean the plate against the cup" judgement="fine" />
+<SENTENCE id="S38" spans="1250~1281" text="lean the plate against the disc" judgement="nonsense" />
+<SENTENCE id="S39" spans="1282~1314" text="lean the plate against the spoon" judgement="nonsense" />
+<SENTENCE id="S40" spans="1315~1346" text="lean the plate against the book" judgement="fine" />
+<SENTENCE id="S41" spans="1347~1384" text="lean the plate against the blackboard" judgement="fine" />
+<SENTENCE id="S42" spans="1385~1418" text="lean the plate against the bottle" judgement="awkward" />
+<SENTENCE id="S43" spans="1419~1451" text="lean the plate against the grape" judgement="awkward" />
+<SENTENCE id="S44" spans="1452~1484" text="lean the plate against the apple" judgement="awkward" />
+<SENTENCE id="S45" spans="1485~1518" text="lean the plate against the banana" judgement="awkward" />
+<SENTENCE id="S46" spans="1519~1551" text="lean the plate against the table" judgement="fine" />
+<SENTENCE id="S47" spans="1552~1583" text="lean the plate against the bowl" judgement="fine" />
+<SENTENCE id="S48" spans="1584~1616" text="lean the plate against the knife" judgement="awkward" />
+<SENTENCE id="S49" spans="1617~1650" text="lean the plate against the pencil" judgement="awkward" />
+<SENTENCE id="S50" spans="1651~1689" text="lean the plate against the paper sheet" judgement="nonsense" />
+<SENTENCE id="S51" spans="1690~1720" text="lean the cup against the block" judgement="nonsense" />
+<SENTENCE id="S52" spans="1721~1750" text="lean the cup against the ball" judgement="nonsense" />
+<SENTENCE id="S53" spans="1751~1781" text="lean the cup against the plate" judgement="nonsense" />
+<SENTENCE id="S54" spans="1782~1810" text="lean the cup against the cup" judgement="nonsense" />
+<SENTENCE id="S55" spans="1811~1840" text="lean the cup against the disc" judgement="nonsense" />
+<SENTENCE id="S56" spans="1841~1871" text="lean the cup against the spoon" judgement="nonsense" />
+<SENTENCE id="S57" spans="1872~1901" text="lean the cup against the book" judgement="nonsense" />
+<SENTENCE id="S58" spans="1902~1937" text="lean the cup against the blackboard" judgement="nonsense" />
+<SENTENCE id="S59" spans="1938~1969" text="lean the cup against the bottle" judgement="nonsense" />
+<SENTENCE id="S60" spans="1970~2000" text="lean the cup against the grape" judgement="nonsense" />
+<SENTENCE id="S61" spans="2001~2031" text="lean the cup against the apple" judgement="nonsense" />
+<SENTENCE id="S62" spans="2032~2063" text="lean the cup against the banana" judgement="nonsense" />
+<SENTENCE id="S63" spans="2064~2094" text="lean the cup against the table" judgement="nonsense" />
+<SENTENCE id="S64" spans="2095~2124" text="lean the cup against the bowl" judgement="nonsense" />
+<SENTENCE id="S65" spans="2125~2155" text="lean the cup against the knife" judgement="nonsense" />
+<SENTENCE id="S66" spans="2156~2187" text="lean the cup against the pencil" judgement="nonsense" />
+<SENTENCE id="S67" spans="2188~2224" text="lean the cup against the paper sheet" judgement="nonsense" />
+<SENTENCE id="S68" spans="2225~2256" text="lean the disc against the block" judgement="fine" />
+<SENTENCE id="S69" spans="2257~2287" text="lean the disc against the ball" judgement="fine" />
+<SENTENCE id="S70" spans="2288~2319" text="lean the disc against the plate" judgement="fine" />
+<SENTENCE id="S71" spans="2320~2349" text="lean the disc against the cup" judgement="fine" />
+<SENTENCE id="S72" spans="2350~2380" text="lean the disc against the disc" judgement="nonsense" />
+<SENTENCE id="S73" spans="2381~2412" text="lean the disc against the spoon" judgement="fine" />
+<SENTENCE id="S74" spans="2413~2443" text="lean the disc against the book" judgement="fine" />
+<SENTENCE id="S75" spans="2444~2480" text="lean the disc against the blackboard" judgement="fine" />
+<SENTENCE id="S76" spans="2481~2513" text="lean the disc against the bottle" judgement="fine" />
+<SENTENCE id="S77" spans="2514~2545" text="lean the disc against the grape" judgement="fine" />
+<SENTENCE id="S78" spans="2546~2577" text="lean the disc against the apple" judgement="fine" />
+<SENTENCE id="S79" spans="2578~2610" text="lean the disc against the banana" judgement="fine" />
+<SENTENCE id="S80" spans="2611~2642" text="lean the disc against the table" judgement="fine" />
+<SENTENCE id="S81" spans="2643~2673" text="lean the disc against the bowl" judgement="fine" />
+<SENTENCE id="S82" spans="2674~2705" text="lean the disc against the knife" judgement="fine" />
+<SENTENCE id="S83" spans="2706~2738" text="lean the disc against the pencil" judgement="fine" />
+<SENTENCE id="S84" spans="2739~2776" text="lean the disc against the paper sheet" judgement="nonsense" />
+<SENTENCE id="S85" spans="2777~2809" text="lean the spoon against the block" judgement="fine" />
+<SENTENCE id="S86" spans="2810~2841" text="lean the spoon against the ball" judgement="fine" />
+<SENTENCE id="S87" spans="2842~2874" text="lean the spoon against the plate" judgement="fine" />
+<SENTENCE id="S88" spans="2875~2905" text="lean the spoon against the cup" judgement="fine" />
+<SENTENCE id="S89" spans="2906~2937" text="lean the spoon against the disc" judgement="nonsense" />
+<SENTENCE id="S90" spans="2938~2970" text="lean the spoon against the spoon" judgement="fine" />
+<SENTENCE id="S91" spans="2971~3002" text="lean the spoon against the book" judgement="fine" />
+<SENTENCE id="S92" spans="3003~3040" text="lean the spoon against the blackboard" judgement="fine" />
+<SENTENCE id="S93" spans="3041~3074" text="lean the spoon against the bottle" judgement="fine" />
+<SENTENCE id="S94" spans="3075~3107" text="lean the spoon against the grape" judgement="fine" />
+<SENTENCE id="S95" spans="3108~3140" text="lean the spoon against the apple" judgement="fine" />
+<SENTENCE id="S96" spans="3141~3174" text="lean the spoon against the banana" judgement="fine" />
+<SENTENCE id="S97" spans="3175~3207" text="lean the spoon against the table" judgement="fine" />
+<SENTENCE id="S98" spans="3208~3239" text="lean the spoon against the bowl" judgement="fine" />
+<SENTENCE id="S99" spans="3240~3272" text="lean the spoon against the knife" judgement="fine" />
+<SENTENCE id="S100" spans="3273~3306" text="lean the spoon against the pencil" judgement="fine" />
+<SENTENCE id="S101" spans="3307~3345" text="lean the spoon against the paper sheet" judgement="nonsense" />
+<SENTENCE id="S102" spans="3346~3377" text="lean the book against the block" judgement="fine" />
+<SENTENCE id="S103" spans="3378~3408" text="lean the book against the ball" judgement="fine" />
+<SENTENCE id="S104" spans="3409~3440" text="lean the book against the plate" judgement="awkward" />
+<SENTENCE id="S105" spans="3441~3470" text="lean the book against the cup" judgement="awkward" />
+<SENTENCE id="S106" spans="3471~3501" text="lean the book against the disc" judgement="nonsense" />
+<SENTENCE id="S107" spans="3502~3533" text="lean the book against the spoon" judgement="fine" />
+<SENTENCE id="S108" spans="3534~3564" text="lean the book against the book" judgement="fine" />
+<SENTENCE id="S109" spans="3565~3601" text="lean the book against the blackboard" judgement="fine" />
+<SENTENCE id="S110" spans="3602~3634" text="lean the book against the bottle" judgement="awkward" />
+<SENTENCE id="S111" spans="3635~3666" text="lean the book against the grape" judgement="awkward" />
+<SENTENCE id="S112" spans="3667~3698" text="lean the book against the apple" judgement="awkward" />
+<SENTENCE id="S113" spans="3699~3731" text="lean the book against the banana" judgement="awkward" />
+<SENTENCE id="S114" spans="3732~3763" text="lean the book against the table" judgement="fine" />
+<SENTENCE id="S115" spans="3764~3794" text="lean the book against the bowl" judgement="fine" />
+<SENTENCE id="S116" spans="3795~3826" text="lean the book against the knife" judgement="fine" />
+<SENTENCE id="S117" spans="3827~3859" text="lean the book against the pencil" judgement="fine" />
+<SENTENCE id="S118" spans="3860~3897" text="lean the book against the paper sheet" judgement="nonsense" />
+<SENTENCE id="S119" spans="3898~3935" text="lean the blackboard against the block" judgement="nonsense" />
+<SENTENCE id="S120" spans="3936~3972" text="lean the blackboard against the ball" judgement="nonsense" />
+<SENTENCE id="S121" spans="3973~4010" text="lean the blackboard against the plate" judgement="nonsense" />
+<SENTENCE id="S122" spans="4011~4046" text="lean the blackboard against the cup" judgement="nonsense" />
+<SENTENCE id="S123" spans="4047~4083" text="lean the blackboard against the disc" judgement="nonsense" />
+<SENTENCE id="S124" spans="4084~4121" text="lean the blackboard against the spoon" judgement="nonsense" />
+<SENTENCE id="S125" spans="4122~4158" text="lean the blackboard against the book" judgement="nonsense" />
+<SENTENCE id="S126" spans="4159~4201" text="lean the blackboard against the blackboard" judgement="nonsense" />
+<SENTENCE id="S127" spans="4202~4240" text="lean the blackboard against the bottle" judgement="nonsense" />
+<SENTENCE id="S128" spans="4241~4278" text="lean the blackboard against the grape" judgement="nonsense" />
+<SENTENCE id="S129" spans="4279~4316" text="lean the blackboard against the apple" judgement="nonsense" />
+<SENTENCE id="S130" spans="4317~4355" text="lean the blackboard against the banana" judgement="nonsense" />
+<SENTENCE id="S131" spans="4356~4393" text="lean the blackboard against the table" judgement="nonsense" />
+<SENTENCE id="S132" spans="4394~4430" text="lean the blackboard against the bowl" judgement="nonsense" />
+<SENTENCE id="S133" spans="4431~4468" text="lean the blackboard against the knife" judgement="nonsense" />
+<SENTENCE id="S134" spans="4469~4507" text="lean the blackboard against the pencil" judgement="nonsense" />
+<SENTENCE id="S135" spans="4508~4551" text="lean the blackboard against the paper sheet" judgement="nonsense" />
+<SENTENCE id="S136" spans="4552~4585" text="lean the bottle against the block" judgement="fine" />
+<SENTENCE id="S137" spans="4586~4618" text="lean the bottle against the ball" judgement="fine" />
+<SENTENCE id="S138" spans="4619~4652" text="lean the bottle against the plate" judgement="awkward" />
+<SENTENCE id="S139" spans="4653~4684" text="lean the bottle against the cup" judgement="fine" />
+<SENTENCE id="S140" spans="4685~4717" text="lean the bottle against the disc" judgement="nonsense" />
+<SENTENCE id="S141" spans="4718~4751" text="lean the bottle against the spoon" judgement="nonsense" />
+<SENTENCE id="S142" spans="4752~4784" text="lean the bottle against the book" judgement="fine" />
+<SENTENCE id="S143" spans="4785~4823" text="lean the bottle against the blackboard" judgement="fine" />
+<SENTENCE id="S144" spans="4824~4858" text="lean the bottle against the bottle" judgement="awkward" />
+<SENTENCE id="S145" spans="4859~4892" text="lean the bottle against the grape" judgement="nonsense" />
+<SENTENCE id="S146" spans="4893~4926" text="lean the bottle against the apple" judgement="nonsense" />
+<SENTENCE id="S147" spans="4927~4961" text="lean the bottle against the banana" judgement="nonsense" />
+<SENTENCE id="S148" spans="4962~4995" text="lean the bottle against the table" judgement="fine" />
+<SENTENCE id="S149" spans="4996~5028" text="lean the bottle against the bowl" judgement="fine" />
+<SENTENCE id="S150" spans="5029~5062" text="lean the bottle against the knife" judgement="nonsense" />
+<SENTENCE id="S151" spans="5063~5097" text="lean the bottle against the pencil" judgement="nonsense" />
+<SENTENCE id="S152" spans="5098~5137" text="lean the bottle against the paper sheet" judgement="nonsense" />
+<SENTENCE id="S153" spans="5138~5170" text="lean the grape against the block" judgement="awkward" />
+<SENTENCE id="S154" spans="5171~5202" text="lean the grape against the ball" judgement="awkward" />
+<SENTENCE id="S155" spans="5203~5235" text="lean the grape against the plate" judgement="awkward" />
+<SENTENCE id="S156" spans="5236~5266" text="lean the grape against the cup" judgement="awkward" />
+<SENTENCE id="S157" spans="5267~5298" text="lean the grape against the disc" judgement="nonsense" />
+<SENTENCE id="S158" spans="5299~5331" text="lean the grape against the spoon" judgement="awkward" />
+<SENTENCE id="S159" spans="5332~5363" text="lean the grape against the book" judgement="awkward" />
+<SENTENCE id="S160" spans="5364~5401" text="lean the grape against the blackboard" judgement="awkward" />
+<SENTENCE id="S161" spans="5402~5435" text="lean the grape against the bottle" judgement="awkward" />
+<SENTENCE id="S162" spans="5436~5468" text="lean the grape against the grape" judgement="awkward" />
+<SENTENCE id="S163" spans="5469~5501" text="lean the grape against the apple" judgement="awkward" />
+<SENTENCE id="S164" spans="5502~5535" text="lean the grape against the banana" judgement="awkward" />
+<SENTENCE id="S165" spans="5536~5568" text="lean the grape against the table" judgement="awkward" />
+<SENTENCE id="S166" spans="5569~5600" text="lean the grape against the bowl" judgement="awkward" />
+<SENTENCE id="S167" spans="5601~5633" text="lean the grape against the knife" judgement="awkward" />
+<SENTENCE id="S168" spans="5634~5667" text="lean the grape against the pencil" judgement="awkward" />
+<SENTENCE id="S169" spans="5668~5706" text="lean the grape against the paper sheet" judgement="nonsense" />
+<SENTENCE id="S170" spans="5707~5739" text="lean the apple against the block" judgement="nonsense" />
+<SENTENCE id="S171" spans="5740~5771" text="lean the apple against the ball" judgement="nonsense" />
+<SENTENCE id="S172" spans="5772~5804" text="lean the apple against the plate" judgement="nonsense" />
+<SENTENCE id="S173" spans="5805~5835" text="lean the apple against the cup" judgement="nonsense" />
+<SENTENCE id="S174" spans="5836~5867" text="lean the apple against the disc" judgement="nonsense" />
+<SENTENCE id="S175" spans="5868~5900" text="lean the apple against the spoon" judgement="nonsense" />
+<SENTENCE id="S176" spans="5901~5932" text="lean the apple against the book" judgement="nonsense" />
+<SENTENCE id="S177" spans="5933~5970" text="lean the apple against the blackboard" judgement="nonsense" />
+<SENTENCE id="S178" spans="5971~6004" text="lean the apple against the bottle" judgement="nonsense" />
+<SENTENCE id="S179" spans="6005~6037" text="lean the apple against the grape" judgement="nonsense" />
+<SENTENCE id="S180" spans="6038~6070" text="lean the apple against the apple" judgement="nonsense" />
+<SENTENCE id="S181" spans="6071~6104" text="lean the apple against the banana" judgement="nonsense" />
+<SENTENCE id="S182" spans="6105~6137" text="lean the apple against the table" judgement="nonsense" />
+<SENTENCE id="S183" spans="6138~6169" text="lean the apple against the bowl" judgement="nonsense" />
+<SENTENCE id="S184" spans="6170~6202" text="lean the apple against the knife" judgement="nonsense" />
+<SENTENCE id="S185" spans="6203~6236" text="lean the apple against the pencil" judgement="nonsense" />
+<SENTENCE id="S186" spans="6237~6275" text="lean the apple against the paper sheet" judgement="nonsense" />
+<SENTENCE id="S187" spans="6276~6309" text="lean the banana against the block" judgement="fine" />
+<SENTENCE id="S188" spans="6310~6342" text="lean the banana against the ball" judgement="fine" />
+<SENTENCE id="S189" spans="6343~6376" text="lean the banana against the plate" judgement="fine" />
+<SENTENCE id="S190" spans="6377~6408" text="lean the banana against the cup" judgement="fine" />
+<SENTENCE id="S191" spans="6409~6441" text="lean the banana against the disc" judgement="nonsense" />
+<SENTENCE id="S192" spans="6442~6475" text="lean the banana against the spoon" judgement="fine" />
+<SENTENCE id="S193" spans="6476~6508" text="lean the banana against the book" judgement="fine" />
+<SENTENCE id="S194" spans="6509~6547" text="lean the banana against the blackboard" judgement="fine" />
+<SENTENCE id="S195" spans="6548~6582" text="lean the banana against the bottle" judgement="fine" />
+<SENTENCE id="S196" spans="6583~6616" text="lean the banana against the grape" judgement="awkward" />
+<SENTENCE id="S197" spans="6617~6650" text="lean the banana against the apple" judgement="fine" />
+<SENTENCE id="S198" spans="6651~6685" text="lean the banana against the banana" judgement="fine" />
+<SENTENCE id="S199" spans="6686~6719" text="lean the banana against the table" judgement="fine" />
+<SENTENCE id="S200" spans="6720~6752" text="lean the banana against the bowl" judgement="fine" />
+<SENTENCE id="S201" spans="6753~6786" text="lean the banana against the knife" judgement="fine" />
+<SENTENCE id="S202" spans="6787~6821" text="lean the banana against the pencil" judgement="fine" />
+<SENTENCE id="S203" spans="6822~6861" text="lean the banana against the paper sheet" judgement="nonsense" />
+<SENTENCE id="S204" spans="6862~6894" text="lean the table against the block" judgement="nonsense" />
+<SENTENCE id="S205" spans="6895~6926" text="lean the table against the ball" judgement="nonsense" />
+<SENTENCE id="S206" spans="6927~6959" text="lean the table against the plate" judgement="nonsense" />
+<SENTENCE id="S207" spans="6960~6990" text="lean the table against the cup" judgement="nonsense" />
+<SENTENCE id="S208" spans="6991~7022" text="lean the table against the disc" judgement="nonsense" />
+<SENTENCE id="S209" spans="7023~7055" text="lean the table against the spoon" judgement="nonsense" />
+<SENTENCE id="S210" spans="7056~7087" text="lean the table against the book" judgement="nonsense" />
+<SENTENCE id="S211" spans="7088~7125" text="lean the table against the blackboard" judgement="awkward" />
+<SENTENCE id="S212" spans="7126~7159" text="lean the table against the bottle" judgement="nonsense" />
+<SENTENCE id="S213" spans="7160~7192" text="lean the table against the grape" judgement="nonsense" />
+<SENTENCE id="S214" spans="7193~7225" text="lean the table against the apple" judgement="nonsense" />
+<SENTENCE id="S215" spans="7226~7259" text="lean the table against the banana" judgement="nonsense" />
+<SENTENCE id="S216" spans="7260~7292" text="lean the table against the table" judgement="nonsense" />
+<SENTENCE id="S217" spans="7293~7324" text="lean the table against the bowl" judgement="nonsense" />
+<SENTENCE id="S218" spans="7325~7357" text="lean the table against the knife" judgement="nonsense" />
+<SENTENCE id="S219" spans="7358~7391" text="lean the table against the pencil" judgement="nonsense" />
+<SENTENCE id="S220" spans="7392~7430" text="lean the table against the paper sheet" judgement="nonsense" />
+<SENTENCE id="S221" spans="7431~7462" text="lean the bowl against the block" judgement="nonsense" />
+<SENTENCE id="S222" spans="7463~7493" text="lean the bowl against the ball" judgement="nonsense" />
+<SENTENCE id="S223" spans="7494~7525" text="lean the bowl against the plate" judgement="nonsense" />
+<SENTENCE id="S224" spans="7526~7555" text="lean the bowl against the cup" judgement="nonsense" />
+<SENTENCE id="S225" spans="7556~7586" text="lean the bowl against the disc" judgement="nonsense" />
+<SENTENCE id="S226" spans="7587~7618" text="lean the bowl against the spoon" judgement="nonsense" />
+<SENTENCE id="S227" spans="7619~7649" text="lean the bowl against the book" judgement="nonsense" />
+<SENTENCE id="S228" spans="7650~7686" text="lean the bowl against the blackboard" judgement="nonsense" />
+<SENTENCE id="S229" spans="7687~7719" text="lean the bowl against the bottle" judgement="nonsense" />
+<SENTENCE id="S230" spans="7720~7751" text="lean the bowl against the grape" judgement="nonsense" />
+<SENTENCE id="S231" spans="7752~7783" text="lean the bowl against the apple" judgement="nonsense" />
+<SENTENCE id="S232" spans="7784~7816" text="lean the bowl against the banana" judgement="nonsense" />
+<SENTENCE id="S233" spans="7817~7848" text="lean the bowl against the table" judgement="nonsense" />
+<SENTENCE id="S234" spans="7849~7879" text="lean the bowl against the bowl" judgement="nonsense" />
+<SENTENCE id="S235" spans="7880~7911" text="lean the bowl against the knife" judgement="nonsense" />
+<SENTENCE id="S236" spans="7912~7944" text="lean the bowl against the pencil" judgement="nonsense" />
+<SENTENCE id="S237" spans="7945~7982" text="lean the bowl against the paper sheet" judgement="nonsense" />
+<SENTENCE id="S238" spans="7983~8015" text="lean the knife against the block" judgement="fine" />
+<SENTENCE id="S239" spans="8016~8047" text="lean the knife against the ball" judgement="fine" />
+<SENTENCE id="S240" spans="8048~8080" text="lean the knife against the plate" judgement="fine" />
+<SENTENCE id="S241" spans="8081~8111" text="lean the knife against the cup" judgement="fine" />
+<SENTENCE id="S242" spans="8112~8143" text="lean the knife against the disc" judgement="nonsense" />
+<SENTENCE id="S243" spans="8144~8176" text="lean the knife against the spoon" judgement="fine" />
+<SENTENCE id="S244" spans="8177~8208" text="lean the knife against the book" judgement="fine" />
+<SENTENCE id="S245" spans="8209~8246" text="lean the knife against the blackboard" judgement="fine" />
+<SENTENCE id="S246" spans="8247~8280" text="lean the knife against the bottle" judgement="fine" />
+<SENTENCE id="S247" spans="8281~8313" text="lean the knife against the grape" judgement="awkward" />
+<SENTENCE id="S248" spans="8314~8346" text="lean the knife against the apple" judgement="fine" />
+<SENTENCE id="S249" spans="8347~8380" text="lean the knife against the banana" judgement="fine" />
+<SENTENCE id="S250" spans="8381~8413" text="lean the knife against the table" judgement="fine" />
+<SENTENCE id="S251" spans="8414~8445" text="lean the knife against the bowl" judgement="fine" />
+<SENTENCE id="S252" spans="8446~8478" text="lean the knife against the knife" judgement="fine" />
+<SENTENCE id="S253" spans="8479~8512" text="lean the knife against the pencil" judgement="fine" />
+<SENTENCE id="S254" spans="8513~8551" text="lean the knife against the paper sheet" judgement="nonsense" />
+<SENTENCE id="S255" spans="8552~8585" text="lean the pencil against the block" judgement="fine" />
+<SENTENCE id="S256" spans="8586~8618" text="lean the pencil against the ball" judgement="fine" />
+<SENTENCE id="S257" spans="8619~8652" text="lean the pencil against the plate" judgement="fine" />
+<SENTENCE id="S258" spans="8653~8684" text="lean the pencil against the cup" judgement="fine" />
+<SENTENCE id="S259" spans="8685~8717" text="lean the pencil against the disc" judgement="nonsense" />
+<SENTENCE id="S260" spans="8718~8751" text="lean the pencil against the spoon" judgement="fine" />
+<SENTENCE id="S261" spans="8752~8784" text="lean the pencil against the book" judgement="fine" />
+<SENTENCE id="S262" spans="8785~8823" text="lean the pencil against the blackboard" judgement="fine" />
+<SENTENCE id="S263" spans="8824~8858" text="lean the pencil against the bottle" judgement="fine" />
+<SENTENCE id="S264" spans="8859~8892" text="lean the pencil against the grape" judgement="awkward" />
+<SENTENCE id="S265" spans="8893~8926" text="lean the pencil against the apple" judgement="fine" />
+<SENTENCE id="S266" spans="8927~8961" text="lean the pencil against the banana" judgement="fine" />
+<SENTENCE id="S267" spans="8962~8995" text="lean the pencil against the table" judgement="fine" />
+<SENTENCE id="S268" spans="8996~9028" text="lean the pencil against the bowl" judgement="fine" />
+<SENTENCE id="S269" spans="9029~9062" text="lean the pencil against the knife" judgement="fine" />
+<SENTENCE id="S270" spans="9063~9097" text="lean the pencil against the pencil" judgement="fine" />
+<SENTENCE id="S271" spans="9098~9137" text="lean the pencil against the paper sheet" judgement="nonsense" />
+<SENTENCE id="S272" spans="9138~9176" text="lean the paper sheet against the block" judgement="nonsense" />
+<SENTENCE id="S273" spans="9177~9214" text="lean the paper sheet against the ball" judgement="nonsense" />
+<SENTENCE id="S274" spans="9215~9253" text="lean the paper sheet against the plate" judgement="nonsense" />
+<SENTENCE id="S275" spans="9254~9290" text="lean the paper sheet against the cup" judgement="nonsense" />
+<SENTENCE id="S276" spans="9291~9328" text="lean the paper sheet against the disc" judgement="nonsense" />
+<SENTENCE id="S277" spans="9329~9367" text="lean the paper sheet against the spoon" judgement="nonsense" />
+<SENTENCE id="S278" spans="9368~9405" text="lean the paper sheet against the book" judgement="nonsense" />
+<SENTENCE id="S279" spans="9406~9449" text="lean the paper sheet against the blackboard" judgement="nonsense" />
+<SENTENCE id="S280" spans="9450~9489" text="lean the paper sheet against the bottle" judgement="nonsense" />
+<SENTENCE id="S281" spans="9490~9528" text="lean the paper sheet against the grape" judgement="nonsense" />
+<SENTENCE id="S282" spans="9529~9567" text="lean the paper sheet against the apple" judgement="nonsense" />
+<SENTENCE id="S283" spans="9568~9607" text="lean the paper sheet against the banana" judgement="nonsense" />
+<SENTENCE id="S284" spans="9608~9646" text="lean the paper sheet against the table" judgement="nonsense" />
+<SENTENCE id="S285" spans="9647~9684" text="lean the paper sheet against the bowl" judgement="nonsense" />
+<SENTENCE id="S286" spans="9685~9723" text="lean the paper sheet against the knife" judgement="nonsense" />
+<SENTENCE id="S287" spans="9724~9763" text="lean the paper sheet against the pencil" judgement="nonsense" />
+<SENTENCE id="S288" spans="9764~9808" text="lean the paper sheet against the paper sheet" judgement="nonsense" />
+</TAGS>
+</SentenceSimulabilityTask>

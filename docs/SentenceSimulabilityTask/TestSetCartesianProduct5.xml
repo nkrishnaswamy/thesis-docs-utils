@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SentenceSimulabilityTask>
+<TEXT><![CDATA[put the block behind the block
+put the block behind the ball
+put the block behind the plate
+put the block behind the cup
+put the block behind the disc
+put the block behind the spoon
+put the block behind the book
+put the block behind the blackboard
+put the block behind the bottle
+put the block behind the grape
+put the block behind the apple
+put the block behind the banana
+put the block behind the table
+put the block behind the bowl
+put the block behind the knife
+put the block behind the pencil
+put the block behind the paper sheet
+put the ball behind the block
+put the ball behind the ball
+put the ball behind the plate
+put the ball behind the cup
+put the ball behind the disc
+put the ball behind the spoon
+put the ball behind the book
+put the ball behind the blackboard
+put the ball behind the bottle
+put the ball behind the grape
+put the ball behind the apple
+put the ball behind the banana
+put the ball behind the table
+put the ball behind the bowl
+put the ball behind the knife
+put the ball behind the pencil
+put the ball behind the paper sheet
+put the plate behind the block
+put the plate behind the ball
+put the plate behind the plate
+put the plate behind the cup
+put the plate behind the disc
+put the plate behind the spoon
+put the plate behind the book
+put the plate behind the blackboard
+put the plate behind the bottle
+put the plate behind the grape
+put the plate behind the apple
+put the plate behind the banana
+put the plate behind the table
+put the plate behind the bowl
+put the plate behind the knife
+put the plate behind the pencil
+put the plate behind the paper sheet
+put the cup behind the block
+put the cup behind the ball
+put the cup behind the plate
+put the cup behind the cup
+put the cup behind the disc
+put the cup behind the spoon
+put the cup behind the book
+put the cup behind the blackboard
+put the cup behind the bottle
+put the cup behind the grape
+put the cup behind the apple
+put the cup behind the banana
+put the cup behind the table
+put the cup behind the bowl
+put the cup behind the knife
+put the cup behind the pencil
+put the cup behind the paper sheet
+put the disc behind the block
+put the disc behind the ball
+put the disc behind the plate
+put the disc behind the cup
+put the disc behind the disc
+put the disc behind the spoon
+put the disc behind the book
+put the disc behind the blackboard
+put the disc behind the bottle
+put the disc behind the grape
+put the disc behind the apple
+put the disc behind the banana
+put the disc behind the table
+put the disc behind the bowl
+put the disc behind the knife
+put the disc behind the pencil
+put the disc behind the paper sheet
+put the spoon behind the block
+put the spoon behind the ball
+put the spoon behind the plate
+put the spoon behind the cup
+put the spoon behind the disc
+put the spoon behind the spoon
+put the spoon behind the book
+put the spoon behind the blackboard
+put the spoon behind the bottle
+put the spoon behind the grape
+put the spoon behind the apple
+put the spoon behind the banana
+put the spoon behind the table
+put the spoon behind the bowl
+put the spoon behind the knife
+put the spoon behind the pencil
+put the spoon behind the paper sheet
+put the book behind the block
+put the book behind the ball
+put the book behind the plate
+put the book behind the cup
+put the book behind the disc
+put the book behind the spoon
+put the book behind the book
+put the book behind the blackboard
+put the book behind the bottle
+put the book behind the grape
+put the book behind the apple
+put the book behind the banana
+put the book behind the table
+put the book behind the bowl
+put the book behind the knife
+put the book behind the pencil
+put the book behind the paper sheet
+put the blackboard behind the block
+put the blackboard behind the ball
+put the blackboard behind the plate
+put the blackboard behind the cup
+put the blackboard behind the disc
+put the blackboard behind the spoon
+put the blackboard behind the book
+put the blackboard behind the blackboard
+put the blackboard behind the bottle
+put the blackboard behind the grape
+put the blackboard behind the apple
+put the blackboard behind the banana
+put the blackboard behind the table
+put the blackboard behind the bowl
+put the blackboard behind the knife
+put the blackboard behind the pencil
+put the blackboard behind the paper sheet
+put the bottle behind the block
+put the bottle behind the ball
+put the bottle behind the plate
+put the bottle behind the cup
+put the bottle behind the disc
+put the bottle behind the spoon
+put the bottle behind the book
+put the bottle behind the blackboard
+put the bottle behind the bottle
+put the bottle behind the grape
+put the bottle behind the apple
+put the bottle behind the banana
+put the bottle behind the table
+put the bottle behind the bowl
+put the bottle behind the knife
+put the bottle behind the pencil
+put the bottle behind the paper sheet
+put the grape behind the block
+put the grape behind the ball
+put the grape behind the plate
+put the grape behind the cup
+put the grape behind the disc
+put the grape behind the spoon
+put the grape behind the book
+put the grape behind the blackboard
+put the grape behind the bottle
+put the grape behind the grape
+put the grape behind the apple
+put the grape behind the banana
+put the grape behind the table
+put the grape behind the bowl
+put the grape behind the knife
+put the grape behind the pencil
+put the grape behind the paper sheet
+put the apple behind the block
+put the apple behind the ball
+put the apple behind the plate
+put the apple behind the cup
+put the apple behind the disc
+put the apple behind the spoon
+put the apple behind the book
+put the apple behind the blackboard
+put the apple behind the bottle
+put the apple behind the grape
+put the apple behind the apple
+put the apple behind the banana
+put the apple behind the table
+put the apple behind the bowl
+put the apple behind the knife
+put the apple behind the pencil
+put the apple behind the paper sheet
+put the banana behind the block
+put the banana behind the ball
+put the banana behind the plate
+put the banana behind the cup
+put the banana behind the disc
+put the banana behind the spoon
+put the banana behind the book
+put the banana behind the blackboard
+put the banana behind the bottle
+put the banana behind the grape
+put the banana behind the apple
+put the banana behind the banana
+put the banana behind the table
+put the banana behind the bowl
+put the banana behind the knife
+put the banana behind the pencil
+put the banana behind the paper sheet
+put the table behind the block
+put the table behind the ball
+put the table behind the plate
+put the table behind the cup
+put the table behind the disc
+put the table behind the spoon
+put the table behind the book
+put the table behind the blackboard
+put the table behind the bottle
+put the table behind the grape
+put the table behind the apple
+put the table behind the banana
+put the table behind the table
+put the table behind the bowl
+put the table behind the knife
+put the table behind the pencil
+put the table behind the paper sheet
+put the bowl behind the block
+put the bowl behind the ball
+put the bowl behind the plate
+put the bowl behind the cup
+put the bowl behind the disc
+put the bowl behind the spoon
+put the bowl behind the book
+put the bowl behind the blackboard
+put the bowl behind the bottle
+put the bowl behind the grape
+put the bowl behind the apple
+put the bowl behind the banana
+put the bowl behind the table
+put the bowl behind the bowl
+put the bowl behind the knife
+put the bowl behind the pencil
+put the bowl behind the paper sheet
+put the knife behind the block
+put the knife behind the ball
+put the knife behind the plate
+put the knife behind the cup
+put the knife behind the disc
+put the knife behind the spoon
+put the knife behind the book
+put the knife behind the blackboard
+put the knife behind the bottle
+put the knife behind the grape
+put the knife behind the apple
+put the knife behind the banana
+put the knife behind the table
+put the knife behind the bowl
+put the knife behind the knife
+put the knife behind the pencil
+put the knife behind the paper sheet
+put the pencil behind the block
+put the pencil behind the ball
+put the pencil behind the plate
+put the pencil behind the cup
+put the pencil behind the disc
+put the pencil behind the spoon
+put the pencil behind the book
+put the pencil behind the blackboard
+put the pencil behind the bottle
+put the pencil behind the grape
+put the pencil behind the apple
+put the pencil behind the banana
+put the pencil behind the table
+put the pencil behind the bowl
+put the pencil behind the knife
+put the pencil behind the pencil
+put the pencil behind the paper sheet
+put the paper sheet behind the block
+put the paper sheet behind the ball
+put the paper sheet behind the plate
+put the paper sheet behind the cup
+put the paper sheet behind the disc
+put the paper sheet behind the spoon
+put the paper sheet behind the book
+put the paper sheet behind the blackboard
+put the paper sheet behind the bottle
+put the paper sheet behind the grape
+put the paper sheet behind the apple
+put the paper sheet behind the banana
+put the paper sheet behind the table
+put the paper sheet behind the bowl
+put the paper sheet behind the knife
+put the paper sheet behind the pencil
+put the paper sheet behind the paper sheet
+]]></TEXT>
+<TAGS>
+<SENTENCE id="S0" spans="0~30" text="put the block behind the block" judgement="fine" />
+<SENTENCE id="S1" spans="31~60" text="put the block behind the ball" judgement="fine" />
+<SENTENCE id="S2" spans="61~91" text="put the block behind the plate" judgement="fine" />
+<SENTENCE id="S3" spans="92~120" text="put the block behind the cup" judgement="fine" />
+<SENTENCE id="S4" spans="121~150" text="put the block behind the disc" judgement="fine" />
+<SENTENCE id="S5" spans="151~181" text="put the block behind the spoon" judgement="fine" />
+<SENTENCE id="S6" spans="182~211" text="put the block behind the book" judgement="fine" />
+<SENTENCE id="S7" spans="212~247" text="put the block behind the blackboard" judgement="fine" />
+<SENTENCE id="S8" spans="248~279" text="put the block behind the bottle" judgement="fine" />
+<SENTENCE id="S9" spans="280~310" text="put the block behind the grape" judgement="fine" />
+<SENTENCE id="S10" spans="311~341" text="put the block behind the apple" judgement="fine" />
+<SENTENCE id="S11" spans="342~373" text="put the block behind the banana" judgement="fine" />
+<SENTENCE id="S12" spans="374~404" text="put the block behind the table" judgement="fine" />
+<SENTENCE id="S13" spans="405~434" text="put the block behind the bowl" judgement="fine" />
+<SENTENCE id="S14" spans="435~465" text="put the block behind the knife" judgement="fine" />
+<SENTENCE id="S15" spans="466~497" text="put the block behind the pencil" judgement="fine" />
+<SENTENCE id="S16" spans="498~534" text="put the block behind the paper sheet" judgement="fine" />
+<SENTENCE id="S17" spans="535~564" text="put the ball behind the block" judgement="fine" />
+<SENTENCE id="S18" spans="565~593" text="put the ball behind the ball" judgement="fine" />
+<SENTENCE id="S19" spans="594~623" text="put the ball behind the plate" judgement="fine" />
+<SENTENCE id="S20" spans="624~651" text="put the ball behind the cup" judgement="fine" />
+<SENTENCE id="S21" spans="652~680" text="put the ball behind the disc" judgement="fine" />
+<SENTENCE id="S22" spans="681~710" text="put the ball behind the spoon" judgement="fine" />
+<SENTENCE id="S23" spans="711~739" text="put the ball behind the book" judgement="fine" />
+<SENTENCE id="S24" spans="740~774" text="put the ball behind the blackboard" judgement="fine" />
+<SENTENCE id="S25" spans="775~805" text="put the ball behind the bottle" judgement="fine" />
+<SENTENCE id="S26" spans="806~835" text="put the ball behind the grape" judgement="fine" />
+<SENTENCE id="S27" spans="836~865" text="put the ball behind the apple" judgement="fine" />
+<SENTENCE id="S28" spans="866~896" text="put the ball behind the banana" judgement="fine" />
+<SENTENCE id="S29" spans="897~926" text="put the ball behind the table" judgement="fine" />
+<SENTENCE id="S30" spans="927~955" text="put the ball behind the bowl" judgement="fine" />
+<SENTENCE id="S31" spans="956~985" text="put the ball behind the knife" judgement="fine" />
+<SENTENCE id="S32" spans="986~1016" text="put the ball behind the pencil" judgement="fine" />
+<SENTENCE id="S33" spans="1017~1052" text="put the ball behind the paper sheet" judgement="fine" />
+<SENTENCE id="S34" spans="1053~1083" text="put the plate behind the block" judgement="fine" />
+<SENTENCE id="S35" spans="1084~1113" text="put the plate behind the ball" judgement="fine" />
+<SENTENCE id="S36" spans="1114~1144" text="put the plate behind the plate" judgement="fine" />
+<SENTENCE id="S37" spans="1145~1173" text="put the plate behind the cup" judgement="fine" />
+<SENTENCE id="S38" spans="1174~1203" text="put the plate behind the disc" judgement="fine" />
+<SENTENCE id="S39" spans="1204~1234" text="put the plate behind the spoon" judgement="fine" />
+<SENTENCE id="S40" spans="1235~1264" text="put the plate behind the book" judgement="fine" />
+<SENTENCE id="S41" spans="1265~1300" text="put the plate behind the blackboard" judgement="fine" />
+<SENTENCE id="S42" spans="1301~1332" text="put the plate behind the bottle" judgement="fine" />
+<SENTENCE id="S43" spans="1333~1363" text="put the plate behind the grape" judgement="fine" />
+<SENTENCE id="S44" spans="1364~1394" text="put the plate behind the apple" judgement="fine" />
+<SENTENCE id="S45" spans="1395~1426" text="put the plate behind the banana" judgement="fine" />
+<SENTENCE id="S46" spans="1427~1457" text="put the plate behind the table" judgement="fine" />
+<SENTENCE id="S47" spans="1458~1487" text="put the plate behind the bowl" judgement="fine" />
+<SENTENCE id="S48" spans="1488~1518" text="put the plate behind the knife" judgement="fine" />
+<SENTENCE id="S49" spans="1519~1550" text="put the plate behind the pencil" judgement="fine" />
+<SENTENCE id="S50" spans="1551~1587" text="put the plate behind the paper sheet" judgement="fine" />
+<SENTENCE id="S51" spans="1588~1616" text="put the cup behind the block" judgement="fine" />
+<SENTENCE id="S52" spans="1617~1644" text="put the cup behind the ball" judgement="fine" />
+<SENTENCE id="S53" spans="1645~1673" text="put the cup behind the plate" judgement="fine" />
+<SENTENCE id="S54" spans="1674~1700" text="put the cup behind the cup" judgement="fine" />
+<SENTENCE id="S55" spans="1701~1728" text="put the cup behind the disc" judgement="fine" />
+<SENTENCE id="S56" spans="1729~1757" text="put the cup behind the spoon" judgement="fine" />
+<SENTENCE id="S57" spans="1758~1785" text="put the cup behind the book" judgement="fine" />
+<SENTENCE id="S58" spans="1786~1819" text="put the cup behind the blackboard" judgement="fine" />
+<SENTENCE id="S59" spans="1820~1849" text="put the cup behind the bottle" judgement="fine" />
+<SENTENCE id="S60" spans="1850~1878" text="put the cup behind the grape" judgement="fine" />
+<SENTENCE id="S61" spans="1879~1907" text="put the cup behind the apple" judgement="fine" />
+<SENTENCE id="S62" spans="1908~1937" text="put the cup behind the banana" judgement="fine" />
+<SENTENCE id="S63" spans="1938~1966" text="put the cup behind the table" judgement="fine" />
+<SENTENCE id="S64" spans="1967~1994" text="put the cup behind the bowl" judgement="fine" />
+<SENTENCE id="S65" spans="1995~2023" text="put the cup behind the knife" judgement="fine" />
+<SENTENCE id="S66" spans="2024~2053" text="put the cup behind the pencil" judgement="fine" />
+<SENTENCE id="S67" spans="2054~2088" text="put the cup behind the paper sheet" judgement="fine" />
+<SENTENCE id="S68" spans="2089~2118" text="put the disc behind the block" judgement="fine" />
+<SENTENCE id="S69" spans="2119~2147" text="put the disc behind the ball" judgement="fine" />
+<SENTENCE id="S70" spans="2148~2177" text="put the disc behind the plate" judgement="fine" />
+<SENTENCE id="S71" spans="2178~2205" text="put the disc behind the cup" judgement="fine" />
+<SENTENCE id="S72" spans="2206~2234" text="put the disc behind the disc" judgement="fine" />
+<SENTENCE id="S73" spans="2235~2264" text="put the disc behind the spoon" judgement="fine" />
+<SENTENCE id="S74" spans="2265~2293" text="put the disc behind the book" judgement="fine" />
+<SENTENCE id="S75" spans="2294~2328" text="put the disc behind the blackboard" judgement="fine" />
+<SENTENCE id="S76" spans="2329~2359" text="put the disc behind the bottle" judgement="fine" />
+<SENTENCE id="S77" spans="2360~2389" text="put the disc behind the grape" judgement="fine" />
+<SENTENCE id="S78" spans="2390~2419" text="put the disc behind the apple" judgement="fine" />
+<SENTENCE id="S79" spans="2420~2450" text="put the disc behind the banana" judgement="fine" />
+<SENTENCE id="S80" spans="2451~2480" text="put the disc behind the table" judgement="fine" />
+<SENTENCE id="S81" spans="2481~2509" text="put the disc behind the bowl" judgement="fine" />
+<SENTENCE id="S82" spans="2510~2539" text="put the disc behind the knife" judgement="fine" />
+<SENTENCE id="S83" spans="2540~2570" text="put the disc behind the pencil" judgement="fine" />
+<SENTENCE id="S84" spans="2571~2606" text="put the disc behind the paper sheet" judgement="fine" />
+<SENTENCE id="S85" spans="2607~2637" text="put the spoon behind the block" judgement="fine" />
+<SENTENCE id="S86" spans="2638~2667" text="put the spoon behind the ball" judgement="fine" />
+<SENTENCE id="S87" spans="2668~2698" text="put the spoon behind the plate" judgement="fine" />
+<SENTENCE id="S88" spans="2699~2727" text="put the spoon behind the cup" judgement="fine" />
+<SENTENCE id="S89" spans="2728~2757" text="put the spoon behind the disc" judgement="fine" />
+<SENTENCE id="S90" spans="2758~2788" text="put the spoon behind the spoon" judgement="fine" />
+<SENTENCE id="S91" spans="2789~2818" text="put the spoon behind the book" judgement="fine" />
+<SENTENCE id="S92" spans="2819~2854" text="put the spoon behind the blackboard" judgement="fine" />
+<SENTENCE id="S93" spans="2855~2886" text="put the spoon behind the bottle" judgement="fine" />
+<SENTENCE id="S94" spans="2887~2917" text="put the spoon behind the grape" judgement="fine" />
+<SENTENCE id="S95" spans="2918~2948" text="put the spoon behind the apple" judgement="fine" />
+<SENTENCE id="S96" spans="2949~2980" text="put the spoon behind the banana" judgement="fine" />
+<SENTENCE id="S97" spans="2981~3011" text="put the spoon behind the table" judgement="fine" />
+<SENTENCE id="S98" spans="3012~3041" text="put the spoon behind the bowl" judgement="fine" />
+<SENTENCE id="S99" spans="3042~3072" text="put the spoon behind the knife" judgement="fine" />
+<SENTENCE id="S100" spans="3073~3104" text="put the spoon behind the pencil" judgement="fine" />
+<SENTENCE id="S101" spans="3105~3141" text="put the spoon behind the paper sheet" judgement="fine" />
+<SENTENCE id="S102" spans="3142~3171" text="put the book behind the block" judgement="fine" />
+<SENTENCE id="S103" spans="3172~3200" text="put the book behind the ball" judgement="fine" />
+<SENTENCE id="S104" spans="3201~3230" text="put the book behind the plate" judgement="fine" />
+<SENTENCE id="S105" spans="3231~3258" text="put the book behind the cup" judgement="fine" />
+<SENTENCE id="S106" spans="3259~3287" text="put the book behind the disc" judgement="fine" />
+<SENTENCE id="S107" spans="3288~3317" text="put the book behind the spoon" judgement="fine" />
+<SENTENCE id="S108" spans="3318~3346" text="put the book behind the book" judgement="fine" />
+<SENTENCE id="S109" spans="3347~3381" text="put the book behind the blackboard" judgement="fine" />
+<SENTENCE id="S110" spans="3382~3412" text="put the book behind the bottle" judgement="fine" />
+<SENTENCE id="S111" spans="3413~3442" text="put the book behind the grape" judgement="fine" />
+<SENTENCE id="S112" spans="3443~3472" text="put the book behind the apple" judgement="fine" />
+<SENTENCE id="S113" spans="3473~3503" text="put the book behind the banana" judgement="fine" />
+<SENTENCE id="S114" spans="3504~3533" text="put the book behind the table" judgement="fine" />
+<SENTENCE id="S115" spans="3534~3562" text="put the book behind the bowl" judgement="fine" />
+<SENTENCE id="S116" spans="3563~3592" text="put the book behind the knife" judgement="fine" />
+<SENTENCE id="S117" spans="3593~3623" text="put the book behind the pencil" judgement="fine" />
+<SENTENCE id="S118" spans="3624~3659" text="put the book behind the paper sheet" judgement="fine" />
+<SENTENCE id="S119" spans="3660~3695" text="put the blackboard behind the block" judgement="fine" />
+<SENTENCE id="S120" spans="3696~3730" text="put the blackboard behind the ball" judgement="fine" />
+<SENTENCE id="S121" spans="3731~3766" text="put the blackboard behind the plate" judgement="fine" />
+<SENTENCE id="S122" spans="3767~3800" text="put the blackboard behind the cup" judgement="fine" />
+<SENTENCE id="S123" spans="3801~3835" text="put the blackboard behind the disc" judgement="fine" />
+<SENTENCE id="S124" spans="3836~3871" text="put the blackboard behind the spoon" judgement="fine" />
+<SENTENCE id="S125" spans="3872~3906" text="put the blackboard behind the book" judgement="fine" />
+<SENTENCE id="S126" spans="3907~3947" text="put the blackboard behind the blackboard" judgement="fine" />
+<SENTENCE id="S127" spans="3948~3984" text="put the blackboard behind the bottle" judgement="fine" />
+<SENTENCE id="S128" spans="3985~4020" text="put the blackboard behind the grape" judgement="fine" />
+<SENTENCE id="S129" spans="4021~4056" text="put the blackboard behind the apple" judgement="fine" />
+<SENTENCE id="S130" spans="4057~4093" text="put the blackboard behind the banana" judgement="fine" />
+<SENTENCE id="S131" spans="4094~4129" text="put the blackboard behind the table" judgement="fine" />
+<SENTENCE id="S132" spans="4130~4164" text="put the blackboard behind the bowl" judgement="fine" />
+<SENTENCE id="S133" spans="4165~4200" text="put the blackboard behind the knife" judgement="fine" />
+<SENTENCE id="S134" spans="4201~4237" text="put the blackboard behind the pencil" judgement="fine" />
+<SENTENCE id="S135" spans="4238~4279" text="put the blackboard behind the paper sheet" judgement="fine" />
+<SENTENCE id="S136" spans="4280~4311" text="put the bottle behind the block" judgement="fine" />
+<SENTENCE id="S137" spans="4312~4342" text="put the bottle behind the ball" judgement="fine" />
+<SENTENCE id="S138" spans="4343~4374" text="put the bottle behind the plate" judgement="fine" />
+<SENTENCE id="S139" spans="4375~4404" text="put the bottle behind the cup" judgement="fine" />
+<SENTENCE id="S140" spans="4405~4435" text="put the bottle behind the disc" judgement="fine" />
+<SENTENCE id="S141" spans="4436~4467" text="put the bottle behind the spoon" judgement="fine" />
+<SENTENCE id="S142" spans="4468~4498" text="put the bottle behind the book" judgement="fine" />
+<SENTENCE id="S143" spans="4499~4535" text="put the bottle behind the blackboard" judgement="fine" />
+<SENTENCE id="S144" spans="4536~4568" text="put the bottle behind the bottle" judgement="fine" />
+<SENTENCE id="S145" spans="4569~4600" text="put the bottle behind the grape" judgement="fine" />
+<SENTENCE id="S146" spans="4601~4632" text="put the bottle behind the apple" judgement="fine" />
+<SENTENCE id="S147" spans="4633~4665" text="put the bottle behind the banana" judgement="fine" />
+<SENTENCE id="S148" spans="4666~4697" text="put the bottle behind the table" judgement="fine" />
+<SENTENCE id="S149" spans="4698~4728" text="put the bottle behind the bowl" judgement="fine" />
+<SENTENCE id="S150" spans="4729~4760" text="put the bottle behind the knife" judgement="fine" />
+<SENTENCE id="S151" spans="4761~4793" text="put the bottle behind the pencil" judgement="fine" />
+<SENTENCE id="S152" spans="4794~4831" text="put the bottle behind the paper sheet" judgement="fine" />
+<SENTENCE id="S153" spans="4832~4862" text="put the grape behind the block" judgement="fine" />
+<SENTENCE id="S154" spans="4863~4892" text="put the grape behind the ball" judgement="fine" />
+<SENTENCE id="S155" spans="4893~4923" text="put the grape behind the plate" judgement="fine" />
+<SENTENCE id="S156" spans="4924~4952" text="put the grape behind the cup" judgement="fine" />
+<SENTENCE id="S157" spans="4953~4982" text="put the grape behind the disc" judgement="fine" />
+<SENTENCE id="S158" spans="4983~5013" text="put the grape behind the spoon" judgement="fine" />
+<SENTENCE id="S159" spans="5014~5043" text="put the grape behind the book" judgement="fine" />
+<SENTENCE id="S160" spans="5044~5079" text="put the grape behind the blackboard" judgement="fine" />
+<SENTENCE id="S161" spans="5080~5111" text="put the grape behind the bottle" judgement="fine" />
+<SENTENCE id="S162" spans="5112~5142" text="put the grape behind the grape" judgement="fine" />
+<SENTENCE id="S163" spans="5143~5173" text="put the grape behind the apple" judgement="fine" />
+<SENTENCE id="S164" spans="5174~5205" text="put the grape behind the banana" judgement="fine" />
+<SENTENCE id="S165" spans="5206~5236" text="put the grape behind the table" judgement="fine" />
+<SENTENCE id="S166" spans="5237~5266" text="put the grape behind the bowl" judgement="fine" />
+<SENTENCE id="S167" spans="5267~5297" text="put the grape behind the knife" judgement="fine" />
+<SENTENCE id="S168" spans="5298~5329" text="put the grape behind the pencil" judgement="fine" />
+<SENTENCE id="S169" spans="5330~5366" text="put the grape behind the paper sheet" judgement="fine" />
+<SENTENCE id="S170" spans="5367~5397" text="put the apple behind the block" judgement="fine" />
+<SENTENCE id="S171" spans="5398~5427" text="put the apple behind the ball" judgement="fine" />
+<SENTENCE id="S172" spans="5428~5458" text="put the apple behind the plate" judgement="fine" />
+<SENTENCE id="S173" spans="5459~5487" text="put the apple behind the cup" judgement="fine" />
+<SENTENCE id="S174" spans="5488~5517" text="put the apple behind the disc" judgement="fine" />
+<SENTENCE id="S175" spans="5518~5548" text="put the apple behind the spoon" judgement="fine" />
+<SENTENCE id="S176" spans="5549~5578" text="put the apple behind the book" judgement="fine" />
+<SENTENCE id="S177" spans="5579~5614" text="put the apple behind the blackboard" judgement="fine" />
+<SENTENCE id="S178" spans="5615~5646" text="put the apple behind the bottle" judgement="fine" />
+<SENTENCE id="S179" spans="5647~5677" text="put the apple behind the grape" judgement="fine" />
+<SENTENCE id="S180" spans="5678~5708" text="put the apple behind the apple" judgement="fine" />
+<SENTENCE id="S181" spans="5709~5740" text="put the apple behind the banana" judgement="fine" />
+<SENTENCE id="S182" spans="5741~5771" text="put the apple behind the table" judgement="fine" />
+<SENTENCE id="S183" spans="5772~5801" text="put the apple behind the bowl" judgement="fine" />
+<SENTENCE id="S184" spans="5802~5832" text="put the apple behind the knife" judgement="fine" />
+<SENTENCE id="S185" spans="5833~5864" text="put the apple behind the pencil" judgement="fine" />
+<SENTENCE id="S186" spans="5865~5901" text="put the apple behind the paper sheet" judgement="fine" />
+<SENTENCE id="S187" spans="5902~5933" text="put the banana behind the block" judgement="fine" />
+<SENTENCE id="S188" spans="5934~5964" text="put the banana behind the ball" judgement="fine" />
+<SENTENCE id="S189" spans="5965~5996" text="put the banana behind the plate" judgement="fine" />
+<SENTENCE id="S190" spans="5997~6026" text="put the banana behind the cup" judgement="fine" />
+<SENTENCE id="S191" spans="6027~6057" text="put the banana behind the disc" judgement="fine" />
+<SENTENCE id="S192" spans="6058~6089" text="put the banana behind the spoon" judgement="fine" />
+<SENTENCE id="S193" spans="6090~6120" text="put the banana behind the book" judgement="fine" />
+<SENTENCE id="S194" spans="6121~6157" text="put the banana behind the blackboard" judgement="fine" />
+<SENTENCE id="S195" spans="6158~6190" text="put the banana behind the bottle" judgement="fine" />
+<SENTENCE id="S196" spans="6191~6222" text="put the banana behind the grape" judgement="fine" />
+<SENTENCE id="S197" spans="6223~6254" text="put the banana behind the apple" judgement="fine" />
+<SENTENCE id="S198" spans="6255~6287" text="put the banana behind the banana" judgement="fine" />
+<SENTENCE id="S199" spans="6288~6319" text="put the banana behind the table" judgement="fine" />
+<SENTENCE id="S200" spans="6320~6350" text="put the banana behind the bowl" judgement="fine" />
+<SENTENCE id="S201" spans="6351~6382" text="put the banana behind the knife" judgement="fine" />
+<SENTENCE id="S202" spans="6383~6415" text="put the banana behind the pencil" judgement="fine" />
+<SENTENCE id="S203" spans="6416~6453" text="put the banana behind the paper sheet" judgement="fine" />
+<SENTENCE id="S204" spans="6454~6484" text="put the table behind the block" judgement="fine" />
+<SENTENCE id="S205" spans="6485~6514" text="put the table behind the ball" judgement="fine" />
+<SENTENCE id="S206" spans="6515~6545" text="put the table behind the plate" judgement="fine" />
+<SENTENCE id="S207" spans="6546~6574" text="put the table behind the cup" judgement="fine" />
+<SENTENCE id="S208" spans="6575~6604" text="put the table behind the disc" judgement="fine" />
+<SENTENCE id="S209" spans="6605~6635" text="put the table behind the spoon" judgement="fine" />
+<SENTENCE id="S210" spans="6636~6665" text="put the table behind the book" judgement="fine" />
+<SENTENCE id="S211" spans="6666~6701" text="put the table behind the blackboard" judgement="fine" />
+<SENTENCE id="S212" spans="6702~6733" text="put the table behind the bottle" judgement="fine" />
+<SENTENCE id="S213" spans="6734~6764" text="put the table behind the grape" judgement="fine" />
+<SENTENCE id="S214" spans="6765~6795" text="put the table behind the apple" judgement="fine" />
+<SENTENCE id="S215" spans="6796~6827" text="put the table behind the banana" judgement="fine" />
+<SENTENCE id="S216" spans="6828~6858" text="put the table behind the table" judgement="fine" />
+<SENTENCE id="S217" spans="6859~6888" text="put the table behind the bowl" judgement="fine" />
+<SENTENCE id="S218" spans="6889~6919" text="put the table behind the knife" judgement="fine" />
+<SENTENCE id="S219" spans="6920~6951" text="put the table behind the pencil" judgement="fine" />
+<SENTENCE id="S220" spans="6952~6988" text="put the table behind the paper sheet" judgement="fine" />
+<SENTENCE id="S221" spans="6989~7018" text="put the bowl behind the block" judgement="fine" />
+<SENTENCE id="S222" spans="7019~7047" text="put the bowl behind the ball" judgement="fine" />
+<SENTENCE id="S223" spans="7048~7077" text="put the bowl behind the plate" judgement="fine" />
+<SENTENCE id="S224" spans="7078~7105" text="put the bowl behind the cup" judgement="fine" />
+<SENTENCE id="S225" spans="7106~7134" text="put the bowl behind the disc" judgement="fine" />
+<SENTENCE id="S226" spans="7135~7164" text="put the bowl behind the spoon" judgement="fine" />
+<SENTENCE id="S227" spans="7165~7193" text="put the bowl behind the book" judgement="fine" />
+<SENTENCE id="S228" spans="7194~7228" text="put the bowl behind the blackboard" judgement="fine" />
+<SENTENCE id="S229" spans="7229~7259" text="put the bowl behind the bottle" judgement="fine" />
+<SENTENCE id="S230" spans="7260~7289" text="put the bowl behind the grape" judgement="fine" />
+<SENTENCE id="S231" spans="7290~7319" text="put the bowl behind the apple" judgement="fine" />
+<SENTENCE id="S232" spans="7320~7350" text="put the bowl behind the banana" judgement="fine" />
+<SENTENCE id="S233" spans="7351~7380" text="put the bowl behind the table" judgement="fine" />
+<SENTENCE id="S234" spans="7381~7409" text="put the bowl behind the bowl" judgement="fine" />
+<SENTENCE id="S235" spans="7410~7439" text="put the bowl behind the knife" judgement="fine" />
+<SENTENCE id="S236" spans="7440~7470" text="put the bowl behind the pencil" judgement="fine" />
+<SENTENCE id="S237" spans="7471~7506" text="put the bowl behind the paper sheet" judgement="fine" />
+<SENTENCE id="S238" spans="7507~7537" text="put the knife behind the block" judgement="fine" />
+<SENTENCE id="S239" spans="7538~7567" text="put the knife behind the ball" judgement="fine" />
+<SENTENCE id="S240" spans="7568~7598" text="put the knife behind the plate" judgement="fine" />
+<SENTENCE id="S241" spans="7599~7627" text="put the knife behind the cup" judgement="fine" />
+<SENTENCE id="S242" spans="7628~7657" text="put the knife behind the disc" judgement="fine" />
+<SENTENCE id="S243" spans="7658~7688" text="put the knife behind the spoon" judgement="fine" />
+<SENTENCE id="S244" spans="7689~7718" text="put the knife behind the book" judgement="fine" />
+<SENTENCE id="S245" spans="7719~7754" text="put the knife behind the blackboard" judgement="fine" />
+<SENTENCE id="S246" spans="7755~7786" text="put the knife behind the bottle" judgement="fine" />
+<SENTENCE id="S247" spans="7787~7817" text="put the knife behind the grape" judgement="fine" />
+<SENTENCE id="S248" spans="7818~7848" text="put the knife behind the apple" judgement="fine" />
+<SENTENCE id="S249" spans="7849~7880" text="put the knife behind the banana" judgement="fine" />
+<SENTENCE id="S250" spans="7881~7911" text="put the knife behind the table" judgement="fine" />
+<SENTENCE id="S251" spans="7912~7941" text="put the knife behind the bowl" judgement="fine" />
+<SENTENCE id="S252" spans="7942~7972" text="put the knife behind the knife" judgement="fine" />
+<SENTENCE id="S253" spans="7973~8004" text="put the knife behind the pencil" judgement="fine" />
+<SENTENCE id="S254" spans="8005~8041" text="put the knife behind the paper sheet" judgement="fine" />
+<SENTENCE id="S255" spans="8042~8073" text="put the pencil behind the block" judgement="fine" />
+<SENTENCE id="S256" spans="8074~8104" text="put the pencil behind the ball" judgement="fine" />
+<SENTENCE id="S257" spans="8105~8136" text="put the pencil behind the plate" judgement="fine" />
+<SENTENCE id="S258" spans="8137~8166" text="put the pencil behind the cup" judgement="fine" />
+<SENTENCE id="S259" spans="8167~8197" text="put the pencil behind the disc" judgement="fine" />
+<SENTENCE id="S260" spans="8198~8229" text="put the pencil behind the spoon" judgement="fine" />
+<SENTENCE id="S261" spans="8230~8260" text="put the pencil behind the book" judgement="fine" />
+<SENTENCE id="S262" spans="8261~8297" text="put the pencil behind the blackboard" judgement="fine" />
+<SENTENCE id="S263" spans="8298~8330" text="put the pencil behind the bottle" judgement="fine" />
+<SENTENCE id="S264" spans="8331~8362" text="put the pencil behind the grape" judgement="fine" />
+<SENTENCE id="S265" spans="8363~8394" text="put the pencil behind the apple" judgement="fine" />
+<SENTENCE id="S266" spans="8395~8427" text="put the pencil behind the banana" judgement="fine" />
+<SENTENCE id="S267" spans="8428~8459" text="put the pencil behind the table" judgement="fine" />
+<SENTENCE id="S268" spans="8460~8490" text="put the pencil behind the bowl" judgement="fine" />
+<SENTENCE id="S269" spans="8491~8522" text="put the pencil behind the knife" judgement="fine" />
+<SENTENCE id="S270" spans="8523~8555" text="put the pencil behind the pencil" judgement="fine" />
+<SENTENCE id="S271" spans="8556~8593" text="put the pencil behind the paper sheet" judgement="fine" />
+<SENTENCE id="S272" spans="8594~8630" text="put the paper sheet behind the block" judgement="fine" />
+<SENTENCE id="S273" spans="8631~8666" text="put the paper sheet behind the ball" judgement="fine" />
+<SENTENCE id="S274" spans="8667~8703" text="put the paper sheet behind the plate" judgement="fine" />
+<SENTENCE id="S275" spans="8704~8738" text="put the paper sheet behind the cup" judgement="fine" />
+<SENTENCE id="S276" spans="8739~8774" text="put the paper sheet behind the disc" judgement="fine" />
+<SENTENCE id="S277" spans="8775~8811" text="put the paper sheet behind the spoon" judgement="fine" />
+<SENTENCE id="S278" spans="8812~8847" text="put the paper sheet behind the book" judgement="fine" />
+<SENTENCE id="S279" spans="8848~8889" text="put the paper sheet behind the blackboard" judgement="fine" />
+<SENTENCE id="S280" spans="8890~8927" text="put the paper sheet behind the bottle" judgement="fine" />
+<SENTENCE id="S281" spans="8928~8964" text="put the paper sheet behind the grape" judgement="fine" />
+<SENTENCE id="S282" spans="8965~9001" text="put the paper sheet behind the apple" judgement="fine" />
+<SENTENCE id="S283" spans="9002~9039" text="put the paper sheet behind the banana" judgement="fine" />
+<SENTENCE id="S284" spans="9040~9076" text="put the paper sheet behind the table" judgement="fine" />
+<SENTENCE id="S285" spans="9077~9112" text="put the paper sheet behind the bowl" judgement="fine" />
+<SENTENCE id="S286" spans="9113~9149" text="put the paper sheet behind the knife" judgement="fine" />
+<SENTENCE id="S287" spans="9150~9187" text="put the paper sheet behind the pencil" judgement="fine" />
+<SENTENCE id="S288" spans="9188~9230" text="put the paper sheet behind the paper sheet" judgement="fine" />
+</TAGS>
+</SentenceSimulabilityTask>

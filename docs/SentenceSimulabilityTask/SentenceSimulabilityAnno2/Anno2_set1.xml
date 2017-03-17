@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SentenceSimulabilityTask>
+<TEXT><![CDATA[grasp the block
+grasp the ball
+grasp the plate
+grasp the cup
+grasp the disc
+grasp the spoon
+grasp the book
+grasp the blackboard
+grasp the bottle
+grasp the grape
+grasp the apple
+grasp the banana
+grasp the table
+grasp the bowl
+grasp the knife
+grasp the pencil
+grasp the paper sheet
+hold the block
+hold the ball
+hold the plate
+hold the cup
+hold the disc
+hold the spoon
+hold the book
+hold the blackboard
+hold the bottle
+hold the grape
+hold the apple
+hold the banana
+hold the table
+hold the bowl
+hold the knife
+hold the pencil
+hold the paper sheet
+touch the block
+touch the ball
+touch the plate
+touch the cup
+touch the disc
+touch the spoon
+touch the book
+touch the blackboard
+touch the bottle
+touch the grape
+touch the apple
+touch the banana
+touch the table
+touch the bowl
+touch the knife
+touch the pencil
+touch the paper sheet
+move the block
+move the ball
+move the plate
+move the cup
+move the disc
+move the spoon
+move the book
+move the blackboard
+move the bottle
+move the grape
+move the apple
+move the banana
+move the table
+move the bowl
+move the knife
+move the pencil
+move the paper sheet
+turn the block
+turn the ball
+turn the plate
+turn the cup
+turn the disc
+turn the spoon
+turn the book
+turn the blackboard
+turn the bottle
+turn the grape
+turn the apple
+turn the banana
+turn the table
+turn the bowl
+turn the knife
+turn the pencil
+turn the paper sheet
+roll the block
+roll the ball
+roll the plate
+roll the cup
+roll the disc
+roll the spoon
+roll the book
+roll the blackboard
+roll the bottle
+roll the grape
+roll the apple
+roll the banana
+roll the table
+roll the bowl
+roll the knife
+roll the pencil
+roll the paper sheet
+slide the block
+slide the ball
+slide the plate
+slide the cup
+slide the disc
+slide the spoon
+slide the book
+slide the blackboard
+slide the bottle
+slide the grape
+slide the apple
+slide the banana
+slide the table
+slide the bowl
+slide the knife
+slide the pencil
+slide the paper sheet
+spin the block
+spin the ball
+spin the plate
+spin the cup
+spin the disc
+spin the spoon
+spin the book
+spin the blackboard
+spin the bottle
+spin the grape
+spin the apple
+spin the banana
+spin the table
+spin the bowl
+spin the knife
+spin the pencil
+spin the paper sheet
+lift the block
+lift the ball
+lift the plate
+lift the cup
+lift the disc
+lift the spoon
+lift the book
+lift the blackboard
+lift the bottle
+lift the grape
+lift the apple
+lift the banana
+lift the table
+lift the bowl
+lift the knife
+lift the pencil
+lift the paper sheet
+]]></TEXT>
+<TAGS>
+<SENTENCE id="S0" spans="0~15" text="grasp the block" judgement="fine" />
+<SENTENCE id="S1" spans="16~30" text="grasp the ball" judgement="fine" />
+<SENTENCE id="S2" spans="31~46" text="grasp the plate" judgement="fine" />
+<SENTENCE id="S3" spans="47~60" text="grasp the cup" judgement="fine" />
+<SENTENCE id="S4" spans="61~75" text="grasp the disc" judgement="fine" />
+<SENTENCE id="S5" spans="76~91" text="grasp the spoon" judgement="fine" />
+<SENTENCE id="S6" spans="92~106" text="grasp the book" judgement="fine" />
+<SENTENCE id="S7" spans="107~127" text="grasp the blackboard" judgement="awkward" />
+<SENTENCE id="S8" spans="128~144" text="grasp the bottle" judgement="fine" />
+<SENTENCE id="S9" spans="145~160" text="grasp the grape" judgement="fine" />
+<SENTENCE id="S10" spans="161~176" text="grasp the apple" judgement="fine" />
+<SENTENCE id="S11" spans="177~193" text="grasp the banana" judgement="fine" />
+<SENTENCE id="S12" spans="194~209" text="grasp the table" judgement="awkward" />
+<SENTENCE id="S13" spans="210~224" text="grasp the bowl" judgement="fine" />
+<SENTENCE id="S14" spans="225~240" text="grasp the knife" judgement="fine" />
+<SENTENCE id="S15" spans="241~257" text="grasp the pencil" judgement="fine" />
+<SENTENCE id="S16" spans="258~279" text="grasp the paper sheet" judgement="fine" />
+<SENTENCE id="S17" spans="280~294" text="hold the block" judgement="fine" />
+<SENTENCE id="S18" spans="295~308" text="hold the ball" judgement="fine" />
+<SENTENCE id="S19" spans="309~323" text="hold the plate" judgement="fine" />
+<SENTENCE id="S20" spans="324~336" text="hold the cup" judgement="fine" />
+<SENTENCE id="S21" spans="337~350" text="hold the disc" judgement="fine" />
+<SENTENCE id="S22" spans="351~365" text="hold the spoon" judgement="fine" />
+<SENTENCE id="S23" spans="366~379" text="hold the book" judgement="fine" />
+<SENTENCE id="S24" spans="380~399" text="hold the blackboard" judgement="awkward" />
+<SENTENCE id="S25" spans="400~415" text="hold the bottle" judgement="fine" />
+<SENTENCE id="S26" spans="416~430" text="hold the grape" judgement="fine" />
+<SENTENCE id="S27" spans="431~445" text="hold the apple" judgement="fine" />
+<SENTENCE id="S28" spans="446~461" text="hold the banana" judgement="fine" />
+<SENTENCE id="S29" spans="462~476" text="hold the table" judgement="awkward" />
+<SENTENCE id="S30" spans="477~490" text="hold the bowl" judgement="fine" />
+<SENTENCE id="S31" spans="491~505" text="hold the knife" judgement="fine" />
+<SENTENCE id="S32" spans="506~521" text="hold the pencil" judgement="fine" />
+<SENTENCE id="S33" spans="522~542" text="hold the paper sheet" judgement="fine" />
+<SENTENCE id="S34" spans="543~558" text="touch the block" judgement="fine" />
+<SENTENCE id="S35" spans="559~573" text="touch the ball" judgement="fine" />
+<SENTENCE id="S36" spans="574~589" text="touch the plate" judgement="fine" />
+<SENTENCE id="S37" spans="590~603" text="touch the cup" judgement="fine" />
+<SENTENCE id="S38" spans="604~618" text="touch the disc" judgement="fine" />
+<SENTENCE id="S39" spans="619~634" text="touch the spoon" judgement="fine" />
+<SENTENCE id="S40" spans="635~649" text="touch the book" judgement="fine" />
+<SENTENCE id="S41" spans="650~670" text="touch the blackboard" judgement="fine" />
+<SENTENCE id="S42" spans="671~687" text="touch the bottle" judgement="fine" />
+<SENTENCE id="S43" spans="688~703" text="touch the grape" judgement="fine" />
+<SENTENCE id="S44" spans="704~719" text="touch the apple" judgement="fine" />
+<SENTENCE id="S45" spans="720~736" text="touch the banana" judgement="fine" />
+<SENTENCE id="S46" spans="737~752" text="touch the table" judgement="fine" />
+<SENTENCE id="S47" spans="753~767" text="touch the bowl" judgement="fine" />
+<SENTENCE id="S48" spans="768~783" text="touch the knife" judgement="fine" />
+<SENTENCE id="S49" spans="784~800" text="touch the pencil" judgement="fine" />
+<SENTENCE id="S50" spans="801~822" text="touch the paper sheet" judgement="fine" />
+<SENTENCE id="S51" spans="823~837" text="move the block" judgement="fine" />
+<SENTENCE id="S52" spans="838~851" text="move the ball" judgement="fine" />
+<SENTENCE id="S53" spans="852~866" text="move the plate" judgement="fine" />
+<SENTENCE id="S54" spans="867~879" text="move the cup" judgement="fine" />
+<SENTENCE id="S55" spans="880~893" text="move the disc" judgement="fine" />
+<SENTENCE id="S56" spans="894~908" text="move the spoon" judgement="fine" />
+<SENTENCE id="S57" spans="909~922" text="move the book" judgement="fine" />
+<SENTENCE id="S58" spans="923~942" text="move the blackboard" judgement="fine" />
+<SENTENCE id="S59" spans="943~958" text="move the bottle" judgement="fine" />
+<SENTENCE id="S60" spans="959~973" text="move the grape" judgement="fine" />
+<SENTENCE id="S61" spans="974~988" text="move the apple" judgement="fine" />
+<SENTENCE id="S62" spans="989~1004" text="move the banana" judgement="fine" />
+<SENTENCE id="S63" spans="1005~1019" text="move the table" judgement="fine" />
+<SENTENCE id="S64" spans="1020~1033" text="move the bowl" judgement="fine" />
+<SENTENCE id="S65" spans="1034~1048" text="move the knife" judgement="fine" />
+<SENTENCE id="S66" spans="1049~1064" text="move the pencil" judgement="fine" />
+<SENTENCE id="S67" spans="1065~1085" text="move the paper sheet" judgement="fine" />
+<SENTENCE id="S68" spans="1086~1100" text="turn the block" judgement="fine" />
+<SENTENCE id="S69" spans="1101~1114" text="turn the ball" judgement="fine" />
+<SENTENCE id="S70" spans="1115~1129" text="turn the plate" judgement="fine" />
+<SENTENCE id="S71" spans="1130~1142" text="turn the cup" judgement="fine" />
+<SENTENCE id="S72" spans="1143~1156" text="turn the disc" judgement="fine" />
+<SENTENCE id="S73" spans="1157~1171" text="turn the spoon" judgement="fine" />
+<SENTENCE id="S74" spans="1172~1185" text="turn the book" judgement="fine" />
+<SENTENCE id="S75" spans="1186~1205" text="turn the blackboard" judgement="awkward" />
+<SENTENCE id="S76" spans="1206~1221" text="turn the bottle" judgement="fine" />
+<SENTENCE id="S77" spans="1222~1236" text="turn the grape" judgement="fine" />
+<SENTENCE id="S78" spans="1237~1251" text="turn the apple" judgement="fine" />
+<SENTENCE id="S79" spans="1252~1267" text="turn the banana" judgement="fine" />
+<SENTENCE id="S80" spans="1268~1282" text="turn the table" judgement="fine" />
+<SENTENCE id="S81" spans="1283~1296" text="turn the bowl" judgement="fine" />
+<SENTENCE id="S82" spans="1297~1311" text="turn the knife" judgement="fine" />
+<SENTENCE id="S83" spans="1312~1327" text="turn the pencil" judgement="fine" />
+<SENTENCE id="S84" spans="1328~1348" text="turn the paper sheet" judgement="fine" />
+<SENTENCE id="S85" spans="1349~1363" text="roll the block" judgement="fine" />
+<SENTENCE id="S86" spans="1364~1377" text="roll the ball" judgement="fine" />
+<SENTENCE id="S87" spans="1378~1392" text="roll the plate" judgement="fine" />
+<SENTENCE id="S88" spans="1393~1405" text="roll the cup" judgement="fine" />
+<SENTENCE id="S89" spans="1406~1419" text="roll the disc" judgement="fine" />
+<SENTENCE id="S90" spans="1420~1434" text="roll the spoon" judgement="awkward" />
+<SENTENCE id="S91" spans="1435~1448" text="roll the book" judgement="awkward" />
+<SENTENCE id="S92" spans="1449~1468" text="roll the blackboard" judgement="nonsense" />
+<SENTENCE id="S93" spans="1469~1484" text="roll the bottle" judgement="fine" />
+<SENTENCE id="S94" spans="1485~1499" text="roll the grape" judgement="fine" />
+<SENTENCE id="S95" spans="1500~1514" text="roll the apple" judgement="fine" />
+<SENTENCE id="S96" spans="1515~1530" text="roll the banana" judgement="awkward" />
+<SENTENCE id="S97" spans="1531~1545" text="roll the table" judgement="awkward" />
+<SENTENCE id="S98" spans="1546~1559" text="roll the bowl" judgement="fine" />
+<SENTENCE id="S99" spans="1560~1574" text="roll the knife" judgement="fine" />
+<SENTENCE id="S100" spans="1575~1590" text="roll the pencil" judgement="fine" />
+<SENTENCE id="S101" spans="1591~1611" text="roll the paper sheet" judgement="fine" />
+<SENTENCE id="S102" spans="1612~1627" text="slide the block" judgement="fine" />
+<SENTENCE id="S103" spans="1628~1642" text="slide the ball" judgement="awkward" />
+<SENTENCE id="S104" spans="1643~1658" text="slide the plate" judgement="fine" />
+<SENTENCE id="S105" spans="1659~1672" text="slide the cup" judgement="fine" />
+<SENTENCE id="S106" spans="1673~1687" text="slide the disc" judgement="fine" />
+<SENTENCE id="S107" spans="1688~1703" text="slide the spoon" judgement="fine" />
+<SENTENCE id="S108" spans="1704~1718" text="slide the book" judgement="fine" />
+<SENTENCE id="S109" spans="1719~1739" text="slide the blackboard" judgement="awkward" />
+<SENTENCE id="S110" spans="1740~1756" text="slide the bottle" judgement="fine" />
+<SENTENCE id="S111" spans="1757~1772" text="slide the grape" judgement="fine" />
+<SENTENCE id="S112" spans="1773~1788" text="slide the apple" judgement="fine" />
+<SENTENCE id="S113" spans="1789~1805" text="slide the banana" judgement="fine" />
+<SENTENCE id="S114" spans="1806~1821" text="slide the table" judgement="fine" />
+<SENTENCE id="S115" spans="1822~1836" text="slide the bowl" judgement="fine" />
+<SENTENCE id="S116" spans="1837~1852" text="slide the knife" judgement="fine" />
+<SENTENCE id="S117" spans="1853~1869" text="slide the pencil" judgement="fine" />
+<SENTENCE id="S118" spans="1870~1891" text="slide the paper sheet" judgement="fine" />
+<SENTENCE id="S119" spans="1892~1906" text="spin the block" judgement="fine" />
+<SENTENCE id="S120" spans="1907~1920" text="spin the ball" judgement="fine" />
+<SENTENCE id="S121" spans="1921~1935" text="spin the plate" judgement="fine" />
+<SENTENCE id="S122" spans="1936~1948" text="spin the cup" judgement="fine" />
+<SENTENCE id="S123" spans="1949~1962" text="spin the disc" judgement="fine" />
+<SENTENCE id="S124" spans="1963~1977" text="spin the spoon" judgement="fine" />
+<SENTENCE id="S125" spans="1978~1991" text="spin the book" judgement="fine" />
+<SENTENCE id="S126" spans="1992~2011" text="spin the blackboard" judgement="awkward" />
+<SENTENCE id="S127" spans="2012~2027" text="spin the bottle" judgement="fine" />
+<SENTENCE id="S128" spans="2028~2042" text="spin the grape" judgement="fine" />
+<SENTENCE id="S129" spans="2043~2057" text="spin the apple" judgement="fine" />
+<SENTENCE id="S130" spans="2058~2073" text="spin the banana" judgement="fine" />
+<SENTENCE id="S131" spans="2074~2088" text="spin the table" judgement="fine" />
+<SENTENCE id="S132" spans="2089~2102" text="spin the bowl" judgement="fine" />
+<SENTENCE id="S133" spans="2103~2117" text="spin the knife" judgement="fine" />
+<SENTENCE id="S134" spans="2118~2133" text="spin the pencil" judgement="fine" />
+<SENTENCE id="S135" spans="2134~2154" text="spin the paper sheet" judgement="fine" />
+<SENTENCE id="S136" spans="2155~2169" text="lift the block" judgement="fine" />
+<SENTENCE id="S137" spans="2170~2183" text="lift the ball" judgement="fine" />
+<SENTENCE id="S138" spans="2184~2198" text="lift the plate" judgement="fine" />
+<SENTENCE id="S139" spans="2199~2211" text="lift the cup" judgement="fine" />
+<SENTENCE id="S140" spans="2212~2225" text="lift the disc" judgement="fine" />
+<SENTENCE id="S141" spans="2226~2240" text="lift the spoon" judgement="fine" />
+<SENTENCE id="S142" spans="2241~2254" text="lift the book" judgement="fine" />
+<SENTENCE id="S143" spans="2255~2274" text="lift the blackboard" judgement="awkward" />
+<SENTENCE id="S144" spans="2275~2290" text="lift the bottle" judgement="fine" />
+<SENTENCE id="S145" spans="2291~2305" text="lift the grape" judgement="fine" />
+<SENTENCE id="S146" spans="2306~2320" text="lift the apple" judgement="fine" />
+<SENTENCE id="S147" spans="2321~2336" text="lift the banana" judgement="fine" />
+<SENTENCE id="S148" spans="2337~2351" text="lift the table" judgement="fine" />
+<SENTENCE id="S149" spans="2352~2365" text="lift the bowl" judgement="fine" />
+<SENTENCE id="S150" spans="2366~2380" text="lift the knife" judgement="fine" />
+<SENTENCE id="S151" spans="2381~2396" text="lift the pencil" judgement="fine" />
+<SENTENCE id="S152" spans="2397~2417" text="lift the paper sheet" judgement="fine" />
+</TAGS>
+</SentenceSimulabilityTask>

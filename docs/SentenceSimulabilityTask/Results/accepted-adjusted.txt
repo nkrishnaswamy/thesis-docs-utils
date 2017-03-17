@@ -1,0 +1,1838 @@
+grasp the block 
+grasp the ball 
+grasp the plate 
+grasp the cup 
+grasp the disc 
+grasp the spoon 
+grasp the book 
+grasp the blackboard 
+grasp the bottle 
+grasp the grape 
+grasp the apple 
+grasp the banana 
+grasp the table 
+grasp the bowl 
+grasp the knife 
+grasp the pencil 
+grasp the paper sheet 
+hold the block 
+hold the ball 
+hold the plate 
+hold the cup 
+hold the disc 
+hold the spoon 
+hold the book 
+hold the blackboard 
+hold the bottle 
+hold the grape 
+hold the apple 
+hold the banana 
+hold the table 
+hold the bowl 
+hold the knife 
+hold the pencil 
+hold the paper sheet 
+touch the block 
+touch the ball 
+touch the plate 
+touch the cup 
+touch the disc 
+touch the spoon 
+touch the book 
+touch the blackboard 
+touch the bottle 
+touch the grape 
+touch the apple 
+touch the banana 
+touch the table 
+touch the bowl 
+touch the knife 
+touch the pencil 
+touch the paper sheet 
+move the block 
+move the ball 
+move the plate 
+move the cup 
+move the disc 
+move the spoon 
+move the book 
+move the blackboard 
+move the bottle 
+move the grape 
+move the apple 
+move the banana 
+move the table 
+move the bowl 
+move the knife 
+move the pencil 
+move the paper sheet 
+turn the block 
+turn the ball 
+turn the plate 
+turn the cup 
+turn the disc 
+turn the spoon 
+turn the book 
+turn the blackboard 
+turn the bottle 
+turn the grape 
+turn the apple 
+turn the banana 
+turn the table 
+turn the bowl 
+turn the knife 
+turn the pencil 
+turn the paper sheet 
+roll the block 
+roll the ball 
+roll the plate 
+roll the cup 
+roll the disc 
+roll the spoon 
+roll the book 
+roll the blackboard 
+roll the bottle 
+roll the grape 
+roll the apple 
+roll the banana 
+roll the table 
+roll the bowl 
+roll the knife 
+roll the pencil 
+roll the paper sheet 
+slide the block 
+slide the ball 
+slide the plate 
+slide the cup 
+slide the disc 
+slide the spoon 
+slide the book 
+slide the blackboard 
+slide the bottle 
+slide the grape 
+slide the apple 
+slide the banana 
+slide the table 
+slide the bowl 
+slide the knife 
+slide the pencil 
+slide the paper sheet 
+spin the block 
+spin the ball 
+spin the plate 
+spin the cup 
+spin the disc 
+spin the spoon 
+spin the book 
+spin the blackboard 
+spin the bottle 
+spin the grape 
+spin the apple 
+spin the banana 
+spin the table 
+spin the bowl 
+spin the knife 
+spin the pencil 
+spin the paper sheet 
+lift the block 
+lift the ball 
+lift the plate 
+lift the cup 
+lift the disc 
+lift the spoon 
+lift the book 
+lift the blackboard 
+lift the bottle 
+lift the grape 
+lift the apple 
+lift the banana 
+lift the table 
+lift the bowl 
+lift the knife 
+lift the pencil 
+lift the paper sheet 
+put the block touching the block 
+put the block touching the ball 
+put the block touching the plate 
+put the block touching the cup 
+put the block touching the disc 
+put the block touching the spoon 
+put the block touching the book 
+put the block touching the blackboard 
+put the block touching the bottle 
+put the block touching the grape 
+put the block touching the apple 
+put the block touching the banana 
+put the block touching the table 
+put the block touching the bowl 
+put the block touching the knife 
+put the block touching the pencil 
+put the block touching the paper sheet 
+put the ball touching the block 
+put the ball touching the ball 
+put the ball touching the plate 
+put the ball touching the cup 
+put the ball touching the disc 
+put the ball touching the spoon 
+put the ball touching the book 
+put the ball touching the blackboard 
+put the ball touching the bottle 
+put the ball touching the grape 
+put the ball touching the apple 
+put the ball touching the banana 
+put the ball touching the table 
+put the ball touching the bowl 
+put the ball touching the knife 
+put the ball touching the pencil 
+put the ball touching the paper sheet 
+put the plate touching the block 
+put the plate touching the ball 
+put the plate touching the plate 
+put the plate touching the cup 
+put the plate touching the disc 
+put the plate touching the spoon 
+put the plate touching the book 
+put the plate touching the blackboard 
+put the plate touching the bottle 
+put the plate touching the grape 
+put the plate touching the apple 
+put the plate touching the banana 
+put the plate touching the table 
+put the plate touching the bowl 
+put the plate touching the knife 
+put the plate touching the pencil 
+put the plate touching the paper sheet 
+put the cup touching the block 
+put the cup touching the ball 
+put the cup touching the plate 
+put the cup touching the cup 
+put the cup touching the disc 
+put the cup touching the spoon 
+put the cup touching the book 
+put the cup touching the blackboard 
+put the cup touching the bottle 
+put the cup touching the grape 
+put the cup touching the apple 
+put the cup touching the banana 
+put the cup touching the table 
+put the cup touching the bowl 
+put the cup touching the knife 
+put the cup touching the pencil 
+put the cup touching the paper sheet 
+put the disc touching the block 
+put the disc touching the ball 
+put the disc touching the plate 
+put the disc touching the cup 
+put the disc touching the disc 
+put the disc touching the spoon 
+put the disc touching the book 
+put the disc touching the blackboard 
+put the disc touching the bottle 
+put the disc touching the grape 
+put the disc touching the apple 
+put the disc touching the banana 
+put the disc touching the table 
+put the disc touching the bowl 
+put the disc touching the knife 
+put the disc touching the pencil 
+put the disc touching the paper sheet 
+put the spoon touching the block 
+put the spoon touching the ball 
+put the spoon touching the plate 
+put the spoon touching the cup 
+put the spoon touching the disc 
+put the spoon touching the spoon 
+put the spoon touching the book 
+put the spoon touching the blackboard 
+put the spoon touching the bottle 
+put the spoon touching the grape 
+put the spoon touching the apple 
+put the spoon touching the banana 
+put the spoon touching the table 
+put the spoon touching the bowl 
+put the spoon touching the knife 
+put the spoon touching the pencil 
+put the spoon touching the paper sheet 
+put the book touching the block 
+put the book touching the ball 
+put the book touching the plate 
+put the book touching the cup 
+put the book touching the disc 
+put the book touching the spoon 
+put the book touching the book 
+put the book touching the blackboard 
+put the book touching the bottle 
+put the book touching the grape 
+put the book touching the apple 
+put the book touching the banana 
+put the book touching the table 
+put the book touching the bowl 
+put the book touching the knife 
+put the book touching the pencil 
+put the book touching the paper sheet 
+put the blackboard touching the block 
+put the blackboard touching the ball 
+put the blackboard touching the plate 
+put the blackboard touching the cup 
+put the blackboard touching the disc 
+put the blackboard touching the spoon 
+put the blackboard touching the book 
+put the blackboard touching the blackboard 
+put the blackboard touching the bottle 
+put the blackboard touching the grape 
+put the blackboard touching the apple 
+put the blackboard touching the banana 
+put the blackboard touching the table 
+put the blackboard touching the bowl 
+put the blackboard touching the knife 
+put the blackboard touching the pencil 
+put the blackboard touching the paper sheet 
+put the bottle touching the block 
+put the bottle touching the ball 
+put the bottle touching the plate 
+put the bottle touching the cup 
+put the bottle touching the disc 
+put the bottle touching the spoon 
+put the bottle touching the book 
+put the bottle touching the blackboard 
+put the bottle touching the bottle 
+put the bottle touching the grape 
+put the bottle touching the apple 
+put the bottle touching the banana 
+put the bottle touching the table 
+put the bottle touching the bowl 
+put the bottle touching the knife 
+put the bottle touching the pencil 
+put the bottle touching the paper sheet 
+put the grape touching the block 
+put the grape touching the ball 
+put the grape touching the plate 
+put the grape touching the cup 
+put the grape touching the disc 
+put the grape touching the spoon 
+put the grape touching the book 
+put the grape touching the blackboard 
+put the grape touching the bottle 
+put the grape touching the grape 
+put the grape touching the apple 
+put the grape touching the banana 
+put the grape touching the table 
+put the grape touching the bowl 
+put the grape touching the knife 
+put the grape touching the pencil 
+put the grape touching the paper sheet 
+put the apple touching the block 
+put the apple touching the ball 
+put the apple touching the plate 
+put the apple touching the cup 
+put the apple touching the disc 
+put the apple touching the spoon 
+put the apple touching the book 
+put the apple touching the blackboard 
+put the apple touching the bottle 
+put the apple touching the grape 
+put the apple touching the apple 
+put the apple touching the banana 
+put the apple touching the table 
+put the apple touching the bowl 
+put the apple touching the knife 
+put the apple touching the pencil 
+put the apple touching the paper sheet 
+put the banana touching the block 
+put the banana touching the ball 
+put the banana touching the plate 
+put the banana touching the cup 
+put the banana touching the disc 
+put the banana touching the spoon 
+put the banana touching the book 
+put the banana touching the blackboard 
+put the banana touching the bottle 
+put the banana touching the grape 
+put the banana touching the apple 
+put the banana touching the banana 
+put the banana touching the table 
+put the banana touching the bowl 
+put the banana touching the knife 
+put the banana touching the pencil 
+put the banana touching the paper sheet 
+put the table touching the block 
+put the table touching the ball 
+put the table touching the plate 
+put the table touching the cup 
+put the table touching the disc 
+put the table touching the spoon 
+put the table touching the book 
+put the table touching the blackboard 
+put the table touching the bottle 
+put the table touching the grape 
+put the table touching the apple 
+put the table touching the banana 
+put the table touching the table 
+put the table touching the bowl 
+put the table touching the knife 
+put the table touching the pencil 
+put the table touching the paper sheet 
+put the bowl touching the block 
+put the bowl touching the ball 
+put the bowl touching the plate 
+put the bowl touching the cup 
+put the bowl touching the disc 
+put the bowl touching the spoon 
+put the bowl touching the book 
+put the bowl touching the blackboard 
+put the bowl touching the bottle 
+put the bowl touching the grape 
+put the bowl touching the apple 
+put the bowl touching the banana 
+put the bowl touching the table 
+put the bowl touching the bowl 
+put the bowl touching the knife 
+put the bowl touching the pencil 
+put the bowl touching the paper sheet 
+put the knife touching the block 
+put the knife touching the ball 
+put the knife touching the plate 
+put the knife touching the cup 
+put the knife touching the disc 
+put the knife touching the spoon 
+put the knife touching the book 
+put the knife touching the blackboard 
+put the knife touching the bottle 
+put the knife touching the grape 
+put the knife touching the apple 
+put the knife touching the banana 
+put the knife touching the table 
+put the knife touching the bowl 
+put the knife touching the knife 
+put the knife touching the pencil 
+put the knife touching the paper sheet 
+put the pencil touching the block 
+put the pencil touching the ball 
+put the pencil touching the plate 
+put the pencil touching the cup 
+put the pencil touching the disc 
+put the pencil touching the spoon 
+put the pencil touching the book 
+put the pencil touching the blackboard 
+put the pencil touching the bottle 
+put the pencil touching the grape 
+put the pencil touching the apple 
+put the pencil touching the banana 
+put the pencil touching the table 
+put the pencil touching the bowl 
+put the pencil touching the knife 
+put the pencil touching the pencil 
+put the pencil touching the paper sheet 
+put the paper sheet touching the block 
+put the paper sheet touching the ball 
+put the paper sheet touching the plate 
+put the paper sheet touching the cup 
+put the paper sheet touching the disc 
+put the paper sheet touching the spoon 
+put the paper sheet touching the book 
+put the paper sheet touching the blackboard 
+put the paper sheet touching the bottle 
+put the paper sheet touching the grape 
+put the paper sheet touching the apple 
+put the paper sheet touching the banana 
+put the paper sheet touching the table 
+put the paper sheet touching the bowl 
+put the paper sheet touching the knife 
+put the paper sheet touching the pencil 
+put the paper sheet touching the paper sheet 
+put the block in the plate 
+put the block in the cup 
+put the block in the disc 
+put the block in the bottle 
+put the block in the bowl 
+put the ball in the block 
+put the ball in the plate 
+put the ball in the cup 
+put the ball in the disc 
+put the ball in the spoon 
+put the ball in the bottle 
+put the ball in the bowl 
+put the plate in the cup 
+put the plate in the disc 
+put the plate in the bowl 
+put the cup in the plate 
+put the cup in the cup 
+put the cup in the bottle 
+put the cup in the bowl 
+put the disc in the cup 
+put the disc in the disc 
+put the disc in the spoon 
+put the disc in the bottle 
+put the disc in the bowl 
+put the spoon in the cup 
+put the spoon in the spoon 
+put the spoon in the bottle 
+put the spoon in the bowl 
+put the book in the cup 
+put the book in the book 
+put the book in the bottle 
+put the book in the bowl 
+put the bottle in the cup 
+put the bottle in the disc 
+put the bottle in the bottle 
+put the bottle in the bowl 
+put the grape in the plate 
+put the grape in the cup 
+put the grape in the spoon 
+put the grape in the book 
+put the grape in the bottle 
+put the grape in the bowl 
+put the apple in the plate 
+put the apple in the cup 
+put the apple in the spoon 
+put the apple in the bottle 
+put the apple in the bowl 
+put the banana in the plate 
+put the banana in the cup 
+put the banana in the bowl 
+put the bowl in the plate 
+put the bowl in the cup 
+put the bowl in the disc 
+put the bowl in the bowl 
+put the knife in the block 
+put the knife in the ball 
+put the knife in the plate 
+put the knife in the cup 
+put the knife in the book 
+put the knife in the blackboard 
+put the knife in the bottle 
+put the knife in the grape 
+put the knife in the apple 
+put the knife in the banana 
+put the knife in the table 
+put the knife in the bowl 
+put the knife in the pencil 
+put the knife in the paper sheet 
+put the pencil in the cup 
+put the pencil in the book 
+put the pencil in the bottle 
+put the pencil in the bowl 
+put the paper sheet in the cup 
+put the paper sheet in the spoon 
+put the paper sheet in the book 
+put the paper sheet in the bottle 
+put the paper sheet in the bowl 
+put the block on the block 
+put the block on the ball 
+put the block on the plate 
+put the block on the cup 
+put the block on the disc 
+put the block on the spoon 
+put the block on the book 
+put the block on the blackboard 
+put the block on the bottle 
+put the block on the grape 
+put the block on the apple 
+put the block on the banana 
+put the block on the table 
+put the block on the bowl 
+put the block on the knife 
+put the block on the pencil 
+put the block on the paper sheet 
+put the ball on the block 
+put the ball on the ball 
+put the ball on the plate 
+put the ball on the cup 
+put the ball on the disc 
+put the ball on the spoon 
+put the ball on the book 
+put the ball on the blackboard 
+put the ball on the bottle 
+put the ball on the grape 
+put the ball on the apple 
+put the ball on the banana 
+put the ball on the table 
+put the ball on the bowl 
+put the ball on the knife 
+put the ball on the pencil 
+put the ball on the paper sheet 
+put the plate on the block 
+put the plate on the ball 
+put the plate on the plate 
+put the plate on the cup 
+put the plate on the disc 
+put the plate on the spoon 
+put the plate on the book 
+put the plate on the blackboard 
+put the plate on the bottle 
+put the plate on the grape 
+put the plate on the apple 
+put the plate on the banana 
+put the plate on the table 
+put the plate on the bowl 
+put the plate on the knife 
+put the plate on the pencil 
+put the plate on the paper sheet 
+put the cup on the block 
+put the cup on the ball 
+put the cup on the plate 
+put the cup on the cup 
+put the cup on the disc 
+put the cup on the spoon 
+put the cup on the book 
+put the cup on the blackboard 
+put the cup on the bottle 
+put the cup on the grape 
+put the cup on the apple 
+put the cup on the banana 
+put the cup on the table 
+put the cup on the bowl 
+put the cup on the knife 
+put the cup on the pencil 
+put the cup on the paper sheet 
+put the disc on the block 
+put the disc on the ball 
+put the disc on the plate 
+put the disc on the cup 
+put the disc on the disc 
+put the disc on the spoon 
+put the disc on the book 
+put the disc on the blackboard 
+put the disc on the bottle 
+put the disc on the grape 
+put the disc on the apple 
+put the disc on the banana 
+put the disc on the table 
+put the disc on the bowl 
+put the disc on the knife 
+put the disc on the pencil 
+put the disc on the paper sheet 
+put the spoon on the block 
+put the spoon on the ball 
+put the spoon on the plate 
+put the spoon on the cup 
+put the spoon on the disc 
+put the spoon on the spoon 
+put the spoon on the book 
+put the spoon on the blackboard 
+put the spoon on the bottle 
+put the spoon on the grape 
+put the spoon on the apple 
+put the spoon on the banana 
+put the spoon on the table 
+put the spoon on the bowl 
+put the spoon on the knife 
+put the spoon on the pencil 
+put the spoon on the paper sheet 
+put the book on the block 
+put the book on the ball 
+put the book on the plate 
+put the book on the cup 
+put the book on the disc 
+put the book on the spoon 
+put the book on the book 
+put the book on the blackboard 
+put the book on the bottle 
+put the book on the grape 
+put the book on the apple 
+put the book on the banana 
+put the book on the table 
+put the book on the bowl 
+put the book on the knife 
+put the book on the pencil 
+put the book on the paper sheet 
+put the blackboard on the blackboard 
+put the blackboard on the table 
+put the blackboard on the paper sheet 
+put the bottle on the block 
+put the bottle on the ball 
+put the bottle on the plate 
+put the bottle on the cup 
+put the bottle on the disc 
+put the bottle on the spoon 
+put the bottle on the book 
+put the bottle on the blackboard 
+put the bottle on the bottle 
+put the bottle on the grape 
+put the bottle on the apple 
+put the bottle on the banana 
+put the bottle on the table 
+put the bottle on the bowl 
+put the bottle on the knife 
+put the bottle on the pencil 
+put the bottle on the paper sheet 
+put the grape on the block 
+put the grape on the ball 
+put the grape on the plate 
+put the grape on the cup 
+put the grape on the disc 
+put the grape on the spoon 
+put the grape on the book 
+put the grape on the blackboard 
+put the grape on the bottle 
+put the grape on the grape 
+put the grape on the apple 
+put the grape on the banana 
+put the grape on the table 
+put the grape on the bowl 
+put the grape on the knife 
+put the grape on the pencil 
+put the grape on the paper sheet 
+put the apple on the block 
+put the apple on the ball 
+put the apple on the plate 
+put the apple on the cup 
+put the apple on the disc 
+put the apple on the spoon 
+put the apple on the book 
+put the apple on the blackboard 
+put the apple on the bottle 
+put the apple on the grape 
+put the apple on the apple 
+put the apple on the banana 
+put the apple on the table 
+put the apple on the bowl 
+put the apple on the knife 
+put the apple on the pencil 
+put the apple on the paper sheet 
+put the banana on the block 
+put the banana on the ball 
+put the banana on the plate 
+put the banana on the cup 
+put the banana on the disc 
+put the banana on the spoon 
+put the banana on the book 
+put the banana on the bottle 
+put the banana on the grape 
+put the banana on the apple 
+put the banana on the banana 
+put the banana on the table 
+put the banana on the bowl 
+put the banana on the knife 
+put the banana on the pencil 
+put the banana on the paper sheet 
+put the table on the block 
+put the table on the ball 
+put the table on the plate 
+put the table on the cup 
+put the table on the disc 
+put the table on the spoon 
+put the table on the book 
+put the table on the bottle 
+put the table on the grape 
+put the table on the apple 
+put the table on the banana 
+put the table on the table 
+put the table on the knife 
+put the table on the pencil 
+put the table on the paper sheet 
+put the bowl on the block 
+put the bowl on the ball 
+put the bowl on the plate 
+put the bowl on the cup 
+put the bowl on the disc 
+put the bowl on the spoon 
+put the bowl on the book 
+put the bowl on the bottle 
+put the bowl on the grape 
+put the bowl on the apple 
+put the bowl on the banana 
+put the bowl on the table 
+put the bowl on the bowl 
+put the bowl on the knife 
+put the bowl on the pencil 
+put the bowl on the paper sheet 
+put the knife on the block 
+put the knife on the ball 
+put the knife on the plate 
+put the knife on the cup 
+put the knife on the disc 
+put the knife on the spoon 
+put the knife on the book 
+put the knife on the blackboard 
+put the knife on the bottle 
+put the knife on the grape 
+put the knife on the apple 
+put the knife on the banana 
+put the knife on the table 
+put the knife on the bowl 
+put the knife on the knife 
+put the knife on the pencil 
+put the knife on the paper sheet 
+put the pencil on the block 
+put the pencil on the ball 
+put the pencil on the plate 
+put the pencil on the cup 
+put the pencil on the disc 
+put the pencil on the spoon 
+put the pencil on the book 
+put the pencil on the bottle 
+put the pencil on the grape 
+put the pencil on the apple 
+put the pencil on the banana 
+put the pencil on the table 
+put the pencil on the bowl 
+put the pencil on the knife 
+put the pencil on the pencil 
+put the pencil on the paper sheet 
+put the paper sheet on the block 
+put the paper sheet on the ball 
+put the paper sheet on the plate 
+put the paper sheet on the cup 
+put the paper sheet on the disc 
+put the paper sheet on the spoon 
+put the paper sheet on the book 
+put the paper sheet on the blackboard 
+put the paper sheet on the bottle 
+put the paper sheet on the grape 
+put the paper sheet on the apple 
+put the paper sheet on the banana 
+put the paper sheet on the table 
+put the paper sheet on the bowl 
+put the paper sheet on the knife 
+put the paper sheet on the pencil 
+put the paper sheet on the paper sheet  
+put the block near the block 
+put the block near the ball 
+put the block near the plate 
+put the block near the cup 
+put the block near the disc 
+put the block near the spoon 
+put the block near the book 
+put the block near the blackboard 
+put the block near the bottle 
+put the block near the grape 
+put the block near the apple 
+put the block near the banana 
+put the block near the table 
+put the block near the bowl 
+put the block near the knife 
+put the block near the pencil 
+put the block near the paper sheet 
+put the ball near the block 
+put the ball near the ball 
+put the ball near the plate 
+put the ball near the cup 
+put the ball near the disc 
+put the ball near the spoon 
+put the ball near the book 
+put the ball near the blackboard 
+put the ball near the bottle 
+put the ball near the grape 
+put the ball near the apple 
+put the ball near the banana 
+put the ball near the table 
+put the ball near the bowl 
+put the ball near the knife 
+put the ball near the pencil 
+put the ball near the paper sheet 
+put the plate near the block 
+put the plate near the ball 
+put the plate near the plate 
+put the plate near the cup 
+put the plate near the disc 
+put the plate near the spoon 
+put the plate near the book 
+put the plate near the blackboard 
+put the plate near the bottle 
+put the plate near the grape 
+put the plate near the apple 
+put the plate near the banana 
+put the plate near the table 
+put the plate near the bowl 
+put the plate near the knife 
+put the plate near the pencil 
+put the plate near the paper sheet 
+put the cup near the block 
+put the cup near the ball 
+put the cup near the plate 
+put the cup near the cup 
+put the cup near the disc 
+put the cup near the spoon 
+put the cup near the book 
+put the cup near the blackboard 
+put the cup near the bottle 
+put the cup near the grape 
+put the cup near the apple 
+put the cup near the banana 
+put the cup near the table 
+put the cup near the bowl 
+put the cup near the knife 
+put the cup near the pencil 
+put the cup near the paper sheet 
+put the disc near the block 
+put the disc near the ball 
+put the disc near the plate 
+put the disc near the cup 
+put the disc near the disc 
+put the disc near the spoon 
+put the disc near the book 
+put the disc near the blackboard 
+put the disc near the bottle 
+put the disc near the grape 
+put the disc near the apple 
+put the disc near the banana 
+put the disc near the table 
+put the disc near the bowl 
+put the disc near the knife 
+put the disc near the pencil 
+put the disc near the paper sheet 
+put the spoon near the block 
+put the spoon near the ball 
+put the spoon near the plate 
+put the spoon near the cup 
+put the spoon near the disc 
+put the spoon near the spoon 
+put the spoon near the book 
+put the spoon near the blackboard 
+put the spoon near the bottle 
+put the spoon near the grape 
+put the spoon near the apple 
+put the spoon near the banana 
+put the spoon near the table 
+put the spoon near the bowl 
+put the spoon near the knife 
+put the spoon near the pencil 
+put the spoon near the paper sheet 
+put the book near the block 
+put the book near the ball 
+put the book near the plate 
+put the book near the cup 
+put the book near the disc 
+put the book near the spoon 
+put the book near the book 
+put the book near the blackboard 
+put the book near the bottle 
+put the book near the grape 
+put the book near the apple 
+put the book near the banana 
+put the book near the table 
+put the book near the bowl 
+put the book near the knife 
+put the book near the pencil 
+put the book near the paper sheet 
+put the blackboard near the block 
+put the blackboard near the ball 
+put the blackboard near the plate 
+put the blackboard near the cup 
+put the blackboard near the disc 
+put the blackboard near the spoon 
+put the blackboard near the book 
+put the blackboard near the blackboard 
+put the blackboard near the bottle 
+put the blackboard near the grape 
+put the blackboard near the apple 
+put the blackboard near the banana 
+put the blackboard near the table 
+put the blackboard near the bowl 
+put the blackboard near the knife 
+put the blackboard near the pencil 
+put the blackboard near the paper sheet 
+put the bottle near the block 
+put the bottle near the ball 
+put the bottle near the plate 
+put the bottle near the cup 
+put the bottle near the disc 
+put the bottle near the spoon 
+put the bottle near the book 
+put the bottle near the blackboard 
+put the bottle near the bottle 
+put the bottle near the grape 
+put the bottle near the apple 
+put the bottle near the banana 
+put the bottle near the table 
+put the bottle near the bowl 
+put the bottle near the knife 
+put the bottle near the pencil 
+put the bottle near the paper sheet 
+put the grape near the block 
+put the grape near the ball 
+put the grape near the plate 
+put the grape near the cup 
+put the grape near the disc 
+put the grape near the spoon 
+put the grape near the book 
+put the grape near the blackboard 
+put the grape near the bottle 
+put the grape near the grape 
+put the grape near the apple 
+put the grape near the banana 
+put the grape near the table 
+put the grape near the bowl 
+put the grape near the knife 
+put the grape near the pencil 
+put the grape near the paper sheet 
+put the apple near the block 
+put the apple near the ball 
+put the apple near the plate 
+put the apple near the cup 
+put the apple near the disc 
+put the apple near the spoon 
+put the apple near the book 
+put the apple near the blackboard 
+put the apple near the bottle 
+put the apple near the grape 
+put the apple near the apple 
+put the apple near the banana 
+put the apple near the table 
+put the apple near the bowl 
+put the apple near the knife 
+put the apple near the pencil 
+put the apple near the paper sheet 
+put the banana near the block 
+put the banana near the ball 
+put the banana near the plate 
+put the banana near the cup 
+put the banana near the disc 
+put the banana near the spoon 
+put the banana near the book 
+put the banana near the blackboard 
+put the banana near the bottle 
+put the banana near the grape 
+put the banana near the apple 
+put the banana near the banana 
+put the banana near the table 
+put the banana near the bowl 
+put the banana near the knife 
+put the banana near the pencil 
+put the banana near the paper sheet 
+put the table near the block 
+put the table near the ball 
+put the table near the plate 
+put the table near the cup 
+put the table near the disc 
+put the table near the spoon 
+put the table near the book 
+put the table near the blackboard 
+put the table near the bottle 
+put the table near the grape 
+put the table near the apple 
+put the table near the banana 
+put the table near the table 
+put the table near the bowl 
+put the table near the knife 
+put the table near the pencil 
+put the table near the paper sheet 
+put the bowl near the block 
+put the bowl near the ball 
+put the bowl near the plate 
+put the bowl near the cup 
+put the bowl near the disc 
+put the bowl near the spoon 
+put the bowl near the book 
+put the bowl near the blackboard 
+put the bowl near the bottle 
+put the bowl near the grape 
+put the bowl near the apple 
+put the bowl near the banana 
+put the bowl near the table 
+put the bowl near the bowl 
+put the bowl near the knife 
+put the bowl near the pencil 
+put the bowl near the paper sheet 
+put the knife near the block 
+put the knife near the ball 
+put the knife near the plate 
+put the knife near the cup 
+put the knife near the disc 
+put the knife near the spoon 
+put the knife near the book 
+put the knife near the blackboard 
+put the knife near the bottle 
+put the knife near the grape 
+put the knife near the apple 
+put the knife near the banana 
+put the knife near the table 
+put the knife near the bowl 
+put the knife near the knife 
+put the knife near the pencil 
+put the knife near the paper sheet 
+put the pencil near the block 
+put the pencil near the ball 
+put the pencil near the plate 
+put the pencil near the cup 
+put the pencil near the disc 
+put the pencil near the spoon 
+put the pencil near the book 
+put the pencil near the blackboard 
+put the pencil near the bottle 
+put the pencil near the grape 
+put the pencil near the apple 
+put the pencil near the banana 
+put the pencil near the table 
+put the pencil near the bowl 
+put the pencil near the knife 
+put the pencil near the pencil 
+put the pencil near the paper sheet 
+put the paper sheet near the block 
+put the paper sheet near the ball 
+put the paper sheet near the plate 
+put the paper sheet near the cup 
+put the paper sheet near the disc 
+put the paper sheet near the spoon 
+put the paper sheet near the book 
+put the paper sheet near the blackboard 
+put the paper sheet near the bottle 
+put the paper sheet near the grape 
+put the paper sheet near the apple 
+put the paper sheet near the banana 
+put the paper sheet near the table 
+put the paper sheet near the bowl 
+put the paper sheet near the knife 
+put the paper sheet near the pencil 
+put the paper sheet near the paper sheet 
+lean the block on the block 
+lean the block on the ball 
+lean the block on the plate 
+lean the block on the cup 
+lean the block on the disc 
+lean the block on the spoon 
+lean the block on the book 
+lean the block on the blackboard 
+lean the block on the bottle 
+lean the block on the grape 
+lean the block on the apple 
+lean the block on the banana 
+lean the block on the table 
+lean the block on the bowl 
+lean the block on the knife 
+lean the block on the pencil 
+lean the block on the paper sheet 
+lean the ball on the block 
+lean the ball on the ball 
+lean the ball on the plate 
+lean the ball on the cup 
+lean the ball on the disc 
+lean the ball on the spoon 
+lean the ball on the book 
+lean the ball on the blackboard 
+lean the ball on the bottle 
+lean the ball on the grape 
+lean the ball on the apple 
+lean the ball on the banana 
+lean the ball on the table 
+lean the ball on the bowl 
+lean the ball on the knife 
+lean the ball on the pencil 
+lean the plate on the block 
+lean the plate on the ball 
+lean the plate on the plate 
+lean the plate on the cup 
+lean the plate on the disc 
+lean the plate on the spoon 
+lean the plate on the book 
+lean the plate on the blackboard 
+lean the plate on the bottle 
+lean the plate on the grape 
+lean the plate on the apple 
+lean the plate on the banana 
+lean the plate on the table 
+lean the plate on the bowl 
+lean the plate on the knife 
+lean the plate on the pencil 
+lean the cup on the block 
+lean the cup on the ball 
+lean the cup on the plate 
+lean the cup on the cup 
+lean the cup on the disc 
+lean the cup on the spoon 
+lean the cup on the book 
+lean the cup on the blackboard 
+lean the cup on the bottle 
+lean the cup on the grape 
+lean the cup on the apple 
+lean the cup on the banana 
+lean the cup on the table 
+lean the cup on the bowl 
+lean the cup on the knife 
+lean the cup on the pencil 
+lean the disc on the block 
+lean the disc on the ball 
+lean the disc on the plate 
+lean the disc on the cup 
+lean the disc on the disc 
+lean the disc on the spoon 
+lean the disc on the book 
+lean the disc on the blackboard 
+lean the disc on the bottle 
+lean the disc on the grape 
+lean the disc on the apple 
+lean the disc on the banana 
+lean the disc on the table 
+lean the disc on the bowl 
+lean the disc on the knife 
+lean the disc on the pencil 
+lean the spoon on the block 
+lean the spoon on the ball 
+lean the spoon on the plate 
+lean the spoon on the cup 
+lean the spoon on the disc 
+lean the spoon on the spoon 
+lean the spoon on the book 
+lean the spoon on the blackboard 
+lean the spoon on the bottle 
+lean the spoon on the grape 
+lean the spoon on the apple 
+lean the spoon on the banana 
+lean the spoon on the table 
+lean the spoon on the bowl 
+lean the spoon on the knife 
+lean the spoon on the pencil 
+lean the book on the block 
+lean the book on the ball 
+lean the book on the plate 
+lean the book on the cup 
+lean the book on the disc 
+lean the book on the spoon 
+lean the book on the book 
+lean the book on the blackboard 
+lean the book on the bottle 
+lean the book on the grape 
+lean the book on the apple 
+lean the book on the banana 
+lean the book on the table 
+lean the book on the bowl 
+lean the book on the knife 
+lean the book on the pencil 
+lean the blackboard on the table 
+lean the bottle on the block 
+lean the bottle on the ball 
+lean the bottle on the plate 
+lean the bottle on the cup 
+lean the bottle on the disc 
+lean the bottle on the spoon 
+lean the bottle on the book 
+lean the bottle on the blackboard 
+lean the bottle on the bottle 
+lean the bottle on the grape 
+lean the bottle on the apple 
+lean the bottle on the banana 
+lean the bottle on the table 
+lean the bottle on the bowl 
+lean the bottle on the knife 
+lean the bottle on the pencil 
+lean the grape on the block 
+lean the grape on the ball 
+lean the grape on the plate 
+lean the grape on the cup 
+lean the grape on the disc 
+lean the grape on the spoon 
+lean the grape on the book 
+lean the grape on the blackboard 
+lean the grape on the bottle 
+lean the grape on the grape 
+lean the grape on the apple 
+lean the grape on the banana 
+lean the grape on the table 
+lean the grape on the bowl 
+lean the grape on the knife 
+lean the grape on the pencil 
+lean the apple on the block 
+lean the apple on the ball 
+lean the apple on the plate 
+lean the apple on the cup 
+lean the apple on the disc 
+lean the apple on the spoon 
+lean the apple on the book 
+lean the apple on the blackboard 
+lean the apple on the bottle 
+lean the apple on the grape 
+lean the apple on the apple 
+lean the apple on the banana 
+lean the apple on the table 
+lean the apple on the bowl 
+lean the apple on the knife 
+lean the apple on the pencil 
+lean the banana on the block 
+lean the banana on the ball 
+lean the banana on the plate 
+lean the banana on the cup 
+lean the banana on the disc 
+lean the banana on the spoon 
+lean the banana on the book 
+lean the banana on the blackboard 
+lean the banana on the bottle 
+lean the banana on the grape 
+lean the banana on the apple 
+lean the banana on the banana 
+lean the banana on the table 
+lean the banana on the bowl 
+lean the banana on the knife 
+lean the banana on the pencil 
+lean the table on the block 
+lean the table on the ball 
+lean the table on the plate 
+lean the table on the cup 
+lean the table on the disc 
+lean the table on the spoon 
+lean the table on the book 
+lean the table on the blackboard 
+lean the table on the bottle 
+lean the table on the banana 
+lean the table on the table 
+lean the table on the bowl 
+lean the table on the knife 
+lean the table on the pencil 
+lean the bowl on the block 
+lean the bowl on the ball 
+lean the bowl on the plate 
+lean the bowl on the cup 
+lean the bowl on the disc 
+lean the bowl on the spoon 
+lean the bowl on the book 
+lean the bowl on the blackboard 
+lean the bowl on the bottle 
+lean the bowl on the grape 
+lean the bowl on the apple 
+lean the bowl on the banana 
+lean the bowl on the table 
+lean the bowl on the bowl 
+lean the bowl on the knife 
+lean the bowl on the pencil 
+lean the knife on the block 
+lean the knife on the ball 
+lean the knife on the plate 
+lean the knife on the cup 
+lean the knife on the disc 
+lean the knife on the spoon 
+lean the knife on the book 
+lean the knife on the blackboard 
+lean the knife on the bottle 
+lean the knife on the grape 
+lean the knife on the apple 
+lean the knife on the banana 
+lean the knife on the table 
+lean the knife on the bowl 
+lean the knife on the knife 
+lean the knife on the pencil 
+lean the pencil on the block 
+lean the pencil on the ball 
+lean the pencil on the plate 
+lean the pencil on the cup 
+lean the pencil on the disc 
+lean the pencil on the spoon 
+lean the pencil on the book 
+lean the pencil on the blackboard 
+lean the pencil on the bottle 
+lean the pencil on the grape 
+lean the pencil on the apple 
+lean the pencil on the banana 
+lean the pencil on the table 
+lean the pencil on the bowl 
+lean the pencil on the knife 
+lean the pencil on the pencil 
+lean the paper sheet on the block 
+lean the paper sheet on the ball 
+lean the paper sheet on the plate 
+lean the paper sheet on the cup 
+lean the paper sheet on the disc 
+lean the paper sheet on the spoon 
+lean the paper sheet on the book 
+lean the paper sheet on the blackboard 
+lean the paper sheet on the bottle 
+lean the paper sheet on the grape 
+lean the paper sheet on the apple 
+lean the paper sheet on the banana 
+lean the paper sheet on the table 
+lean the paper sheet on the bowl 
+lean the paper sheet on the knife 
+lean the paper sheet on the pencil 
+lean the block against the block 
+lean the block against the ball 
+lean the block against the plate 
+lean the block against the cup 
+lean the block against the disc 
+lean the block against the spoon 
+lean the block against the book 
+lean the block against the blackboard 
+lean the block against the bottle 
+lean the block against the grape 
+lean the block against the apple 
+lean the block against the banana 
+lean the block against the table 
+lean the block against the bowl 
+lean the block against the knife 
+lean the block against the pencil 
+lean the plate against the block 
+lean the plate against the ball 
+lean the plate against the plate 
+lean the plate against the cup 
+lean the plate against the disc 
+lean the plate against the spoon 
+lean the plate against the book 
+lean the plate against the blackboard 
+lean the plate against the bottle 
+lean the plate against the grape 
+lean the plate against the apple 
+lean the plate against the banana 
+lean the plate against the table 
+lean the plate against the bowl 
+lean the plate against the knife 
+lean the plate against the pencil 
+lean the cup against the block 
+lean the cup against the ball 
+lean the cup against the plate 
+lean the cup against the cup 
+lean the cup against the disc 
+lean the cup against the spoon 
+lean the cup against the book 
+lean the cup against the blackboard 
+lean the cup against the bottle 
+lean the cup against the grape 
+lean the cup against the apple 
+lean the cup against the banana 
+lean the cup against the table 
+lean the cup against the bowl 
+lean the cup against the knife 
+lean the cup against the pencil 
+lean the disc against the block 
+lean the disc against the ball 
+lean the disc against the plate 
+lean the disc against the cup 
+lean the disc against the disc 
+lean the disc against the spoon 
+lean the disc against the book 
+lean the disc against the blackboard 
+lean the disc against the bottle 
+lean the disc against the grape 
+lean the disc against the apple 
+lean the disc against the banana 
+lean the disc against the table 
+lean the disc against the bowl 
+lean the disc against the knife 
+lean the disc against the pencil 
+lean the spoon against the block 
+lean the spoon against the ball 
+lean the spoon against the plate 
+lean the spoon against the cup 
+lean the spoon against the disc 
+lean the spoon against the spoon 
+lean the spoon against the book 
+lean the spoon against the blackboard 
+lean the spoon against the bottle 
+lean the spoon against the grape 
+lean the spoon against the apple 
+lean the spoon against the banana 
+lean the spoon against the table 
+lean the spoon against the bowl 
+lean the spoon against the knife 
+lean the spoon against the pencil 
+lean the book against the block 
+lean the book against the ball 
+lean the book against the plate 
+lean the book against the cup 
+lean the book against the disc 
+lean the book against the spoon 
+lean the book against the book 
+lean the book against the blackboard 
+lean the book against the bottle 
+lean the book against the grape 
+lean the book against the apple 
+lean the book against the banana 
+lean the book against the table 
+lean the book against the bowl 
+lean the book against the knife 
+lean the book against the pencil 
+lean the blackboard against the table 
+lean the bottle against the block 
+lean the bottle against the ball 
+lean the bottle against the plate 
+lean the bottle against the cup 
+lean the bottle against the disc 
+lean the bottle against the spoon 
+lean the bottle against the book 
+lean the bottle against the blackboard 
+lean the bottle against the bottle 
+lean the bottle against the grape 
+lean the bottle against the apple 
+lean the bottle against the banana 
+lean the bottle against the table 
+lean the bottle against the bowl 
+lean the bottle against the knife 
+lean the bottle against the pencil 
+lean the grape against the block 
+lean the grape against the ball 
+lean the grape against the plate 
+lean the grape against the cup 
+lean the grape against the disc 
+lean the grape against the spoon 
+lean the grape against the book 
+lean the grape against the blackboard 
+lean the grape against the bottle 
+lean the grape against the grape 
+lean the grape against the apple 
+lean the grape against the banana 
+lean the grape against the table 
+lean the grape against the bowl 
+lean the grape against the knife 
+lean the grape against the pencil 
+lean the apple against the block 
+lean the apple against the plate 
+lean the apple against the cup 
+lean the apple against the disc 
+lean the apple against the spoon 
+lean the apple against the book 
+lean the apple against the blackboard 
+lean the apple against the bottle 
+lean the apple against the banana 
+lean the apple against the table 
+lean the apple against the bowl 
+lean the apple against the knife 
+lean the apple against the pencil 
+lean the banana against the block 
+lean the banana against the ball 
+lean the banana against the plate 
+lean the banana against the cup 
+lean the banana against the disc 
+lean the banana against the spoon 
+lean the banana against the book 
+lean the banana against the blackboard 
+lean the banana against the bottle 
+lean the banana against the grape 
+lean the banana against the apple 
+lean the banana against the banana 
+lean the banana against the table 
+lean the banana against the bowl 
+lean the banana against the knife 
+lean the banana against the pencil 
+lean the table against the block 
+lean the table against the plate 
+lean the table against the cup 
+lean the table against the disc 
+lean the table against the spoon 
+lean the table against the book 
+lean the table against the blackboard 
+lean the table against the bottle 
+lean the table against the grape 
+lean the table against the apple 
+lean the table against the banana 
+lean the table against the table 
+lean the table against the bowl 
+lean the table against the knife 
+lean the table against the pencil 
+lean the bowl against the block 
+lean the bowl against the ball 
+lean the bowl against the plate 
+lean the bowl against the cup 
+lean the bowl against the disc 
+lean the bowl against the spoon 
+lean the bowl against the book 
+lean the bowl against the blackboard 
+lean the bowl against the bottle 
+lean the bowl against the grape 
+lean the bowl against the apple 
+lean the bowl against the banana 
+lean the bowl against the table 
+lean the bowl against the bowl 
+lean the bowl against the knife 
+lean the bowl against the pencil 
+lean the knife against the block 
+lean the knife against the ball 
+lean the knife against the plate 
+lean the knife against the cup 
+lean the knife against the disc 
+lean the knife against the spoon 
+lean the knife against the book 
+lean the knife against the blackboard 
+lean the knife against the bottle 
+lean the knife against the grape 
+lean the knife against the apple 
+lean the knife against the banana 
+lean the knife against the table 
+lean the knife against the bowl 
+lean the knife against the knife 
+lean the knife against the pencil 
+lean the pencil against the block 
+lean the pencil against the ball 
+lean the pencil against the plate 
+lean the pencil against the cup 
+lean the pencil against the disc 
+lean the pencil against the spoon 
+lean the pencil against the book 
+lean the pencil against the blackboard 
+lean the pencil against the bottle 
+lean the pencil against the grape 
+lean the pencil against the apple 
+lean the pencil against the banana 
+lean the pencil against the table 
+lean the pencil against the bowl 
+lean the pencil against the knife 
+lean the pencil against the pencil 
+lean the paper sheet against the block 
+lean the paper sheet against the ball 
+lean the paper sheet against the plate 
+lean the paper sheet against the cup 
+lean the paper sheet against the disc 
+lean the paper sheet against the spoon 
+lean the paper sheet against the book 
+lean the paper sheet against the blackboard 
+lean the paper sheet against the bottle 
+lean the paper sheet against the grape 
+lean the paper sheet against the apple 
+lean the paper sheet against the banana 
+lean the paper sheet against the table 
+lean the paper sheet against the bowl 
+lean the paper sheet against the knife 
+lean the paper sheet against the pencil 
+flip the block on edge 
+flip the book on edge 
+flip the blackboard on edge 
+flip the table on edge 
+flip the plate at center 
+flip the cup at center 
+flip the disc at center 
+flip the spoon at center 
+flip the book at center 
+flip the bottle at center 
+flip the grape at center 
+flip the apple at center 
+flip the banana at center 
+flip the bowl at center 
+flip the knife at center 
+flip the pencil at center 
+flip the paper sheet at center 
+close the cup 
+close the book 
+close the bottle 
+open the cup 
+open the book 
+open the bottle 
+open the banana 
+stack the block and the grape 
+stack the block and the ball 
+stack the block and the apple 
+stack the block and the plate 
+stack the block and the banana 
+stack the block and the cup 
+stack the block and the table 
+stack the block and the disc 
+stack the block and the bowl 
+stack the block and the spoon 
+stack the block and the knife 
+stack the block and the book 
+stack the block and the pencil 
+stack the block and the paper sheet 
+stack the block and the bottle 
+stack the grape and the block 
+stack the grape and the ball 
+stack the grape and the apple 
+stack the grape and the plate 
+stack the grape and the banana 
+stack the grape and the cup 
+stack the grape and the table 
+stack the grape and the disc 
+stack the grape and the bowl 
+stack the grape and the spoon 
+stack the grape and the knife 
+stack the grape and the book 
+stack the grape and the pencil 
+stack the grape and the blackboard 
+stack the grape and the paper sheet 
+stack the grape and the bottle 
+stack the ball and the block 
+stack the ball and the grape 
+stack the ball and the apple 
+stack the ball and the plate 
+stack the ball and the banana 
+stack the ball and the cup 
+stack the ball and the table 
+stack the ball and the disc 
+stack the ball and the bowl 
+stack the ball and the spoon 
+stack the ball and the knife 
+stack the ball and the book 
+stack the ball and the pencil 
+stack the ball and the blackboard 
+stack the ball and the paper sheet 
+stack the ball and the bottle 
+stack the apple and the block 
+stack the apple and the grape 
+stack the apple and the ball 
+stack the apple and the plate 
+stack the apple and the banana 
+stack the apple and the cup 
+stack the apple and the table 
+stack the apple and the disc 
+stack the apple and the bowl 
+stack the apple and the spoon 
+stack the apple and the knife 
+stack the apple and the book 
+stack the apple and the pencil 
+stack the apple and the paper sheet 
+stack the apple and the bottle 
+stack the plate and the block 
+stack the plate and the grape 
+stack the plate and the ball 
+stack the plate and the apple 
+stack the plate and the banana 
+stack the plate and the cup 
+stack the plate and the table 
+stack the plate and the disc 
+stack the plate and the bowl 
+stack the plate and the spoon 
+stack the plate and the knife 
+stack the plate and the book 
+stack the plate and the pencil 
+stack the plate and the paper sheet 
+stack the plate and the bottle 
+stack the banana and the block 
+stack the banana and the grape 
+stack the banana and the ball 
+stack the banana and the apple 
+stack the banana and the plate 
+stack the banana and the cup 
+stack the banana and the table 
+stack the banana and the disc 
+stack the banana and the bowl 
+stack the banana and the spoon 
+stack the banana and the knife 
+stack the banana and the book 
+stack the banana and the pencil 
+stack the banana and the paper sheet 
+stack the banana and the bottle 
+stack the cup and the block 
+stack the cup and the grape 
+stack the cup and the ball 
+stack the cup and the apple 
+stack the cup and the plate 
+stack the cup and the banana 
+stack the cup and the table 
+stack the cup and the disc 
+stack the cup and the bowl 
+stack the cup and the spoon 
+stack the cup and the knife 
+stack the cup and the book 
+stack the cup and the pencil 
+stack the cup and the paper sheet 
+stack the cup and the bottle 
+stack the table and the block 
+stack the table and the ball 
+stack the table and the apple 
+stack the table and the plate 
+stack the table and the banana 
+stack the table and the cup 
+stack the table and the disc 
+stack the table and the bowl 
+stack the table and the knife 
+stack the table and the book 
+stack the table and the pencil 
+stack the table and the blackboard 
+stack the table and the paper sheet 
+stack the table and the bottle 
+stack the disc and the block 
+stack the disc and the grape 
+stack the disc and the ball 
+stack the disc and the apple 
+stack the disc and the plate 
+stack the disc and the banana 
+stack the disc and the cup 
+stack the disc and the table 
+stack the disc and the bowl 
+stack the disc and the spoon 
+stack the disc and the knife 
+stack the disc and the book 
+stack the disc and the pencil 
+stack the disc and the paper sheet 
+stack the disc and the bottle 
+stack the bowl and the block 
+stack the bowl and the grape 
+stack the bowl and the ball 
+stack the bowl and the apple 
+stack the bowl and the plate 
+stack the bowl and the banana 
+stack the bowl and the cup 
+stack the bowl and the table 
+stack the bowl and the disc 
+stack the bowl and the spoon 
+stack the bowl and the knife 
+stack the bowl and the book 
+stack the bowl and the pencil 
+stack the bowl and the paper sheet 
+stack the bowl and the bottle 
+stack the spoon and the block 
+stack the spoon and the grape 
+stack the spoon and the ball 
+stack the spoon and the apple 
+stack the spoon and the plate 
+stack the spoon and the banana 
+stack the spoon and the cup 
+stack the spoon and the table 
+stack the spoon and the disc 
+stack the spoon and the bowl 
+stack the spoon and the knife 
+stack the spoon and the book 
+stack the spoon and the pencil 
+stack the spoon and the paper sheet 
+stack the spoon and the bottle 
+stack the knife and the block 
+stack the knife and the grape 
+stack the knife and the ball 
+stack the knife and the apple 
+stack the knife and the plate 
+stack the knife and the banana 
+stack the knife and the cup 
+stack the knife and the table 
+stack the knife and the disc 
+stack the knife and the bowl 
+stack the knife and the spoon 
+stack the knife and the book 
+stack the knife and the pencil 
+stack the knife and the paper sheet 
+stack the knife and the bottle 
+stack the book and the block 
+stack the book and the grape 
+stack the book and the ball 
+stack the book and the apple 
+stack the book and the plate 
+stack the book and the banana 
+stack the book and the cup 
+stack the book and the table 
+stack the book and the disc 
+stack the book and the bowl 
+stack the book and the spoon 
+stack the book and the knife 
+stack the book and the pencil 
+stack the book and the paper sheet 
+stack the book and the bottle 
+stack the pencil and the block 
+stack the pencil and the grape 
+stack the pencil and the ball 
+stack the pencil and the apple 
+stack the pencil and the plate 
+stack the pencil and the banana 
+stack the pencil and the cup 
+stack the pencil and the table 
+stack the pencil and the disc 
+stack the pencil and the bowl 
+stack the pencil and the spoon 
+stack the pencil and the knife 
+stack the pencil and the book 
+stack the pencil and the paper sheet 
+stack the pencil and the bottle 
+stack the blackboard and the block 
+stack the blackboard and the table 
+stack the paper sheet and the block 
+stack the paper sheet and the grape 
+stack the paper sheet and the ball 
+stack the paper sheet and the apple 
+stack the paper sheet and the plate 
+stack the paper sheet and the banana 
+stack the paper sheet and the cup 
+stack the paper sheet and the table 
+stack the paper sheet and the disc 
+stack the paper sheet and the bowl 
+stack the paper sheet and the spoon 
+stack the paper sheet and the knife 
+stack the paper sheet and the book 
+stack the paper sheet and the pencil 
+stack the paper sheet and the bottle 
+stack the bottle and the block 
+stack the bottle and the grape 
+stack the bottle and the ball 
+stack the bottle and the apple 
+stack the bottle and the plate 
+stack the bottle and the banana 
+stack the bottle and the cup 
+stack the bottle and the table 
+stack the bottle and the disc 
+stack the bottle and the bowl 
+stack the bottle and the spoon 
+stack the bottle and the knife 
+stack the bottle and the book 
+stack the bottle and the pencil 
+stack the bottle and the paper sheet 

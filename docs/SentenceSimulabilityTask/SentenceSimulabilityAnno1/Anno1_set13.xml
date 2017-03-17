@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SentenceSimulabilityTask>
+<TEXT><![CDATA[stack the block and the grape
+stack the block and the ball
+stack the block and the apple
+stack the block and the plate
+stack the block and the banana
+stack the block and the cup
+stack the block and the table
+stack the block and the disc
+stack the block and the bowl
+stack the block and the spoon
+stack the block and the knife
+stack the block and the book
+stack the block and the pencil
+stack the block and the blackboard
+stack the block and the paper sheet
+stack the block and the bottle
+stack the grape and the block
+stack the grape and the ball
+stack the grape and the apple
+stack the grape and the plate
+stack the grape and the banana
+stack the grape and the cup
+stack the grape and the table
+stack the grape and the disc
+stack the grape and the bowl
+stack the grape and the spoon
+stack the grape and the knife
+stack the grape and the book
+stack the grape and the pencil
+stack the grape and the blackboard
+stack the grape and the paper sheet
+stack the grape and the bottle
+stack the ball and the block
+stack the ball and the grape
+stack the ball and the apple
+stack the ball and the plate
+stack the ball and the banana
+stack the ball and the cup
+stack the ball and the table
+stack the ball and the disc
+stack the ball and the bowl
+stack the ball and the spoon
+stack the ball and the knife
+stack the ball and the book
+stack the ball and the pencil
+stack the ball and the blackboard
+stack the ball and the paper sheet
+stack the ball and the bottle
+stack the apple and the block
+stack the apple and the grape
+stack the apple and the ball
+stack the apple and the plate
+stack the apple and the banana
+stack the apple and the cup
+stack the apple and the table
+stack the apple and the disc
+stack the apple and the bowl
+stack the apple and the spoon
+stack the apple and the knife
+stack the apple and the book
+stack the apple and the pencil
+stack the apple and the blackboard
+stack the apple and the paper sheet
+stack the apple and the bottle
+stack the plate and the block
+stack the plate and the grape
+stack the plate and the ball
+stack the plate and the apple
+stack the plate and the banana
+stack the plate and the cup
+stack the plate and the table
+stack the plate and the disc
+stack the plate and the bowl
+stack the plate and the spoon
+stack the plate and the knife
+stack the plate and the book
+stack the plate and the pencil
+stack the plate and the blackboard
+stack the plate and the paper sheet
+stack the plate and the bottle
+stack the banana and the block
+stack the banana and the grape
+stack the banana and the ball
+stack the banana and the apple
+stack the banana and the plate
+stack the banana and the cup
+stack the banana and the table
+stack the banana and the disc
+stack the banana and the bowl
+stack the banana and the spoon
+stack the banana and the knife
+stack the banana and the book
+stack the banana and the pencil
+stack the banana and the blackboard
+stack the banana and the paper sheet
+stack the banana and the bottle
+stack the cup and the block
+stack the cup and the grape
+stack the cup and the ball
+stack the cup and the apple
+stack the cup and the plate
+stack the cup and the banana
+stack the cup and the table
+stack the cup and the disc
+stack the cup and the bowl
+stack the cup and the spoon
+stack the cup and the knife
+stack the cup and the book
+stack the cup and the pencil
+stack the cup and the blackboard
+stack the cup and the paper sheet
+stack the cup and the bottle
+stack the table and the block
+stack the table and the grape
+stack the table and the ball
+stack the table and the apple
+stack the table and the plate
+stack the table and the banana
+stack the table and the cup
+stack the table and the disc
+stack the table and the bowl
+stack the table and the spoon
+stack the table and the knife
+stack the table and the book
+stack the table and the pencil
+stack the table and the blackboard
+stack the table and the paper sheet
+stack the table and the bottle
+stack the disc and the block
+stack the disc and the grape
+stack the disc and the ball
+stack the disc and the apple
+stack the disc and the plate
+stack the disc and the banana
+stack the disc and the cup
+stack the disc and the table
+stack the disc and the bowl
+stack the disc and the spoon
+stack the disc and the knife
+stack the disc and the book
+stack the disc and the pencil
+stack the disc and the blackboard
+stack the disc and the paper sheet
+stack the disc and the bottle
+stack the bowl and the block
+stack the bowl and the grape
+stack the bowl and the ball
+stack the bowl and the apple
+stack the bowl and the plate
+stack the bowl and the banana
+stack the bowl and the cup
+stack the bowl and the table
+stack the bowl and the disc
+stack the bowl and the spoon
+stack the bowl and the knife
+stack the bowl and the book
+stack the bowl and the pencil
+stack the bowl and the blackboard
+stack the bowl and the paper sheet
+stack the bowl and the bottle
+stack the spoon and the block
+stack the spoon and the grape
+stack the spoon and the ball
+stack the spoon and the apple
+stack the spoon and the plate
+stack the spoon and the banana
+stack the spoon and the cup
+stack the spoon and the table
+stack the spoon and the disc
+stack the spoon and the bowl
+stack the spoon and the knife
+stack the spoon and the book
+stack the spoon and the pencil
+stack the spoon and the blackboard
+stack the spoon and the paper sheet
+stack the spoon and the bottle
+stack the knife and the block
+stack the knife and the grape
+stack the knife and the ball
+stack the knife and the apple
+stack the knife and the plate
+stack the knife and the banana
+stack the knife and the cup
+stack the knife and the table
+stack the knife and the disc
+stack the knife and the bowl
+stack the knife and the spoon
+stack the knife and the book
+stack the knife and the pencil
+stack the knife and the blackboard
+stack the knife and the paper sheet
+stack the knife and the bottle
+stack the book and the block
+stack the book and the grape
+stack the book and the ball
+stack the book and the apple
+stack the book and the plate
+stack the book and the banana
+stack the book and the cup
+stack the book and the table
+stack the book and the disc
+stack the book and the bowl
+stack the book and the spoon
+stack the book and the knife
+stack the book and the pencil
+stack the book and the blackboard
+stack the book and the paper sheet
+stack the book and the bottle
+stack the pencil and the block
+stack the pencil and the grape
+stack the pencil and the ball
+stack the pencil and the apple
+stack the pencil and the plate
+stack the pencil and the banana
+stack the pencil and the cup
+stack the pencil and the table
+stack the pencil and the disc
+stack the pencil and the bowl
+stack the pencil and the spoon
+stack the pencil and the knife
+stack the pencil and the book
+stack the pencil and the blackboard
+stack the pencil and the paper sheet
+stack the pencil and the bottle
+stack the blackboard and the block
+stack the blackboard and the grape
+stack the blackboard and the ball
+stack the blackboard and the apple
+stack the blackboard and the plate
+stack the blackboard and the banana
+stack the blackboard and the cup
+stack the blackboard and the table
+stack the blackboard and the disc
+stack the blackboard and the bowl
+stack the blackboard and the spoon
+stack the blackboard and the knife
+stack the blackboard and the book
+stack the blackboard and the pencil
+stack the blackboard and the paper sheet
+stack the blackboard and the bottle
+stack the paper sheet and the block
+stack the paper sheet and the grape
+stack the paper sheet and the ball
+stack the paper sheet and the apple
+stack the paper sheet and the plate
+stack the paper sheet and the banana
+stack the paper sheet and the cup
+stack the paper sheet and the table
+stack the paper sheet and the disc
+stack the paper sheet and the bowl
+stack the paper sheet and the spoon
+stack the paper sheet and the knife
+stack the paper sheet and the book
+stack the paper sheet and the pencil
+stack the paper sheet and the blackboard
+stack the paper sheet and the bottle
+stack the bottle and the block
+stack the bottle and the grape
+stack the bottle and the ball
+stack the bottle and the apple
+stack the bottle and the plate
+stack the bottle and the banana
+stack the bottle and the cup
+stack the bottle and the table
+stack the bottle and the disc
+stack the bottle and the bowl
+stack the bottle and the spoon
+stack the bottle and the knife
+stack the bottle and the book
+stack the bottle and the pencil
+stack the bottle and the blackboard
+stack the bottle and the paper sheet
+]]></TEXT>
+<TAGS>
+<SENTENCE id="S0" spans="0~29" text="stack the block and the grape" judgement="nonsense" />
+<SENTENCE id="S1" spans="30~58" text="stack the block and the ball" judgement="awkward" />
+<SENTENCE id="S2" spans="59~88" text="stack the block and the apple" judgement="awkward" />
+<SENTENCE id="S3" spans="89~118" text="stack the block and the plate" judgement="fine" />
+<SENTENCE id="S4" spans="119~149" text="stack the block and the banana" judgement="nonsense" />
+<SENTENCE id="S5" spans="150~177" text="stack the block and the cup" judgement="fine" />
+<SENTENCE id="S6" spans="178~207" text="stack the block and the table" judgement="fine" />
+<SENTENCE id="S7" spans="208~236" text="stack the block and the disc" judgement="nonsense" />
+<SENTENCE id="S8" spans="237~265" text="stack the block and the bowl" judgement="fine" />
+<SENTENCE id="S9" spans="266~295" text="stack the block and the spoon" judgement="fine" />
+<SENTENCE id="S10" spans="296~325" text="stack the block and the knife" judgement="ungrammatical" />
+<SENTENCE id="S11" spans="326~354" text="stack the block and the book" judgement="fine" />
+<SENTENCE id="S12" spans="355~385" text="stack the block and the pencil" judgement="fine" />
+<SENTENCE id="S13" spans="386~420" text="stack the block and the blackboard" judgement="nonsense" />
+<SENTENCE id="S14" spans="421~456" text="stack the block and the paper sheet" judgement="nonsense" />
+<SENTENCE id="S15" spans="457~487" text="stack the block and the bottle" judgement="fine" />
+<SENTENCE id="S16" spans="488~517" text="stack the grape and the block" judgement="nonsense" />
+<SENTENCE id="S17" spans="518~546" text="stack the grape and the ball" judgement="awkward" />
+<SENTENCE id="S18" spans="547~576" text="stack the grape and the apple" judgement="nonsense" />
+<SENTENCE id="S19" spans="577~606" text="stack the grape and the plate" judgement="nonsense" />
+<SENTENCE id="S20" spans="607~637" text="stack the grape and the banana" judgement="nonsense" />
+<SENTENCE id="S21" spans="638~665" text="stack the grape and the cup" judgement="nonsense" />
+<SENTENCE id="S22" spans="666~695" text="stack the grape and the table" judgement="nonsense" />
+<SENTENCE id="S23" spans="696~724" text="stack the grape and the disc" judgement="nonsense" />
+<SENTENCE id="S24" spans="725~753" text="stack the grape and the bowl" judgement="nonsense" />
+<SENTENCE id="S25" spans="754~783" text="stack the grape and the spoon" judgement="nonsense" />
+<SENTENCE id="S26" spans="784~813" text="stack the grape and the knife" judgement="nonsense" />
+<SENTENCE id="S27" spans="814~842" text="stack the grape and the book" judgement="nonsense" />
+<SENTENCE id="S28" spans="843~873" text="stack the grape and the pencil" judgement="nonsense" />
+<SENTENCE id="S29" spans="874~908" text="stack the grape and the blackboard" judgement="nonsense" />
+<SENTENCE id="S30" spans="909~944" text="stack the grape and the paper sheet" judgement="nonsense" />
+<SENTENCE id="S31" spans="945~975" text="stack the grape and the bottle" judgement="nonsense" />
+<SENTENCE id="S32" spans="976~1004" text="stack the ball and the block" judgement="awkward" />
+<SENTENCE id="S33" spans="1005~1033" text="stack the ball and the grape" judgement="awkward" />
+<SENTENCE id="S34" spans="1034~1062" text="stack the ball and the apple" judgement="awkward" />
+<SENTENCE id="S35" spans="1063~1091" text="stack the ball and the plate" judgement="awkward" />
+<SENTENCE id="S36" spans="1092~1121" text="stack the ball and the banana" judgement="awkward" />
+<SENTENCE id="S37" spans="1122~1148" text="stack the ball and the cup" judgement="awkward" />
+<SENTENCE id="S38" spans="1149~1177" text="stack the ball and the table" judgement="awkward" />
+<SENTENCE id="S39" spans="1178~1205" text="stack the ball and the disc" judgement="awkward" />
+<SENTENCE id="S40" spans="1206~1233" text="stack the ball and the bowl" judgement="awkward" />
+<SENTENCE id="S41" spans="1234~1262" text="stack the ball and the spoon" judgement="awkward" />
+<SENTENCE id="S42" spans="1263~1291" text="stack the ball and the knife" judgement="awkward" />
+<SENTENCE id="S43" spans="1292~1319" text="stack the ball and the book" judgement="awkward" />
+<SENTENCE id="S44" spans="1320~1349" text="stack the ball and the pencil" judgement="awkward" />
+<SENTENCE id="S45" spans="1350~1383" text="stack the ball and the blackboard" judgement="awkward" />
+<SENTENCE id="S46" spans="1384~1418" text="stack the ball and the paper sheet" judgement="nonsense" />
+<SENTENCE id="S47" spans="1419~1448" text="stack the ball and the bottle" judgement="fine" />
+<SENTENCE id="S48" spans="1449~1478" text="stack the apple and the block" judgement="fine" />
+<SENTENCE id="S49" spans="1479~1508" text="stack the apple and the grape" judgement="awkward" />
+<SENTENCE id="S50" spans="1509~1537" text="stack the apple and the ball" judgement="awkward" />
+<SENTENCE id="S51" spans="1538~1567" text="stack the apple and the plate" judgement="nonsense" />
+<SENTENCE id="S52" spans="1568~1598" text="stack the apple and the banana" judgement="awkward" />
+<SENTENCE id="S53" spans="1599~1626" text="stack the apple and the cup" judgement="awkward" />
+<SENTENCE id="S54" spans="1627~1656" text="stack the apple and the table" judgement="nonsense" />
+<SENTENCE id="S55" spans="1657~1685" text="stack the apple and the disc" judgement="awkward" />
+<SENTENCE id="S56" spans="1686~1714" text="stack the apple and the bowl" judgement="nonsense" />
+<SENTENCE id="S57" spans="1715~1744" text="stack the apple and the spoon" judgement="awkward" />
+<SENTENCE id="S58" spans="1745~1774" text="stack the apple and the knife" judgement="awkward" />
+<SENTENCE id="S59" spans="1775~1803" text="stack the apple and the book" judgement="fine" />
+<SENTENCE id="S60" spans="1804~1834" text="stack the apple and the pencil" judgement="nonsense" />
+<SENTENCE id="S61" spans="1835~1869" text="stack the apple and the blackboard" judgement="nonsense" />
+<SENTENCE id="S62" spans="1870~1905" text="stack the apple and the paper sheet" judgement="nonsense" />
+<SENTENCE id="S63" spans="1906~1936" text="stack the apple and the bottle" judgement="fine" />
+<SENTENCE id="S64" spans="1937~1966" text="stack the plate and the block" judgement="fine" />
+<SENTENCE id="S65" spans="1967~1996" text="stack the plate and the grape" judgement="awkward" />
+<SENTENCE id="S66" spans="1997~2025" text="stack the plate and the ball" judgement="awkward" />
+<SENTENCE id="S67" spans="2026~2055" text="stack the plate and the apple" judgement="awkward" />
+<SENTENCE id="S68" spans="2056~2086" text="stack the plate and the banana" judgement="nonsense" />
+<SENTENCE id="S69" spans="2087~2114" text="stack the plate and the cup" judgement="fine" />
+<SENTENCE id="S70" spans="2115~2144" text="stack the plate and the table" judgement="nonsense" />
+<SENTENCE id="S71" spans="2145~2173" text="stack the plate and the disc" judgement="ungrammatical" />
+<SENTENCE id="S72" spans="2174~2202" text="stack the plate and the bowl" judgement="fine" />
+<SENTENCE id="S73" spans="2203~2232" text="stack the plate and the spoon" judgement="nonsense" />
+<SENTENCE id="S74" spans="2233~2262" text="stack the plate and the knife" judgement="nonsense" />
+<SENTENCE id="S75" spans="2263~2291" text="stack the plate and the book" judgement="fine" />
+<SENTENCE id="S76" spans="2292~2322" text="stack the plate and the pencil" judgement="nonsense" />
+<SENTENCE id="S77" spans="2323~2357" text="stack the plate and the blackboard" judgement="nonsense" />
+<SENTENCE id="S78" spans="2358~2393" text="stack the plate and the paper sheet" judgement="nonsense" />
+<SENTENCE id="S79" spans="2394~2424" text="stack the plate and the bottle" judgement="fine" />
+<SENTENCE id="S80" spans="2425~2455" text="stack the banana and the block" judgement="nonsense" />
+<SENTENCE id="S81" spans="2456~2486" text="stack the banana and the grape" judgement="nonsense" />
+<SENTENCE id="S82" spans="2487~2516" text="stack the banana and the ball" judgement="awkward" />
+<SENTENCE id="S83" spans="2517~2547" text="stack the banana and the apple" judgement="nonsense" />
+<SENTENCE id="S84" spans="2548~2578" text="stack the banana and the plate" judgement="nonsense" />
+<SENTENCE id="S85" spans="2579~2607" text="stack the banana and the cup" judgement="nonsense" />
+<SENTENCE id="S86" spans="2608~2638" text="stack the banana and the table" judgement="nonsense" />
+<SENTENCE id="S87" spans="2639~2668" text="stack the banana and the disc" judgement="nonsense" />
+<SENTENCE id="S88" spans="2669~2698" text="stack the banana and the bowl" judgement="nonsense" />
+<SENTENCE id="S89" spans="2699~2729" text="stack the banana and the spoon" judgement="nonsense" />
+<SENTENCE id="S90" spans="2730~2760" text="stack the banana and the knife" judgement="nonsense" />
+<SENTENCE id="S91" spans="2761~2790" text="stack the banana and the book" judgement="fine" />
+<SENTENCE id="S92" spans="2791~2822" text="stack the banana and the pencil" judgement="nonsense" />
+<SENTENCE id="S93" spans="2823~2858" text="stack the banana and the blackboard" judgement="nonsense" />
+<SENTENCE id="S94" spans="2859~2895" text="stack the banana and the paper sheet" judgement="nonsense" />
+<SENTENCE id="S95" spans="2896~2927" text="stack the banana and the bottle" judgement="nonsense" />
+<SENTENCE id="S96" spans="2928~2955" text="stack the cup and the block" judgement="fine" />
+<SENTENCE id="S97" spans="2956~2983" text="stack the cup and the grape" judgement="awkward" />
+<SENTENCE id="S98" spans="2984~3010" text="stack the cup and the ball" judgement="awkward" />
+<SENTENCE id="S99" spans="3011~3038" text="stack the cup and the apple" judgement="awkward" />
+<SENTENCE id="S100" spans="3039~3066" text="stack the cup and the plate" judgement="fine" />
+<SENTENCE id="S101" spans="3067~3095" text="stack the cup and the banana" judgement="nonsense" />
+<SENTENCE id="S102" spans="3096~3123" text="stack the cup and the table" judgement="nonsense" />
+<SENTENCE id="S103" spans="3124~3150" text="stack the cup and the disc" judgement="nonsense" />
+<SENTENCE id="S104" spans="3151~3177" text="stack the cup and the bowl" judgement="fine" />
+<SENTENCE id="S105" spans="3178~3205" text="stack the cup and the spoon" judgement="nonsense" />
+<SENTENCE id="S106" spans="3206~3233" text="stack the cup and the knife" judgement="nonsense" />
+<SENTENCE id="S107" spans="3234~3260" text="stack the cup and the book" judgement="fine" />
+<SENTENCE id="S108" spans="3261~3289" text="stack the cup and the pencil" judgement="nonsense" />
+<SENTENCE id="S109" spans="3290~3322" text="stack the cup and the blackboard" judgement="nonsense" />
+<SENTENCE id="S110" spans="3323~3356" text="stack the cup and the paper sheet" judgement="nonsense" />
+<SENTENCE id="S111" spans="3357~3385" text="stack the cup and the bottle" judgement="fine" />
+<SENTENCE id="S112" spans="3386~3415" text="stack the table and the block" judgement="fine" />
+<SENTENCE id="S113" spans="3416~3445" text="stack the table and the grape" judgement="nonsense" />
+<SENTENCE id="S114" spans="3446~3474" text="stack the table and the ball" judgement="nonsense" />
+<SENTENCE id="S115" spans="3475~3504" text="stack the table and the apple" judgement="nonsense" />
+<SENTENCE id="S116" spans="3505~3534" text="stack the table and the plate" judgement="nonsense" />
+<SENTENCE id="S117" spans="3535~3565" text="stack the table and the banana" judgement="nonsense" />
+<SENTENCE id="S118" spans="3566~3593" text="stack the table and the cup" judgement="nonsense" />
+<SENTENCE id="S119" spans="3594~3622" text="stack the table and the disc" judgement="nonsense" />
+<SENTENCE id="S120" spans="3623~3651" text="stack the table and the bowl" judgement="nonsense" />
+<SENTENCE id="S121" spans="3652~3681" text="stack the table and the spoon" judgement="nonsense" />
+<SENTENCE id="S122" spans="3682~3711" text="stack the table and the knife" judgement="nonsense" />
+<SENTENCE id="S123" spans="3712~3740" text="stack the table and the book" judgement="nonsense" />
+<SENTENCE id="S124" spans="3741~3771" text="stack the table and the pencil" judgement="nonsense" />
+<SENTENCE id="S125" spans="3772~3806" text="stack the table and the blackboard" judgement="fine" />
+<SENTENCE id="S126" spans="3807~3842" text="stack the table and the paper sheet" judgement="nonsense" />
+<SENTENCE id="S127" spans="3843~3873" text="stack the table and the bottle" judgement="nonsense" />
+<SENTENCE id="S128" spans="3874~3902" text="stack the disc and the block" judgement="nonsense" />
+<SENTENCE id="S129" spans="3903~3931" text="stack the disc and the grape" judgement="nonsense" />
+<SENTENCE id="S130" spans="3932~3959" text="stack the disc and the ball" judgement="awkward" />
+<SENTENCE id="S131" spans="3960~3988" text="stack the disc and the apple" judgement="nonsense" />
+<SENTENCE id="S132" spans="3989~4017" text="stack the disc and the plate" judgement="nonsense" />
+<SENTENCE id="S133" spans="4018~4047" text="stack the disc and the banana" judgement="nonsense" />
+<SENTENCE id="S134" spans="4048~4074" text="stack the disc and the cup" judgement="nonsense" />
+<SENTENCE id="S135" spans="4075~4103" text="stack the disc and the table" judgement="nonsense" />
+<SENTENCE id="S136" spans="4104~4131" text="stack the disc and the bowl" judgement="nonsense" />
+<SENTENCE id="S137" spans="4132~4160" text="stack the disc and the spoon" judgement="nonsense" />
+<SENTENCE id="S138" spans="4161~4189" text="stack the disc and the knife" judgement="nonsense" />
+<SENTENCE id="S139" spans="4190~4217" text="stack the disc and the book" judgement="nonsense" />
+<SENTENCE id="S140" spans="4218~4247" text="stack the disc and the pencil" judgement="nonsense" />
+<SENTENCE id="S141" spans="4248~4281" text="stack the disc and the blackboard" judgement="nonsense" />
+<SENTENCE id="S142" spans="4282~4316" text="stack the disc and the paper sheet" judgement="nonsense" />
+<SENTENCE id="S143" spans="4317~4346" text="stack the disc and the bottle" judgement="nonsense" />
+<SENTENCE id="S144" spans="4347~4375" text="stack the bowl and the block" judgement="fine" />
+<SENTENCE id="S145" spans="4376~4404" text="stack the bowl and the grape" judgement="nonsense" />
+<SENTENCE id="S146" spans="4405~4432" text="stack the bowl and the ball" judgement="awkward" />
+<SENTENCE id="S147" spans="4433~4461" text="stack the bowl and the apple" judgement="awkward" />
+<SENTENCE id="S148" spans="4462~4490" text="stack the bowl and the plate" judgement="fine" />
+<SENTENCE id="S149" spans="4491~4520" text="stack the bowl and the banana" judgement="nonsense" />
+<SENTENCE id="S150" spans="4521~4547" text="stack the bowl and the cup" judgement="fine" />
+<SENTENCE id="S151" spans="4548~4576" text="stack the bowl and the table" judgement="nonsense" />
+<SENTENCE id="S152" spans="4577~4604" text="stack the bowl and the disc" judgement="nonsense" />
+<SENTENCE id="S153" spans="4605~4633" text="stack the bowl and the spoon" judgement="nonsense" />
+<SENTENCE id="S154" spans="4634~4662" text="stack the bowl and the knife" judgement="nonsense" />
+<SENTENCE id="S155" spans="4663~4690" text="stack the bowl and the book" judgement="fine" />
+<SENTENCE id="S156" spans="4691~4720" text="stack the bowl and the pencil" judgement="nonsense" />
+<SENTENCE id="S157" spans="4721~4754" text="stack the bowl and the blackboard" judgement="nonsense" />
+<SENTENCE id="S158" spans="4755~4789" text="stack the bowl and the paper sheet" judgement="nonsense" />
+<SENTENCE id="S159" spans="4790~4819" text="stack the bowl and the bottle" judgement="fine" />
+<SENTENCE id="S160" spans="4820~4849" text="stack the spoon and the block" judgement="awkward" />
+<SENTENCE id="S161" spans="4850~4879" text="stack the spoon and the grape" judgement="nonsense" />
+<SENTENCE id="S162" spans="4880~4908" text="stack the spoon and the ball" judgement="awkward" />
+<SENTENCE id="S163" spans="4909~4938" text="stack the spoon and the apple" judgement="nonsense" />
+<SENTENCE id="S164" spans="4939~4968" text="stack the spoon and the plate" judgement="nonsense" />
+<SENTENCE id="S165" spans="4969~4999" text="stack the spoon and the banana" judgement="fine" />
+<SENTENCE id="S166" spans="5000~5027" text="stack the spoon and the cup" judgement="nonsense" />
+<SENTENCE id="S167" spans="5028~5057" text="stack the spoon and the table" judgement="nonsense" />
+<SENTENCE id="S168" spans="5058~5086" text="stack the spoon and the disc" judgement="nonsense" />
+<SENTENCE id="S169" spans="5087~5115" text="stack the spoon and the bowl" judgement="awkward" />
+<SENTENCE id="S170" spans="5116~5145" text="stack the spoon and the knife" judgement="fine" />
+<SENTENCE id="S171" spans="5146~5174" text="stack the spoon and the book" judgement="fine" />
+<SENTENCE id="S172" spans="5175~5205" text="stack the spoon and the pencil" judgement="fine" />
+<SENTENCE id="S173" spans="5206~5240" text="stack the spoon and the blackboard" judgement="nonsense" />
+<SENTENCE id="S174" spans="5241~5276" text="stack the spoon and the paper sheet" judgement="nonsense" />
+<SENTENCE id="S175" spans="5277~5307" text="stack the spoon and the bottle" judgement="awkward" />
+<SENTENCE id="S176" spans="5308~5337" text="stack the knife and the block" judgement="fine" />
+<SENTENCE id="S177" spans="5338~5367" text="stack the knife and the grape" judgement="nonsense" />
+<SENTENCE id="S178" spans="5368~5396" text="stack the knife and the ball" judgement="awkward" />
+<SENTENCE id="S179" spans="5397~5426" text="stack the knife and the apple" judgement="fine" />
+<SENTENCE id="S180" spans="5427~5456" text="stack the knife and the plate" judgement="nonsense" />
+<SENTENCE id="S181" spans="5457~5487" text="stack the knife and the banana" judgement="fine" />
+<SENTENCE id="S182" spans="5488~5515" text="stack the knife and the cup" judgement="nonsense" />
+<SENTENCE id="S183" spans="5516~5545" text="stack the knife and the table" judgement="nonsense" />
+<SENTENCE id="S184" spans="5546~5574" text="stack the knife and the disc" judgement="nonsense" />
+<SENTENCE id="S185" spans="5575~5603" text="stack the knife and the bowl" judgement="awkward" />
+<SENTENCE id="S186" spans="5604~5633" text="stack the knife and the spoon" judgement="nonsense" />
+<SENTENCE id="S187" spans="5634~5662" text="stack the knife and the book" judgement="fine" />
+<SENTENCE id="S188" spans="5663~5693" text="stack the knife and the pencil" judgement="nonsense" />
+<SENTENCE id="S189" spans="5694~5728" text="stack the knife and the blackboard" judgement="nonsense" />
+<SENTENCE id="S190" spans="5729~5764" text="stack the knife and the paper sheet" judgement="nonsense" />
+<SENTENCE id="S191" spans="5765~5795" text="stack the knife and the bottle" judgement="fine" />
+<SENTENCE id="S192" spans="5796~5824" text="stack the book and the block" judgement="fine" />
+<SENTENCE id="S193" spans="5825~5853" text="stack the book and the grape" judgement="awkward" />
+<SENTENCE id="S194" spans="5854~5881" text="stack the book and the ball" judgement="awkward" />
+<SENTENCE id="S195" spans="5882~5910" text="stack the book and the apple" judgement="awkward" />
+<SENTENCE id="S196" spans="5911~5939" text="stack the book and the plate" judgement="fine" />
+<SENTENCE id="S197" spans="5940~5969" text="stack the book and the banana" judgement="awkward" />
+<SENTENCE id="S198" spans="5970~5996" text="stack the book and the cup" judgement="fine" />
+<SENTENCE id="S199" spans="5997~6025" text="stack the book and the table" judgement="nonsense" />
+<SENTENCE id="S200" spans="6026~6053" text="stack the book and the disc" judgement="nonsense" />
+<SENTENCE id="S201" spans="6054~6081" text="stack the book and the bowl" judgement="fine" />
+<SENTENCE id="S202" spans="6082~6110" text="stack the book and the spoon" judgement="fine" />
+<SENTENCE id="S203" spans="6111~6139" text="stack the book and the knife" judgement="fine" />
+<SENTENCE id="S204" spans="6140~6169" text="stack the book and the pencil" judgement="fine" />
+<SENTENCE id="S205" spans="6170~6203" text="stack the book and the blackboard" judgement="nonsense" />
+<SENTENCE id="S206" spans="6204~6238" text="stack the book and the paper sheet" judgement="nonsense" />
+<SENTENCE id="S207" spans="6239~6268" text="stack the book and the bottle" judgement="fine" />
+<SENTENCE id="S208" spans="6269~6299" text="stack the pencil and the block" judgement="fine" />
+<SENTENCE id="S209" spans="6300~6330" text="stack the pencil and the grape" judgement="nonsense" />
+<SENTENCE id="S210" spans="6331~6360" text="stack the pencil and the ball" judgement="awkward" />
+<SENTENCE id="S211" spans="6361~6391" text="stack the pencil and the apple" judgement="fine" />
+<SENTENCE id="S212" spans="6392~6422" text="stack the pencil and the plate" judgement="nonsense" />
+<SENTENCE id="S213" spans="6423~6454" text="stack the pencil and the banana" judgement="fine" />
+<SENTENCE id="S214" spans="6455~6483" text="stack the pencil and the cup" judgement="nonsense" />
+<SENTENCE id="S215" spans="6484~6514" text="stack the pencil and the table" judgement="nonsense" />
+<SENTENCE id="S216" spans="6515~6544" text="stack the pencil and the disc" judgement="nonsense" />
+<SENTENCE id="S217" spans="6545~6574" text="stack the pencil and the bowl" judgement="nonsense" />
+<SENTENCE id="S218" spans="6575~6605" text="stack the pencil and the spoon" judgement="nonsense" />
+<SENTENCE id="S219" spans="6606~6636" text="stack the pencil and the knife" judgement="nonsense" />
+<SENTENCE id="S220" spans="6637~6666" text="stack the pencil and the book" judgement="fine" />
+<SENTENCE id="S221" spans="6667~6702" text="stack the pencil and the blackboard" judgement="nonsense" />
+<SENTENCE id="S222" spans="6703~6739" text="stack the pencil and the paper sheet" judgement="nonsense" />
+<SENTENCE id="S223" spans="6740~6771" text="stack the pencil and the bottle" judgement="fine" />
+<SENTENCE id="S224" spans="6772~6806" text="stack the blackboard and the block" judgement="fine" />
+<SENTENCE id="S225" spans="6807~6841" text="stack the blackboard and the grape" judgement="awkward" />
+<SENTENCE id="S226" spans="6842~6875" text="stack the blackboard and the ball" judgement="nonsense" />
+<SENTENCE id="S227" spans="6876~6910" text="stack the blackboard and the apple" judgement="nonsense" />
+<SENTENCE id="S228" spans="6911~6945" text="stack the blackboard and the plate" judgement="nonsense" />
+<SENTENCE id="S229" spans="6946~6981" text="stack the blackboard and the banana" judgement="nonsense" />
+<SENTENCE id="S230" spans="6982~7014" text="stack the blackboard and the cup" judgement="nonsense" />
+<SENTENCE id="S231" spans="7015~7049" text="stack the blackboard and the table" judgement="fine" />
+<SENTENCE id="S232" spans="7050~7083" text="stack the blackboard and the disc" judgement="nonsense" />
+<SENTENCE id="S233" spans="7084~7117" text="stack the blackboard and the bowl" judgement="nonsense" />
+<SENTENCE id="S234" spans="7118~7152" text="stack the blackboard and the spoon" judgement="nonsense" />
+<SENTENCE id="S235" spans="7153~7187" text="stack the blackboard and the knife" judgement="nonsense" />
+<SENTENCE id="S236" spans="7188~7221" text="stack the blackboard and the book" judgement="nonsense" />
+<SENTENCE id="S237" spans="7222~7257" text="stack the blackboard and the pencil" judgement="nonsense" />
+<SENTENCE id="S238" spans="7258~7298" text="stack the blackboard and the paper sheet" judgement="nonsense" />
+<SENTENCE id="S239" spans="7299~7334" text="stack the blackboard and the bottle" judgement="awkward" />
+<SENTENCE id="S240" spans="7335~7370" text="stack the paper sheet and the block" judgement="nonsense" />
+<SENTENCE id="S241" spans="7371~7406" text="stack the paper sheet and the grape" judgement="nonsense" />
+<SENTENCE id="S242" spans="7407~7441" text="stack the paper sheet and the ball" judgement="nonsense" />
+<SENTENCE id="S243" spans="7442~7477" text="stack the paper sheet and the apple" judgement="nonsense" />
+<SENTENCE id="S244" spans="7478~7513" text="stack the paper sheet and the plate" judgement="nonsense" />
+<SENTENCE id="S245" spans="7514~7550" text="stack the paper sheet and the banana" judgement="nonsense" />
+<SENTENCE id="S246" spans="7551~7584" text="stack the paper sheet and the cup" judgement="nonsense" />
+<SENTENCE id="S247" spans="7585~7620" text="stack the paper sheet and the table" judgement="nonsense" />
+<SENTENCE id="S248" spans="7621~7655" text="stack the paper sheet and the disc" judgement="nonsense" />
+<SENTENCE id="S249" spans="7656~7690" text="stack the paper sheet and the bowl" judgement="nonsense" />
+<SENTENCE id="S250" spans="7691~7726" text="stack the paper sheet and the spoon" judgement="nonsense" />
+<SENTENCE id="S251" spans="7727~7762" text="stack the paper sheet and the knife" judgement="nonsense" />
+<SENTENCE id="S252" spans="7763~7797" text="stack the paper sheet and the book" judgement="nonsense" />
+<SENTENCE id="S253" spans="7798~7834" text="stack the paper sheet and the pencil" judgement="nonsense" />
+<SENTENCE id="S254" spans="7835~7875" text="stack the paper sheet and the blackboard" judgement="nonsense" />
+<SENTENCE id="S255" spans="7876~7912" text="stack the paper sheet and the bottle" judgement="nonsense" />
+<SENTENCE id="S256" spans="7913~7943" text="stack the bottle and the block" judgement="fine" />
+<SENTENCE id="S257" spans="7944~7974" text="stack the bottle and the grape" judgement="nonsense" />
+<SENTENCE id="S258" spans="7975~8004" text="stack the bottle and the ball" judgement="fine" />
+<SENTENCE id="S259" spans="8005~8035" text="stack the bottle and the apple" judgement="awkward" />
+<SENTENCE id="S260" spans="8036~8066" text="stack the bottle and the plate" judgement="fine" />
+<SENTENCE id="S261" spans="8067~8098" text="stack the bottle and the banana" judgement="awkward" />
+<SENTENCE id="S262" spans="8099~8127" text="stack the bottle and the cup" judgement="fine" />
+<SENTENCE id="S263" spans="8128~8158" text="stack the bottle and the table" judgement="nonsense" />
+<SENTENCE id="S264" spans="8159~8188" text="stack the bottle and the disc" judgement="nonsense" />
+<SENTENCE id="S265" spans="8189~8218" text="stack the bottle and the bowl" judgement="fine" />
+<SENTENCE id="S266" spans="8219~8249" text="stack the bottle and the spoon" judgement="nonsense" />
+<SENTENCE id="S267" spans="8250~8280" text="stack the bottle and the knife" judgement="nonsense" />
+<SENTENCE id="S268" spans="8281~8310" text="stack the bottle and the book" judgement="fine" />
+<SENTENCE id="S269" spans="8311~8342" text="stack the bottle and the pencil" judgement="nonsense" />
+<SENTENCE id="S270" spans="8343~8378" text="stack the bottle and the blackboard" judgement="nonsense" />
+<SENTENCE id="S271" spans="8379~8415" text="stack the bottle and the paper sheet" judgement="nonsense" />
+</TAGS>
+</SentenceSimulabilityTask>

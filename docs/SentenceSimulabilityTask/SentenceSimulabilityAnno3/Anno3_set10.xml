@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SentenceSimulabilityTask>
+<TEXT><![CDATA[lean the block on the block
+lean the block on the ball
+lean the block on the plate
+lean the block on the cup
+lean the block on the disc
+lean the block on the spoon
+lean the block on the book
+lean the block on the blackboard
+lean the block on the bottle
+lean the block on the grape
+lean the block on the apple
+lean the block on the banana
+lean the block on the table
+lean the block on the bowl
+lean the block on the knife
+lean the block on the pencil
+lean the block on the paper sheet
+lean the ball on the block
+lean the ball on the ball
+lean the ball on the plate
+lean the ball on the cup
+lean the ball on the disc
+lean the ball on the spoon
+lean the ball on the book
+lean the ball on the blackboard
+lean the ball on the bottle
+lean the ball on the grape
+lean the ball on the apple
+lean the ball on the banana
+lean the ball on the table
+lean the ball on the bowl
+lean the ball on the knife
+lean the ball on the pencil
+lean the ball on the paper sheet
+lean the plate on the block
+lean the plate on the ball
+lean the plate on the plate
+lean the plate on the cup
+lean the plate on the disc
+lean the plate on the spoon
+lean the plate on the book
+lean the plate on the blackboard
+lean the plate on the bottle
+lean the plate on the grape
+lean the plate on the apple
+lean the plate on the banana
+lean the plate on the table
+lean the plate on the bowl
+lean the plate on the knife
+lean the plate on the pencil
+lean the plate on the paper sheet
+lean the cup on the block
+lean the cup on the ball
+lean the cup on the plate
+lean the cup on the cup
+lean the cup on the disc
+lean the cup on the spoon
+lean the cup on the book
+lean the cup on the blackboard
+lean the cup on the bottle
+lean the cup on the grape
+lean the cup on the apple
+lean the cup on the banana
+lean the cup on the table
+lean the cup on the bowl
+lean the cup on the knife
+lean the cup on the pencil
+lean the cup on the paper sheet
+lean the disc on the block
+lean the disc on the ball
+lean the disc on the plate
+lean the disc on the cup
+lean the disc on the disc
+lean the disc on the spoon
+lean the disc on the book
+lean the disc on the blackboard
+lean the disc on the bottle
+lean the disc on the grape
+lean the disc on the apple
+lean the disc on the banana
+lean the disc on the table
+lean the disc on the bowl
+lean the disc on the knife
+lean the disc on the pencil
+lean the disc on the paper sheet
+lean the spoon on the block
+lean the spoon on the ball
+lean the spoon on the plate
+lean the spoon on the cup
+lean the spoon on the disc
+lean the spoon on the spoon
+lean the spoon on the book
+lean the spoon on the blackboard
+lean the spoon on the bottle
+lean the spoon on the grape
+lean the spoon on the apple
+lean the spoon on the banana
+lean the spoon on the table
+lean the spoon on the bowl
+lean the spoon on the knife
+lean the spoon on the pencil
+lean the spoon on the paper sheet
+lean the book on the block
+lean the book on the ball
+lean the book on the plate
+lean the book on the cup
+lean the book on the disc
+lean the book on the spoon
+lean the book on the book
+lean the book on the blackboard
+lean the book on the bottle
+lean the book on the grape
+lean the book on the apple
+lean the book on the banana
+lean the book on the table
+lean the book on the bowl
+lean the book on the knife
+lean the book on the pencil
+lean the book on the paper sheet
+lean the blackboard on the block
+lean the blackboard on the ball
+lean the blackboard on the plate
+lean the blackboard on the cup
+lean the blackboard on the disc
+lean the blackboard on the spoon
+lean the blackboard on the book
+lean the blackboard on the blackboard
+lean the blackboard on the bottle
+lean the blackboard on the grape
+lean the blackboard on the apple
+lean the blackboard on the banana
+lean the blackboard on the table
+lean the blackboard on the bowl
+lean the blackboard on the knife
+lean the blackboard on the pencil
+lean the blackboard on the paper sheet
+lean the bottle on the block
+lean the bottle on the ball
+lean the bottle on the plate
+lean the bottle on the cup
+lean the bottle on the disc
+lean the bottle on the spoon
+lean the bottle on the book
+lean the bottle on the blackboard
+lean the bottle on the bottle
+lean the bottle on the grape
+lean the bottle on the apple
+lean the bottle on the banana
+lean the bottle on the table
+lean the bottle on the bowl
+lean the bottle on the knife
+lean the bottle on the pencil
+lean the bottle on the paper sheet
+lean the grape on the block
+lean the grape on the ball
+lean the grape on the plate
+lean the grape on the cup
+lean the grape on the disc
+lean the grape on the spoon
+lean the grape on the book
+lean the grape on the blackboard
+lean the grape on the bottle
+lean the grape on the grape
+lean the grape on the apple
+lean the grape on the banana
+lean the grape on the table
+lean the grape on the bowl
+lean the grape on the knife
+lean the grape on the pencil
+lean the grape on the paper sheet
+lean the apple on the block
+lean the apple on the ball
+lean the apple on the plate
+lean the apple on the cup
+lean the apple on the disc
+lean the apple on the spoon
+lean the apple on the book
+lean the apple on the blackboard
+lean the apple on the bottle
+lean the apple on the grape
+lean the apple on the apple
+lean the apple on the banana
+lean the apple on the table
+lean the apple on the bowl
+lean the apple on the knife
+lean the apple on the pencil
+lean the apple on the paper sheet
+lean the banana on the block
+lean the banana on the ball
+lean the banana on the plate
+lean the banana on the cup
+lean the banana on the disc
+lean the banana on the spoon
+lean the banana on the book
+lean the banana on the blackboard
+lean the banana on the bottle
+lean the banana on the grape
+lean the banana on the apple
+lean the banana on the banana
+lean the banana on the table
+lean the banana on the bowl
+lean the banana on the knife
+lean the banana on the pencil
+lean the banana on the paper sheet
+lean the table on the block
+lean the table on the ball
+lean the table on the plate
+lean the table on the cup
+lean the table on the disc
+lean the table on the spoon
+lean the table on the book
+lean the table on the blackboard
+lean the table on the bottle
+lean the table on the grape
+lean the table on the apple
+lean the table on the banana
+lean the table on the table
+lean the table on the bowl
+lean the table on the knife
+lean the table on the pencil
+lean the table on the paper sheet
+lean the bowl on the block
+lean the bowl on the ball
+lean the bowl on the plate
+lean the bowl on the cup
+lean the bowl on the disc
+lean the bowl on the spoon
+lean the bowl on the book
+lean the bowl on the blackboard
+lean the bowl on the bottle
+lean the bowl on the grape
+lean the bowl on the apple
+lean the bowl on the banana
+lean the bowl on the table
+lean the bowl on the bowl
+lean the bowl on the knife
+lean the bowl on the pencil
+lean the bowl on the paper sheet
+lean the knife on the block
+lean the knife on the ball
+lean the knife on the plate
+lean the knife on the cup
+lean the knife on the disc
+lean the knife on the spoon
+lean the knife on the book
+lean the knife on the blackboard
+lean the knife on the bottle
+lean the knife on the grape
+lean the knife on the apple
+lean the knife on the banana
+lean the knife on the table
+lean the knife on the bowl
+lean the knife on the knife
+lean the knife on the pencil
+lean the knife on the paper sheet
+lean the pencil on the block
+lean the pencil on the ball
+lean the pencil on the plate
+lean the pencil on the cup
+lean the pencil on the disc
+lean the pencil on the spoon
+lean the pencil on the book
+lean the pencil on the blackboard
+lean the pencil on the bottle
+lean the pencil on the grape
+lean the pencil on the apple
+lean the pencil on the banana
+lean the pencil on the table
+lean the pencil on the bowl
+lean the pencil on the knife
+lean the pencil on the pencil
+lean the pencil on the paper sheet
+lean the paper sheet on the block
+lean the paper sheet on the ball
+lean the paper sheet on the plate
+lean the paper sheet on the cup
+lean the paper sheet on the disc
+lean the paper sheet on the spoon
+lean the paper sheet on the book
+lean the paper sheet on the blackboard
+lean the paper sheet on the bottle
+lean the paper sheet on the grape
+lean the paper sheet on the apple
+lean the paper sheet on the banana
+lean the paper sheet on the table
+lean the paper sheet on the bowl
+lean the paper sheet on the knife
+lean the paper sheet on the pencil
+lean the paper sheet on the paper sheet
+]]></TEXT>
+<TAGS>
+<SENTENCE id="S0" spans="0~27" text="lean the block on the block" judgement="fine" />
+<SENTENCE id="S1" spans="28~54" text="lean the block on the ball" judgement="fine" />
+<SENTENCE id="S2" spans="55~82" text="lean the block on the plate" judgement="fine" />
+<SENTENCE id="S3" spans="83~108" text="lean the block on the cup" judgement="fine" />
+<SENTENCE id="S4" spans="109~135" text="lean the block on the disc" judgement="fine" />
+<SENTENCE id="S5" spans="136~163" text="lean the block on the spoon" judgement="fine" />
+<SENTENCE id="S6" spans="164~190" text="lean the block on the book" judgement="fine" />
+<SENTENCE id="S7" spans="191~223" text="lean the block on the blackboard" judgement="fine" />
+<SENTENCE id="S8" spans="224~252" text="lean the block on the bottle" judgement="fine" />
+<SENTENCE id="S9" spans="253~280" text="lean the block on the grape" judgement="fine" />
+<SENTENCE id="S10" spans="281~308" text="lean the block on the apple" judgement="fine" />
+<SENTENCE id="S11" spans="309~337" text="lean the block on the banana" judgement="fine" />
+<SENTENCE id="S12" spans="338~365" text="lean the block on the table" judgement="fine" />
+<SENTENCE id="S13" spans="366~392" text="lean the block on the bowl" judgement="fine" />
+<SENTENCE id="S14" spans="393~420" text="lean the block on the knife" judgement="fine" />
+<SENTENCE id="S15" spans="421~449" text="lean the block on the pencil" judgement="fine" />
+<SENTENCE id="S16" spans="450~483" text="lean the block on the paper sheet" judgement="awkward" />
+<SENTENCE id="S17" spans="484~510" text="lean the ball on the block" judgement="awkward" />
+<SENTENCE id="S18" spans="511~536" text="lean the ball on the ball" judgement="awkward" />
+<SENTENCE id="S19" spans="537~563" text="lean the ball on the plate" judgement="awkward" />
+<SENTENCE id="S20" spans="564~588" text="lean the ball on the cup" judgement="awkward" />
+<SENTENCE id="S21" spans="589~614" text="lean the ball on the disc" judgement="awkward" />
+<SENTENCE id="S22" spans="615~641" text="lean the ball on the spoon" judgement="awkward" />
+<SENTENCE id="S23" spans="642~667" text="lean the ball on the book" judgement="awkward" />
+<SENTENCE id="S24" spans="668~699" text="lean the ball on the blackboard" judgement="awkward" />
+<SENTENCE id="S25" spans="700~727" text="lean the ball on the bottle" judgement="awkward" />
+<SENTENCE id="S26" spans="728~754" text="lean the ball on the grape" judgement="awkward" />
+<SENTENCE id="S27" spans="755~781" text="lean the ball on the apple" judgement="awkward" />
+<SENTENCE id="S28" spans="782~809" text="lean the ball on the banana" judgement="awkward" />
+<SENTENCE id="S29" spans="810~836" text="lean the ball on the table" judgement="awkward" />
+<SENTENCE id="S30" spans="837~862" text="lean the ball on the bowl" judgement="awkward" />
+<SENTENCE id="S31" spans="863~889" text="lean the ball on the knife" judgement="awkward" />
+<SENTENCE id="S32" spans="890~917" text="lean the ball on the pencil" judgement="awkward" />
+<SENTENCE id="S33" spans="918~950" text="lean the ball on the paper sheet" judgement="nonsense" />
+<SENTENCE id="S34" spans="951~978" text="lean the plate on the block" judgement="fine" />
+<SENTENCE id="S35" spans="979~1005" text="lean the plate on the ball" judgement="fine" />
+<SENTENCE id="S36" spans="1006~1033" text="lean the plate on the plate" judgement="fine" />
+<SENTENCE id="S37" spans="1034~1059" text="lean the plate on the cup" judgement="fine" />
+<SENTENCE id="S38" spans="1060~1086" text="lean the plate on the disc" judgement="fine" />
+<SENTENCE id="S39" spans="1087~1114" text="lean the plate on the spoon" judgement="fine" />
+<SENTENCE id="S40" spans="1115~1141" text="lean the plate on the book" judgement="fine" />
+<SENTENCE id="S41" spans="1142~1174" text="lean the plate on the blackboard" judgement="fine" />
+<SENTENCE id="S42" spans="1175~1203" text="lean the plate on the bottle" judgement="fine" />
+<SENTENCE id="S43" spans="1204~1231" text="lean the plate on the grape" judgement="fine" />
+<SENTENCE id="S44" spans="1232~1259" text="lean the plate on the apple" judgement="fine" />
+<SENTENCE id="S45" spans="1260~1288" text="lean the plate on the banana" judgement="fine" />
+<SENTENCE id="S46" spans="1289~1316" text="lean the plate on the table" judgement="fine" />
+<SENTENCE id="S47" spans="1317~1343" text="lean the plate on the bowl" judgement="fine" />
+<SENTENCE id="S48" spans="1344~1371" text="lean the plate on the knife" judgement="fine" />
+<SENTENCE id="S49" spans="1372~1400" text="lean the plate on the pencil" judgement="fine" />
+<SENTENCE id="S50" spans="1401~1434" text="lean the plate on the paper sheet" judgement="nonsense" />
+<SENTENCE id="S51" spans="1435~1460" text="lean the cup on the block" judgement="fine" />
+<SENTENCE id="S52" spans="1461~1485" text="lean the cup on the ball" judgement="fine" />
+<SENTENCE id="S53" spans="1486~1511" text="lean the cup on the plate" judgement="fine" />
+<SENTENCE id="S54" spans="1512~1535" text="lean the cup on the cup" judgement="fine" />
+<SENTENCE id="S55" spans="1536~1560" text="lean the cup on the disc" judgement="fine" />
+<SENTENCE id="S56" spans="1561~1586" text="lean the cup on the spoon" judgement="fine" />
+<SENTENCE id="S57" spans="1587~1611" text="lean the cup on the book" judgement="fine" />
+<SENTENCE id="S58" spans="1612~1642" text="lean the cup on the blackboard" judgement="fine" />
+<SENTENCE id="S59" spans="1643~1669" text="lean the cup on the bottle" judgement="fine" />
+<SENTENCE id="S60" spans="1670~1695" text="lean the cup on the grape" judgement="fine" />
+<SENTENCE id="S61" spans="1696~1721" text="lean the cup on the apple" judgement="fine" />
+<SENTENCE id="S62" spans="1722~1748" text="lean the cup on the banana" judgement="fine" />
+<SENTENCE id="S63" spans="1749~1774" text="lean the cup on the table" judgement="fine" />
+<SENTENCE id="S64" spans="1775~1799" text="lean the cup on the bowl" judgement="fine" />
+<SENTENCE id="S65" spans="1800~1825" text="lean the cup on the knife" judgement="fine" />
+<SENTENCE id="S66" spans="1826~1852" text="lean the cup on the pencil" judgement="fine" />
+<SENTENCE id="S67" spans="1853~1884" text="lean the cup on the paper sheet" judgement="nonsense" />
+<SENTENCE id="S68" spans="1885~1911" text="lean the disc on the block" judgement="fine" />
+<SENTENCE id="S69" spans="1912~1937" text="lean the disc on the ball" judgement="fine" />
+<SENTENCE id="S70" spans="1938~1964" text="lean the disc on the plate" judgement="fine" />
+<SENTENCE id="S71" spans="1965~1989" text="lean the disc on the cup" judgement="fine" />
+<SENTENCE id="S72" spans="1990~2015" text="lean the disc on the disc" judgement="fine" />
+<SENTENCE id="S73" spans="2016~2042" text="lean the disc on the spoon" judgement="fine" />
+<SENTENCE id="S74" spans="2043~2068" text="lean the disc on the book" judgement="fine" />
+<SENTENCE id="S75" spans="2069~2100" text="lean the disc on the blackboard" judgement="fine" />
+<SENTENCE id="S76" spans="2101~2128" text="lean the disc on the bottle" judgement="fine" />
+<SENTENCE id="S77" spans="2129~2155" text="lean the disc on the grape" judgement="fine" />
+<SENTENCE id="S78" spans="2156~2182" text="lean the disc on the apple" judgement="fine" />
+<SENTENCE id="S79" spans="2183~2210" text="lean the disc on the banana" judgement="fine" />
+<SENTENCE id="S80" spans="2211~2237" text="lean the disc on the table" judgement="fine" />
+<SENTENCE id="S81" spans="2238~2263" text="lean the disc on the bowl" judgement="fine" />
+<SENTENCE id="S82" spans="2264~2290" text="lean the disc on the knife" judgement="fine" />
+<SENTENCE id="S83" spans="2291~2318" text="lean the disc on the pencil" judgement="fine" />
+<SENTENCE id="S84" spans="2319~2351" text="lean the disc on the paper sheet" judgement="nonsense" />
+<SENTENCE id="S85" spans="2352~2379" text="lean the spoon on the block" judgement="fine" />
+<SENTENCE id="S86" spans="2380~2406" text="lean the spoon on the ball" judgement="fine" />
+<SENTENCE id="S87" spans="2407~2434" text="lean the spoon on the plate" judgement="fine" />
+<SENTENCE id="S88" spans="2435~2460" text="lean the spoon on the cup" judgement="fine" />
+<SENTENCE id="S89" spans="2461~2487" text="lean the spoon on the disc" judgement="fine" />
+<SENTENCE id="S90" spans="2488~2515" text="lean the spoon on the spoon" judgement="fine" />
+<SENTENCE id="S91" spans="2516~2542" text="lean the spoon on the book" judgement="fine" />
+<SENTENCE id="S92" spans="2543~2575" text="lean the spoon on the blackboard" judgement="fine" />
+<SENTENCE id="S93" spans="2576~2604" text="lean the spoon on the bottle" judgement="fine" />
+<SENTENCE id="S94" spans="2605~2632" text="lean the spoon on the grape" judgement="fine" />
+<SENTENCE id="S95" spans="2633~2660" text="lean the spoon on the apple" judgement="fine" />
+<SENTENCE id="S96" spans="2661~2689" text="lean the spoon on the banana" judgement="fine" />
+<SENTENCE id="S97" spans="2690~2717" text="lean the spoon on the table" judgement="fine" />
+<SENTENCE id="S98" spans="2718~2744" text="lean the spoon on the bowl" judgement="fine" />
+<SENTENCE id="S99" spans="2745~2772" text="lean the spoon on the knife" judgement="fine" />
+<SENTENCE id="S100" spans="2773~2801" text="lean the spoon on the pencil" judgement="fine" />
+<SENTENCE id="S101" spans="2802~2835" text="lean the spoon on the paper sheet" judgement="nonsense" />
+<SENTENCE id="S102" spans="2836~2862" text="lean the book on the block" judgement="fine" />
+<SENTENCE id="S103" spans="2863~2888" text="lean the book on the ball" judgement="awkward" />
+<SENTENCE id="S104" spans="2889~2915" text="lean the book on the plate" judgement="fine" />
+<SENTENCE id="S105" spans="2916~2940" text="lean the book on the cup" judgement="fine" />
+<SENTENCE id="S106" spans="2941~2966" text="lean the book on the disc" judgement="fine" />
+<SENTENCE id="S107" spans="2967~2993" text="lean the book on the spoon" judgement="fine" />
+<SENTENCE id="S108" spans="2994~3019" text="lean the book on the book" judgement="fine" />
+<SENTENCE id="S109" spans="3020~3051" text="lean the book on the blackboard" judgement="fine" />
+<SENTENCE id="S110" spans="3052~3079" text="lean the book on the bottle" judgement="fine" />
+<SENTENCE id="S111" spans="3080~3106" text="lean the book on the grape" judgement="fine" />
+<SENTENCE id="S112" spans="3107~3133" text="lean the book on the apple" judgement="fine" />
+<SENTENCE id="S113" spans="3134~3161" text="lean the book on the banana" judgement="fine" />
+<SENTENCE id="S114" spans="3162~3188" text="lean the book on the table" judgement="fine" />
+<SENTENCE id="S115" spans="3189~3214" text="lean the book on the bowl" judgement="fine" />
+<SENTENCE id="S116" spans="3215~3241" text="lean the book on the knife" judgement="fine" />
+<SENTENCE id="S117" spans="3242~3269" text="lean the book on the pencil" judgement="fine" />
+<SENTENCE id="S118" spans="3270~3302" text="lean the book on the paper sheet" judgement="nonsense" />
+<SENTENCE id="S119" spans="3303~3335" text="lean the blackboard on the block" judgement="awkward" />
+<SENTENCE id="S120" spans="3336~3367" text="lean the blackboard on the ball" judgement="awkward" />
+<SENTENCE id="S121" spans="3368~3400" text="lean the blackboard on the plate" judgement="awkward" />
+<SENTENCE id="S122" spans="3401~3431" text="lean the blackboard on the cup" judgement="awkward" />
+<SENTENCE id="S123" spans="3432~3463" text="lean the blackboard on the disc" judgement="awkward" />
+<SENTENCE id="S124" spans="3464~3496" text="lean the blackboard on the spoon" judgement="awkward" />
+<SENTENCE id="S125" spans="3497~3528" text="lean the blackboard on the book" judgement="awkward" />
+<SENTENCE id="S126" spans="3529~3566" text="lean the blackboard on the blackboard" judgement="awkward" />
+<SENTENCE id="S127" spans="3567~3600" text="lean the blackboard on the bottle" judgement="awkward" />
+<SENTENCE id="S128" spans="3601~3633" text="lean the blackboard on the grape" judgement="awkward" />
+<SENTENCE id="S129" spans="3634~3666" text="lean the blackboard on the apple" judgement="awkward" />
+<SENTENCE id="S130" spans="3667~3700" text="lean the blackboard on the banana" judgement="awkward" />
+<SENTENCE id="S131" spans="3701~3733" text="lean the blackboard on the table" judgement="awkward" />
+<SENTENCE id="S132" spans="3734~3765" text="lean the blackboard on the bowl" judgement="awkward" />
+<SENTENCE id="S133" spans="3766~3798" text="lean the blackboard on the knife" judgement="awkward" />
+<SENTENCE id="S134" spans="3799~3832" text="lean the blackboard on the pencil" judgement="awkward" />
+<SENTENCE id="S135" spans="3833~3871" text="lean the blackboard on the paper sheet" judgement="nonsense" />
+<SENTENCE id="S136" spans="3872~3900" text="lean the bottle on the block" judgement="fine" />
+<SENTENCE id="S137" spans="3901~3928" text="lean the bottle on the ball" judgement="fine" />
+<SENTENCE id="S138" spans="3929~3957" text="lean the bottle on the plate" judgement="fine" />
+<SENTENCE id="S139" spans="3958~3984" text="lean the bottle on the cup" judgement="fine" />
+<SENTENCE id="S140" spans="3985~4012" text="lean the bottle on the disc" judgement="fine" />
+<SENTENCE id="S141" spans="4013~4041" text="lean the bottle on the spoon" judgement="fine" />
+<SENTENCE id="S142" spans="4042~4069" text="lean the bottle on the book" judgement="fine" />
+<SENTENCE id="S143" spans="4070~4103" text="lean the bottle on the blackboard" judgement="fine" />
+<SENTENCE id="S144" spans="4104~4133" text="lean the bottle on the bottle" judgement="fine" />
+<SENTENCE id="S145" spans="4134~4162" text="lean the bottle on the grape" judgement="awkward" />
+<SENTENCE id="S146" spans="4163~4191" text="lean the bottle on the apple" judgement="awkward" />
+<SENTENCE id="S147" spans="4192~4221" text="lean the bottle on the banana" judgement="fine" />
+<SENTENCE id="S148" spans="4222~4250" text="lean the bottle on the table" judgement="fine" />
+<SENTENCE id="S149" spans="4251~4278" text="lean the bottle on the bowl" judgement="fine" />
+<SENTENCE id="S150" spans="4279~4307" text="lean the bottle on the knife" judgement="fine" />
+<SENTENCE id="S151" spans="4308~4337" text="lean the bottle on the pencil" judgement="fine" />
+<SENTENCE id="S152" spans="4338~4372" text="lean the bottle on the paper sheet" judgement="nonsense" />
+<SENTENCE id="S153" spans="4373~4400" text="lean the grape on the block" judgement="awkward" />
+<SENTENCE id="S154" spans="4401~4427" text="lean the grape on the ball" judgement="awkward" />
+<SENTENCE id="S155" spans="4428~4455" text="lean the grape on the plate" judgement="awkward" />
+<SENTENCE id="S156" spans="4456~4481" text="lean the grape on the cup" judgement="awkward" />
+<SENTENCE id="S157" spans="4482~4508" text="lean the grape on the disc" judgement="awkward" />
+<SENTENCE id="S158" spans="4509~4536" text="lean the grape on the spoon" judgement="awkward" />
+<SENTENCE id="S159" spans="4537~4563" text="lean the grape on the book" judgement="awkward" />
+<SENTENCE id="S160" spans="4564~4596" text="lean the grape on the blackboard" judgement="awkward" />
+<SENTENCE id="S161" spans="4597~4625" text="lean the grape on the bottle" judgement="awkward" />
+<SENTENCE id="S162" spans="4626~4653" text="lean the grape on the grape" judgement="awkward" />
+<SENTENCE id="S163" spans="4654~4681" text="lean the grape on the apple" judgement="awkward" />
+<SENTENCE id="S164" spans="4682~4710" text="lean the grape on the banana" judgement="awkward" />
+<SENTENCE id="S165" spans="4711~4738" text="lean the grape on the table" judgement="awkward" />
+<SENTENCE id="S166" spans="4739~4765" text="lean the grape on the bowl" judgement="awkward" />
+<SENTENCE id="S167" spans="4766~4793" text="lean the grape on the knife" judgement="awkward" />
+<SENTENCE id="S168" spans="4794~4822" text="lean the grape on the pencil" judgement="awkward" />
+<SENTENCE id="S169" spans="4823~4856" text="lean the grape on the paper sheet" judgement="nonsense" />
+<SENTENCE id="S170" spans="4857~4884" text="lean the apple on the block" judgement="awkward" />
+<SENTENCE id="S171" spans="4885~4911" text="lean the apple on the ball" judgement="awkward" />
+<SENTENCE id="S172" spans="4912~4939" text="lean the apple on the plate" judgement="awkward" />
+<SENTENCE id="S173" spans="4940~4965" text="lean the apple on the cup" judgement="awkward" />
+<SENTENCE id="S174" spans="4966~4992" text="lean the apple on the disc" judgement="awkward" />
+<SENTENCE id="S175" spans="4993~5020" text="lean the apple on the spoon" judgement="awkward" />
+<SENTENCE id="S176" spans="5021~5047" text="lean the apple on the book" judgement="awkward" />
+<SENTENCE id="S177" spans="5048~5080" text="lean the apple on the blackboard" judgement="awkward" />
+<SENTENCE id="S178" spans="5081~5109" text="lean the apple on the bottle" judgement="awkward" />
+<SENTENCE id="S179" spans="5110~5137" text="lean the apple on the grape" judgement="awkward" />
+<SENTENCE id="S180" spans="5138~5165" text="lean the apple on the apple" judgement="awkward" />
+<SENTENCE id="S181" spans="5166~5194" text="lean the apple on the banana" judgement="awkward" />
+<SENTENCE id="S182" spans="5195~5222" text="lean the apple on the table" judgement="awkward" />
+<SENTENCE id="S183" spans="5223~5249" text="lean the apple on the bowl" judgement="awkward" />
+<SENTENCE id="S184" spans="5250~5277" text="lean the apple on the knife" judgement="awkward" />
+<SENTENCE id="S185" spans="5278~5306" text="lean the apple on the pencil" judgement="awkward" />
+<SENTENCE id="S186" spans="5307~5340" text="lean the apple on the paper sheet" judgement="nonsense" />
+<SENTENCE id="S187" spans="5341~5369" text="lean the banana on the block" judgement="fine" />
+<SENTENCE id="S188" spans="5370~5397" text="lean the banana on the ball" judgement="awkward" />
+<SENTENCE id="S189" spans="5398~5426" text="lean the banana on the plate" judgement="fine" />
+<SENTENCE id="S190" spans="5427~5453" text="lean the banana on the cup" judgement="fine" />
+<SENTENCE id="S191" spans="5454~5481" text="lean the banana on the disc" judgement="fine" />
+<SENTENCE id="S192" spans="5482~5510" text="lean the banana on the spoon" judgement="awkward" />
+<SENTENCE id="S193" spans="5511~5538" text="lean the banana on the book" judgement="fine" />
+<SENTENCE id="S194" spans="5539~5572" text="lean the banana on the blackboard" judgement="awkward" />
+<SENTENCE id="S195" spans="5573~5602" text="lean the banana on the bottle" judgement="awkward" />
+<SENTENCE id="S196" spans="5603~5631" text="lean the banana on the grape" judgement="awkward" />
+<SENTENCE id="S197" spans="5632~5660" text="lean the banana on the apple" judgement="awkward" />
+<SENTENCE id="S198" spans="5661~5690" text="lean the banana on the banana" judgement="fine" />
+<SENTENCE id="S199" spans="5691~5719" text="lean the banana on the table" judgement="awkward" />
+<SENTENCE id="S200" spans="5720~5747" text="lean the banana on the bowl" judgement="fine" />
+<SENTENCE id="S201" spans="5748~5776" text="lean the banana on the knife" judgement="fine" />
+<SENTENCE id="S202" spans="5777~5806" text="lean the banana on the pencil" judgement="fine" />
+<SENTENCE id="S203" spans="5807~5841" text="lean the banana on the paper sheet" judgement="nonsense" />
+<SENTENCE id="S204" spans="5842~5869" text="lean the table on the block" judgement="awkward" />
+<SENTENCE id="S205" spans="5870~5896" text="lean the table on the ball" judgement="awkward" />
+<SENTENCE id="S206" spans="5897~5924" text="lean the table on the plate" judgement="awkward" />
+<SENTENCE id="S207" spans="5925~5950" text="lean the table on the cup" judgement="awkward" />
+<SENTENCE id="S208" spans="5951~5977" text="lean the table on the disc" judgement="awkward" />
+<SENTENCE id="S209" spans="5978~6005" text="lean the table on the spoon" judgement="awkward" />
+<SENTENCE id="S210" spans="6006~6032" text="lean the table on the book" judgement="awkward" />
+<SENTENCE id="S211" spans="6033~6065" text="lean the table on the blackboard" judgement="awkward" />
+<SENTENCE id="S212" spans="6066~6094" text="lean the table on the bottle" judgement="awkward" />
+<SENTENCE id="S213" spans="6095~6122" text="lean the table on the grape" judgement="awkward" />
+<SENTENCE id="S214" spans="6123~6150" text="lean the table on the apple" judgement="awkward" />
+<SENTENCE id="S215" spans="6151~6179" text="lean the table on the banana" judgement="awkward" />
+<SENTENCE id="S216" spans="6180~6207" text="lean the table on the table" judgement="awkward" />
+<SENTENCE id="S217" spans="6208~6234" text="lean the table on the bowl" judgement="awkward" />
+<SENTENCE id="S218" spans="6235~6262" text="lean the table on the knife" judgement="awkward" />
+<SENTENCE id="S219" spans="6263~6291" text="lean the table on the pencil" judgement="awkward" />
+<SENTENCE id="S220" spans="6292~6325" text="lean the table on the paper sheet" judgement="nonsense" />
+<SENTENCE id="S221" spans="6326~6352" text="lean the bowl on the block" judgement="fine" />
+<SENTENCE id="S222" spans="6353~6378" text="lean the bowl on the ball" judgement="awkward" />
+<SENTENCE id="S223" spans="6379~6405" text="lean the bowl on the plate" judgement="fine" />
+<SENTENCE id="S224" spans="6406~6430" text="lean the bowl on the cup" judgement="fine" />
+<SENTENCE id="S225" spans="6431~6456" text="lean the bowl on the disc" judgement="fine" />
+<SENTENCE id="S226" spans="6457~6483" text="lean the bowl on the spoon" judgement="fine" />
+<SENTENCE id="S227" spans="6484~6509" text="lean the bowl on the book" judgement="fine" />
+<SENTENCE id="S228" spans="6510~6541" text="lean the bowl on the blackboard" judgement="fine" />
+<SENTENCE id="S229" spans="6542~6569" text="lean the bowl on the bottle" judgement="fine" />
+<SENTENCE id="S230" spans="6570~6596" text="lean the bowl on the grape" judgement="awkward" />
+<SENTENCE id="S231" spans="6597~6623" text="lean the bowl on the apple" judgement="fine" />
+<SENTENCE id="S232" spans="6624~6651" text="lean the bowl on the banana" judgement="fine" />
+<SENTENCE id="S233" spans="6652~6678" text="lean the bowl on the table" judgement="fine" />
+<SENTENCE id="S234" spans="6679~6704" text="lean the bowl on the bowl" judgement="fine" />
+<SENTENCE id="S235" spans="6705~6731" text="lean the bowl on the knife" judgement="fine" />
+<SENTENCE id="S236" spans="6732~6759" text="lean the bowl on the pencil" judgement="fine" />
+<SENTENCE id="S237" spans="6760~6792" text="lean the bowl on the paper sheet" judgement="nonsense" />
+<SENTENCE id="S238" spans="6793~6820" text="lean the knife on the block" judgement="fine" />
+<SENTENCE id="S239" spans="6821~6847" text="lean the knife on the ball" judgement="awkward" />
+<SENTENCE id="S240" spans="6848~6875" text="lean the knife on the plate" judgement="fine" />
+<SENTENCE id="S241" spans="6876~6901" text="lean the knife on the cup" judgement="fine" />
+<SENTENCE id="S242" spans="6902~6928" text="lean the knife on the disc" judgement="fine" />
+<SENTENCE id="S243" spans="6929~6956" text="lean the knife on the spoon" judgement="fine" />
+<SENTENCE id="S244" spans="6957~6983" text="lean the knife on the book" judgement="fine" />
+<SENTENCE id="S245" spans="6984~7016" text="lean the knife on the blackboard" judgement="fine" />
+<SENTENCE id="S246" spans="7017~7045" text="lean the knife on the bottle" judgement="fine" />
+<SENTENCE id="S247" spans="7046~7073" text="lean the knife on the grape" judgement="awkward" />
+<SENTENCE id="S248" spans="7074~7101" text="lean the knife on the apple" judgement="fine" />
+<SENTENCE id="S249" spans="7102~7130" text="lean the knife on the banana" judgement="fine" />
+<SENTENCE id="S250" spans="7131~7158" text="lean the knife on the table" judgement="fine" />
+<SENTENCE id="S251" spans="7159~7185" text="lean the knife on the bowl" judgement="fine" />
+<SENTENCE id="S252" spans="7186~7213" text="lean the knife on the knife" judgement="fine" />
+<SENTENCE id="S253" spans="7214~7242" text="lean the knife on the pencil" judgement="fine" />
+<SENTENCE id="S254" spans="7243~7276" text="lean the knife on the paper sheet" judgement="nonsense" />
+<SENTENCE id="S255" spans="7277~7305" text="lean the pencil on the block" judgement="fine" />
+<SENTENCE id="S256" spans="7306~7333" text="lean the pencil on the ball" judgement="awkward" />
+<SENTENCE id="S257" spans="7334~7362" text="lean the pencil on the plate" judgement="fine" />
+<SENTENCE id="S258" spans="7363~7389" text="lean the pencil on the cup" judgement="fine" />
+<SENTENCE id="S259" spans="7390~7417" text="lean the pencil on the disc" judgement="fine" />
+<SENTENCE id="S260" spans="7418~7446" text="lean the pencil on the spoon" judgement="fine" />
+<SENTENCE id="S261" spans="7447~7474" text="lean the pencil on the book" judgement="fine" />
+<SENTENCE id="S262" spans="7475~7508" text="lean the pencil on the blackboard" judgement="awkward" />
+<SENTENCE id="S263" spans="7509~7538" text="lean the pencil on the bottle" judgement="awkward" />
+<SENTENCE id="S264" spans="7539~7567" text="lean the pencil on the grape" judgement="awkward" />
+<SENTENCE id="S265" spans="7568~7596" text="lean the pencil on the apple" judgement="fine" />
+<SENTENCE id="S266" spans="7597~7626" text="lean the pencil on the banana" judgement="fine" />
+<SENTENCE id="S267" spans="7627~7655" text="lean the pencil on the table" judgement="fine" />
+<SENTENCE id="S268" spans="7656~7683" text="lean the pencil on the bowl" judgement="fine" />
+<SENTENCE id="S269" spans="7684~7712" text="lean the pencil on the knife" judgement="fine" />
+<SENTENCE id="S270" spans="7713~7742" text="lean the pencil on the pencil" judgement="fine" />
+<SENTENCE id="S271" spans="7743~7777" text="lean the pencil on the paper sheet" judgement="nonsense" />
+<SENTENCE id="S272" spans="7778~7811" text="lean the paper sheet on the block" judgement="fine" />
+<SENTENCE id="S273" spans="7812~7844" text="lean the paper sheet on the ball" judgement="fine" />
+<SENTENCE id="S274" spans="7845~7878" text="lean the paper sheet on the plate" judgement="fine" />
+<SENTENCE id="S275" spans="7879~7910" text="lean the paper sheet on the cup" judgement="fine" />
+<SENTENCE id="S276" spans="7911~7943" text="lean the paper sheet on the disc" judgement="fine" />
+<SENTENCE id="S277" spans="7944~7977" text="lean the paper sheet on the spoon" judgement="fine" />
+<SENTENCE id="S278" spans="7978~8010" text="lean the paper sheet on the book" judgement="fine" />
+<SENTENCE id="S279" spans="8011~8049" text="lean the paper sheet on the blackboard" judgement="fine" />
+<SENTENCE id="S280" spans="8050~8084" text="lean the paper sheet on the bottle" judgement="fine" />
+<SENTENCE id="S281" spans="8085~8118" text="lean the paper sheet on the grape" judgement="fine" />
+<SENTENCE id="S282" spans="8119~8152" text="lean the paper sheet on the apple" judgement="fine" />
+<SENTENCE id="S283" spans="8153~8187" text="lean the paper sheet on the banana" judgement="fine" />
+<SENTENCE id="S284" spans="8188~8221" text="lean the paper sheet on the table" judgement="fine" />
+<SENTENCE id="S285" spans="8222~8254" text="lean the paper sheet on the bowl" judgement="fine" />
+<SENTENCE id="S286" spans="8255~8288" text="lean the paper sheet on the knife" judgement="fine" />
+<SENTENCE id="S287" spans="8289~8323" text="lean the paper sheet on the pencil" judgement="fine" />
+<SENTENCE id="S288" spans="8324~8363" text="lean the paper sheet on the paper sheet" judgement="nonsense" />
+</TAGS>
+</SentenceSimulabilityTask>

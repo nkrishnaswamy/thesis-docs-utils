@@ -1,0 +1,4 @@
+-fine: Nothing wrong with this sentence.  It's properly formed and makes sense.
+-ungrammatical: The sentence is incorrectly structured, and not grammatical English.
+-nonsense: The sentence is well-formed but doesn't make sense.  Given a sentence of the form "VERB the NOUN," if the answer to the question "Can the NOUN be VERBed?" is a firm "no," the sentence should be judged as "nonsense."  For example, "close the spoon"--a spoon typically can't be closed.
+-awkward: Catch-all for everything else.  The sentence is well-formed and not obviously nonsense, but there's still something off about it.  For example, may the result of executing the command given in the sentence would result in a structure that's physically unstable, like trying to balance a block on top of a grape.  There may be other cases, but if a sentence is not obviously "fine," obviously "ungrammatical," or obviously "nonsense," it may belong here.

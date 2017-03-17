@@ -1,0 +1,3 @@
+close the cup [1, 2, 3]
+close the book [3, 3, 3]
+close the bottle [3, 3, 3]

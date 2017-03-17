@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SentenceSimulabilityTask>
+<TEXT><![CDATA[put the block in the block
+put the block in the ball
+put the block in the plate
+put the block in the cup
+put the block in the disc
+put the block in the spoon
+put the block in the book
+put the block in the blackboard
+put the block in the bottle
+put the block in the grape
+put the block in the apple
+put the block in the banana
+put the block in the table
+put the block in the bowl
+put the block in the knife
+put the block in the pencil
+put the block in the paper sheet
+put the ball in the block
+put the ball in the ball
+put the ball in the plate
+put the ball in the cup
+put the ball in the disc
+put the ball in the spoon
+put the ball in the book
+put the ball in the blackboard
+put the ball in the bottle
+put the ball in the grape
+put the ball in the apple
+put the ball in the banana
+put the ball in the table
+put the ball in the bowl
+put the ball in the knife
+put the ball in the pencil
+put the ball in the paper sheet
+put the plate in the block
+put the plate in the ball
+put the plate in the plate
+put the plate in the cup
+put the plate in the disc
+put the plate in the spoon
+put the plate in the book
+put the plate in the blackboard
+put the plate in the bottle
+put the plate in the grape
+put the plate in the apple
+put the plate in the banana
+put the plate in the table
+put the plate in the bowl
+put the plate in the knife
+put the plate in the pencil
+put the plate in the paper sheet
+put the cup in the block
+put the cup in the ball
+put the cup in the plate
+put the cup in the cup
+put the cup in the disc
+put the cup in the spoon
+put the cup in the book
+put the cup in the blackboard
+put the cup in the bottle
+put the cup in the grape
+put the cup in the apple
+put the cup in the banana
+put the cup in the table
+put the cup in the bowl
+put the cup in the knife
+put the cup in the pencil
+put the cup in the paper sheet
+put the disc in the block
+put the disc in the ball
+put the disc in the plate
+put the disc in the cup
+put the disc in the disc
+put the disc in the spoon
+put the disc in the book
+put the disc in the blackboard
+put the disc in the bottle
+put the disc in the grape
+put the disc in the apple
+put the disc in the banana
+put the disc in the table
+put the disc in the bowl
+put the disc in the knife
+put the disc in the pencil
+put the disc in the paper sheet
+put the spoon in the block
+put the spoon in the ball
+put the spoon in the plate
+put the spoon in the cup
+put the spoon in the disc
+put the spoon in the spoon
+put the spoon in the book
+put the spoon in the blackboard
+put the spoon in the bottle
+put the spoon in the grape
+put the spoon in the apple
+put the spoon in the banana
+put the spoon in the table
+put the spoon in the bowl
+put the spoon in the knife
+put the spoon in the pencil
+put the spoon in the paper sheet
+put the book in the block
+put the book in the ball
+put the book in the plate
+put the book in the cup
+put the book in the disc
+put the book in the spoon
+put the book in the book
+put the book in the blackboard
+put the book in the bottle
+put the book in the grape
+put the book in the apple
+put the book in the banana
+put the book in the table
+put the book in the bowl
+put the book in the knife
+put the book in the pencil
+put the book in the paper sheet
+put the blackboard in the block
+put the blackboard in the ball
+put the blackboard in the plate
+put the blackboard in the cup
+put the blackboard in the disc
+put the blackboard in the spoon
+put the blackboard in the book
+put the blackboard in the blackboard
+put the blackboard in the bottle
+put the blackboard in the grape
+put the blackboard in the apple
+put the blackboard in the banana
+put the blackboard in the table
+put the blackboard in the bowl
+put the blackboard in the knife
+put the blackboard in the pencil
+put the blackboard in the paper sheet
+put the bottle in the block
+put the bottle in the ball
+put the bottle in the plate
+put the bottle in the cup
+put the bottle in the disc
+put the bottle in the spoon
+put the bottle in the book
+put the bottle in the blackboard
+put the bottle in the bottle
+put the bottle in the grape
+put the bottle in the apple
+put the bottle in the banana
+put the bottle in the table
+put the bottle in the bowl
+put the bottle in the knife
+put the bottle in the pencil
+put the bottle in the paper sheet
+put the grape in the block
+put the grape in the ball
+put the grape in the plate
+put the grape in the cup
+put the grape in the disc
+put the grape in the spoon
+put the grape in the book
+put the grape in the blackboard
+put the grape in the bottle
+put the grape in the grape
+put the grape in the apple
+put the grape in the banana
+put the grape in the table
+put the grape in the bowl
+put the grape in the knife
+put the grape in the pencil
+put the grape in the paper sheet
+put the apple in the block
+put the apple in the ball
+put the apple in the plate
+put the apple in the cup
+put the apple in the disc
+put the apple in the spoon
+put the apple in the book
+put the apple in the blackboard
+put the apple in the bottle
+put the apple in the grape
+put the apple in the apple
+put the apple in the banana
+put the apple in the table
+put the apple in the bowl
+put the apple in the knife
+put the apple in the pencil
+put the apple in the paper sheet
+put the banana in the block
+put the banana in the ball
+put the banana in the plate
+put the banana in the cup
+put the banana in the disc
+put the banana in the spoon
+put the banana in the book
+put the banana in the blackboard
+put the banana in the bottle
+put the banana in the grape
+put the banana in the apple
+put the banana in the banana
+put the banana in the table
+put the banana in the bowl
+put the banana in the knife
+put the banana in the pencil
+put the banana in the paper sheet
+put the table in the block
+put the table in the ball
+put the table in the plate
+put the table in the cup
+put the table in the disc
+put the table in the spoon
+put the table in the book
+put the table in the blackboard
+put the table in the bottle
+put the table in the grape
+put the table in the apple
+put the table in the banana
+put the table in the table
+put the table in the bowl
+put the table in the knife
+put the table in the pencil
+put the table in the paper sheet
+put the bowl in the block
+put the bowl in the ball
+put the bowl in the plate
+put the bowl in the cup
+put the bowl in the disc
+put the bowl in the spoon
+put the bowl in the book
+put the bowl in the blackboard
+put the bowl in the bottle
+put the bowl in the grape
+put the bowl in the apple
+put the bowl in the banana
+put the bowl in the table
+put the bowl in the bowl
+put the bowl in the knife
+put the bowl in the pencil
+put the bowl in the paper sheet
+put the knife in the block
+put the knife in the ball
+put the knife in the plate
+put the knife in the cup
+put the knife in the disc
+put the knife in the spoon
+put the knife in the book
+put the knife in the blackboard
+put the knife in the bottle
+put the knife in the grape
+put the knife in the apple
+put the knife in the banana
+put the knife in the table
+put the knife in the bowl
+put the knife in the knife
+put the knife in the pencil
+put the knife in the paper sheet
+put the pencil in the block
+put the pencil in the ball
+put the pencil in the plate
+put the pencil in the cup
+put the pencil in the disc
+put the pencil in the spoon
+put the pencil in the book
+put the pencil in the blackboard
+put the pencil in the bottle
+put the pencil in the grape
+put the pencil in the apple
+put the pencil in the banana
+put the pencil in the table
+put the pencil in the bowl
+put the pencil in the knife
+put the pencil in the pencil
+put the pencil in the paper sheet
+put the paper sheet in the block
+put the paper sheet in the ball
+put the paper sheet in the plate
+put the paper sheet in the cup
+put the paper sheet in the disc
+put the paper sheet in the spoon
+put the paper sheet in the book
+put the paper sheet in the blackboard
+put the paper sheet in the bottle
+put the paper sheet in the grape
+put the paper sheet in the apple
+put the paper sheet in the banana
+put the paper sheet in the table
+put the paper sheet in the bowl
+put the paper sheet in the knife
+put the paper sheet in the pencil
+put the paper sheet in the paper sheet
+]]></TEXT>
+<TAGS>
+<SENTENCE id="S0" spans="0~26" text="put the block in the block" judgement="nonsense" />
+<SENTENCE id="S1" spans="27~52" text="put the block in the ball" judgement="nonsense" />
+<SENTENCE id="S2" spans="53~79" text="put the block in the plate" judgement="nonsense" />
+<SENTENCE id="S3" spans="80~104" text="put the block in the cup" judgement="fine" />
+<SENTENCE id="S4" spans="105~130" text="put the block in the disc" judgement="nonsense" />
+<SENTENCE id="S5" spans="131~157" text="put the block in the spoon" judgement="nonsense" />
+<SENTENCE id="S6" spans="158~183" text="put the block in the book" judgement="nonsense" />
+<SENTENCE id="S7" spans="184~215" text="put the block in the blackboard" judgement="nonsense" />
+<SENTENCE id="S8" spans="216~243" text="put the block in the bottle" judgement="fine" />
+<SENTENCE id="S9" spans="244~270" text="put the block in the grape" judgement="nonsense" />
+<SENTENCE id="S10" spans="271~297" text="put the block in the apple" judgement="nonsense" />
+<SENTENCE id="S11" spans="298~325" text="put the block in the banana" judgement="nonsense" />
+<SENTENCE id="S12" spans="326~352" text="put the block in the table" judgement="nonsense" />
+<SENTENCE id="S13" spans="353~378" text="put the block in the bowl" judgement="fine" />
+<SENTENCE id="S14" spans="379~405" text="put the block in the knife" judgement="nonsense" />
+<SENTENCE id="S15" spans="406~433" text="put the block in the pencil" judgement="nonsense" />
+<SENTENCE id="S16" spans="434~466" text="put the block in the paper sheet" judgement="nonsense" />
+<SENTENCE id="S17" spans="467~492" text="put the ball in the block" judgement="nonsense" />
+<SENTENCE id="S18" spans="493~517" text="put the ball in the ball" judgement="fine" />
+<SENTENCE id="S19" spans="518~543" text="put the ball in the plate" judgement="nonsense" />
+<SENTENCE id="S20" spans="544~567" text="put the ball in the cup" judgement="fine" />
+<SENTENCE id="S21" spans="568~592" text="put the ball in the disc" judgement="nonsense" />
+<SENTENCE id="S22" spans="593~618" text="put the ball in the spoon" judgement="fine" />
+<SENTENCE id="S23" spans="619~643" text="put the ball in the book" judgement="nonsense" />
+<SENTENCE id="S24" spans="644~674" text="put the ball in the blackboard" judgement="nonsense" />
+<SENTENCE id="S25" spans="675~701" text="put the ball in the bottle" judgement="fine" />
+<SENTENCE id="S26" spans="702~727" text="put the ball in the grape" judgement="nonsense" />
+<SENTENCE id="S27" spans="728~753" text="put the ball in the apple" judgement="nonsense" />
+<SENTENCE id="S28" spans="754~780" text="put the ball in the banana" judgement="nonsense" />
+<SENTENCE id="S29" spans="781~806" text="put the ball in the table" judgement="nonsense" />
+<SENTENCE id="S30" spans="807~831" text="put the ball in the bowl" judgement="fine" />
+<SENTENCE id="S31" spans="832~857" text="put the ball in the knife" judgement="nonsense" />
+<SENTENCE id="S32" spans="858~884" text="put the ball in the pencil" judgement="nonsense" />
+<SENTENCE id="S33" spans="885~916" text="put the ball in the paper sheet" judgement="nonsense" />
+<SENTENCE id="S34" spans="917~943" text="put the plate in the block" judgement="nonsense" />
+<SENTENCE id="S35" spans="944~969" text="put the plate in the ball" judgement="nonsense" />
+<SENTENCE id="S36" spans="970~996" text="put the plate in the plate" judgement="nonsense" />
+<SENTENCE id="S37" spans="997~1021" text="put the plate in the cup" judgement="fine" />
+<SENTENCE id="S38" spans="1022~1047" text="put the plate in the disc" judgement="nonsense" />
+<SENTENCE id="S39" spans="1048~1074" text="put the plate in the spoon" judgement="nonsense" />
+<SENTENCE id="S40" spans="1075~1100" text="put the plate in the book" judgement="nonsense" />
+<SENTENCE id="S41" spans="1101~1132" text="put the plate in the blackboard" judgement="nonsense" />
+<SENTENCE id="S42" spans="1133~1160" text="put the plate in the bottle" judgement="nonsense" />
+<SENTENCE id="S43" spans="1161~1187" text="put the plate in the grape" judgement="nonsense" />
+<SENTENCE id="S44" spans="1188~1214" text="put the plate in the apple" judgement="nonsense" />
+<SENTENCE id="S45" spans="1215~1242" text="put the plate in the banana" judgement="nonsense" />
+<SENTENCE id="S46" spans="1243~1269" text="put the plate in the table" judgement="nonsense" />
+<SENTENCE id="S47" spans="1270~1295" text="put the plate in the bowl" judgement="fine" />
+<SENTENCE id="S48" spans="1296~1322" text="put the plate in the knife" judgement="nonsense" />
+<SENTENCE id="S49" spans="1323~1350" text="put the plate in the pencil" judgement="nonsense" />
+<SENTENCE id="S50" spans="1351~1383" text="put the plate in the paper sheet" judgement="nonsense" />
+<SENTENCE id="S51" spans="1384~1408" text="put the cup in the block" judgement="nonsense" />
+<SENTENCE id="S52" spans="1409~1432" text="put the cup in the ball" judgement="nonsense" />
+<SENTENCE id="S53" spans="1433~1457" text="put the cup in the plate" judgement="nonsense" />
+<SENTENCE id="S54" spans="1458~1480" text="put the cup in the cup" judgement="fine" />
+<SENTENCE id="S55" spans="1481~1504" text="put the cup in the disc" judgement="nonsense" />
+<SENTENCE id="S56" spans="1505~1529" text="put the cup in the spoon" judgement="nonsense" />
+<SENTENCE id="S57" spans="1530~1553" text="put the cup in the book" judgement="nonsense" />
+<SENTENCE id="S58" spans="1554~1583" text="put the cup in the blackboard" judgement="nonsense" />
+<SENTENCE id="S59" spans="1584~1609" text="put the cup in the bottle" judgement="fine" />
+<SENTENCE id="S60" spans="1610~1634" text="put the cup in the grape" judgement="nonsense" />
+<SENTENCE id="S61" spans="1635~1659" text="put the cup in the apple" judgement="nonsense" />
+<SENTENCE id="S62" spans="1660~1685" text="put the cup in the banana" judgement="nonsense" />
+<SENTENCE id="S63" spans="1686~1710" text="put the cup in the table" judgement="nonsense" />
+<SENTENCE id="S64" spans="1711~1734" text="put the cup in the bowl" judgement="fine" />
+<SENTENCE id="S65" spans="1735~1759" text="put the cup in the knife" judgement="nonsense" />
+<SENTENCE id="S66" spans="1760~1785" text="put the cup in the pencil" judgement="nonsense" />
+<SENTENCE id="S67" spans="1786~1816" text="put the cup in the paper sheet" judgement="nonsense" />
+<SENTENCE id="S68" spans="1817~1842" text="put the disc in the block" judgement="nonsense" />
+<SENTENCE id="S69" spans="1843~1867" text="put the disc in the ball" judgement="nonsense" />
+<SENTENCE id="S70" spans="1868~1893" text="put the disc in the plate" judgement="nonsense" />
+<SENTENCE id="S71" spans="1894~1917" text="put the disc in the cup" judgement="fine" />
+<SENTENCE id="S72" spans="1918~1942" text="put the disc in the disc" judgement="nonsense" />
+<SENTENCE id="S73" spans="1943~1968" text="put the disc in the spoon" judgement="fine" />
+<SENTENCE id="S74" spans="1969~1993" text="put the disc in the book" judgement="nonsense" />
+<SENTENCE id="S75" spans="1994~2024" text="put the disc in the blackboard" judgement="nonsense" />
+<SENTENCE id="S76" spans="2025~2051" text="put the disc in the bottle" judgement="fine" />
+<SENTENCE id="S77" spans="2052~2077" text="put the disc in the grape" judgement="nonsense" />
+<SENTENCE id="S78" spans="2078~2103" text="put the disc in the apple" judgement="nonsense" />
+<SENTENCE id="S79" spans="2104~2130" text="put the disc in the banana" judgement="nonsense" />
+<SENTENCE id="S80" spans="2131~2156" text="put the disc in the table" judgement="nonsense" />
+<SENTENCE id="S81" spans="2157~2181" text="put the disc in the bowl" judgement="fine" />
+<SENTENCE id="S82" spans="2182~2207" text="put the disc in the knife" judgement="nonsense" />
+<SENTENCE id="S83" spans="2208~2234" text="put the disc in the pencil" judgement="nonsense" />
+<SENTENCE id="S84" spans="2235~2266" text="put the disc in the paper sheet" judgement="nonsense" />
+<SENTENCE id="S85" spans="2267~2293" text="put the spoon in the block" judgement="nonsense" />
+<SENTENCE id="S86" spans="2294~2319" text="put the spoon in the ball" judgement="nonsense" />
+<SENTENCE id="S87" spans="2320~2346" text="put the spoon in the plate" judgement="nonsense" />
+<SENTENCE id="S88" spans="2347~2371" text="put the spoon in the cup" judgement="fine" />
+<SENTENCE id="S89" spans="2372~2397" text="put the spoon in the disc" judgement="nonsense" />
+<SENTENCE id="S90" spans="2398~2424" text="put the spoon in the spoon" judgement="fine" />
+<SENTENCE id="S91" spans="2425~2450" text="put the spoon in the book" judgement="nonsense" />
+<SENTENCE id="S92" spans="2451~2482" text="put the spoon in the blackboard" judgement="nonsense" />
+<SENTENCE id="S93" spans="2483~2510" text="put the spoon in the bottle" judgement="fine" />
+<SENTENCE id="S94" spans="2511~2537" text="put the spoon in the grape" judgement="nonsense" />
+<SENTENCE id="S95" spans="2538~2564" text="put the spoon in the apple" judgement="nonsense" />
+<SENTENCE id="S96" spans="2565~2592" text="put the spoon in the banana" judgement="nonsense" />
+<SENTENCE id="S97" spans="2593~2619" text="put the spoon in the table" judgement="nonsense" />
+<SENTENCE id="S98" spans="2620~2645" text="put the spoon in the bowl" judgement="fine" />
+<SENTENCE id="S99" spans="2646~2672" text="put the spoon in the knife" judgement="nonsense" />
+<SENTENCE id="S100" spans="2673~2700" text="put the spoon in the pencil" judgement="nonsense" />
+<SENTENCE id="S101" spans="2701~2733" text="put the spoon in the paper sheet" judgement="nonsense" />
+<SENTENCE id="S102" spans="2734~2759" text="put the book in the block" judgement="nonsense" />
+<SENTENCE id="S103" spans="2760~2784" text="put the book in the ball" judgement="nonsense" />
+<SENTENCE id="S104" spans="2785~2810" text="put the book in the plate" judgement="nonsense" />
+<SENTENCE id="S105" spans="2811~2834" text="put the book in the cup" judgement="fine" />
+<SENTENCE id="S106" spans="2835~2859" text="put the book in the disc" judgement="nonsense" />
+<SENTENCE id="S107" spans="2860~2885" text="put the book in the spoon" judgement="nonsense" />
+<SENTENCE id="S108" spans="2886~2910" text="put the book in the book" judgement="nonsense" />
+<SENTENCE id="S109" spans="2911~2941" text="put the book in the blackboard" judgement="nonsense" />
+<SENTENCE id="S110" spans="2942~2968" text="put the book in the bottle" judgement="awkward" />
+<SENTENCE id="S111" spans="2969~2994" text="put the book in the grape" judgement="nonsense" />
+<SENTENCE id="S112" spans="2995~3020" text="put the book in the apple" judgement="nonsense" />
+<SENTENCE id="S113" spans="3021~3047" text="put the book in the banana" judgement="nonsense" />
+<SENTENCE id="S114" spans="3048~3073" text="put the book in the table" judgement="nonsense" />
+<SENTENCE id="S115" spans="3074~3098" text="put the book in the bowl" judgement="nonsense" />
+<SENTENCE id="S116" spans="3099~3124" text="put the book in the knife" judgement="nonsense" />
+<SENTENCE id="S117" spans="3125~3151" text="put the book in the pencil" judgement="nonsense" />
+<SENTENCE id="S118" spans="3152~3183" text="put the book in the paper sheet" judgement="nonsense" />
+<SENTENCE id="S119" spans="3184~3215" text="put the blackboard in the block" judgement="nonsense" />
+<SENTENCE id="S120" spans="3216~3246" text="put the blackboard in the ball" judgement="nonsense" />
+<SENTENCE id="S121" spans="3247~3278" text="put the blackboard in the plate" judgement="nonsense" />
+<SENTENCE id="S122" spans="3279~3308" text="put the blackboard in the cup" judgement="nonsense" />
+<SENTENCE id="S123" spans="3309~3339" text="put the blackboard in the disc" judgement="nonsense" />
+<SENTENCE id="S124" spans="3340~3371" text="put the blackboard in the spoon" judgement="nonsense" />
+<SENTENCE id="S125" spans="3372~3402" text="put the blackboard in the book" judgement="nonsense" />
+<SENTENCE id="S126" spans="3403~3439" text="put the blackboard in the blackboard" judgement="nonsense" />
+<SENTENCE id="S127" spans="3440~3472" text="put the blackboard in the bottle" judgement="nonsense" />
+<SENTENCE id="S128" spans="3473~3504" text="put the blackboard in the grape" judgement="nonsense" />
+<SENTENCE id="S129" spans="3505~3536" text="put the blackboard in the apple" judgement="nonsense" />
+<SENTENCE id="S130" spans="3537~3569" text="put the blackboard in the banana" judgement="nonsense" />
+<SENTENCE id="S131" spans="3570~3601" text="put the blackboard in the table" judgement="nonsense" />
+<SENTENCE id="S132" spans="3602~3632" text="put the blackboard in the bowl" judgement="nonsense" />
+<SENTENCE id="S133" spans="3633~3664" text="put the blackboard in the knife" judgement="nonsense" />
+<SENTENCE id="S134" spans="3665~3697" text="put the blackboard in the pencil" judgement="nonsense" />
+<SENTENCE id="S135" spans="3698~3735" text="put the blackboard in the paper sheet" judgement="nonsense" />
+<SENTENCE id="S136" spans="3736~3763" text="put the bottle in the block" judgement="nonsense" />
+<SENTENCE id="S137" spans="3764~3790" text="put the bottle in the ball" judgement="nonsense" />
+<SENTENCE id="S138" spans="3791~3818" text="put the bottle in the plate" judgement="nonsense" />
+<SENTENCE id="S139" spans="3819~3844" text="put the bottle in the cup" judgement="fine" />
+<SENTENCE id="S140" spans="3845~3871" text="put the bottle in the disc" judgement="nonsense" />
+<SENTENCE id="S141" spans="3872~3899" text="put the bottle in the spoon" judgement="nonsense" />
+<SENTENCE id="S142" spans="3900~3926" text="put the bottle in the book" judgement="nonsense" />
+<SENTENCE id="S143" spans="3927~3959" text="put the bottle in the blackboard" judgement="nonsense" />
+<SENTENCE id="S144" spans="3960~3988" text="put the bottle in the bottle" judgement="awkward" />
+<SENTENCE id="S145" spans="3989~4016" text="put the bottle in the grape" judgement="nonsense" />
+<SENTENCE id="S146" spans="4017~4044" text="put the bottle in the apple" judgement="nonsense" />
+<SENTENCE id="S147" spans="4045~4073" text="put the bottle in the banana" judgement="nonsense" />
+<SENTENCE id="S148" spans="4074~4101" text="put the bottle in the table" judgement="nonsense" />
+<SENTENCE id="S149" spans="4102~4128" text="put the bottle in the bowl" judgement="fine" />
+<SENTENCE id="S150" spans="4129~4156" text="put the bottle in the knife" judgement="nonsense" />
+<SENTENCE id="S151" spans="4157~4185" text="put the bottle in the pencil" judgement="nonsense" />
+<SENTENCE id="S152" spans="4186~4219" text="put the bottle in the paper sheet" judgement="nonsense" />
+<SENTENCE id="S153" spans="4220~4246" text="put the grape in the block" judgement="nonsense" />
+<SENTENCE id="S154" spans="4247~4272" text="put the grape in the ball" judgement="nonsense" />
+<SENTENCE id="S155" spans="4273~4299" text="put the grape in the plate" judgement="nonsense" />
+<SENTENCE id="S156" spans="4300~4324" text="put the grape in the cup" judgement="fine" />
+<SENTENCE id="S157" spans="4325~4350" text="put the grape in the disc" judgement="nonsense" />
+<SENTENCE id="S158" spans="4351~4377" text="put the grape in the spoon" judgement="fine" />
+<SENTENCE id="S159" spans="4378~4403" text="put the grape in the book" judgement="nonsense" />
+<SENTENCE id="S160" spans="4404~4435" text="put the grape in the blackboard" judgement="nonsense" />
+<SENTENCE id="S161" spans="4436~4463" text="put the grape in the bottle" judgement="fine" />
+<SENTENCE id="S162" spans="4464~4490" text="put the grape in the grape" judgement="nonsense" />
+<SENTENCE id="S163" spans="4491~4517" text="put the grape in the apple" judgement="nonsense" />
+<SENTENCE id="S164" spans="4518~4545" text="put the grape in the banana" judgement="nonsense" />
+<SENTENCE id="S165" spans="4546~4572" text="put the grape in the table" judgement="nonsense" />
+<SENTENCE id="S166" spans="4573~4598" text="put the grape in the bowl" judgement="fine" />
+<SENTENCE id="S167" spans="4599~4625" text="put the grape in the knife" judgement="nonsense" />
+<SENTENCE id="S168" spans="4626~4653" text="put the grape in the pencil" judgement="nonsense" />
+<SENTENCE id="S169" spans="4654~4686" text="put the grape in the paper sheet" judgement="nonsense" />
+<SENTENCE id="S170" spans="4687~4713" text="put the apple in the block" judgement="nonsense" />
+<SENTENCE id="S171" spans="4714~4739" text="put the apple in the ball" judgement="nonsense" />
+<SENTENCE id="S172" spans="4740~4766" text="put the apple in the plate" judgement="nonsense" />
+<SENTENCE id="S173" spans="4767~4791" text="put the apple in the cup" judgement="fine" />
+<SENTENCE id="S174" spans="4792~4817" text="put the apple in the disc" judgement="nonsense" />
+<SENTENCE id="S175" spans="4818~4844" text="put the apple in the spoon" judgement="fine" />
+<SENTENCE id="S176" spans="4845~4870" text="put the apple in the book" judgement="nonsense" />
+<SENTENCE id="S177" spans="4871~4902" text="put the apple in the blackboard" judgement="nonsense" />
+<SENTENCE id="S178" spans="4903~4930" text="put the apple in the bottle" judgement="fine" />
+<SENTENCE id="S179" spans="4931~4957" text="put the apple in the grape" judgement="nonsense" />
+<SENTENCE id="S180" spans="4958~4984" text="put the apple in the apple" judgement="nonsense" />
+<SENTENCE id="S181" spans="4985~5012" text="put the apple in the banana" judgement="nonsense" />
+<SENTENCE id="S182" spans="5013~5039" text="put the apple in the table" judgement="nonsense" />
+<SENTENCE id="S183" spans="5040~5065" text="put the apple in the bowl" judgement="fine" />
+<SENTENCE id="S184" spans="5066~5092" text="put the apple in the knife" judgement="nonsense" />
+<SENTENCE id="S185" spans="5093~5120" text="put the apple in the pencil" judgement="nonsense" />
+<SENTENCE id="S186" spans="5121~5153" text="put the apple in the paper sheet" judgement="nonsense" />
+<SENTENCE id="S187" spans="5154~5181" text="put the banana in the block" judgement="nonsense" />
+<SENTENCE id="S188" spans="5182~5208" text="put the banana in the ball" judgement="nonsense" />
+<SENTENCE id="S189" spans="5209~5236" text="put the banana in the plate" judgement="nonsense" />
+<SENTENCE id="S190" spans="5237~5262" text="put the banana in the cup" judgement="fine" />
+<SENTENCE id="S191" spans="5263~5289" text="put the banana in the disc" judgement="nonsense" />
+<SENTENCE id="S192" spans="5290~5317" text="put the banana in the spoon" judgement="nonsense" />
+<SENTENCE id="S193" spans="5318~5344" text="put the banana in the book" judgement="nonsense" />
+<SENTENCE id="S194" spans="5345~5377" text="put the banana in the blackboard" judgement="nonsense" />
+<SENTENCE id="S195" spans="5378~5406" text="put the banana in the bottle" judgement="nonsense" />
+<SENTENCE id="S196" spans="5407~5434" text="put the banana in the grape" judgement="nonsense" />
+<SENTENCE id="S197" spans="5435~5462" text="put the banana in the apple" judgement="nonsense" />
+<SENTENCE id="S198" spans="5463~5491" text="put the banana in the banana" judgement="nonsense" />
+<SENTENCE id="S199" spans="5492~5519" text="put the banana in the table" judgement="nonsense" />
+<SENTENCE id="S200" spans="5520~5546" text="put the banana in the bowl" judgement="fine" />
+<SENTENCE id="S201" spans="5547~5574" text="put the banana in the knife" judgement="nonsense" />
+<SENTENCE id="S202" spans="5575~5603" text="put the banana in the pencil" judgement="nonsense" />
+<SENTENCE id="S203" spans="5604~5637" text="put the banana in the paper sheet" judgement="nonsense" />
+<SENTENCE id="S204" spans="5638~5664" text="put the table in the block" judgement="nonsense" />
+<SENTENCE id="S205" spans="5665~5690" text="put the table in the ball" judgement="nonsense" />
+<SENTENCE id="S206" spans="5691~5717" text="put the table in the plate" judgement="nonsense" />
+<SENTENCE id="S207" spans="5718~5742" text="put the table in the cup" judgement="nonsense" />
+<SENTENCE id="S208" spans="5743~5768" text="put the table in the disc" judgement="nonsense" />
+<SENTENCE id="S209" spans="5769~5795" text="put the table in the spoon" judgement="nonsense" />
+<SENTENCE id="S210" spans="5796~5821" text="put the table in the book" judgement="nonsense" />
+<SENTENCE id="S211" spans="5822~5853" text="put the table in the blackboard" judgement="nonsense" />
+<SENTENCE id="S212" spans="5854~5881" text="put the table in the bottle" judgement="nonsense" />
+<SENTENCE id="S213" spans="5882~5908" text="put the table in the grape" judgement="nonsense" />
+<SENTENCE id="S214" spans="5909~5935" text="put the table in the apple" judgement="nonsense" />
+<SENTENCE id="S215" spans="5936~5963" text="put the table in the banana" judgement="nonsense" />
+<SENTENCE id="S216" spans="5964~5990" text="put the table in the table" judgement="nonsense" />
+<SENTENCE id="S217" spans="5991~6016" text="put the table in the bowl" judgement="nonsense" />
+<SENTENCE id="S218" spans="6017~6043" text="put the table in the knife" judgement="nonsense" />
+<SENTENCE id="S219" spans="6044~6071" text="put the table in the pencil" judgement="nonsense" />
+<SENTENCE id="S220" spans="6072~6104" text="put the table in the paper sheet" judgement="nonsense" />
+<SENTENCE id="S221" spans="6105~6130" text="put the bowl in the block" judgement="nonsense" />
+<SENTENCE id="S222" spans="6131~6155" text="put the bowl in the ball" judgement="nonsense" />
+<SENTENCE id="S223" spans="6156~6181" text="put the bowl in the plate" judgement="nonsense" />
+<SENTENCE id="S224" spans="6182~6205" text="put the bowl in the cup" judgement="nonsense" />
+<SENTENCE id="S225" spans="6206~6230" text="put the bowl in the disc" judgement="nonsense" />
+<SENTENCE id="S226" spans="6231~6256" text="put the bowl in the spoon" judgement="nonsense" />
+<SENTENCE id="S227" spans="6257~6281" text="put the bowl in the book" judgement="nonsense" />
+<SENTENCE id="S228" spans="6282~6312" text="put the bowl in the blackboard" judgement="nonsense" />
+<SENTENCE id="S229" spans="6313~6339" text="put the bowl in the bottle" judgement="nonsense" />
+<SENTENCE id="S230" spans="6340~6365" text="put the bowl in the grape" judgement="nonsense" />
+<SENTENCE id="S231" spans="6366~6391" text="put the bowl in the apple" judgement="nonsense" />
+<SENTENCE id="S232" spans="6392~6418" text="put the bowl in the banana" judgement="nonsense" />
+<SENTENCE id="S233" spans="6419~6444" text="put the bowl in the table" judgement="nonsense" />
+<SENTENCE id="S234" spans="6445~6469" text="put the bowl in the bowl" judgement="fine" />
+<SENTENCE id="S235" spans="6470~6495" text="put the bowl in the knife" judgement="nonsense" />
+<SENTENCE id="S236" spans="6496~6522" text="put the bowl in the pencil" judgement="nonsense" />
+<SENTENCE id="S237" spans="6523~6554" text="put the bowl in the paper sheet" judgement="nonsense" />
+<SENTENCE id="S238" spans="6555~6581" text="put the knife in the block" judgement="fine" />
+<SENTENCE id="S239" spans="6582~6607" text="put the knife in the ball" judgement="fine" />
+<SENTENCE id="S240" spans="6608~6634" text="put the knife in the plate" judgement="nonsense" />
+<SENTENCE id="S241" spans="6635~6659" text="put the knife in the cup" judgement="fine" />
+<SENTENCE id="S242" spans="6660~6685" text="put the knife in the disc" judgement="nonsense" />
+<SENTENCE id="S243" spans="6686~6712" text="put the knife in the spoon" judgement="nonsense" />
+<SENTENCE id="S244" spans="6713~6738" text="put the knife in the book" judgement="fine" />
+<SENTENCE id="S245" spans="6739~6770" text="put the knife in the blackboard" judgement="awkward" />
+<SENTENCE id="S246" spans="6771~6798" text="put the knife in the bottle" judgement="fine" />
+<SENTENCE id="S247" spans="6799~6825" text="put the knife in the grape" judgement="fine" />
+<SENTENCE id="S248" spans="6826~6852" text="put the knife in the apple" judgement="fine" />
+<SENTENCE id="S249" spans="6853~6880" text="put the knife in the banana" judgement="fine" />
+<SENTENCE id="S250" spans="6881~6907" text="put the knife in the table" judgement="fine" />
+<SENTENCE id="S251" spans="6908~6933" text="put the knife in the bowl" judgement="fine" />
+<SENTENCE id="S252" spans="6934~6960" text="put the knife in the knife" judgement="nonsense" />
+<SENTENCE id="S253" spans="6961~6988" text="put the knife in the pencil" judgement="nonsense" />
+<SENTENCE id="S254" spans="6989~7021" text="put the knife in the paper sheet" judgement="nonsense" />
+<SENTENCE id="S255" spans="7022~7049" text="put the pencil in the block" judgement="nonsense" />
+<SENTENCE id="S256" spans="7050~7076" text="put the pencil in the ball" judgement="nonsense" />
+<SENTENCE id="S257" spans="7077~7104" text="put the pencil in the plate" judgement="nonsense" />
+<SENTENCE id="S258" spans="7105~7130" text="put the pencil in the cup" judgement="fine" />
+<SENTENCE id="S259" spans="7131~7157" text="put the pencil in the disc" judgement="nonsense" />
+<SENTENCE id="S260" spans="7158~7185" text="put the pencil in the spoon" judgement="fine" />
+<SENTENCE id="S261" spans="7186~7212" text="put the pencil in the book" judgement="fine" />
+<SENTENCE id="S262" spans="7213~7245" text="put the pencil in the blackboard" judgement="nonsense" />
+<SENTENCE id="S263" spans="7246~7274" text="put the pencil in the bottle" judgement="fine" />
+<SENTENCE id="S264" spans="7275~7302" text="put the pencil in the grape" judgement="nonsense" />
+<SENTENCE id="S265" spans="7303~7330" text="put the pencil in the apple" judgement="nonsense" />
+<SENTENCE id="S266" spans="7331~7359" text="put the pencil in the banana" judgement="nonsense" />
+<SENTENCE id="S267" spans="7360~7387" text="put the pencil in the table" judgement="nonsense" />
+<SENTENCE id="S268" spans="7388~7414" text="put the pencil in the bowl" judgement="fine" />
+<SENTENCE id="S269" spans="7415~7442" text="put the pencil in the knife" judgement="nonsense" />
+<SENTENCE id="S270" spans="7443~7471" text="put the pencil in the pencil" judgement="nonsense" />
+<SENTENCE id="S271" spans="7472~7505" text="put the pencil in the paper sheet" judgement="nonsense" />
+<SENTENCE id="S272" spans="7506~7538" text="put the paper sheet in the block" judgement="nonsense" />
+<SENTENCE id="S273" spans="7539~7570" text="put the paper sheet in the ball" judgement="nonsense" />
+<SENTENCE id="S274" spans="7571~7603" text="put the paper sheet in the plate" judgement="nonsense" />
+<SENTENCE id="S275" spans="7604~7634" text="put the paper sheet in the cup" judgement="fine" />
+<SENTENCE id="S276" spans="7635~7666" text="put the paper sheet in the disc" judgement="nonsense" />
+<SENTENCE id="S277" spans="7667~7699" text="put the paper sheet in the spoon" judgement="awkward" />
+<SENTENCE id="S278" spans="7700~7731" text="put the paper sheet in the book" judgement="fine" />
+<SENTENCE id="S279" spans="7732~7769" text="put the paper sheet in the blackboard" judgement="nonsense" />
+<SENTENCE id="S280" spans="7770~7803" text="put the paper sheet in the bottle" judgement="fine" />
+<SENTENCE id="S281" spans="7804~7836" text="put the paper sheet in the grape" judgement="nonsense" />
+<SENTENCE id="S282" spans="7837~7869" text="put the paper sheet in the apple" judgement="nonsense" />
+<SENTENCE id="S283" spans="7870~7903" text="put the paper sheet in the banana" judgement="nonsense" />
+<SENTENCE id="S284" spans="7904~7936" text="put the paper sheet in the table" judgement="nonsense" />
+<SENTENCE id="S285" spans="7937~7968" text="put the paper sheet in the bowl" judgement="fine" />
+<SENTENCE id="S286" spans="7969~8001" text="put the paper sheet in the knife" judgement="nonsense" />
+<SENTENCE id="S287" spans="8002~8035" text="put the paper sheet in the pencil" judgement="nonsense" />
+<SENTENCE id="S288" spans="8036~8074" text="put the paper sheet in the paper sheet" judgement="nonsense" />
+</TAGS>
+</SentenceSimulabilityTask>
