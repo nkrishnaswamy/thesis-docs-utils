@@ -41,8 +41,11 @@ def read_database(database):
     return output
 
 def filter_dict(db_value):
-    dict = json.loads(db_value)
-    dict = {str(k): str(v) for k, v in dict.iteritems() if len(v) > 0}
+    if db_value is not None:
+        dict = json.loads(db_value)
+        dict = {str(k): str(v) for k, v in dict.iteritems() if len(v) > 0}
+    else:
+        dict = {}
 
 
     return dict

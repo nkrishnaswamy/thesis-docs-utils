@@ -84,7 +84,8 @@ def main():
         cursor.execute('CREATE TABLE IF NOT EXISTS AlternateSentences(Id INTEGER PRIMARY KEY, FilePath TEXT, Sentence1 TEXT, Sentence2 TEXT, Sentence3 TEXT)')
 
         cursor.execute('SELECT * FROM AlternateSentences WHERE FilePath = ?', (entry[0],))
-        if cursor.fetchall() == None:
+        result = cursor.fetchall()
+        if len(result) == 0:
             cursor.execute('INSERT INTO AlternateSentences(FilePath,Sentence1,Sentence2,Sentence3) VALUES(?,?,?,?)',
                            (entry[0],sentence_choices[0],sentence_choices[1],sentence_choices[2]))
             connection.commit()
@@ -169,8 +170,8 @@ def search_underspecifications(entry):
     for key in specified_manner_predicates:
         matches = re.search(key,entry[3])
         if matches is not None:
-            for group in matches.groupdict():
-                print matches.groupdict()[group]
+            #for group in matches.groupdict():
+            #    print matches.groupdict()[group]
             for val in specified_manner_predicates[key]:
                 underspecification = val % matches.groupdict()["dobj"]
                 underspecification = underspecification.replace('('," the ").replace(','," ").replace("_"," ").replace(')',"")

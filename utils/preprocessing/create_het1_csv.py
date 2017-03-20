@@ -27,8 +27,8 @@ def main():
     output.write("DESCRIPTION,VIDEOA,VIDEOB,VIDEOC\n")
     for description in descriptions:
         files = [url_prefix + entry[0]+".mp4" for entry in contents if entry[1] == description]
-        if len(files) == 3:
-            output.write("%s,%s,%s,%s\n" % tuple([description] + files))
+        if len(files) >= 3:
+            output.write("%s,%s,%s,%s\n" % tuple([description] + files[:3]))
 
 if __name__ == "__main__":
     main()

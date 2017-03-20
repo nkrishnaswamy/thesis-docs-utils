@@ -39,18 +39,5 @@ def read_alternate_sentences(database):
     
     return output
 
-#    contents = read_database.read_database(database)
-#
-#    descriptions = []
-#    for entry in contents:
-#        if entry[1] not in descriptions:
-#            descriptions.append(entry[1])
-#
-#    output.write("DESCRIPTION,VIDEOA,VIDEOB,VIDEOC\n")
-#    for description in descriptions:
-#        files = [url_prefix + entry[0]+".mp4" for entry in contents if entry[1] == description]
-#        if len(files) == 3:
-#            output.write("%s,%s,%s,%s\n" % tuple([description] + files))
-
 if __name__ == "__main__":
     main()
