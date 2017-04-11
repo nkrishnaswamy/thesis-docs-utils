@@ -6,21 +6,23 @@ import json
 def main():
     parser = OptionParser()
     parser.add_option("-d", "--database", dest = "database", default = "", help = "Database", metavar = "DATABASE")
+    parser.add_option("-t", "--table", dest = "table", default = "", help = "Table", metavar = "TABLE")
     parser.add_option("-o", "--output", dest = "output", default = "", help = "Output text file", metavar = "OUTPUT")
     (options, args) = parser.parse_args()
     
     database = options.database
+    table = options.table
     #outfile = open(options.output, "w")
     
-    read_database(database)
+    read_database(database,table,True)
 
-def read_database(database):
-    print database
+def read_database(database,table,filter):
+    print database, table
     connection = sqlite3.connect(database)
 
     cursor = connection.cursor()
 
-    cursor.execute('SELECT * FROM VideoDBEntry')
+    cursor.execute('SELECT * FROM ' + table)
     results = cursor.fetchall()
     
     connection.close()
@@ -34,16 +36,35 @@ def read_database(database):
 #        print result[5] # event predicate
 #        print result[6] # objects
 #        print filter_dict(result[7])    # param values
-        output.append((result[1],result[2],result[3],
-                       result[4],result[5],result[6],
-                       filter_dict(result[7])))
-                      
+        entry = ()
+        if len(result) > 7:
+            for field in result:
+                #if result[7] is not None:
+                try:
+                    entry = entry + (filter_dict(field,filter),)
+                except:
+                    entry = entry + (field,)
+    
+            output.append(entry)
+        #   if entry is not ():
+        #       output.append(entry)
+        else:
+            for field in result:
+                entry = entry + (field,)
+
+            output.append(entry)
+        #    if entry is not ():
+        #       output.append(entry)
+
     return output
 
-def filter_dict(db_value):
+def filter_dict(db_value,filter):
     if db_value is not None:
         dict = json.loads(db_value)
-        dict = {str(k): str(v) for k, v in dict.iteritems() if len(v) > 0}
+        if filter == True:
+            dict = {str(k): str(v) for k, v in dict.iteritems() if len(v) > 0}
+        else:
+            dict = {str(k): str(v) for k, v in dict.iteritems()}
     else:
         dict = {}
 
