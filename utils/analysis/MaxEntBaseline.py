@@ -40,7 +40,7 @@ def main():
         train_classifier(separated_training_data,save)
 
 def train_classifier(training_data,save_file):
-    classifier = maxent.MaxentClassifier.train(training_data[:200], 'GIS', min_lldelta=.0001,max_iter=1000)
+    classifier = maxent.MaxentClassifier.train(training_data, 'GIS', min_lldelta=.0001,max_iter=1000)
     pickle.dump(classifier,save_file)
     save_file.close()
 
@@ -52,7 +52,7 @@ def evaluate(classifier,testing_data):
     reference = []
     restricted_test = []
     unrestricted_test = []
-    for i in range(len(testing_data[:20])):
+    for i in range(len(testing_data)):
         pdist = classifier.prob_classify(features[i])
         restricted_best_prob = pdist.prob(candidates[i][0])
         restricted_best_match = candidates[i][0]
