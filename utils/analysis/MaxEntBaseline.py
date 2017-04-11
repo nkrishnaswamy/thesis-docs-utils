@@ -11,6 +11,7 @@ def main():
     parser.add_option("-T", "--testing", dest = "testing", default = "", help = "Testing data", metavar = "TESTING")
     parser.add_option("-s", "--save", dest = "save", default = "", help = "Save classifier destination", metavar = "SAVE")
     parser.add_option("-k", "--kfactor", dest = "kfactor", default = "", help = "Exclude every kth entry (training), include every kth entry (testing)", metavar = "KFACTOR")
+    parser.add_option("-n", "--offset", dest = "offset", default = 0, help = "Exclude every kth entry (training), include every kth entry (testing), offset by n", metavar = "OFFSET")
     (options, args) = parser.parse_args()
     
     '''train: python MaxEntBaseline.py -t ../preprocessing/het-features.pickle -s maxent-baseline-classifier.pickle -k 10'''
@@ -18,6 +19,7 @@ def main():
     
     training = open(options.training, "rb")
     kfactor = int(options.kfactor)
+    offset = int(options.offset)
     
     if options.save is '':
         if options.testing is not '':
@@ -26,14 +28,14 @@ def main():
             training.close()
             testing_data = pickle.load(testing)
             testing.close()
-            separated_testing_data = [testing_data[i] for i in range(len(testing_data)) if i % kfactor == 0]
+            separated_testing_data = [testing_data[i] for i in range(len(testing_data)) if i % kfactor == offset]
             #random.shuffle(testing_data)
             evaluate(classifier,separated_testing_data)
     else:
         save = open(options.save, "wb")
         training_data = pickle.load(training)
         training.close()
-        separated_training_data = [training_data[i] for i in range(len(training_data)) if i % kfactor != 0]
+        separated_training_data = [training_data[i] for i in range(len(training_data)) if i % kfactor != offset]
         #random.shuffle(training_data)
         train_classifier(separated_training_data,save)
 
