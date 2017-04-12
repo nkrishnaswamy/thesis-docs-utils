@@ -14,8 +14,8 @@ def main():
     parser.add_option("-n", "--offset", dest = "offset", default = 0, help = "Exclude every kth entry (training), include every kth entry (testing), offset by n", metavar = "OFFSET")
     (options, args) = parser.parse_args()
     
-    '''train: python MaxEntBaseline.py -t ../preprocessing/het-features.pickle -s maxent-baseline-classifier.pickle -k 10'''
-    '''test: python MaxEntBaseline.py -t maxent-baseline-classifier.pickle -T ../preprocessing/het-testing.pickle -k 10'''
+    '''train: python MaxEntBaseline.py -t ../preprocessing/het-features.pickle -s maxent-baseline-classifier.pickle -k 10 -n 0'''
+    '''test: python MaxEntBaseline.py -t maxent-baseline-classifier.pickle -T ../preprocessing/het-testing.pickle -k 10 -n 0'''
     
     training = open(options.training, "rb")
     kfactor = int(options.kfactor)
@@ -29,14 +29,12 @@ def main():
             testing_data = pickle.load(testing)
             testing.close()
             separated_testing_data = [testing_data[i] for i in range(len(testing_data)) if i % kfactor == offset]
-            #random.shuffle(testing_data)
             evaluate(classifier,separated_testing_data)
     else:
         save = open(options.save, "wb")
         training_data = pickle.load(training)
         training.close()
         separated_training_data = [training_data[i] for i in range(len(training_data)) if i % kfactor != offset]
-        #random.shuffle(training_data)
         train_classifier(separated_training_data,save)
 
 def train_classifier(training_data,save_file):
@@ -56,13 +54,33 @@ def evaluate(classifier,testing_data):
         pdist = classifier.prob_classify(features[i])
         restricted_best_prob = pdist.prob(candidates[i][0])
         restricted_best_match = candidates[i][0]
+        multiple_choice = []
+        
         print "\nCandidates in restricted choice set:"
-        for candidate in candidates[i]:
-            print candidate, "\t", pdist.prob(candidate)
-            if pdist.prob(candidate) > restricted_best_prob:
-                restricted_best_prob = pdist.prob(candidate)
-                restricted_best_match = candidate
+        for j in range(len(candidates[i])):
+            print j+1, "\t", candidates[i][j], "\t", pdist.prob(candidates[i][j])
+            if pdist.prob(candidates[i][j]) > restricted_best_prob:
+                restricted_best_prob = pdist.prob(candidates[i][j])
+                restricted_best_match = candidates[i][j]
+    
+        multiple_choice.append(candidates[i].index(restricted_best_match)+1)
+        for j in range(len(candidates[i])):
+            if pdist.prob(candidates[i][j]) == pdist.prob(candidates[i][multiple_choice[0]-1]):
+                multiple_choice.append(j+1)
+        multiple_choice = list(set(sorted(multiple_choice)))
+
+        if pdist.prob(candidates[i][j]) > restricted_best_prob:
+            restricted_best_prob = pdist.prob(candidates[i][j])
+            restricted_best_match = candidates[i][j]
+
+        if restricted_best_prob == 0:
+            restricted_best_match = "None"
+
         unrestricted_best_match = classifier.classify(features[i])
+        if pdist.prob(unrestricted_best_match) == 0:
+            unrestricted_best_match = "None"
+
+        print "Prediction with multiple choice option: %s" % (multiple_choice,)
         print "Prediction from restricted choice set: %s" % (restricted_best_match,)
         print "Prediction from unrestricted choice set: %s" % (unrestricted_best_match,)
         print "True label: %s" % (labels[i],)
