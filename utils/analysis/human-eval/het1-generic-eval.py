@@ -11,24 +11,6 @@ class ParamType(aenum.Enum):
     discrete = 1
     continuous = 2
 
-start_positions = {
-    "bottle" : (-.3,2.788,.5),
-    "knife" : (1.2,2.481,-.5),
-    "pencil" : (.7,2.4713,-.5),
-    "plate" : (.7,2.491,.5),
-    "blackboard" : (.2,2.977,.0),
-    "bowl" : (.2,2.532,.5),
-    "book" : (-.8,2.504,-.5),
-    "block3" : (-.8,2.545,.0),
-    "paper_sheet" : (-.3,2.475,-.5),
-    "ball" : (-.8,2.547,0.5),
-    "apple" : (1.2,2.546,.5),
-    "cup" : (1.2,2.592,.0),
-    "disc" : (.7,2.477,.0),
-    "grape" : (-.3,2.48,.0),
-    "banana" : (.2,2.488,-.5)
-}
-
 pred_matches = [
     "move %",
     "turn %",
@@ -149,6 +131,7 @@ def main():
 # the probability that an arbitrary judge rates as acceptable a video generated for a given predicate using a given parameter set
 # Task 2:
 # the probability that an arbitrary judge rates as acceptable a candidate predicate for a given video generated with a given parameter set
+# confusion matrix for right choice/wrong choice
 
 #for each predicate
 #what parameters need to be conditioned on?
@@ -419,7 +402,7 @@ def create_output_db():
             
                 entries.append(entry)
 
-        cursor.executemany("INSERT INTO AcceptableCounts VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)", entries)
+        cursor.executemany("INSERT INTO RightAnswerCounts VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)", entries)
 
         for pred in pred_matches:
             cursor.execute("SELECT * FROM TotalCounts WHERE Predicate = ?", (pred,))
@@ -483,7 +466,7 @@ def create_output_db():
                     
                         entry[13] = float(acc_count)/float(total_count)
                         print entry
-                        cursor.execute("INSERT INTO Probabilities VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)", entry)
+                        cursor.execute("INSERT INTO AcceptabilityProbabilities VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)", entry)
 
         connection.commit()
 
