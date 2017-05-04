@@ -324,7 +324,7 @@ def create_output_db():
         cursor.execute("CREATE TABLE IF NOT EXISTS AcceptableCounts (Predicate TEXT, MotionSpeed TEXT, MotionManner TEXT, TranslocSpeed TEXT, TranslocDir TEXT, RotSpeed TEXT, RotAngle TEXT, RotAxis TEXT, RotDir TEXT, SymmetryAxis TEXT, PlacementOrder TEXT, RelOrientation TEXT, RelOffset TEXT, Count INTEGER)")
         
         #Prob = likelihood of acceptability judgement given predicate, parameter set
-        cursor.execute("CREATE TABLE IF NOT EXISTS Probabilities (Predicate TEXT, MotionSpeed TEXT, MotionManner TEXT, TranslocSpeed TEXT, TranslocDir TEXT, RotSpeed TEXT, RotAngle TEXT, RotAxis TEXT, RotDir TEXT, SymmetryAxis TEXT, PlacementOrder TEXT, RelOrientation TEXT, RelOffset TEXT, Prob FLOAT)")
+        cursor.execute("CREATE TABLE IF NOT EXISTS AcceptabilityProbabilities (Predicate TEXT, MotionSpeed TEXT, MotionManner TEXT, TranslocSpeed TEXT, TranslocDir TEXT, RotSpeed TEXT, RotAngle TEXT, RotAxis TEXT, RotDir TEXT, SymmetryAxis TEXT, PlacementOrder TEXT, RelOrientation TEXT, RelOffset TEXT, Prob FLOAT)")
         
         entries = []
         for key in sorted(counts):
@@ -402,7 +402,7 @@ def create_output_db():
             
                 entries.append(entry)
 
-        cursor.executemany("INSERT INTO RightAnswerCounts VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)", entries)
+        cursor.executemany("INSERT INTO AcceptableCounts VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)", entries)
 
         for pred in pred_matches:
             cursor.execute("SELECT * FROM TotalCounts WHERE Predicate = ?", (pred,))

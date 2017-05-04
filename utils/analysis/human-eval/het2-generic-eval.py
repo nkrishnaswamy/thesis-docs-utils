@@ -336,7 +336,7 @@ def create_output_db():
                 entry = ["","","","","","","","","","","","","",""]
                 for parameter in parameter_set:
                     if parameter.split('=')[0].strip() == "Predicate":
-                        entry[0] = parameter.split('=')[1].strip()
+                        entry[0] = parameter.split('=')[1].replace("_"," ").strip()
                     elif parameter.split('=')[0].strip() == "MotionSpeed":
                         entry[1] = parameter.split('=')[1].strip()
                     elif parameter.split('=')[0].strip() == "MotionManner":
@@ -375,7 +375,7 @@ def create_output_db():
                 entry = ["","","","","","","","","","","","","",""]
                 for parameter in parameter_set:
                     if parameter.split('=')[0].strip() == "Predicate":
-                        entry[0] = parameter.split('=')[1].strip()
+                        entry[0] = parameter.split('=')[1].replace("_"," ").strip()
                     elif parameter.split('=')[0].strip() == "MotionSpeed":
                         entry[1] = parameter.split('=')[1].strip()
                     elif parameter.split('=')[0].strip() == "MotionManner":
@@ -416,7 +416,7 @@ def create_output_db():
                     entry = ["","","","","","","","","","","","","","",""]
                     for parameter in parameter_set:
                         if parameter.split('=')[0].strip() == "Predicate":
-                            entry[0] = parameter.split('=')[1].strip()
+                            entry[0] = parameter.split('=')[1].replace("_"," ").strip()
                         elif parameter.split('=')[0].strip() == "MotionSpeed":
                             entry[1] = parameter.split('=')[1].strip()
                         elif parameter.split('=')[0].strip() == "MotionManner":
@@ -450,7 +450,7 @@ def create_output_db():
         cursor.executemany("INSERT INTO PreferredPredCounts VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)", entries)
 
         for pred in pred_matches:
-            cursor.execute("SELECT * FROM TotalCounts WHERE Predicate = ?", (pred,))
+            cursor.execute("SELECT * FROM TotalCounts WHERE Predicate = ?", (pred.replace("_"," "),))
             results = cursor.fetchall()
             
             for result in results:
@@ -479,7 +479,7 @@ def create_output_db():
                                 
                         print "PROB picked right sentence | %s = %s" % (retain[:-4], float(correct_count)/float(total_count),)
 
-                        entry = [pred,"","","","","","","","","","","","",""]
+                        entry = [pred.replace("_"," "),"","","","","","","","","","","","",""]
                         parameter_set = retain.split("AND")
                         for parameter in parameter_set:
                             if parameter.split('=')[0].strip() == "Predicate":
@@ -523,9 +523,9 @@ def create_output_db():
                                 pref_count += match[-1]
                         
 #                            print pref_count, total_count
-                            print "PROB preferred predicate %s for %s | %s = %s" % (pref, pred, retain[:-4], float(pref_count)/float(total_count),)
+                            print "PROB preferred predicate %s for %s | %s = %s" % (pref, pred.replace("_"," "), retain[:-4], float(pref_count)/float(total_count),)
 
-                            entry = [pred,"","","","","","","","","","","","","",""]
+                            entry = [pred.replace("_"," "),"","","","","","","","","","","","","",""]
                             parameter_set = retain.split("AND")
                             for parameter in parameter_set:
                                 if parameter.split('=')[0].strip() == "Predicate":
