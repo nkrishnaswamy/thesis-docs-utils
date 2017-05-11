@@ -563,5 +563,6 @@ def create_output_db():
         connection.commit()
 
     connection.close()
+
 if __name__ == "__main__":
     main()

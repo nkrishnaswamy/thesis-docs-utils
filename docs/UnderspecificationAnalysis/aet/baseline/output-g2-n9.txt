@@ -1,70 +1,61 @@
 
 Candidates in restricted choice set:
-1 	turn the front cover 	0
-2 	put the book touching the cup 	0
-3 	close the book 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: close
-True label: close the book
-
-Candidates in restricted choice set:
-1 	open the cup 	0
+1 	lean the cup against the bottle 	0
 2 	move the disc 	0
-3 	lean the cup on the knife 	0
+3 	open the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: open
 True label: open the cup
 
 Candidates in restricted choice set:
-1 	spin the ball 	0
-2 	move the ball 	0
-3 	put the ball in the bottle 	0
+1 	lean the block on the bottle 	0
+2 	move the block 	0
+3 	lift the block 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
-Prediction from unrestricted choice set: spin
-True label: move the ball
+Prediction from unrestricted choice set: turn
+True label: move the block
 
 Candidates in restricted choice set:
-1 	spin the disc 	0
-2 	lean the disc on the apple 	0
-3 	move the disc 	0
+1 	lift the cup 	0
+2 	lean the cup against the block 	0
+3 	move the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
-Prediction from unrestricted choice set: spin
-True label: move the disc
+Prediction from unrestricted choice set: turn
+True label: move the cup
 
 Candidates in restricted choice set:
-1 	put the bottle touching the paper sheet 	0
-2 	move the bottle 	0
-3 	lean the bottle on the cork 	0
+1 	put the bottle touching the knife 	0
+2 	put the bottle near the cork 	0
+3 	move the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: move the bottle
 
 Candidates in restricted choice set:
-1 	put the bowl near the cup 	0
-2 	lean the bowl against the cup 	0
-3 	move the bowl 	0
+1 	lean the banana against the spoon 	0
+2 	move the banana 	0
+3 	flip the banana at center 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: move the bowl
+True label: move the banana
 
 Candidates in restricted choice set:
-1 	put the paper sheet on the plate 	0
-2 	spin the paper sheet 	0
-3 	move the paper sheet 	0
+1 	move the pencil 	0
+2 	put the pencil touching the spoon 	0
+3 	roll the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: spin
-True label: move the paper sheet
+True label: move the pencil
 
 Candidates in restricted choice set:
-1 	move the plate 	0
-2 	roll the plate 	0
+1 	roll the plate 	0
+2 	move the plate 	0
 3 	turn the plate 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
@@ -72,76 +63,76 @@ Prediction from unrestricted choice set: turn
 True label: turn the plate
 
 Candidates in restricted choice set:
-1 	lean the blackboard on the disc 	0
-2 	move the blackboard 	0
-3 	turn the blackboard 	0
+1 	stack the book and the apple 	0
+2 	turn the book 	0
+3 	move the book 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: turn the blackboard
+True label: turn the book
 
 Candidates in restricted choice set:
-1 	turn the apple 	0
-2 	move the apple 	0
-3 	flip the apple on edge 	0
+1 	move the grape 	0
+2 	turn the grape 	0
+3 	lean the grape on the block 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
-Prediction from unrestricted choice set: flip
-True label: turn the apple
+Prediction from unrestricted choice set: move
+True label: turn the grape
 
 Candidates in restricted choice set:
-1 	move the knife 	0
+1 	put the knife near the pencil 	0
 2 	turn the knife 	0
-3 	spin the knife 	0
+3 	move the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
-Prediction from unrestricted choice set: spin
+Prediction from unrestricted choice set: turn
 True label: turn the knife
 
 Candidates in restricted choice set:
-1 	lift the ball 	0
-2 	move the ball 	0
-3 	put the ball on the ball 	0
+1 	lift the block 	0
+2 	lean the block on the knife 	0
+3 	move the block 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lift the ball
+True label: lift the block
 
 Candidates in restricted choice set:
-1 	lift the disc 	0
-2 	lean the disc against the disc 	0
-3 	move the disc 	0
+1 	lift the cup 	0
+2 	move the cup 	0
+3 	lean the cup on the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lift the disc
+True label: lift the cup
 
 Candidates in restricted choice set:
-1 	close the bottle 	0
+1 	lift the bottle 	0
 2 	move the bottle 	0
-3 	lift the bottle 	0
+3 	put the bottle on the block 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lift the bottle
 
 Candidates in restricted choice set:
-1 	lean the bowl on the block 	0
-2 	lift the bowl 	0
-3 	move the bowl 	0
+1 	move the banana 	0
+2 	put the banana near the bowl 	0
+3 	lift the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lift the bowl
+True label: lift the banana
 
 Candidates in restricted choice set:
-1 	lift the paper sheet 	0
-2 	put the paper sheet touching the paper sheet 	0
-3 	move the paper sheet 	0
+1 	lean the pencil on the bowl 	0
+2 	lift the pencil 	0
+3 	move the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lift the paper sheet
+True label: lift the pencil
 
 Candidates in restricted choice set:
 1 	move the plate 	0
@@ -153,161 +144,161 @@ Prediction from unrestricted choice set: spin
 True label: spin the plate
 
 Candidates in restricted choice set:
-1 	move the blackboard 	0
-2 	turn the blackboard 	0
-3 	spin the blackboard 	0
+1 	move the book 	0
+2 	turn the book 	0
+3 	spin the book 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: flip
+True label: spin the book
+
+Candidates in restricted choice set:
+1 	move the grape 	0
+2 	turn the grape 	0
+3 	spin the grape 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: spin
-True label: spin the blackboard
+True label: spin the grape
 
 Candidates in restricted choice set:
-1 	turn the apple 	0
-2 	spin the apple 	0
-3 	move the apple 	0
+1 	spin the knife 	0
+2 	move the knife 	0
+3 	turn the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
-Prediction from unrestricted choice set: move
-True label: spin the apple
-
-Candidates in restricted choice set:
-1 	move the knife 	0
-2 	turn the knife 	0
-3 	spin the knife 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: flip
+Prediction from unrestricted choice set: turn
 True label: spin the knife
 
 Candidates in restricted choice set:
-1 	flip the book on edge 	0
-2 	turn the book 	0
-3 	move the book 	0
+1 	flip the block on edge 	0
+2 	turn the block 	0
+3 	move the block 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: flip
-True label: flip the book on edge
+True label: flip the block on edge
 
 Candidates in restricted choice set:
-1 	turn the cup 	0
-2 	flip the cup at center 	0
-3 	move the cup 	0
+1 	move the plate 	0
+2 	flip the plate at center 	0
+3 	turn the plate 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: flip
-True label: flip the cup at center
+True label: flip the plate at center
 
 Candidates in restricted choice set:
-1 	turn the bottle 	0
+1 	flip the bottle at center 	0
 2 	move the bottle 	0
-3 	flip the bottle at center 	0
+3 	turn the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: flip
 True label: flip the bottle at center
 
 Candidates in restricted choice set:
-1 	turn the bowl 	0
-2 	move the bowl 	0
-3 	flip the bowl at center 	0
+1 	move the banana 	0
+2 	flip the banana at center 	0
+3 	turn the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: flip
-True label: flip the bowl at center
+True label: flip the banana at center
 
 Candidates in restricted choice set:
-1 	turn the paper sheet 	0
-2 	flip the paper sheet at center 	0
-3 	move the paper sheet 	0
+1 	move the pencil 	0
+2 	flip the pencil at center 	0
+3 	turn the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: flip
-True label: flip the paper sheet at center
+True label: flip the pencil at center
 
 Candidates in restricted choice set:
-1 	move the plate 	0
-2 	slide the plate 	0
-3 	put the plate touching the knife 	0
+1 	slide the plate 	0
+2 	move the plate 	0
+3 	lean the plate on the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: slide the plate
 
 Candidates in restricted choice set:
-1 	put the blackboard near the banana 	0
-2 	move the blackboard 	0
-3 	slide the blackboard 	0
+1 	slide the book 	0
+2 	move the book 	0
+3 	flip the book edge book 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: slide the blackboard
+True label: slide the book
 
 Candidates in restricted choice set:
-1 	stack the apple and the ball 	0
-2 	move the apple 	0
-3 	slide the apple 	0
+1 	stack the grape and the paper sheet 	0
+2 	slide the grape 	0
+3 	move the grape 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: slide the apple
+True label: slide the grape
 
 Candidates in restricted choice set:
-1 	move the knife 	0
-2 	slide the knife 	0
-3 	put the knife in the grape 	0
+1 	lean the knife on the spoon 	0
+2 	move the knife 	0
+3 	slide the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: slide the knife
 
 Candidates in restricted choice set:
-1 	move the ball 	0
-2 	spin the ball 	0
-3 	roll the ball 	0
+1 	spin the block 	0
+2 	roll the block 	0
+3 	turn the block 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: roll the ball
+True label: roll the block
 
 Candidates in restricted choice set:
-1 	roll the disc 	0
-2 	turn the disc 	0
-3 	move the disc 	0
+1 	move the cup 	0
+2 	turn the cup 	0
+3 	roll the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: roll the disc
+True label: roll the cup
 
 Candidates in restricted choice set:
 1 	roll the bottle 	0
-2 	turn the bottle 	0
-3 	spin the bottle 	0
+2 	move the bottle 	0
+3 	turn the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: roll the bottle
 
 Candidates in restricted choice set:
-1 	move the bowl 	0
-2 	roll the bowl 	0
-3 	turn the bowl 	0
+1 	turn the banana 	0
+2 	roll the banana 	0
+3 	move the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: roll the bowl
+True label: roll the banana
 
 Candidates in restricted choice set:
-1 	roll the paper sheet 	0
-2 	turn the paper sheet 	0
-3 	spin the paper sheet 	0
+1 	turn the pencil 	0
+2 	roll the pencil 	0
+3 	spin the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: roll the paper sheet
+True label: roll the pencil
 
 Candidates in restricted choice set:
-1 	put the block on the cup 	0
-2 	move the block 	0
+1 	move the block 	0
+2 	put the block on the cup 	0
 3 	put the block in the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
@@ -315,832 +306,31 @@ Prediction from unrestricted choice set: turn
 True label: put the block in the cup
 
 Candidates in restricted choice set:
-1 	put the ball on the block 	0
-2 	move the ball 	0
-3 	put the ball in the block 	0
+1 	put the block in the bowl 	0
+2 	put the block on the bowl 	0
+3 	move the block 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the ball in the block
+True label: put the block in the bowl
 
 Candidates in restricted choice set:
-1 	put the ball on the disc 	0
+1 	put the ball in the cup 	0
 2 	move the ball 	0
-3 	put the ball in the disc 	0
+3 	put the ball on the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the ball in the disc
+True label: put the ball in the cup
 
 Candidates in restricted choice set:
-1 	move the plate 	0
-2 	put the plate on the cup 	0
-3 	put the plate in the cup 	0
+1 	put the plate on the cup 	0
+2 	put the plate in the cup 	0
+3 	move the plate 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the plate in the cup
-
-Candidates in restricted choice set:
-1 	put the cup in the bottle 	0
-2 	move the cup 	0
-3 	put the cup on the bottle 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the cup in the bottle
-
-Candidates in restricted choice set:
-1 	put the disc in the bottle 	0
-2 	put the disc on the bottle 	0
-3 	move the disc 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the disc in the bottle
-
-Candidates in restricted choice set:
-1 	put the book in the bottle 	0
-2 	move the book 	0
-3 	put the book on the bottle 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the book in the bottle
-
-Candidates in restricted choice set:
-1 	put the bottle in the bowl 	0
-2 	move the bottle 	0
-3 	put the bottle on the bowl 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the bottle in the bowl
-
-Candidates in restricted choice set:
-1 	put the grape in the book 	0
-2 	move the grape 	0
-3 	put the grape on the book 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the grape in the book
-
-Candidates in restricted choice set:
-1 	put the apple on the plate 	0
-2 	put the apple in the plate 	0
-3 	move the apple 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the apple in the plate
-
-Candidates in restricted choice set:
-1 	move the banana 	0
-2 	put the banana on the plate 	0
-3 	put the banana in the plate 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the banana in the plate
-
-Candidates in restricted choice set:
-1 	put the bowl on the plate 	0
-2 	put the bowl in the plate 	0
-3 	move the bowl 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the bowl in the plate
-
-Candidates in restricted choice set:
-1 	move the knife 	0
-2 	put the knife in the block 	0
-3 	put the knife on the block 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the knife in the block
-
-Candidates in restricted choice set:
-1 	move the knife 	0
-2 	put the knife on the book 	0
-3 	put the knife in the book 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the knife in the book
-
-Candidates in restricted choice set:
-1 	move the knife 	0
-2 	put the knife on the grape 	0
-3 	put the knife in the grape 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the knife in the grape
-
-Candidates in restricted choice set:
-1 	put the knife in the bowl 	0
-2 	move the knife 	0
-3 	put the knife on the bowl 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the knife in the bowl
-
-Candidates in restricted choice set:
-1 	put the pencil on the book 	0
-2 	put the pencil in the book 	0
-3 	move the pencil 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the pencil in the book
-
-Candidates in restricted choice set:
-1 	put the block touching the ball 	0
-2 	put the block in front of the ball 	0
-3 	move the block 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the block touching the ball
-
-Candidates in restricted choice set:
-1 	put the block on the disc 	0
-2 	move the block 	0
-3 	put the block touching the disc 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the block touching the disc
-
-Candidates in restricted choice set:
-1 	move the block 	0
-2 	put the block touching the grape 	0
-3 	put the block in front of the grape 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the block touching the grape
-
-Candidates in restricted choice set:
-1 	move the block 	0
-2 	put the block touching the bowl 	0
-3 	put the block behind the bowl 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the block touching the bowl
-
-Candidates in restricted choice set:
-1 	put the block touching the paper sheet 	0
-2 	move the block 	0
-3 	put the block left of the paper sheet 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the block touching the paper sheet
-
-Candidates in restricted choice set:
-1 	put the ball on the disc 	0
-2 	move the ball 	0
-3 	put the ball touching the disc 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the ball touching the disc
-
-Candidates in restricted choice set:
-1 	put the ball touching the bottle 	0
-2 	put the ball in front of the bottle 	0
-3 	move the ball 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the ball touching the bottle
-
-Candidates in restricted choice set:
-1 	put the ball left of the banana 	0
-2 	move the ball 	0
-3 	put the ball touching the banana 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the ball touching the banana
-
-Candidates in restricted choice set:
-1 	put the ball touching the paper sheet 	0
-2 	put the ball right of the paper sheet 	0
-3 	move the ball 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the ball touching the paper sheet
-
-Candidates in restricted choice set:
-1 	put the disc in front of the block 	0
-2 	put the disc touching the block 	0
-3 	move the disc 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the disc touching the block
-
-Candidates in restricted choice set:
-1 	put the bottle behind the block 	0
-2 	move the bottle 	0
-3 	put the bottle touching the block 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the bottle touching the block
-
-Candidates in restricted choice set:
-1 	move the bowl 	0
-2 	put the bowl touching the block 	0
-3 	put the bowl on the block 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the bowl touching the block
-
-Candidates in restricted choice set:
-1 	put the paper sheet touching the block 	0
-2 	put the paper sheet left of the block 	0
-3 	move the paper sheet 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the paper sheet touching the block
-
-Candidates in restricted choice set:
-1 	put the disc touching the ball 	0
-2 	move the disc 	0
-3 	put the disc right of the ball 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the disc touching the ball
-
-Candidates in restricted choice set:
-1 	put the grape on the ball 	0
-2 	move the grape 	0
-3 	put the grape touching the ball 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the grape touching the ball
-
-Candidates in restricted choice set:
-1 	move the bowl 	0
-2 	put the bowl touching the ball 	0
-3 	put the bowl right of the ball 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the bowl touching the ball
-
-Candidates in restricted choice set:
-1 	move the paper sheet 	0
-2 	put the paper sheet touching the ball 	0
-3 	put the paper sheet left of the ball 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the paper sheet touching the ball
-
-Candidates in restricted choice set:
-1 	put the blackboard touching the cup 	0
-2 	move the blackboard 	0
-3 	put the blackboard on the cup 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the blackboard touching the cup
-
-Candidates in restricted choice set:
-1 	put the apple right of the cup 	0
-2 	move the apple 	0
-3 	put the apple touching the cup 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the apple touching the cup
-
-Candidates in restricted choice set:
-1 	move the knife 	0
-2 	put the knife touching the cup 	0
-3 	put the knife left of the cup 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the knife touching the cup
-
-Candidates in restricted choice set:
-1 	put the disc touching the plate 	0
-2 	move the disc 	0
-3 	put the disc right of the plate 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the disc touching the plate
-
-Candidates in restricted choice set:
-1 	put the bottle behind the plate 	0
-2 	put the bottle touching the plate 	0
-3 	move the bottle 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the bottle touching the plate
-
-Candidates in restricted choice set:
-1 	put the banana in front of the plate 	0
-2 	move the banana 	0
-3 	put the banana touching the plate 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the banana touching the plate
-
-Candidates in restricted choice set:
-1 	move the paper sheet 	0
-2 	put the paper sheet touching the plate 	0
-3 	put the paper sheet left of the plate 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the paper sheet touching the plate
-
-Candidates in restricted choice set:
-1 	put the book touching the disc 	0
-2 	move the book 	0
-3 	put the book left of the disc 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the book touching the disc
-
-Candidates in restricted choice set:
-1 	put the grape touching the disc 	0
-2 	put the grape in front of the disc 	0
-3 	move the grape 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the grape touching the disc
-
-Candidates in restricted choice set:
-1 	put the knife on the disc 	0
-2 	move the knife 	0
-3 	put the knife touching the disc 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the knife touching the disc
-
-Candidates in restricted choice set:
-1 	move the plate 	0
-2 	put the plate right of the book 	0
-3 	put the plate touching the book 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the plate touching the book
-
-Candidates in restricted choice set:
-1 	put the blackboard behind the book 	0
-2 	put the blackboard touching the book 	0
-3 	move the blackboard 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the blackboard touching the book
-
-Candidates in restricted choice set:
-1 	put the banana touching the book 	0
-2 	move the banana 	0
-3 	put the banana behind the book 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the banana touching the book
-
-Candidates in restricted choice set:
-1 	put the pencil on the book 	0
-2 	move the pencil 	0
-3 	put the pencil touching the book 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the pencil touching the book
-
-Candidates in restricted choice set:
-1 	put the cup touching the blackboard 	0
-2 	put the cup on the blackboard 	0
-3 	move the cup 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the cup touching the blackboard
-
-Candidates in restricted choice set:
-1 	move the grape 	0
-2 	put the grape left of the blackboard 	0
-3 	put the grape touching the blackboard 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the grape touching the blackboard
-
-Candidates in restricted choice set:
-1 	put the bowl on the blackboard 	0
-2 	move the bowl 	0
-3 	put the bowl touching the blackboard 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the bowl touching the blackboard
-
-Candidates in restricted choice set:
-1 	put the paper sheet touching the blackboard 	0
-2 	put the paper sheet on the blackboard 	0
-3 	move the paper sheet 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the paper sheet touching the blackboard
-
-Candidates in restricted choice set:
-1 	put the book touching the bottle 	0
-2 	move the book 	0
-3 	put the book right of the bottle 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the book touching the bottle
-
-Candidates in restricted choice set:
-1 	put the apple left of the bottle 	0
-2 	put the apple touching the bottle 	0
-3 	move the apple 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the apple touching the bottle
-
-Candidates in restricted choice set:
-1 	put the knife touching the bottle 	0
-2 	put the knife on the bottle 	0
-3 	move the knife 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the knife touching the bottle
-
-Candidates in restricted choice set:
-1 	put the cup touching the grape 	0
-2 	put the cup behind the grape 	0
-3 	move the cup 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the cup touching the grape
-
-Candidates in restricted choice set:
-1 	put the blackboard behind the grape 	0
-2 	put the blackboard touching the grape 	0
-3 	move the blackboard 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the blackboard touching the grape
-
-Candidates in restricted choice set:
-1 	put the banana behind the grape 	0
-2 	put the banana touching the grape 	0
-3 	move the banana 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the banana touching the grape
-
-Candidates in restricted choice set:
-1 	move the paper sheet 	0
-2 	put the paper sheet touching the grape 	0
-3 	put the paper sheet on the grape 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the paper sheet touching the grape
-
-Candidates in restricted choice set:
-1 	put the disc touching the apple 	0
-2 	move the disc 	0
-3 	put the disc in front of the apple 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the disc touching the apple
-
-Candidates in restricted choice set:
-1 	put the bottle on the apple 	0
-2 	put the bottle touching the apple 	0
-3 	move the bottle 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the bottle touching the apple
-
-Candidates in restricted choice set:
-1 	move the knife 	0
-2 	put the knife touching the apple 	0
-3 	put the knife left of the apple 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the knife touching the apple
-
-Candidates in restricted choice set:
-1 	move the plate 	0
-2 	put the plate on the banana 	0
-3 	put the plate touching the banana 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the plate touching the banana
-
-Candidates in restricted choice set:
-1 	move the book 	0
-2 	put the book right of the banana 	0
-3 	put the book touching the banana 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the book touching the banana
-
-Candidates in restricted choice set:
-1 	put the apple on the banana 	0
-2 	put the apple touching the banana 	0
-3 	move the apple 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the apple touching the banana
-
-Candidates in restricted choice set:
-1 	put the pencil in front of the banana 	0
-2 	move the pencil 	0
-3 	put the pencil touching the banana 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the pencil touching the banana
-
-Candidates in restricted choice set:
-1 	put the cup touching the bowl 	0
-2 	put the cup on the bowl 	0
-3 	move the cup 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the cup touching the bowl
-
-Candidates in restricted choice set:
-1 	put the bottle right of the bowl 	0
-2 	put the bottle touching the bowl 	0
-3 	move the bottle 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the bottle touching the bowl
-
-Candidates in restricted choice set:
-1 	move the banana 	0
-2 	put the banana right of the bowl 	0
-3 	put the banana touching the bowl 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the banana touching the bowl
-
-Candidates in restricted choice set:
-1 	put the paper sheet touching the bowl 	0
-2 	put the paper sheet on the bowl 	0
-3 	move the paper sheet 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the paper sheet touching the bowl
-
-Candidates in restricted choice set:
-1 	put the book touching the knife 	0
-2 	move the book 	0
-3 	put the book on the knife 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the book touching the knife
-
-Candidates in restricted choice set:
-1 	put the grape touching the knife 	0
-2 	move the grape 	0
-3 	put the grape right of the knife 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the grape touching the knife
-
-Candidates in restricted choice set:
-1 	put the bowl in front of the knife 	0
-2 	move the bowl 	0
-3 	put the bowl touching the knife 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the bowl touching the knife
-
-Candidates in restricted choice set:
-1 	put the cup touching the pencil 	0
-2 	put the cup on the pencil 	0
-3 	move the cup 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the cup touching the pencil
-
-Candidates in restricted choice set:
-1 	put the blackboard touching the pencil 	0
-2 	put the blackboard right of the pencil 	0
-3 	move the blackboard 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the blackboard touching the pencil
-
-Candidates in restricted choice set:
-1 	put the apple right of the pencil 	0
-2 	put the apple touching the pencil 	0
-3 	move the apple 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the apple touching the pencil
-
-Candidates in restricted choice set:
-1 	move the paper sheet 	0
-2 	put the paper sheet left of the pencil 	0
-3 	put the paper sheet touching the pencil 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the paper sheet touching the pencil
-
-Candidates in restricted choice set:
-1 	put the disc behind the paper sheet 	0
-2 	put the disc touching the paper sheet 	0
-3 	move the disc 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the disc touching the paper sheet
-
-Candidates in restricted choice set:
-1 	put the bottle in front of the paper sheet 	0
-2 	put the bottle touching the paper sheet 	0
-3 	move the bottle 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the bottle touching the paper sheet
-
-Candidates in restricted choice set:
-1 	put the bowl touching the paper sheet 	0
-2 	move the bowl 	0
-3 	put the bowl left of the paper sheet 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: put touching
-True label: put the bowl touching the paper sheet
-
-Candidates in restricted choice set:
-1 	put the block in the ball 	0
-2 	move the block 	0
-3 	put the block on the ball 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the block on the ball
-
-Candidates in restricted choice set:
-1 	put the block on the disc 	0
-2 	put the block in the disc 	0
-3 	move the block 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the block on the disc
-
-Candidates in restricted choice set:
-1 	move the block 	0
-2 	put the block in the grape 	0
-3 	put the block on the grape 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the block on the grape
-
-Candidates in restricted choice set:
-1 	move the block 	0
-2 	put the block in the bowl 	0
-3 	put the block on the bowl 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the block on the bowl
-
-Candidates in restricted choice set:
-1 	move the block 	0
-2 	put the block on the paper sheet 	0
-3 	put the block in the paper sheet 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the block on the paper sheet
-
-Candidates in restricted choice set:
-1 	move the ball 	0
-2 	put the ball on the disc 	0
-3 	put the ball in the disc 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the ball on the disc
-
-Candidates in restricted choice set:
-1 	move the ball 	0
-2 	put the ball on the bottle 	0
-3 	put the ball in the bottle 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the ball on the bottle
-
-Candidates in restricted choice set:
-1 	put the ball in the banana 	0
-2 	put the ball on the banana 	0
-3 	move the ball 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the ball on the banana
-
-Candidates in restricted choice set:
-1 	move the ball 	0
-2 	put the ball on the paper sheet 	0
-3 	put the ball in the paper sheet 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the ball on the paper sheet
-
-Candidates in restricted choice set:
-1 	put the plate on the cup 	0
-2 	move the plate 	0
-3 	put the plate in the cup 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the plate on the cup
-
-Candidates in restricted choice set:
-1 	put the plate on the blackboard 	0
-2 	put the plate in the blackboard 	0
-3 	move the plate 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the plate on the blackboard
-
-Candidates in restricted choice set:
-1 	put the plate on the banana 	0
-2 	move the plate 	0
-3 	put the plate in the banana 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the plate on the banana
-
-Candidates in restricted choice set:
-1 	put the plate in the pencil 	0
-2 	put the plate on the pencil 	0
-3 	move the plate 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the plate on the pencil
 
 Candidates in restricted choice set:
 1 	put the cup on the plate 	0
@@ -1149,74 +339,875 @@ Candidates in restricted choice set:
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the cup on the plate
+True label: put the cup in the plate
 
 Candidates in restricted choice set:
-1 	move the cup 	0
-2 	put the cup in the blackboard 	0
-3 	put the cup on the blackboard 	0
+1 	put the disc on the cup 	0
+2 	put the disc in the cup 	0
+3 	move the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the cup on the blackboard
+True label: put the disc in the cup
 
 Candidates in restricted choice set:
-1 	put the cup in the apple 	0
+1 	move the book 	0
+2 	put the book on the bottle 	0
+3 	put the book in the bottle 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the book in the bottle
+
+Candidates in restricted choice set:
+1 	move the bottle 	0
+2 	put the bottle on the disc 	0
+3 	put the bottle in the disc 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the bottle in the disc
+
+Candidates in restricted choice set:
+1 	move the grape 	0
+2 	put the grape in the cup 	0
+3 	put the grape on the cup 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the grape in the cup
+
+Candidates in restricted choice set:
+1 	put the apple in the plate 	0
+2 	move the apple 	0
+3 	put the apple on the plate 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the apple in the plate
+
+Candidates in restricted choice set:
+1 	put the apple on the bowl 	0
+2 	put the apple in the bowl 	0
+3 	move the apple 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the apple in the bowl
+
+Candidates in restricted choice set:
+1 	put the banana in the bowl 	0
+2 	put the banana on the bowl 	0
+3 	move the banana 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the banana in the bowl
+
+Candidates in restricted choice set:
+1 	move the knife 	0
+2 	put the knife on the block 	0
+3 	put the knife in the block 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the knife in the block
+
+Candidates in restricted choice set:
+1 	put the knife in the cup 	0
+2 	put the knife on the cup 	0
+3 	move the knife 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the knife in the cup
+
+Candidates in restricted choice set:
+1 	put the knife in the bottle 	0
+2 	put the knife on the bottle 	0
+3 	move the knife 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the knife in the bottle
+
+Candidates in restricted choice set:
+1 	move the knife 	0
+2 	put the knife in the bowl 	0
+3 	put the knife on the bowl 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the knife in the bowl
+
+Candidates in restricted choice set:
+1 	put the pencil in the cup 	0
+2 	put the pencil on the cup 	0
+3 	move the pencil 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the pencil in the cup
+
+Candidates in restricted choice set:
+1 	move the pencil 	0
+2 	put the pencil in the bowl 	0
+3 	put the pencil on the bowl 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the pencil in the bowl
+
+Candidates in restricted choice set:
+1 	move the block 	0
+2 	put the block behind the disc 	0
+3 	put the block touching the disc 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the block touching the disc
+
+Candidates in restricted choice set:
+1 	move the block 	0
+2 	put the block touching the bottle 	0
+3 	put the block on the bottle 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the block touching the bottle
+
+Candidates in restricted choice set:
+1 	put the block touching the banana 	0
+2 	move the block 	0
+3 	put the block in front of the banana 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the block touching the banana
+
+Candidates in restricted choice set:
+1 	put the block touching the paper sheet 	0
+2 	put the block behind the paper sheet 	0
+3 	move the block 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the block touching the paper sheet
+
+Candidates in restricted choice set:
+1 	move the ball 	0
+2 	put the ball touching the cup 	0
+3 	put the ball in front of the cup 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the ball touching the cup
+
+Candidates in restricted choice set:
+1 	put the ball left of the blackboard 	0
+2 	put the ball touching the blackboard 	0
+3 	move the ball 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the ball touching the blackboard
+
+Candidates in restricted choice set:
+1 	move the ball 	0
+2 	put the ball left of the banana 	0
+3 	put the ball touching the banana 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the ball touching the banana
+
+Candidates in restricted choice set:
+1 	put the ball left of the pencil 	0
+2 	move the ball 	0
+3 	put the ball touching the pencil 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the ball touching the pencil
+
+Candidates in restricted choice set:
+1 	move the cup 	0
+2 	put the cup left of the block 	0
+3 	put the cup touching the block 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the cup touching the block
+
+Candidates in restricted choice set:
+1 	put the bottle in front of the block 	0
+2 	move the bottle 	0
+3 	put the bottle touching the block 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the bottle touching the block
+
+Candidates in restricted choice set:
+1 	move the banana 	0
+2 	put the banana right of the block 	0
+3 	put the banana touching the block 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the banana touching the block
+
+Candidates in restricted choice set:
+1 	put the pencil in front of the block 	0
+2 	move the pencil 	0
+3 	put the pencil touching the block 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the pencil touching the block
+
+Candidates in restricted choice set:
+1 	put the disc on the ball 	0
+2 	move the disc 	0
+3 	put the disc touching the ball 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the disc touching the ball
+
+Candidates in restricted choice set:
+1 	put the bottle touching the ball 	0
+2 	move the bottle 	0
+3 	put the bottle behind the ball 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the bottle touching the ball
+
+Candidates in restricted choice set:
+1 	put the banana in front of the ball 	0
+2 	put the banana touching the ball 	0
+3 	move the banana 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the banana touching the ball
+
+Candidates in restricted choice set:
+1 	move the paper sheet 	0
+2 	put the paper sheet right of the ball 	0
+3 	put the paper sheet touching the ball 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the paper sheet touching the ball
+
+Candidates in restricted choice set:
+1 	put the book touching the cup 	0
+2 	move the book 	0
+3 	put the book left of the cup 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the book touching the cup
+
+Candidates in restricted choice set:
+1 	put the grape right of the cup 	0
+2 	move the grape 	0
+3 	put the grape touching the cup 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the grape touching the cup
+
+Candidates in restricted choice set:
+1 	move the knife 	0
+2 	put the knife behind the cup 	0
+3 	put the knife touching the cup 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the knife touching the cup
+
+Candidates in restricted choice set:
+1 	move the cup 	0
+2 	put the cup touching the plate 	0
+3 	put the cup right of the plate 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the cup touching the plate
+
+Candidates in restricted choice set:
+1 	put the blackboard touching the plate 	0
+2 	move the blackboard 	0
+3 	put the blackboard right of the plate 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the blackboard touching the plate
+
+Candidates in restricted choice set:
+1 	put the banana touching the plate 	0
+2 	move the banana 	0
+3 	put the banana left of the plate 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the banana touching the plate
+
+Candidates in restricted choice set:
+1 	move the pencil 	0
+2 	put the pencil in front of the plate 	0
+3 	put the pencil touching the plate 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the pencil touching the plate
+
+Candidates in restricted choice set:
+1 	move the cup 	0
+2 	put the cup touching the disc 	0
+3 	put the cup left of the disc 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the cup touching the disc
+
+Candidates in restricted choice set:
+1 	put the grape in front of the disc 	0
+2 	move the grape 	0
+3 	put the grape touching the disc 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the grape touching the disc
+
+Candidates in restricted choice set:
+1 	put the bowl behind the disc 	0
+2 	move the bowl 	0
+3 	put the bowl touching the disc 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the bowl touching the disc
+
+Candidates in restricted choice set:
+1 	put the paper sheet touching the disc 	0
+2 	move the paper sheet 	0
+3 	put the paper sheet behind the disc 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the paper sheet touching the disc
+
+Candidates in restricted choice set:
+1 	put the blackboard left of the book 	0
+2 	move the blackboard 	0
+3 	put the blackboard touching the book 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the blackboard touching the book
+
+Candidates in restricted choice set:
+1 	put the apple on the book 	0
+2 	put the apple touching the book 	0
+3 	move the apple 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the apple touching the book
+
+Candidates in restricted choice set:
+1 	put the knife on the book 	0
+2 	put the knife touching the book 	0
+3 	move the knife 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the knife touching the book
+
+Candidates in restricted choice set:
+1 	put the cup touching the blackboard 	0
 2 	move the cup 	0
-3 	put the cup on the apple 	0
+3 	put the cup left of the blackboard 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the cup touching the blackboard
+
+Candidates in restricted choice set:
+1 	put the bottle touching the blackboard 	0
+2 	put the bottle behind the blackboard 	0
+3 	move the bottle 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the bottle touching the blackboard
+
+Candidates in restricted choice set:
+1 	put the banana touching the blackboard 	0
+2 	put the banana on the blackboard 	0
+3 	move the banana 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the banana touching the blackboard
+
+Candidates in restricted choice set:
+1 	move the paper sheet 	0
+2 	put the paper sheet touching the blackboard 	0
+3 	put the paper sheet in front of the blackboard 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the paper sheet touching the blackboard
+
+Candidates in restricted choice set:
+1 	put the disc touching the bottle 	0
+2 	move the disc 	0
+3 	put the disc right of the bottle 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the disc touching the bottle
+
+Candidates in restricted choice set:
+1 	put the grape touching the bottle 	0
+2 	move the grape 	0
+3 	put the grape on the bottle 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the grape touching the bottle
+
+Candidates in restricted choice set:
+1 	put the knife behind the bottle 	0
+2 	put the knife touching the bottle 	0
+3 	move the knife 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the knife touching the bottle
+
+Candidates in restricted choice set:
+1 	put the plate touching the grape 	0
+2 	put the plate left of the grape 	0
+3 	move the plate 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the plate touching the grape
+
+Candidates in restricted choice set:
+1 	put the book touching the grape 	0
+2 	put the book left of the grape 	0
+3 	move the book 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the book touching the grape
+
+Candidates in restricted choice set:
+1 	put the banana left of the grape 	0
+2 	move the banana 	0
+3 	put the banana touching the grape 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the banana touching the grape
+
+Candidates in restricted choice set:
+1 	put the pencil on the grape 	0
+2 	move the pencil 	0
+3 	put the pencil touching the grape 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the pencil touching the grape
+
+Candidates in restricted choice set:
+1 	put the cup touching the apple 	0
+2 	move the cup 	0
+3 	put the cup left of the apple 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the cup touching the apple
+
+Candidates in restricted choice set:
+1 	put the bottle touching the apple 	0
+2 	put the bottle behind the apple 	0
+3 	move the bottle 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the bottle touching the apple
+
+Candidates in restricted choice set:
+1 	move the bowl 	0
+2 	put the bowl right of the apple 	0
+3 	put the bowl touching the apple 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the bowl touching the apple
+
+Candidates in restricted choice set:
+1 	put the paper sheet right of the apple 	0
+2 	put the paper sheet touching the apple 	0
+3 	move the paper sheet 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the paper sheet touching the apple
+
+Candidates in restricted choice set:
+1 	move the book 	0
+2 	put the book behind the banana 	0
+3 	put the book touching the banana 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the book touching the banana
+
+Candidates in restricted choice set:
+1 	put the grape touching the banana 	0
+2 	put the grape right of the banana 	0
+3 	move the grape 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the grape touching the banana
+
+Candidates in restricted choice set:
+1 	put the knife left of the banana 	0
+2 	put the knife touching the banana 	0
+3 	move the knife 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the knife touching the banana
+
+Candidates in restricted choice set:
+1 	put the cup in front of the bowl 	0
+2 	move the cup 	0
+3 	put the cup touching the bowl 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the cup touching the bowl
+
+Candidates in restricted choice set:
+1 	put the blackboard touching the bowl 	0
+2 	move the blackboard 	0
+3 	put the blackboard on the bowl 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the blackboard touching the bowl
+
+Candidates in restricted choice set:
+1 	put the apple behind the bowl 	0
+2 	move the apple 	0
+3 	put the apple touching the bowl 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the apple touching the bowl
+
+Candidates in restricted choice set:
+1 	put the paper sheet touching the bowl 	0
+2 	move the paper sheet 	0
+3 	put the paper sheet behind the bowl 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the paper sheet touching the bowl
+
+Candidates in restricted choice set:
+1 	put the disc right of the knife 	0
+2 	move the disc 	0
+3 	put the disc touching the knife 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the disc touching the knife
+
+Candidates in restricted choice set:
+1 	put the bottle behind the knife 	0
+2 	put the bottle touching the knife 	0
+3 	move the bottle 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the bottle touching the knife
+
+Candidates in restricted choice set:
+1 	put the bowl touching the knife 	0
+2 	put the bowl in front of the knife 	0
+3 	move the bowl 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the bowl touching the knife
+
+Candidates in restricted choice set:
+1 	put the plate left of the pencil 	0
+2 	put the plate touching the pencil 	0
+3 	move the plate 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the plate touching the pencil
+
+Candidates in restricted choice set:
+1 	put the book on the pencil 	0
+2 	put the book touching the pencil 	0
+3 	move the book 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the book touching the pencil
+
+Candidates in restricted choice set:
+1 	move the apple 	0
+2 	put the apple touching the pencil 	0
+3 	put the apple left of the pencil 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the apple touching the pencil
+
+Candidates in restricted choice set:
+1 	move the knife 	0
+2 	put the knife touching the pencil 	0
+3 	put the knife left of the pencil 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the knife touching the pencil
+
+Candidates in restricted choice set:
+1 	move the cup 	0
+2 	put the cup touching the paper sheet 	0
+3 	put the cup in front of the paper sheet 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the cup touching the paper sheet
+
+Candidates in restricted choice set:
+1 	put the bottle touching the paper sheet 	0
+2 	put the bottle right of the paper sheet 	0
+3 	move the bottle 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the bottle touching the paper sheet
+
+Candidates in restricted choice set:
+1 	put the banana touching the paper sheet 	0
+2 	move the banana 	0
+3 	put the banana left of the paper sheet 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the banana touching the paper sheet
+
+Candidates in restricted choice set:
+1 	put the pencil behind the paper sheet 	0
+2 	move the pencil 	0
+3 	put the pencil touching the paper sheet 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: put touching
+True label: put the pencil touching the paper sheet
+
+Candidates in restricted choice set:
+1 	put the block in the disc 	0
+2 	put the block on the disc 	0
+3 	move the block 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the block on the disc
+
+Candidates in restricted choice set:
+1 	put the block on the bottle 	0
+2 	put the block in the bottle 	0
+3 	move the block 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the block on the bottle
+
+Candidates in restricted choice set:
+1 	move the block 	0
+2 	put the block in the banana 	0
+3 	put the block on the banana 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the block on the banana
+
+Candidates in restricted choice set:
+1 	put the block in the paper sheet 	0
+2 	put the block on the paper sheet 	0
+3 	move the block 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the block on the paper sheet
+
+Candidates in restricted choice set:
+1 	move the ball 	0
+2 	put the ball on the cup 	0
+3 	put the ball in the cup 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the ball on the cup
+
+Candidates in restricted choice set:
+1 	put the ball in the blackboard 	0
+2 	put the ball on the blackboard 	0
+3 	move the ball 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the ball on the blackboard
+
+Candidates in restricted choice set:
+1 	put the ball on the banana 	0
+2 	move the ball 	0
+3 	put the ball in the banana 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the ball on the banana
+
+Candidates in restricted choice set:
+1 	put the ball in the pencil 	0
+2 	move the ball 	0
+3 	put the ball on the pencil 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the ball on the pencil
+
+Candidates in restricted choice set:
+1 	put the plate in the ball 	0
+2 	put the plate on the ball 	0
+3 	move the plate 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the plate on the ball
+
+Candidates in restricted choice set:
+1 	put the plate in the blackboard 	0
+2 	put the plate on the blackboard 	0
+3 	move the plate 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the plate on the blackboard
+
+Candidates in restricted choice set:
+1 	put the plate in the apple 	0
+2 	put the plate on the apple 	0
+3 	move the plate 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the plate on the apple
+
+Candidates in restricted choice set:
+1 	put the plate in the knife 	0
+2 	move the plate 	0
+3 	put the plate on the knife 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the plate on the knife
+
+Candidates in restricted choice set:
+1 	move the cup 	0
+2 	put the cup in the ball 	0
+3 	put the cup on the ball 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the cup on the ball
+
+Candidates in restricted choice set:
+1 	put the cup on the book 	0
+2 	put the cup in the book 	0
+3 	move the cup 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the cup on the book
+
+Candidates in restricted choice set:
+1 	move the cup 	0
+2 	put the cup on the apple 	0
+3 	put the cup in the apple 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the cup on the apple
 
 Candidates in restricted choice set:
-1 	put the cup in the pencil 	0
-2 	move the cup 	0
-3 	put the cup on the pencil 	0
+1 	move the cup 	0
+2 	put the cup on the knife 	0
+3 	put the cup in the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the cup on the pencil
+True label: put the cup on the knife
 
 Candidates in restricted choice set:
-1 	put the disc in the ball 	0
-2 	move the disc 	0
-3 	put the disc on the ball 	0
+1 	put the disc in the block 	0
+2 	put the disc on the block 	0
+3 	move the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the disc on the ball
+True label: put the disc on the block
 
 Candidates in restricted choice set:
 1 	put the disc on the book 	0
-2 	move the disc 	0
-3 	put the disc in the book 	0
+2 	put the disc in the book 	0
+3 	move the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the disc on the book
 
 Candidates in restricted choice set:
-1 	put the disc on the apple 	0
-2 	put the disc in the apple 	0
+1 	put the disc in the grape 	0
+2 	put the disc on the grape 	0
 3 	move the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the disc on the apple
+True label: put the disc on the grape
 
 Candidates in restricted choice set:
-1 	put the disc in the knife 	0
-2 	put the disc on the knife 	0
-3 	move the disc 	0
+1 	put the disc in the bowl 	0
+2 	move the disc 	0
+3 	put the disc on the bowl 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the disc on the knife
+True label: put the disc on the bowl
 
 Candidates in restricted choice set:
-1 	put the book in the block 	0
-2 	put the book on the block 	0
+1 	put the book on the block 	0
+2 	put the book in the block 	0
 3 	move the book 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
@@ -1224,26 +1215,26 @@ Prediction from unrestricted choice set: turn
 True label: put the book on the block
 
 Candidates in restricted choice set:
-1 	put the book in the disc 	0
-2 	put the book on the disc 	0
-3 	move the book 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the book on the disc
-
-Candidates in restricted choice set:
-1 	put the book in the grape 	0
+1 	put the book on the cup 	0
 2 	move the book 	0
-3 	put the book on the grape 	0
+3 	put the book in the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the book on the grape
+True label: put the book on the cup
 
 Candidates in restricted choice set:
-1 	put the book on the bowl 	0
-2 	put the book in the bowl 	0
+1 	put the book in the bottle 	0
+2 	move the book 	0
+3 	put the book on the bottle 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the book on the bottle
+
+Candidates in restricted choice set:
+1 	put the book in the bowl 	0
+2 	put the book on the bowl 	0
 3 	move the book 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
@@ -1251,22 +1242,22 @@ Prediction from unrestricted choice set: turn
 True label: put the book on the bowl
 
 Candidates in restricted choice set:
-1 	put the blackboard in the paper sheet 	0
-2 	put the blackboard on the paper sheet 	0
-3 	move the blackboard 	0
+1 	put the book in the paper sheet 	0
+2 	move the book 	0
+3 	put the book on the paper sheet 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the blackboard on the paper sheet
+True label: put the book on the paper sheet
 
 Candidates in restricted choice set:
 1 	move the bottle 	0
-2 	put the bottle on the plate 	0
-3 	put the bottle in the plate 	0
+2 	put the bottle on the ball 	0
+3 	put the bottle in the ball 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the bottle on the plate
+True label: put the bottle on the ball
 
 Candidates in restricted choice set:
 1 	put the bottle on the book 	0
@@ -1278,54 +1269,54 @@ Prediction from unrestricted choice set: turn
 True label: put the bottle on the book
 
 Candidates in restricted choice set:
-1 	put the bottle on the banana 	0
-2 	put the bottle in the banana 	0
-3 	move the bottle 	0
+1 	move the bottle 	0
+2 	put the bottle on the apple 	0
+3 	put the bottle in the apple 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the bottle on the banana
+True label: put the bottle on the apple
 
 Candidates in restricted choice set:
-1 	put the bottle in the pencil 	0
+1 	put the bottle on the knife 	0
 2 	move the bottle 	0
-3 	put the bottle on the pencil 	0
+3 	put the bottle in the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the bottle on the pencil
+True label: put the bottle on the knife
 
 Candidates in restricted choice set:
-1 	move the grape 	0
-2 	put the grape on the ball 	0
-3 	put the grape in the ball 	0
+1 	put the grape in the ball 	0
+2 	move the grape 	0
+3 	put the grape on the ball 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the grape on the ball
 
 Candidates in restricted choice set:
-1 	put the grape on the book 	0
-2 	put the grape in the book 	0
+1 	put the grape on the disc 	0
+2 	move the grape 	0
+3 	put the grape in the disc 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the grape on the disc
+
+Candidates in restricted choice set:
+1 	put the grape in the bottle 	0
+2 	put the grape on the bottle 	0
 3 	move the grape 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the grape on the book
+True label: put the grape on the bottle
 
 Candidates in restricted choice set:
-1 	put the grape in the apple 	0
-2 	move the grape 	0
-3 	put the grape on the apple 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the grape on the apple
-
-Candidates in restricted choice set:
-1 	put the grape on the knife 	0
-2 	move the grape 	0
-3 	put the grape in the knife 	0
+1 	move the grape 	0
+2 	put the grape in the knife 	0
+3 	put the grape on the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
@@ -1333,75 +1324,75 @@ True label: put the grape on the knife
 
 Candidates in restricted choice set:
 1 	move the apple 	0
-2 	put the apple on the ball 	0
-3 	put the apple in the ball 	0
+2 	put the apple on the block 	0
+3 	put the apple in the block 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the apple on the ball
+True label: put the apple on the block
+
+Candidates in restricted choice set:
+1 	put the apple on the cup 	0
+2 	put the apple in the cup 	0
+3 	move the apple 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the apple on the cup
 
 Candidates in restricted choice set:
 1 	move the apple 	0
-2 	put the apple on the disc 	0
-3 	put the apple in the disc 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the apple on the disc
-
-Candidates in restricted choice set:
-1 	put the apple in the bottle 	0
-2 	move the apple 	0
-3 	put the apple on the bottle 	0
+2 	put the apple on the bottle 	0
+3 	put the apple in the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the apple on the bottle
 
 Candidates in restricted choice set:
+1 	put the apple in the bowl 	0
+2 	move the apple 	0
+3 	put the apple on the bowl 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the apple on the bowl
+
+Candidates in restricted choice set:
 1 	move the apple 	0
-2 	put the apple on the knife 	0
-3 	put the apple in the knife 	0
+2 	put the apple in the paper sheet 	0
+3 	put the apple on the paper sheet 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the apple on the knife
+True label: put the apple on the paper sheet
 
 Candidates in restricted choice set:
-1 	move the banana 	0
-2 	put the banana on the block 	0
-3 	put the banana in the block 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the banana on the block
-
-Candidates in restricted choice set:
-1 	move the banana 	0
+1 	put the banana in the cup 	0
 2 	put the banana on the cup 	0
-3 	put the banana in the cup 	0
+3 	move the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the banana on the cup
 
 Candidates in restricted choice set:
-1 	move the banana 	0
-2 	put the banana in the grape 	0
-3 	put the banana on the grape 	0
+1 	put the banana in the bottle 	0
+2 	move the banana 	0
+3 	put the banana on the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the banana on the grape
+True label: put the banana on the bottle
 
 Candidates in restricted choice set:
-1 	put the banana in the knife 	0
-2 	put the banana on the knife 	0
-3 	move the banana 	0
+1 	put the banana on the bowl 	0
+2 	move the banana 	0
+3 	put the banana in the bowl 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the banana on the knife
+True label: put the banana on the bowl
 
 Candidates in restricted choice set:
 1 	put the bowl on the block 	0
@@ -1413,107 +1404,107 @@ Prediction from unrestricted choice set: turn
 True label: put the bowl on the block
 
 Candidates in restricted choice set:
-1 	put the bowl in the disc 	0
-2 	put the bowl on the disc 	0
+1 	put the bowl in the cup 	0
+2 	put the bowl on the cup 	0
 3 	move the bowl 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the bowl on the disc
+True label: put the bowl on the cup
 
 Candidates in restricted choice set:
-1 	move the bowl 	0
-2 	put the bowl in the grape 	0
-3 	put the bowl on the grape 	0
+1 	put the bowl on the bottle 	0
+2 	put the bowl in the bottle 	0
+3 	move the bowl 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the bowl on the grape
+True label: put the bowl on the bottle
 
 Candidates in restricted choice set:
 1 	put the bowl in the knife 	0
-2 	put the bowl on the knife 	0
-3 	move the bowl 	0
+2 	move the bowl 	0
+3 	put the bowl on the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the bowl on the knife
 
 Candidates in restricted choice set:
-1 	put the knife on the ball 	0
-2 	put the knife in the ball 	0
+1 	put the knife in the block 	0
+2 	move the knife 	0
+3 	put the knife on the block 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the knife on the block
+
+Candidates in restricted choice set:
+1 	put the knife on the cup 	0
+2 	put the knife in the cup 	0
 3 	move the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the knife on the ball
+True label: put the knife on the cup
 
 Candidates in restricted choice set:
-1 	put the knife on the disc 	0
-2 	move the knife 	0
-3 	put the knife in the disc 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the knife on the disc
-
-Candidates in restricted choice set:
-1 	move the knife 	0
-2 	put the knife on the bottle 	0
-3 	put the knife in the bottle 	0
+1 	put the knife on the bottle 	0
+2 	put the knife in the bottle 	0
+3 	move the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the knife on the bottle
 
 Candidates in restricted choice set:
-1 	put the knife on the bowl 	0
-2 	put the knife in the bowl 	0
-3 	move the knife 	0
+1 	put the knife in the banana 	0
+2 	move the knife 	0
+3 	put the knife on the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the knife on the bowl
+True label: put the knife on the banana
 
 Candidates in restricted choice set:
-1 	put the pencil in the block 	0
-2 	move the pencil 	0
-3 	put the pencil on the block 	0
+1 	put the knife in the paper sheet 	0
+2 	move the knife 	0
+3 	put the knife on the paper sheet 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the pencil on the block
+True label: put the knife on the paper sheet
 
 Candidates in restricted choice set:
-1 	put the pencil on the cup 	0
-2 	put the pencil in the cup 	0
-3 	move the pencil 	0
+1 	move the pencil 	0
+2 	put the pencil on the cup 	0
+3 	put the pencil in the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the pencil on the cup
 
 Candidates in restricted choice set:
-1 	put the pencil in the grape 	0
-2 	put the pencil on the grape 	0
+1 	put the pencil on the bottle 	0
+2 	put the pencil in the bottle 	0
 3 	move the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the pencil on the grape
+True label: put the pencil on the bottle
 
 Candidates in restricted choice set:
-1 	put the pencil in the bowl 	0
-2 	move the pencil 	0
-3 	put the pencil on the bowl 	0
+1 	put the pencil in the banana 	0
+2 	put the pencil on the banana 	0
+3 	move the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the pencil on the bowl
+True label: put the pencil on the banana
 
 Candidates in restricted choice set:
-1 	put the paper sheet on the block 	0
-2 	put the paper sheet in the block 	0
+1 	put the paper sheet in the block 	0
+2 	put the paper sheet on the block 	0
 3 	move the paper sheet 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
@@ -1522,187 +1513,187 @@ True label: put the paper sheet on the block
 
 Candidates in restricted choice set:
 1 	move the paper sheet 	0
-2 	put the paper sheet on the disc 	0
-3 	put the paper sheet in the disc 	0
+2 	put the paper sheet in the cup 	0
+3 	put the paper sheet on the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the paper sheet on the disc
+True label: put the paper sheet on the cup
 
 Candidates in restricted choice set:
-1 	put the paper sheet in the bottle 	0
-2 	move the paper sheet 	0
-3 	put the paper sheet on the bottle 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the paper sheet on the bottle
-
-Candidates in restricted choice set:
-1 	put the paper sheet in the banana 	0
-2 	put the paper sheet on the banana 	0
+1 	put the paper sheet on the blackboard 	0
+2 	put the paper sheet in the blackboard 	0
 3 	move the paper sheet 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the paper sheet on the blackboard
+
+Candidates in restricted choice set:
+1 	put the paper sheet on the banana 	0
+2 	move the paper sheet 	0
+3 	put the paper sheet in the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the paper sheet on the banana
 
 Candidates in restricted choice set:
-1 	move the block 	0
-2 	put the block near the ball 	0
-3 	lean the block on the spoon 	0
+1 	move the paper sheet 	0
+2 	put the paper sheet in the pencil 	0
+3 	put the paper sheet on the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the block near the ball
+True label: put the paper sheet on the pencil
 
 Candidates in restricted choice set:
 1 	move the block 	0
-2 	put the block near the book 	0
-3 	put the block touching the disc 	0
+2 	put the block near the disc 	0
+3 	lean the block on the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the block near the book
+True label: put the block near the disc
 
 Candidates in restricted choice set:
-1 	move the block 	0
-2 	stack the block and the paper sheet 	0
-3 	put the block near the grape 	0
+1 	put the block near the grape 	0
+2 	move the block 	0
+3 	put the block near the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the block near the grape
 
 Candidates in restricted choice set:
-1 	put the block near the knife 	0
+1 	put the block touching the spoon 	0
 2 	move the block 	0
-3 	hold the block 	0
+3 	put the block near the bowl 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the block near the knife
+True label: put the block near the bowl
 
 Candidates in restricted choice set:
-1 	move the ball 	0
-2 	put the ball on the paper sheet 	0
-3 	put the ball near the block 	0
+1 	move the block 	0
+2 	put the block near the paper sheet 	0
+3 	lean the block against the block 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the ball near the block
+True label: put the block near the paper sheet
 
 Candidates in restricted choice set:
-1 	put the ball near the plate 	0
+1 	put the ball near the book 	0
 2 	move the ball 	0
-3 	put the ball near the book 	0
+3 	stack the ball and the spoon 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the ball near the book
 
 Candidates in restricted choice set:
-1 	put the ball near the apple 	0
-2 	lean the ball on the banana 	0
+1 	put the ball near the grape 	0
+2 	put the ball in the plate 	0
 3 	move the ball 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the ball near the apple
+True label: put the ball near the grape
 
 Candidates in restricted choice set:
-1 	put the ball near the knife 	0
-2 	move the ball 	0
-3 	put the ball near the bottle 	0
+1 	put the ball on the plate 	0
+2 	put the ball near the bowl 	0
+3 	move the ball 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the ball near the knife
+True label: put the ball near the bowl
 
 Candidates in restricted choice set:
-1 	put the plate near the apple 	0
-2 	put the plate near the block 	0
-3 	move the plate 	0
+1 	put the plate near the block 	0
+2 	move the plate 	0
+3 	lean the plate on the grape 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the plate near the block
 
 Candidates in restricted choice set:
-1 	put the plate near the book 	0
-2 	move the plate 	0
-3 	put the plate touching the blackboard 	0
+1 	move the plate 	0
+2 	put the plate in the cup 	0
+3 	put the plate near the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the plate near the book
+True label: put the plate near the disc
+
+Candidates in restricted choice set:
+1 	put the plate touching the paper sheet 	0
+2 	move the plate 	0
+3 	put the plate near the bottle 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the plate near the bottle
 
 Candidates in restricted choice set:
 1 	move the plate 	0
-2 	put the plate near the grape 	0
-3 	lean the plate on the pencil 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the plate near the grape
-
-Candidates in restricted choice set:
-1 	put the plate near the bowl 	0
-2 	move the plate 	0
-3 	spin the plate 	0
+2 	put the plate near the bowl 	0
+3 	stack the plate and the bowl 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the plate near the bowl
 
 Candidates in restricted choice set:
-1 	put the cup near the ball 	0
-2 	put the cup near the book 	0
+1 	put the cup near the block 	0
+2 	stack the cup and the disc 	0
 3 	move the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the cup near the ball
-
-Candidates in restricted choice set:
-1 	hold the cup 	0
-2 	move the cup 	0
-3 	put the cup near the blackboard 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the cup near the blackboard
+True label: put the cup near the block
 
 Candidates in restricted choice set:
 1 	move the cup 	0
+2 	put the cup near the book 	0
+3 	lean the cup against the bowl 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the cup near the book
+
+Candidates in restricted choice set:
+1 	put the cup on the bowl 	0
 2 	put the cup near the apple 	0
-3 	put the cup on the apple 	0
+3 	move the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the cup near the apple
 
 Candidates in restricted choice set:
-1 	move the cup 	0
-2 	put the cup near the pencil 	0
-3 	put the cup touching the apple 	0
+1 	put the cup near the knife 	0
+2 	move the cup 	0
+3 	stack the cup and the bowl 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the cup near the pencil
+True label: put the cup near the knife
 
 Candidates in restricted choice set:
-1 	put the disc near the ball 	0
-2 	lean the disc against the plate 	0
+1 	lean the disc against the bottle 	0
+2 	put the disc near the block 	0
 3 	move the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the disc near the ball
+True label: put the disc near the block
 
 Candidates in restricted choice set:
 1 	put the disc near the blackboard 	0
-2 	put the disc touching the knife 	0
+2 	put the disc near the bottle 	0
 3 	move the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
@@ -1710,53 +1701,53 @@ Prediction from unrestricted choice set: turn
 True label: put the disc near the blackboard
 
 Candidates in restricted choice set:
-1 	put the disc in the bowl 	0
-2 	put the disc near the banana 	0
+1 	move the disc 	0
+2 	put the disc touching the plate 	0
+3 	put the disc near the apple 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the disc near the apple
+
+Candidates in restricted choice set:
+1 	lean the disc against the spoon 	0
+2 	put the disc near the knife 	0
 3 	move the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the disc near the banana
+True label: put the disc near the knife
 
 Candidates in restricted choice set:
-1 	move the disc 	0
-2 	stack the disc and the paper sheet 	0
-3 	put the disc near the pencil 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the disc near the pencil
-
-Candidates in restricted choice set:
-1 	put the book near the ball 	0
-2 	stack the book and the disc 	0
-3 	move the book 	0
+1 	move the book 	0
+2 	put the book near the grape 	0
+3 	put the book near the ball 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the book near the ball
 
 Candidates in restricted choice set:
-1 	move the book 	0
-2 	put the book near the bottle 	0
-3 	put the book touching the ball 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the book near the bottle
-
-Candidates in restricted choice set:
-1 	lean the book on the block 	0
-2 	put the book near the banana 	0
+1 	put the book near the blackboard 	0
+2 	put the book near the spoon 	0
 3 	move the book 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the book near the banana
+True label: put the book near the blackboard
 
 Candidates in restricted choice set:
-1 	lean the book against the spoon 	0
+1 	put the book near the apple 	0
 2 	move the book 	0
+3 	lean the book against the bottle 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the book near the apple
+
+Candidates in restricted choice set:
+1 	move the book 	0
+2 	lean the book against the block 	0
 3 	put the book near the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
@@ -1764,133 +1755,133 @@ Prediction from unrestricted choice set: turn
 True label: put the book near the pencil
 
 Candidates in restricted choice set:
-1 	put the blackboard near the disc 	0
+1 	put the blackboard near the cup 	0
 2 	move the blackboard 	0
-3 	put the blackboard near the blackboard 	0
+3 	put the blackboard near the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the blackboard near the disc
-
-Candidates in restricted choice set:
-1 	put the blackboard near the grape 	0
-2 	move the blackboard 	0
-3 	put the blackboard touching the block 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the blackboard near the grape
+True label: put the blackboard near the cup
 
 Candidates in restricted choice set:
 1 	move the blackboard 	0
-2 	put the blackboard near the bowl 	0
-3 	put the blackboard near the banana 	0
+2 	put the blackboard near the bottle 	0
+3 	put the blackboard touching the cup 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the blackboard near the bottle
+
+Candidates in restricted choice set:
+1 	move the blackboard 	0
+2 	put the blackboard touching the paper sheet 	0
+3 	put the blackboard near the bowl 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the blackboard near the bowl
 
 Candidates in restricted choice set:
-1 	put the bottle on the apple 	0
-2 	move the bottle 	0
-3 	put the bottle near the block 	0
+1 	move the blackboard 	0
+2 	put the blackboard near the paper sheet 	0
+3 	put the blackboard on the blackboard 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the bottle near the block
+True label: put the blackboard near the paper sheet
 
 Candidates in restricted choice set:
 1 	move the bottle 	0
-2 	put the bottle near the disc 	0
-3 	lean the bottle against the banana 	0
+2 	put the bottle near the cup 	0
+3 	put the bottle touching the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the bottle near the disc
+True label: put the bottle near the cup
 
 Candidates in restricted choice set:
-1 	move the bottle 	0
-2 	put the bottle near the grape 	0
-3 	put the bottle touching the cup 	0
+1 	put the bottle near the grape 	0
+2 	touch the bottle 	0
+3 	move the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the bottle near the grape
 
 Candidates in restricted choice set:
-1 	lean the bottle against the cup 	0
-2 	move the bottle 	0
-3 	put the bottle near the knife 	0
+1 	move the bottle 	0
+2 	put the bottle near the bowl 	0
+3 	lean the bottle against the apple 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the bottle near the knife
+True label: put the bottle near the bowl
 
 Candidates in restricted choice set:
-1 	put the grape near the block 	0
-2 	lean the grape against the pencil 	0
-3 	move the grape 	0
+1 	put the bottle near the paper sheet 	0
+2 	lean the bottle against the blackboard 	0
+3 	move the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the grape near the block
+True label: put the bottle near the paper sheet
 
 Candidates in restricted choice set:
-1 	put the grape near the disc 	0
+1 	turn the grape 	0
 2 	move the grape 	0
-3 	lean the grape against the ball 	0
+3 	put the grape near the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the grape near the disc
 
 Candidates in restricted choice set:
-1 	put the grape near the apple 	0
-2 	put the grape near the banana 	0
-3 	move the grape 	0
+1 	move the grape 	0
+2 	put the grape near the bottle 	0
+3 	put the grape on the bowl 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the grape near the apple
+True label: put the grape near the bottle
 
 Candidates in restricted choice set:
-1 	lean the grape against the pencil 	0
+1 	put the grape near the bowl 	0
 2 	move the grape 	0
-3 	put the grape near the knife 	0
+3 	put the grape touching the paper sheet 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the grape near the knife
+True label: put the grape near the bowl
 
 Candidates in restricted choice set:
 1 	put the apple near the block 	0
-2 	lean the apple on the cup 	0
-3 	move the apple 	0
+2 	move the apple 	0
+3 	put the apple touching the block 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the apple near the block
 
 Candidates in restricted choice set:
-1 	lean the apple on the spoon 	0
-2 	put the apple near the book 	0
-3 	move the apple 	0
+1 	move the apple 	0
+2 	put the apple near the disc 	0
+3 	stack the apple and the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the apple near the book
+True label: put the apple near the disc
 
 Candidates in restricted choice set:
-1 	put the apple near the grape 	0
-2 	move the apple 	0
-3 	stack the apple and the plate 	0
+1 	move the apple 	0
+2 	spin the apple 	0
+3 	put the apple near the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the apple near the grape
+True label: put the apple near the bottle
 
 Candidates in restricted choice set:
-1 	turn the apple 	0
+1 	stack the apple and the bottle 	0
 2 	put the apple near the knife 	0
 3 	move the apple 	0
 Prediction with multiple choice option: [1, 2, 3]
@@ -1899,107 +1890,107 @@ Prediction from unrestricted choice set: turn
 True label: put the apple near the knife
 
 Candidates in restricted choice set:
-1 	move the banana 	0
-2 	put the banana near the ball 	0
-3 	lean the banana on the disc 	0
+1 	put the banana near the block 	0
+2 	put the banana touching the pencil 	0
+3 	move the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the banana near the ball
-
-Candidates in restricted choice set:
-1 	lean the banana on the spoon 	0
-2 	move the banana 	0
-3 	put the banana near the book 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the banana near the book
+True label: put the banana near the block
 
 Candidates in restricted choice set:
 1 	move the banana 	0
-2 	lean the banana against the knife 	0
-3 	put the banana near the grape 	0
+2 	put the banana near the disc 	0
+3 	put the banana touching the block 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the banana near the disc
+
+Candidates in restricted choice set:
+1 	put the banana near the book 	0
+2 	put the banana near the grape 	0
+3 	move the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the banana near the grape
 
 Candidates in restricted choice set:
-1 	lean the banana on the bottle 	0
-2 	move the banana 	0
-3 	put the banana near the pencil 	0
+1 	put the banana near the knife 	0
+2 	put the banana near the ball 	0
+3 	move the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the banana near the pencil
+True label: put the banana near the knife
 
 Candidates in restricted choice set:
-1 	stack the bowl and the book 	0
-2 	move the bowl 	0
-3 	put the bowl near the ball 	0
+1 	move the bowl 	0
+2 	put the bowl in the plate 	0
+3 	put the bowl near the block 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the bowl near the ball
+True label: put the bowl near the block
 
 Candidates in restricted choice set:
-1 	put the bowl near the book 	0
+1 	put the bowl on the paper sheet 	0
 2 	move the bowl 	0
-3 	put the bowl on the paper sheet 	0
+3 	put the bowl near the book 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the bowl near the book
 
 Candidates in restricted choice set:
-1 	lean the bowl on the blackboard 	0
-2 	move the bowl 	0
-3 	put the bowl near the apple 	0
+1 	stack the bowl and the knife 	0
+2 	put the bowl near the grape 	0
+3 	move the bowl 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the bowl near the apple
+True label: put the bowl near the grape
 
 Candidates in restricted choice set:
-1 	put the bowl near the pencil 	0
+1 	put the bowl near the knife 	0
 2 	move the bowl 	0
-3 	stack the bowl and the apple 	0
+3 	put the bowl on the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the bowl near the pencil
+True label: put the bowl near the knife
 
 Candidates in restricted choice set:
-1 	put the knife near the plate 	0
-2 	put the knife near the ball 	0
-3 	move the knife 	0
+1 	put the knife near the ball 	0
+2 	move the knife 	0
+3 	put the knife touching the plate 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the knife near the ball
 
 Candidates in restricted choice set:
-1 	lean the knife on the cup 	0
-2 	put the knife near the blackboard 	0
+1 	move the knife 	0
+2 	put the knife near the book 	0
+3 	lean the knife against the bowl 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the knife near the book
+
+Candidates in restricted choice set:
+1 	stack the knife and the disc 	0
+2 	put the knife near the grape 	0
 3 	move the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the knife near the blackboard
+True label: put the knife near the grape
 
 Candidates in restricted choice set:
 1 	move the knife 	0
-2 	put the knife touching the apple 	0
-3 	put the knife near the apple 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the knife near the apple
-
-Candidates in restricted choice set:
-1 	put the knife near the disc 	0
-2 	move the knife 	0
+2 	put the knife on the apple 	0
 3 	put the knife near the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
@@ -2007,103 +1998,103 @@ Prediction from unrestricted choice set: turn
 True label: put the knife near the pencil
 
 Candidates in restricted choice set:
-1 	put the pencil near the cup 	0
-2 	move the pencil 	0
-3 	put the pencil on the bottle 	0
+1 	move the pencil 	0
+2 	put the pencil near the ball 	0
+3 	put the pencil near the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the pencil near the cup
-
-Candidates in restricted choice set:
-1 	put the pencil near the spoon 	0
-2 	move the pencil 	0
-3 	put the pencil near the blackboard 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: put the pencil near the blackboard
+True label: put the pencil near the ball
 
 Candidates in restricted choice set:
 1 	move the pencil 	0
-2 	stack the pencil and the cup 	0
-3 	put the pencil near the apple 	0
+2 	put the pencil near the book 	0
+3 	stack the pencil and the book 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the pencil near the book
+
+Candidates in restricted choice set:
+1 	stack the pencil and the cup 	0
+2 	put the pencil near the apple 	0
+3 	move the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the pencil near the apple
 
 Candidates in restricted choice set:
-1 	put the paper sheet near the block 	0
-2 	put the paper sheet near the grape 	0
-3 	move the paper sheet 	0
+1 	move the pencil 	0
+2 	put the pencil near the knife 	0
+3 	put the pencil touching the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the paper sheet near the block
+True label: put the pencil near the knife
 
 Candidates in restricted choice set:
-1 	put the paper sheet on the pencil 	0
+1 	put the paper sheet near the cup 	0
 2 	move the paper sheet 	0
-3 	put the paper sheet near the disc 	0
+3 	slide the paper sheet 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the paper sheet near the disc
+True label: put the paper sheet near the cup
 
 Candidates in restricted choice set:
-1 	put the paper sheet near the bottle 	0
-2 	put the paper sheet near the block 	0
-3 	move the paper sheet 	0
+1 	hold the paper sheet 	0
+2 	move the paper sheet 	0
+3 	put the paper sheet near the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: put the paper sheet near the bottle
 
 Candidates in restricted choice set:
-1 	put the paper sheet near the bowl 	0
+1 	put the paper sheet near the banana 	0
 2 	move the paper sheet 	0
-3 	touch the paper sheet 	0
+3 	lean the paper sheet against the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: put the paper sheet near the bowl
+True label: put the paper sheet near the banana
+
+Candidates in restricted choice set:
+1 	put the paper sheet near the pencil 	0
+2 	move the paper sheet 	0
+3 	lean the paper sheet on the plate 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: put the paper sheet near the pencil
 
 Candidates in restricted choice set:
 1 	turn the block 	0
-2 	lean the block against the ball 	0
-3 	lean the block on the ball 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the block on the ball
-
-Candidates in restricted choice set:
-1 	move the block 	0
-2 	turn the block 	0
-3 	lean the block on the disc 	0
+2 	lean the block on the disc 	0
+3 	lean the block against the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the block on the disc
 
 Candidates in restricted choice set:
-1 	move the block 	0
-2 	lean the block on the grape 	0
-3 	turn the block 	0
+1 	lean the block against the bottle 	0
+2 	move the block 	0
+3 	lean the block on the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the block on the grape
+True label: lean the block on the bottle
 
 Candidates in restricted choice set:
-1 	lean the block on the bowl 	0
-2 	lean the block against the bowl 	0
-3 	move the block 	0
+1 	lean the block on the banana 	0
+2 	turn the block 	0
+3 	lean the block against the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the block on the bowl
+True label: lean the block on the banana
 
 Candidates in restricted choice set:
 1 	move the block 	0
@@ -2115,26 +2106,26 @@ Prediction from unrestricted choice set: turn
 True label: lean the block on the paper sheet
 
 Candidates in restricted choice set:
-1 	lean the ball on the disc 	0
-2 	turn the ball 	0
-3 	move the ball 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the ball on the disc
-
-Candidates in restricted choice set:
 1 	move the ball 	0
-2 	lean the ball on the bottle 	0
-3 	lean the ball against the bottle 	0
+2 	lean the ball on the cup 	0
+3 	lean the ball against the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the ball on the bottle
+True label: lean the ball on the cup
 
 Candidates in restricted choice set:
-1 	turn the ball 	0
-2 	lean the ball on the banana 	0
+1 	lean the ball on the blackboard 	0
+2 	move the ball 	0
+3 	turn the ball 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the ball on the blackboard
+
+Candidates in restricted choice set:
+1 	lean the ball on the banana 	0
+2 	move the ball 	0
 3 	lean the ball against the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
@@ -2142,135 +2133,135 @@ Prediction from unrestricted choice set: turn
 True label: lean the ball on the banana
 
 Candidates in restricted choice set:
-1 	lean the plate against the block 	0
-2 	turn the plate 	0
-3 	lean the plate on the block 	0
+1 	lean the ball on the pencil 	0
+2 	move the ball 	0
+3 	lean the ball against the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the plate on the block
+True label: lean the ball on the pencil
 
 Candidates in restricted choice set:
-1 	lean the plate on the disc 	0
-2 	move the plate 	0
-3 	turn the plate 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the plate on the disc
-
-Candidates in restricted choice set:
-1 	lean the plate on the bottle 	0
-2 	turn the plate 	0
+1 	turn the plate 	0
+2 	lean the plate on the cup 	0
 3 	move the plate 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the plate on the cup
+
+Candidates in restricted choice set:
+1 	move the plate 	0
+2 	turn the plate 	0
+3 	lean the plate on the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the plate on the bottle
 
 Candidates in restricted choice set:
-1 	lean the plate on the bowl 	0
+1 	lean the plate on the banana 	0
+2 	lean the plate against the banana 	0
+3 	move the plate 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the plate on the banana
+
+Candidates in restricted choice set:
+1 	lean the plate against the pencil 	0
 2 	move the plate 	0
-3 	lean the plate against the bowl 	0
+3 	lean the plate on the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the plate on the bowl
+True label: lean the plate on the pencil
 
 Candidates in restricted choice set:
-1 	lean the cup on the block 	0
-2 	turn the cup 	0
-3 	move the cup 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the cup on the block
-
-Candidates in restricted choice set:
-1 	lean the cup on the disc 	0
-2 	move the cup 	0
-3 	turn the cup 	0
+1 	move the cup 	0
+2 	lean the cup on the disc 	0
+3 	lean the cup against the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the cup on the disc
 
 Candidates in restricted choice set:
-1 	lean the cup on the grape 	0
-2 	move the cup 	0
+1 	lean the cup on the bottle 	0
+2 	lean the cup against the bottle 	0
+3 	move the cup 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the cup on the bottle
+
+Candidates in restricted choice set:
+1 	lean the cup on the banana 	0
+2 	lean the cup against the banana 	0
 3 	turn the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the cup on the grape
+True label: lean the cup on the banana
 
 Candidates in restricted choice set:
-1 	turn the cup 	0
-2 	lean the cup against the bowl 	0
-3 	lean the cup on the bowl 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the cup on the bowl
-
-Candidates in restricted choice set:
-1 	move the disc 	0
-2 	turn the disc 	0
-3 	lean the disc on the block 	0
+1 	turn the disc 	0
+2 	lean the disc on the block 	0
+3 	move the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the disc on the block
 
 Candidates in restricted choice set:
-1 	lean the disc on the book 	0
-2 	move the disc 	0
-3 	lean the disc against the book 	0
+1 	move the disc 	0
+2 	lean the disc against the cup 	0
+3 	lean the disc on the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the disc on the book
+True label: lean the disc on the cup
 
 Candidates in restricted choice set:
-1 	lean the disc against the grape 	0
-2 	lean the disc on the grape 	0
-3 	move the disc 	0
+1 	lean the disc on the bottle 	0
+2 	turn the disc 	0
+3 	lean the disc against the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the disc on the grape
+True label: lean the disc on the bottle
 
 Candidates in restricted choice set:
 1 	lean the disc against the bowl 	0
-2 	turn the disc 	0
-3 	lean the disc on the bowl 	0
+2 	lean the disc on the bowl 	0
+3 	move the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the disc on the bowl
 
 Candidates in restricted choice set:
-1 	lean the book on the ball 	0
+1 	lean the book on the block 	0
 2 	turn the book 	0
-3 	lean the book against the ball 	0
+3 	lean the book against the block 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the book on the ball
+True label: lean the book on the block
 
 Candidates in restricted choice set:
-1 	lean the book on the disc 	0
-2 	lean the book against the disc 	0
-3 	turn the book 	0
+1 	move the book 	0
+2 	turn the book 	0
+3 	lean the book on the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the book on the disc
+True label: lean the book on the cup
 
 Candidates in restricted choice set:
-1 	lean the book on the grape 	0
-2 	turn the book 	0
-3 	move the book 	0
+1 	turn the book 	0
+2 	lean the book against the grape 	0
+3 	lean the book on the grape 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
@@ -2278,106 +2269,106 @@ True label: lean the book on the grape
 
 Candidates in restricted choice set:
 1 	turn the book 	0
-2 	lean the book on the knife 	0
-3 	move the book 	0
+2 	move the book 	0
+3 	lean the book on the bowl 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the book on the knife
+True label: lean the book on the bowl
 
 Candidates in restricted choice set:
-1 	move the bottle 	0
-2 	lean the bottle on the ball 	0
-3 	lean the bottle against the ball 	0
+1 	turn the bottle 	0
+2 	lean the bottle on the block 	0
+3 	move the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the bottle on the ball
+True label: lean the bottle on the block
 
 Candidates in restricted choice set:
 1 	lean the bottle against the disc 	0
-2 	move the bottle 	0
-3 	lean the bottle on the disc 	0
+2 	lean the bottle on the disc 	0
+3 	move the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the bottle on the disc
 
 Candidates in restricted choice set:
-1 	turn the bottle 	0
+1 	move the bottle 	0
+2 	lean the bottle on the grape 	0
+3 	turn the bottle 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the bottle on the grape
+
+Candidates in restricted choice set:
+1 	lean the bottle on the bowl 	0
 2 	move the bottle 	0
-3 	lean the bottle on the apple 	0
+3 	turn the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the bottle on the apple
+True label: lean the bottle on the bowl
 
 Candidates in restricted choice set:
-1 	lean the bottle against the knife 	0
-2 	lean the bottle on the knife 	0
-3 	move the bottle 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the bottle on the knife
-
-Candidates in restricted choice set:
-1 	move the grape 	0
+1 	turn the grape 	0
 2 	lean the grape on the ball 	0
-3 	turn the grape 	0
+3 	move the grape 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the grape on the ball
 
 Candidates in restricted choice set:
-1 	turn the grape 	0
-2 	lean the grape on the book 	0
-3 	lean the grape against the book 	0
+1 	lean the grape on the disc 	0
+2 	move the grape 	0
+3 	turn the grape 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the grape on the book
+True label: lean the grape on the disc
 
 Candidates in restricted choice set:
-1 	lean the grape on the apple 	0
-2 	turn the grape 	0
-3 	lean the grape against the apple 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the grape on the apple
-
-Candidates in restricted choice set:
-1 	lean the grape on the knife 	0
-2 	lean the grape against the knife 	0
+1 	lean the grape on the bottle 	0
+2 	lean the grape against the bottle 	0
 3 	move the grape 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the grape on the bottle
+
+Candidates in restricted choice set:
+1 	move the grape 	0
+2 	lean the grape on the knife 	0
+3 	lean the grape against the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the grape on the knife
 
 Candidates in restricted choice set:
-1 	lean the apple on the plate 	0
-2 	lean the apple against the plate 	0
-3 	move the apple 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the apple on the plate
-
-Candidates in restricted choice set:
-1 	lean the apple against the book 	0
-2 	lean the apple on the book 	0
+1 	lean the apple against the ball 	0
+2 	lean the apple on the ball 	0
 3 	turn the apple 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the apple on the book
+True label: lean the apple on the ball
 
 Candidates in restricted choice set:
-1 	lean the apple against the grape 	0
-2 	lean the apple on the grape 	0
+1 	lean the apple against the disc 	0
+2 	turn the apple 	0
+3 	lean the apple on the disc 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the apple on the disc
+
+Candidates in restricted choice set:
+1 	lean the apple on the grape 	0
+2 	lean the apple against the grape 	0
 3 	move the apple 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
@@ -2386,106 +2377,106 @@ True label: lean the apple on the grape
 
 Candidates in restricted choice set:
 1 	move the apple 	0
-2 	lean the apple against the pencil 	0
-3 	lean the apple on the pencil 	0
+2 	turn the apple 	0
+3 	lean the apple on the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the apple on the pencil
-
-Candidates in restricted choice set:
-1 	turn the banana 	0
-2 	move the banana 	0
-3 	lean the banana on the plate 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the banana on the plate
+True label: lean the apple on the knife
 
 Candidates in restricted choice set:
 1 	move the banana 	0
+2 	turn the banana 	0
+3 	lean the banana on the ball 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the banana on the ball
+
+Candidates in restricted choice set:
+1 	lean the banana against the book 	0
 2 	lean the banana on the book 	0
-3 	lean the banana against the book 	0
+3 	move the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the banana on the book
 
 Candidates in restricted choice set:
-1 	lean the banana on the apple 	0
-2 	turn the banana 	0
-3 	lean the banana against the apple 	0
+1 	lean the banana against the grape 	0
+2 	move the banana 	0
+3 	lean the banana on the grape 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the banana on the apple
+True label: lean the banana on the grape
 
 Candidates in restricted choice set:
-1 	turn the banana 	0
-2 	lean the banana against the pencil 	0
-3 	lean the banana on the pencil 	0
+1 	move the banana 	0
+2 	lean the banana on the knife 	0
+3 	lean the banana against the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the banana on the pencil
+True label: lean the banana on the knife
 
 Candidates in restricted choice set:
-1 	lean the bowl against the plate 	0
-2 	lean the bowl on the plate 	0
-3 	turn the bowl 	0
+1 	lean the bowl on the plate 	0
+2 	move the bowl 	0
+3 	lean the bowl against the plate 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the bowl on the plate
 
 Candidates in restricted choice set:
-1 	move the bowl 	0
-2 	lean the bowl against the blackboard 	0
-3 	lean the bowl on the blackboard 	0
+1 	turn the bowl 	0
+2 	lean the bowl on the book 	0
+3 	move the bowl 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the bowl on the blackboard
+True label: lean the bowl on the book
 
 Candidates in restricted choice set:
 1 	move the bowl 	0
-2 	lean the bowl on the apple 	0
-3 	lean the bowl against the apple 	0
+2 	lean the bowl against the grape 	0
+3 	lean the bowl on the grape 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the bowl on the apple
+True label: lean the bowl on the grape
 
 Candidates in restricted choice set:
-1 	lean the bowl on the pencil 	0
-2 	move the bowl 	0
-3 	turn the bowl 	0
+1 	turn the bowl 	0
+2 	lean the bowl against the pencil 	0
+3 	lean the bowl on the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the bowl on the pencil
 
 Candidates in restricted choice set:
-1 	lean the knife against the cup 	0
-2 	move the knife 	0
-3 	lean the knife on the cup 	0
+1 	lean the knife against the plate 	0
+2 	lean the knife on the plate 	0
+3 	turn the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the knife on the cup
+True label: lean the knife on the plate
 
 Candidates in restricted choice set:
-1 	move the knife 	0
-2 	lean the knife on the blackboard 	0
-3 	lean the knife against the blackboard 	0
+1 	lean the knife on the book 	0
+2 	lean the knife against the book 	0
+3 	turn the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the knife on the blackboard
+True label: lean the knife on the book
 
 Candidates in restricted choice set:
 1 	turn the knife 	0
-2 	lean the knife against the apple 	0
+2 	move the knife 	0
 3 	lean the knife on the apple 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
@@ -2493,26 +2484,26 @@ Prediction from unrestricted choice set: turn
 True label: lean the knife on the apple
 
 Candidates in restricted choice set:
-1 	lean the pencil against the block 	0
-2 	turn the pencil 	0
-3 	lean the pencil on the block 	0
+1 	lean the knife on the pencil 	0
+2 	turn the knife 	0
+3 	lean the knife against the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the pencil on the block
+True label: lean the knife on the pencil
 
 Candidates in restricted choice set:
-1 	turn the pencil 	0
-2 	lean the pencil on the cup 	0
-3 	lean the pencil against the cup 	0
+1 	lean the pencil on the plate 	0
+2 	lean the pencil against the plate 	0
+3 	move the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the pencil on the cup
+True label: lean the pencil on the plate
 
 Candidates in restricted choice set:
-1 	lean the pencil against the blackboard 	0
-2 	move the pencil 	0
+1 	move the pencil 	0
+2 	lean the pencil against the blackboard 	0
 3 	lean the pencil on the blackboard 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
@@ -2520,27 +2511,27 @@ Prediction from unrestricted choice set: turn
 True label: lean the pencil on the blackboard
 
 Candidates in restricted choice set:
-1 	lean the pencil on the banana 	0
+1 	turn the pencil 	0
 2 	move the pencil 	0
-3 	lean the pencil against the banana 	0
+3 	lean the pencil on the apple 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the pencil on the banana
+True label: lean the pencil on the apple
 
 Candidates in restricted choice set:
-1 	move the paper sheet 	0
-2 	lean the paper sheet on the block 	0
-3 	lean the paper sheet against the block 	0
+1 	move the pencil 	0
+2 	lean the pencil against the knife 	0
+3 	lean the pencil on the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the paper sheet on the block
+True label: lean the pencil on the knife
 
 Candidates in restricted choice set:
-1 	lean the paper sheet on the cup 	0
+1 	lean the paper sheet against the cup 	0
 2 	turn the paper sheet 	0
-3 	move the paper sheet 	0
+3 	lean the paper sheet on the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
@@ -2548,26 +2539,26 @@ True label: lean the paper sheet on the cup
 
 Candidates in restricted choice set:
 1 	move the paper sheet 	0
-2 	lean the paper sheet against the bottle 	0
-3 	lean the paper sheet on the bottle 	0
+2 	lean the paper sheet on the blackboard 	0
+3 	lean the paper sheet against the blackboard 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the paper sheet on the bottle
+True label: lean the paper sheet on the blackboard
 
 Candidates in restricted choice set:
-1 	move the paper sheet 	0
-2 	lean the paper sheet on the banana 	0
-3 	turn the paper sheet 	0
+1 	lean the paper sheet on the apple 	0
+2 	lean the paper sheet against the apple 	0
+3 	move the paper sheet 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the paper sheet on the banana
+True label: lean the paper sheet on the apple
 
 Candidates in restricted choice set:
-1 	move the paper sheet 	0
-2 	lean the paper sheet against the pencil 	0
-3 	lean the paper sheet on the pencil 	0
+1 	lean the paper sheet on the pencil 	0
+2 	turn the paper sheet 	0
+3 	move the paper sheet 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
@@ -2575,51 +2566,51 @@ True label: lean the paper sheet on the pencil
 
 Candidates in restricted choice set:
 1 	move the block 	0
-2 	lean the block against the disc 	0
+2 	lean the block on the cup 	0
+3 	lean the block against the cup 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the block against the cup
+
+Candidates in restricted choice set:
+1 	move the block 	0
+2 	lean the block against the blackboard 	0
 3 	turn the block 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the block against the disc
+True label: lean the block against the blackboard
 
 Candidates in restricted choice set:
-1 	lean the block on the bottle 	0
+1 	move the block 	0
 2 	turn the block 	0
-3 	lean the block against the bottle 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the block against the bottle
-
-Candidates in restricted choice set:
-1 	lean the block on the banana 	0
-2 	lean the block against the banana 	0
-3 	move the block 	0
+3 	lean the block against the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the block against the banana
 
 Candidates in restricted choice set:
-1 	lean the plate on the block 	0
-2 	lean the plate against the block 	0
-3 	turn the plate 	0
+1 	move the block 	0
+2 	lean the block against the pencil 	0
+3 	turn the block 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the plate against the block
+True label: lean the block against the pencil
 
 Candidates in restricted choice set:
-1 	lean the plate against the disc 	0
+1 	lean the plate against the cup 	0
 2 	turn the plate 	0
-3 	lean the plate on the disc 	0
+3 	lean the plate on the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the plate against the disc
+True label: lean the plate against the cup
 
 Candidates in restricted choice set:
-1 	lean the plate on the bottle 	0
+1 	move the plate 	0
 2 	lean the plate against the bottle 	0
 3 	turn the plate 	0
 Prediction with multiple choice option: [1, 2, 3]
@@ -2629,277 +2620,277 @@ True label: lean the plate against the bottle
 
 Candidates in restricted choice set:
 1 	turn the plate 	0
-2 	move the plate 	0
-3 	lean the plate against the bowl 	0
+2 	lean the plate against the banana 	0
+3 	lean the plate on the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the plate against the bowl
+True label: lean the plate against the banana
 
 Candidates in restricted choice set:
-1 	lean the cup on the block 	0
-2 	lean the cup against the block 	0
-3 	turn the cup 	0
+1 	move the cup 	0
+2 	lean the cup on the block 	0
+3 	lean the cup against the block 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the cup against the block
 
 Candidates in restricted choice set:
-1 	lean the cup on the book 	0
-2 	move the cup 	0
-3 	lean the cup against the book 	0
+1 	lean the cup against the disc 	0
+2 	lean the cup on the disc 	0
+3 	move the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the cup against the book
-
-Candidates in restricted choice set:
-1 	lean the cup against the grape 	0
-2 	move the cup 	0
-3 	turn the cup 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the cup against the grape
+True label: lean the cup against the disc
 
 Candidates in restricted choice set:
 1 	turn the cup 	0
-2 	lean the cup on the bowl 	0
-3 	lean the cup against the bowl 	0
+2 	lean the cup against the bottle 	0
+3 	lean the cup on the bottle 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the cup against the bottle
+
+Candidates in restricted choice set:
+1 	lean the cup against the bowl 	0
+2 	move the cup 	0
+3 	turn the cup 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the cup against the bowl
 
 Candidates in restricted choice set:
-1 	lean the disc on the ball 	0
-2 	turn the disc 	0
-3 	lean the disc against the ball 	0
+1 	move the disc 	0
+2 	lean the disc against the block 	0
+3 	lean the disc on the block 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the disc against the ball
-
-Candidates in restricted choice set:
-1 	lean the disc against the book 	0
-2 	move the disc 	0
-3 	turn the disc 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the disc against the book
+True label: lean the disc against the block
 
 Candidates in restricted choice set:
 1 	turn the disc 	0
+2 	lean the disc on the cup 	0
+3 	lean the disc against the cup 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the disc against the cup
+
+Candidates in restricted choice set:
+1 	lean the disc on the grape 	0
 2 	lean the disc against the grape 	0
-3 	lean the disc on the grape 	0
+3 	turn the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the disc against the grape
 
 Candidates in restricted choice set:
-1 	lean the disc against the knife 	0
-2 	move the disc 	0
+1 	move the disc 	0
+2 	lean the disc against the bowl 	0
 3 	turn the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the disc against the knife
+True label: lean the disc against the bowl
 
 Candidates in restricted choice set:
-1 	move the book 	0
-2 	turn the book 	0
-3 	lean the book against the ball 	0
+1 	lean the book on the block 	0
+2 	lean the book against the block 	0
+3 	move the book 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the book against the ball
+True label: lean the book against the block
 
 Candidates in restricted choice set:
-1 	lean the book on the disc 	0
+1 	turn the book 	0
 2 	lean the book against the disc 	0
-3 	move the book 	0
+3 	lean the book on the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the book against the disc
 
 Candidates in restricted choice set:
-1 	lean the book on the apple 	0
-2 	lean the book against the apple 	0
+1 	move the book 	0
+2 	lean the book against the grape 	0
 3 	turn the book 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the book against the apple
+True label: lean the book against the grape
 
 Candidates in restricted choice set:
-1 	lean the book against the knife 	0
-2 	lean the book on the knife 	0
-3 	turn the book 	0
+1 	turn the book 	0
+2 	lean the book on the bowl 	0
+3 	lean the book against the bowl 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the book against the knife
+True label: lean the book against the bowl
 
 Candidates in restricted choice set:
 1 	lean the bottle against the plate 	0
-2 	turn the bottle 	0
-3 	move the bottle 	0
+2 	lean the bottle on the plate 	0
+3 	turn the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the bottle against the plate
 
 Candidates in restricted choice set:
-1 	turn the bottle 	0
-2 	lean the bottle against the blackboard 	0
+1 	lean the bottle against the book 	0
+2 	turn the bottle 	0
+3 	lean the bottle on the book 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the bottle against the book
+
+Candidates in restricted choice set:
+1 	lean the bottle against the apple 	0
+2 	turn the bottle 	0
 3 	move the bottle 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the bottle against the blackboard
-
-Candidates in restricted choice set:
-1 	lean the bottle on the banana 	0
-2 	lean the bottle against the banana 	0
-3 	turn the bottle 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the bottle against the banana
+True label: lean the bottle against the apple
 
 Candidates in restricted choice set:
 1 	turn the bottle 	0
-2 	lean the bottle against the pencil 	0
-3 	lean the bottle on the pencil 	0
+2 	move the bottle 	0
+3 	lean the bottle against the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the bottle against the pencil
 
 Candidates in restricted choice set:
-1 	turn the grape 	0
-2 	lean the grape on the cup 	0
-3 	lean the grape against the cup 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the grape against the cup
-
-Candidates in restricted choice set:
-1 	lean the grape on the blackboard 	0
+1 	lean the grape against the plate 	0
 2 	turn the grape 	0
-3 	lean the grape against the blackboard 	0
+3 	lean the grape on the plate 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the grape against the blackboard
+True label: lean the grape against the plate
 
 Candidates in restricted choice set:
-1 	lean the grape against the banana 	0
+1 	lean the grape on the book 	0
 2 	move the grape 	0
-3 	lean the grape on the banana 	0
+3 	lean the grape against the book 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the grape against the book
+
+Candidates in restricted choice set:
+1 	lean the grape on the banana 	0
+2 	move the grape 	0
+3 	lean the grape against the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the grape against the banana
 
 Candidates in restricted choice set:
+1 	lean the grape against the pencil 	0
+2 	turn the grape 	0
+3 	move the grape 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the grape against the pencil
+
+Candidates in restricted choice set:
+1 	lean the apple against the cup 	0
+2 	turn the apple 	0
+3 	move the apple 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the apple against the cup
+
+Candidates in restricted choice set:
 1 	turn the apple 	0
-2 	lean the apple on the block 	0
-3 	lean the apple against the block 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the apple against the block
-
-Candidates in restricted choice set:
-1 	move the apple 	0
-2 	lean the apple on the disc 	0
-3 	lean the apple against the disc 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the apple against the disc
-
-Candidates in restricted choice set:
-1 	lean the apple against the bottle 	0
-2 	move the apple 	0
-3 	turn the apple 	0
+2 	lean the apple against the bottle 	0
+3 	move the apple 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the apple against the bottle
 
 Candidates in restricted choice set:
-1 	lean the apple against the knife 	0
-2 	lean the apple on the knife 	0
+1 	lean the apple against the bowl 	0
+2 	lean the apple on the bowl 	0
 3 	turn the apple 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the apple against the knife
+True label: lean the apple against the bowl
 
 Candidates in restricted choice set:
 1 	lean the banana against the ball 	0
-2 	move the banana 	0
-3 	turn the banana 	0
+2 	turn the banana 	0
+3 	move the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the banana against the ball
 
 Candidates in restricted choice set:
-1 	lean the banana against the book 	0
-2 	lean the banana on the book 	0
+1 	move the banana 	0
+2 	turn the banana 	0
+3 	lean the banana against the disc 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the banana against the disc
+
+Candidates in restricted choice set:
+1 	lean the banana on the bottle 	0
+2 	lean the banana against the bottle 	0
 3 	turn the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the banana against the book
+True label: lean the banana against the bottle
 
 Candidates in restricted choice set:
-1 	turn the banana 	0
-2 	lean the banana against the grape 	0
-3 	lean the banana on the grape 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the banana against the grape
-
-Candidates in restricted choice set:
-1 	turn the banana 	0
-2 	move the banana 	0
-3 	lean the banana against the knife 	0
+1 	lean the banana against the knife 	0
+2 	lean the banana on the knife 	0
+3 	move the banana 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the banana against the knife
 
 Candidates in restricted choice set:
-1 	move the bowl 	0
-2 	lean the bowl against the plate 	0
-3 	lean the bowl on the plate 	0
+1 	lean the bowl against the ball 	0
+2 	lean the bowl on the ball 	0
+3 	move the bowl 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the bowl against the plate
+True label: lean the bowl against the ball
 
 Candidates in restricted choice set:
-1 	lean the bowl on the book 	0
-2 	lean the bowl against the book 	0
-3 	turn the bowl 	0
+1 	lean the bowl against the disc 	0
+2 	turn the bowl 	0
+3 	lean the bowl on the disc 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the bowl against the book
+True label: lean the bowl against the disc
 
 Candidates in restricted choice set:
-1 	turn the bowl 	0
-2 	lean the bowl against the grape 	0
+1 	lean the bowl against the grape 	0
+2 	turn the bowl 	0
 3 	lean the bowl on the grape 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
@@ -2907,26 +2898,26 @@ Prediction from unrestricted choice set: turn
 True label: lean the bowl against the grape
 
 Candidates in restricted choice set:
-1 	lean the bowl against the pencil 	0
-2 	lean the bowl on the pencil 	0
-3 	turn the bowl 	0
+1 	turn the bowl 	0
+2 	move the bowl 	0
+3 	lean the bowl against the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the bowl against the pencil
-
-Candidates in restricted choice set:
-1 	move the knife 	0
-2 	lean the knife against the plate 	0
-3 	turn the knife 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the knife against the plate
+True label: lean the bowl against the knife
 
 Candidates in restricted choice set:
 1 	turn the knife 	0
-2 	lean the knife on the book 	0
+2 	move the knife 	0
+3 	lean the knife against the ball 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the knife against the ball
+
+Candidates in restricted choice set:
+1 	move the knife 	0
+2 	turn the knife 	0
 3 	lean the knife against the book 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
@@ -2934,27 +2925,27 @@ Prediction from unrestricted choice set: turn
 True label: lean the knife against the book
 
 Candidates in restricted choice set:
-1 	lean the knife against the apple 	0
-2 	lean the knife on the apple 	0
-3 	move the knife 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the knife against the apple
-
-Candidates in restricted choice set:
-1 	lean the knife against the pencil 	0
-2 	move the knife 	0
+1 	lean the knife against the grape 	0
+2 	lean the knife on the grape 	0
 3 	turn the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the knife against the pencil
+True label: lean the knife against the grape
 
 Candidates in restricted choice set:
-1 	move the pencil 	0
-2 	lean the pencil against the plate 	0
-3 	turn the pencil 	0
+1 	lean the knife on the bowl 	0
+2 	move the knife 	0
+3 	lean the knife against the bowl 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the knife against the bowl
+
+Candidates in restricted choice set:
+1 	lean the pencil against the plate 	0
+2 	lean the pencil on the plate 	0
+3 	move the pencil 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
@@ -2962,66 +2953,66 @@ True label: lean the pencil against the plate
 
 Candidates in restricted choice set:
 1 	move the pencil 	0
-2 	lean the pencil against the blackboard 	0
-3 	lean the pencil on the blackboard 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the pencil against the blackboard
-
-Candidates in restricted choice set:
-1 	lean the pencil on the apple 	0
-2 	turn the pencil 	0
-3 	lean the pencil against the apple 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the pencil against the apple
-
-Candidates in restricted choice set:
-1 	lean the pencil against the knife 	0
-2 	move the pencil 	0
+2 	lean the pencil against the book 	0
 3 	turn the pencil 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the pencil against the book
+
+Candidates in restricted choice set:
+1 	lean the pencil on the grape 	0
+2 	turn the pencil 	0
+3 	lean the pencil against the grape 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the pencil against the grape
+
+Candidates in restricted choice set:
+1 	turn the pencil 	0
+2 	lean the pencil against the knife 	0
+3 	lean the pencil on the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the pencil against the knife
 
 Candidates in restricted choice set:
-1 	lean the paper sheet against the cup 	0
-2 	turn the paper sheet 	0
+1 	lean the paper sheet against the plate 	0
+2 	lean the paper sheet on the plate 	0
+3 	turn the paper sheet 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the paper sheet against the plate
+
+Candidates in restricted choice set:
+1 	turn the paper sheet 	0
+2 	lean the paper sheet against the book 	0
+3 	lean the paper sheet on the book 	0
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: None
+Prediction from unrestricted choice set: turn
+True label: lean the paper sheet against the book
+
+Candidates in restricted choice set:
+1 	lean the paper sheet against the apple 	0
+2 	lean the paper sheet on the apple 	0
 3 	move the paper sheet 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the paper sheet against the cup
-
-Candidates in restricted choice set:
-1 	lean the paper sheet on the blackboard 	0
-2 	lean the paper sheet against the blackboard 	0
-3 	turn the paper sheet 	0
-Prediction with multiple choice option: [1, 2, 3]
-Prediction from restricted choice set: None
-Prediction from unrestricted choice set: turn
-True label: lean the paper sheet against the blackboard
-
-Candidates in restricted choice set:
-1 	lean the paper sheet on the apple 	0
-2 	lean the paper sheet against the apple 	0
-3 	turn the paper sheet 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
 True label: lean the paper sheet against the apple
 
 Candidates in restricted choice set:
-1 	lean the paper sheet against the pencil 	0
+1 	lean the paper sheet against the knife 	0
 2 	move the paper sheet 	0
-3 	turn the paper sheet 	0
+3 	lean the paper sheet on the knife 	0
 Prediction with multiple choice option: [1, 2, 3]
 Prediction from restricted choice set: None
 Prediction from unrestricted choice set: turn
-True label: lean the paper sheet against the pencil
+True label: lean the paper sheet against the knife
 
 Choice set restricted:
       |   F     |
@@ -3031,7 +3022,7 @@ Choice set restricted:
       |   e   e |
 ------+---------+
 False |  <.>  . |
- True | 336  <.>|
+ True | 335  <.>|
 ------+---------+
 (row = reference; col = test)
 
@@ -3044,7 +3035,7 @@ Choice set unrestricted:
       |   e   e |
 ------+---------+
 False |  <.>  . |
- True | 336  <.>|
+ True | 335  <.>|
 ------+---------+
 (row = reference; col = test)
 

@@ -1,0 +1,3050 @@
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	turn 	0.0320493865585
+3 	open 	0.162521118983
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: open
+Prediction from unrestricted choice set: close
+True label: open
+
+Candidates in restricted choice set:
+1 	spin 	0.0300443338688
+2 	put on 	0
+3 	close 	0.699556661312
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: close
+Prediction from unrestricted choice set: close
+True label: close
+
+Candidates in restricted choice set:
+1 	move 	0.00509183791337
+2 	flip 	0.838296001191
+3 	lean on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: flip
+Prediction from unrestricted choice set: flip
+True label: move
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	move 	0.328989580805
+3 	stack 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: move
+True label: move
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: move
+
+Candidates in restricted choice set:
+1 	move 	0.129480857069
+2 	turn 	0.290087167202
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: move
+
+Candidates in restricted choice set:
+1 	stack 	0
+2 	move 	0.491875600584
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: move
+True label: move
+
+Candidates in restricted choice set:
+1 	flip on 	0
+2 	turn 	0.0141138265196
+3 	move 	0.00343562992084
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: flip
+True label: turn
+
+Candidates in restricted choice set:
+1 	turn 	0.414579099845
+2 	spin 	0.381496260982
+3 	move 	0.0197898818305
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: turn
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	turn 	0.290087167202
+3 	move 	0.129480857069
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: turn
+
+Candidates in restricted choice set:
+1 	turn 	0.290087167202
+2 	put near 	0
+3 	move 	0.129480857069
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: turn
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0909090909091
+3 	lift 	0.0909090909091
+Prediction with multiple choice option: [2, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lift
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put near 	0
+3 	lift 	0.0909090909091
+Prediction with multiple choice option: [1, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lift
+
+Candidates in restricted choice set:
+1 	lift 	0.0909090909091
+2 	move 	0.0909090909091
+3 	stack 	0
+Prediction with multiple choice option: [1, 2]
+Prediction from restricted choice set: lift
+Prediction from unrestricted choice set: turn
+True label: lift
+
+Candidates in restricted choice set:
+1 	lift 	0.0909090909091
+2 	lean on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [1, 3]
+Prediction from restricted choice set: lift
+Prediction from unrestricted choice set: turn
+True label: lift
+
+Candidates in restricted choice set:
+1 	lift 	0.0909090909091
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [1, 3]
+Prediction from restricted choice set: lift
+Prediction from unrestricted choice set: turn
+True label: lift
+
+Candidates in restricted choice set:
+1 	roll 	0.0909090909091
+2 	spin 	0.0909090909091
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: roll
+Prediction from unrestricted choice set: turn
+True label: spin
+
+Candidates in restricted choice set:
+1 	spin 	0.396298686527
+2 	move 	0.0296125477079
+3 	turn 	0.272458795808
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: spin
+Prediction from unrestricted choice set: spin
+True label: spin
+
+Candidates in restricted choice set:
+1 	spin 	0.587958272618
+2 	turn 	0.0977550859254
+3 	move 	0.0304999705801
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: spin
+Prediction from unrestricted choice set: spin
+True label: spin
+
+Candidates in restricted choice set:
+1 	spin 	0.065826893898
+2 	move 	0.326114729248
+3 	turn 	0.0973672497552
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: flip
+True label: spin
+
+Candidates in restricted choice set:
+1 	move 	0.00243078993488
+2 	turn 	0.00316836953548
+3 	flip on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: flip
+True label: flip on
+
+Candidates in restricted choice set:
+1 	turn 	0.00316836953548
+2 	flip 	0.97448401704
+3 	move 	0.00243078993488
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: flip
+Prediction from unrestricted choice set: flip
+True label: flip
+
+Candidates in restricted choice set:
+1 	turn 	0.0131349307072
+2 	move 	0.0195432466498
+3 	flip 	0.950938992375
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: flip
+Prediction from unrestricted choice set: flip
+True label: flip
+
+Candidates in restricted choice set:
+1 	move 	0.00243078993488
+2 	flip 	0.97448401704
+3 	turn 	0.00316836953548
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: flip
+Prediction from unrestricted choice set: flip
+True label: flip
+
+Candidates in restricted choice set:
+1 	move 	0.00343562992084
+2 	flip 	0.963950001221
+3 	turn 	0.0141138265196
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: flip
+Prediction from unrestricted choice set: flip
+True label: flip
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	move 	0.0909090909091
+3 	slide 	0.0909090909091
+Prediction with multiple choice option: [2, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: slide
+
+Candidates in restricted choice set:
+1 	slide 	0.0909090909091
+2 	stack 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [1, 3]
+Prediction from restricted choice set: slide
+Prediction from unrestricted choice set: turn
+True label: slide
+
+Candidates in restricted choice set:
+1 	spin 	0.0909090909091
+2 	slide 	0.0909090909091
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: spin
+Prediction from unrestricted choice set: turn
+True label: slide
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	stack 	0
+3 	slide 	0.0909090909091
+Prediction with multiple choice option: [1, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: slide
+
+Candidates in restricted choice set:
+1 	spin 	0.0909090909091
+2 	turn 	0.0909090909091
+3 	roll 	0.0909090909091
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: spin
+Prediction from unrestricted choice set: turn
+True label: roll
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	roll 	0.0909090909091
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: roll
+
+Candidates in restricted choice set:
+1 	roll 	0.0909090909091
+2 	turn 	0.0909090909091
+3 	spin 	0.0909090909091
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: roll
+Prediction from unrestricted choice set: turn
+True label: roll
+
+Candidates in restricted choice set:
+1 	roll 	0.0909090909091
+2 	move 	0.0909090909091
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: roll
+Prediction from unrestricted choice set: turn
+True label: roll
+
+Candidates in restricted choice set:
+1 	roll 	0.0909090909091
+2 	spin 	0.0909090909091
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [1, 2, 3]
+Prediction from restricted choice set: roll
+Prediction from unrestricted choice set: turn
+True label: roll
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put in 	0
+3 	put on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	move 	0.0909090909091
+3 	put in 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put in 	0
+3 	put on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put on 	0
+3 	put in 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put in 	0
+3 	put on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	move 	0.0909090909091
+3 	put in 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	move 	0.0909090909091
+3 	put in 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put on 	0
+3 	put in 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	move 	0.0909090909091
+3 	put in 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put in 	0
+3 	put on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	move 	0.0909090909091
+3 	put in 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	move 	0.0909090909091
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put in
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put touching 	0
+3 	put left of 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put behind 	0
+2 	put touching 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put in front 	0
+3 	put touching 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put in front 	0
+3 	put touching 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put touching 	0
+3 	put on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put in front 	0
+2 	move 	0.0300443338688
+3 	put touching 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put left of 	0
+2 	put touching 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put behind 	0
+2 	put touching 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put left of 	0
+2 	move 	0.0300443338688
+3 	put touching 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0300443338688
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put left of 	0
+2 	put touching 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	put on 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put in front 	0
+2 	put touching 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put touching 	0
+3 	put on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put in front 	0
+3 	put touching 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put behind 	0
+2 	move 	0.0300443338688
+3 	put touching 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	put in front 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0300443338688
+3 	put in front 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put left of 	0
+2 	put touching 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put touching 	0
+3 	put left of 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put touching 	0
+3 	put behind 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0300443338688
+3 	put right of 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put right of 	0
+2 	put touching 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0300443338688
+3 	put in front 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put right of 	0
+2 	move 	0.0300443338688
+3 	put touching 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	put left of 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	put in front 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put in front 	0
+3 	put touching 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put touching 	0
+3 	put left of 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0300443338688
+3 	put in front 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put touching 	0
+3 	put right of 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put in front 	0
+2 	move 	0.0300443338688
+3 	put touching 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	put behind 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put left of 	0
+3 	put touching 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0300443338688
+3 	put in front 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0300443338688
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put behind 	0
+2 	move 	0.0300443338688
+3 	put touching 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0300443338688
+3 	put in front 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put in front 	0
+2 	put touching 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put left of 	0
+3 	put touching 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put touching 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0300443338688
+3 	put left of 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put touching 	0
+3 	put in front 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0300443338688
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put right of 	0
+3 	put touching 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0300443338688
+3 	put left of 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put in front 	0
+2 	move 	0.0300443338688
+3 	put touching 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put left of 	0
+2 	put touching 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0300443338688
+3 	put behind 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	put in front 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put right of 	0
+3 	put touching 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0300443338688
+3 	put left of 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	move 	0.0300443338688
+3 	put touching 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0909090909091
+3 	put 	0.0909090909091
+Prediction with multiple choice option: [2, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put in front 	0
+2 	move 	0.0300443338688
+3 	put touching 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	move 	0.0300443338688
+3 	put touching 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put touching 	0
+3 	put in front 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put behind 	0
+2 	put touching 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0300443338688
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0300443338688
+2 	put touching 	0
+3 	put right of 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	put left of 	0
+3 	move 	0.0300443338688
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	move 	0.0300443338688
+3 	put touching 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0300443338688
+3 	put left of 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: put
+True label: put touching
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put on 	0
+3 	put in 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put on 	0
+3 	put in 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	move 	0.0909090909091
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put in 	0
+3 	put on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put in 	0
+3 	put on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put on 	0
+3 	put in 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put on 	0
+3 	put in 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	move 	0.0909090909091
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	move 	0.0909090909091
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	move 	0.0909090909091
+3 	put in 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put in 	0
+3 	put on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put on 	0
+3 	put in 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put on 	0
+3 	put in 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put in 	0
+3 	put on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put on 	0
+3 	put in 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put on 	0
+3 	put in 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put in 	0
+3 	put on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	move 	0.0909090909091
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put in 	0
+3 	put on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	move 	0.0909090909091
+3 	put in 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	move 	0.0909090909091
+3 	put in 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	move 	0.0909090909091
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put on 	0
+3 	put in 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	move 	0.0909090909091
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put on 	0
+3 	put in 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	move 	0.0909090909091
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put in 	0
+3 	put on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put on 	0
+3 	put in 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put on 	0
+3 	put in 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put in 	0
+3 	put on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	move 	0.0909090909091
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	move 	0.0909090909091
+3 	put in 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put in 	0
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put on
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	put in 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	put near 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	put touching 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	stack 	0
+3 	put near 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	put touching 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	put touching 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	put near 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	put in 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	put touching 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	put near 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put near 	0
+3 	stack 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put near 	0
+3 	put on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	put near 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	stack 	0
+2 	put near 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	move 	0.0909090909091
+3 	put near 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	put on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put near 	0
+3 	lean against 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	stack 	0
+2 	move 	0.0909090909091
+3 	put near 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	stack 	0
+2 	move 	0.0909090909091
+3 	put near 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	put touching 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	stack 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put in 	0
+3 	put near 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	put near 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	move 	0.0909090909091
+3 	put near 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	hold 	0
+3 	put near 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	put near 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put near 	0
+3 	put on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	slide 	0.0909090909091
+2 	move 	0.0909090909091
+3 	put near 	0
+Prediction with multiple choice option: [1, 2]
+Prediction from restricted choice set: slide
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	stack 	0
+2 	put near 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put near 	0
+3 	lean against 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put on 	0
+3 	put near 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean against 	0
+3 	put near 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	put touching 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0909090909091
+3 	put near 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put near 	0
+3 	put touching 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put near 	0
+3 	put near 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean on 	0
+3 	put near 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	stack 	0
+3 	put near 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put near 	0
+3 	put touching 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	stack 	0
+2 	move 	0.0909090909091
+3 	put near 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	stack 	0
+2 	put near 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	lean on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	lean on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put touching 	0
+3 	put near 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put in 	0
+3 	put near 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	put touching 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	put near 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put on 	0
+2 	put near 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	lean on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	put near 	0
+3 	lean against 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put touching 	0
+2 	move 	0.0909090909091
+3 	put near 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	put near 	0
+2 	move 	0.0909090909091
+3 	put on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: put near
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	turn 	0.0909090909091
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [2, 3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	turn 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	move 	0.0909090909091
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [2, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	lean on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [1, 3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean on 	0
+3 	lean against 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	lean on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [1, 3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	lean on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	move 	0.0909090909091
+3 	lean on 	0
+Prediction with multiple choice option: [1, 2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	move 	0.0909090909091
+3 	lean on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	lean on 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	move 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	lean against 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	lean against 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	lean on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	turn 	0.0909090909091
+3 	lean on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	turn 	0.0909090909091
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [2, 3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	lean against 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	lean on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [1, 3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean on 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [1, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	move 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	turn 	0.0909090909091
+3 	lean on 	0
+Prediction with multiple choice option: [1, 2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	move 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	lean on 	0
+3 	lean against 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	lean on 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	turn 	0.0909090909091
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [2, 3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	lean on 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	lean against 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	lean against 	0
+3 	lean on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	turn 	0.0909090909091
+3 	lean on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	turn 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	lean on 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	move 	0.0909090909091
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [2, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	lean on 	0
+3 	lean against 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	turn 	0.0909090909091
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [2, 3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean against 	0
+3 	lean on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	turn 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	turn 	0.0909090909091
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [2, 3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	lean on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [1, 3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	turn 	0.0909090909091
+3 	lean on 	0
+Prediction with multiple choice option: [1, 2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	turn 	0.0909090909091
+3 	lean on 	0
+Prediction with multiple choice option: [1, 2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	move 	0.0909090909091
+3 	lean on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	lean on 	0
+3 	lean against 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean on 	0
+3 	lean against 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	move 	0.0909090909091
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [2, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	lean against 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean on 	0
+3 	lean against 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	turn 	0.0909090909091
+3 	lean on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	move 	0.0909090909091
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [2, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	move 	0.0909090909091
+3 	lean on 	0
+Prediction with multiple choice option: [1, 2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	lean on 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	move 	0.0909090909091
+3 	lean on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	move 	0.0909090909091
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [2, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	lean against 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	lean on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	lean against 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean on
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean against 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [1, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	lean against 	0
+3 	lean on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	lean on 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean on 	0
+3 	lean against 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	move 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [1, 2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	lean against 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	move 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [1, 2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	move 	0.0909090909091
+3 	lean on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean against 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [1, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean on 	0
+3 	lean against 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	lean against 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	turn 	0.0909090909091
+3 	lean on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	turn 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	lean on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	move 	0.0909090909091
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [2, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	lean against 	0
+3 	lean on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	lean on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	turn 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [1, 2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	lean on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean on 	0
+3 	lean against 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	turn 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [1, 2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean against 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [1, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	lean on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	move 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	lean against 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [1, 3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	turn 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	move 	0.0909090909091
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [2, 3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean against 	0
+3 	lean on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	lean against 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	turn 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	lean on 	0
+3 	lean against 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	lean on 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	lean against 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [1, 3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	move 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	move 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	lean against 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [1, 3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean against 	0
+3 	lean on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	lean on 	0
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	lean on 	0
+3 	lean against 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	turn 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [1, 2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean on 	0
+3 	lean against 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	turn 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	lean against 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	turn 	0.0909090909091
+3 	move 	0.0909090909091
+Prediction with multiple choice option: [2, 3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	lean against 	0
+3 	turn 	0.0909090909091
+Prediction with multiple choice option: [3]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	lean against 	0
+3 	lean on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	move 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [1, 2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean against 	0
+2 	move 	0.0909090909091
+3 	lean on 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	move 	0.0909090909091
+2 	lean against 	0
+3 	lean on 	0
+Prediction with multiple choice option: [1]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	turn 	0.0909090909091
+2 	move 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [1, 2]
+Prediction from restricted choice set: turn
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Candidates in restricted choice set:
+1 	lean on 	0
+2 	move 	0.0909090909091
+3 	lean against 	0
+Prediction with multiple choice option: [2]
+Prediction from restricted choice set: move
+Prediction from unrestricted choice set: turn
+True label: lean against
+
+Choice set restricted:
+      |   F     |
+      |   a   T |
+      |   l   r |
+      |   s   u |
+      |   e   e |
+------+---------+
+False |  <.>  . |
+ True | 314 <22>|
+------+---------+
+(row = reference; col = test)
+
+
+Choice set unrestricted:
+      |   F     |
+      |   a   T |
+      |   l   r |
+      |   s   u |
+      |   e   e |
+------+---------+
+False |  <.>  . |
+ True | 324 <12>|
+------+---------+
+(row = reference; col = test)
+
