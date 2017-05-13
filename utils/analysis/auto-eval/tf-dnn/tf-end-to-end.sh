@@ -1,8 +1,8 @@
 #!/bin/bash
 STARTTIME=$(date +%s)
-for i in {1..3};
+for i in {3..3};
 do
-    for j in {0..9};
+    for j in {6..9};
     do
         for k in {1000,2000,3000,4000,5000}
         do

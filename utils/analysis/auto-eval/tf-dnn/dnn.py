@@ -92,7 +92,7 @@ def main():
     global omit_features
     omit_features = args.omit_features
 
-    slice = 10
+    slice = -1
 
     features_conn = sqlite3.connect(features_db)
     features_cur = features_conn.cursor()
